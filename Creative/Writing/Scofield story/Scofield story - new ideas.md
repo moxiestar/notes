@@ -1,14 +1,16 @@
 # **Plot ideas**
 
-Bill Scofield, once a successful doctor, has relocated to the Pacific Northwest after his life falls apart. His wife Allison and daughter Sara have been killed in a drunk driving accident, where the perpetrator got away. Scofield now lives alone and turns to alcohol to cope, while he works at a small clinic in town.
+Diana Kowalski, a young sergeant at a small-town Pacific Northwest police station, is going through her ex’s stuff after their long-term relationship has fallen apart. A successful businessman, he has cut her off and moved to another city, leaving her to rebuild her life alone. Her high school friend, Katherine, encourages her to date around town, but Diana is uninterested. 
 
-A teenage girl, Olivia Murphy, breaks into the clinic and gets booked at the town jail. Scofield is brought in for a statement, where he bonds with the girl. One of the sergeants, Diana Kowalski, has recently called off an unfulfilling engagement. She becomes interested in Scofield, and they begin having one-night-stands. As Murph continues to get in trouble, Scofield starts to take her under his wing. When Murph is taken into custody after her parents are exposed as violent criminals, Scofield agrees to take her in. They bond over their former lives. After Murph tells Scofield about the abuse she survived at the hands of her stepfather, Scofield plots to kill him, but restrains himself at the last minute.
+Bill Scofield, once a successful doctor, has relocated to the same small town after his life falls apart in the big city. His wife Allison and daughter Sara have been killed in a drunk driving accident, where the perpetrator got away. Scofield now lives alone, works at the town clinic, and turns to alcohol to cope. 
 
-He talks to Diana, who reveals she recently broke off a long-term engagement for no good reason. He tells her about his marriage, and promises to work on his problems, but isn’t sure how he’ll figure it out.
+A teenage girl, Olivia Murphy, breaks into the clinic and gets booked at the town jail. Scofield is brought in for a statement, where he bonds with both Murphy and Diana. Over time, Diana finds herself thinking about Scofield, and they begin having one-night-stands. As Murph continues to get in trouble, Scofield starts to take her under his wing. When Murph is taken into custody after her parents are exposed as violent criminals, Scofield agrees to take her in. They bond over their former lives. After Murph tells Scofield about the abuse she survived at the hands of her family, Scofield hunts down and kills her relatives in revenge. 
 
-After a fight with Scofield, Murph runs away and is officially declared missing. Scofield and Diana mount a search. When they find her, Murph is fraught and upset, confessing that she isn’t sure she can keep living. Scofield takes her back home, and he and Diana care for her.
+He is caught by Diana, who wants to book him for his crimes but doesn’t have the guts. He tells her about his marriage, and promises to work on his problems, but isn’t sure how he’ll figure it out. 
 
-At the end of their first year together, Scofield adopts Murph. They share an ice cream in the clinic parking lot and look forward to their future.
+Back home, Murph runs away and is officially declared missing. Scofield and Diana mount a search. When they find her, Murph is fraught and upset, confessing that she isn’t sure she can keep living. Scofield takes her back home, and he and Diana care for her. 
+
+At the end of their first year together, Scofield adopts Murph. They share an ice cream in the clinic parking lot and look forward to their future. 
 
 # Elements I want to include in this story
 
