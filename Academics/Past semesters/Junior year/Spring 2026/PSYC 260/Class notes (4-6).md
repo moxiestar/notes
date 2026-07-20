@@ -1,0 +1,241 @@
+## Module 4: Self-identity
+**Understanding the self**
+- **Cognitive self:** integration of various social identities 
+- **Self schemas** operate according to cognitive processes
+	- People with more complex and differentiated self schemas tend to be happier and more well-realized
+	- **Differentiation**
+		- Distinction of self schemas
+	- **Complexity of self schemas**
+		- Large number of self schemas
+- **Self awareness**
+	- Self-awareness occurs when self schemas are highly accessible
+	- **Halloween Candy Study (Beaman et al. 1979)**
+		- Bowl of candy placed at door with sign reading “please take one”
+		- Half of the time, a creepy mirror was placed behind the bowl
+		- **No mirror group:** 40% of kids took more than one piece
+		- **Mirror group:** 9% of kids took more than one piece
+		- **Individuation:** increased awareness of self due to isolation
+		- **De-individuation:** lack of awareness of self due to social situations 
+			- Desire to conform can override self schemas
+- **Self-determination theory**
+	- **Three things** determine our interests/hobbies
+		- **Autonomy:** ability to choose our hobbies
+		- **Competence:** ability to perform the hobby
+		- **Relatedness:** relevance to ourselves and our social situation
+	- These overlap with our **motivation**
+		- **Intrinsic motivation:** performing our hobbies for the sake of it 
+			- Performing hobbies consistently without extrinsic motivation makes those hobbies part of our identity 
+		- **Extrinsic motivation:** performing our hobbies for external rewards
+		- **Overjustification effect (Lepper, Greene, & Nisbett, 1973)**
+			- Adding extrinsic motivation and then removing it later lowers intrinsic motivation
+- **Self-perception theory**
+	- **Wells & Petty (1980)**
+		- Participants (college students) were brought in and asked to test new headphones
+		- A message about a tuition increase was played
+		- **Three groups**
+			- Control group stood still
+			- Positive group nodded
+			- Negative group shook their heads
+		- When asked how they felt about the message, the positive group advocated for higher tuition, and the negative group advocated for lower tuition 
+- **Social comparison theory**
+	- Festinger (1954)
+	- We often need others to understand who we are
+		- **Types of social comparisons**
+			- **Upward comparison:** comparing yourself to a better person
+			- **Downward comparison**: comparing yourself to a worse person
+- **Self-regulation**
+	- Inhibition of habits, desires, and temptations to pursue goals
+	- **Delayed gratification study (Mischel, 2014)**
+		- Children were given one marshmallow, but were offered two if they waited a few minutes
+		- Children who were able to wait showed significantly better life outcomes across the board 
+			- Higher academic performance, greater popularity, better health, and greater success in life
+	- **Delayed gratification & culture study (Yanaoaka et al, 2022)**
+		- In the marshmallow test, Japanese children could wait almost 15 minutes, while American kids could only wait about 4 minutes
+		- However, in an equivalent test that used toys instead of food, American children waited 15 minutes and Japanese children only waited 5 minutes
+	- **Desire and attainability (Kruglanski et al, 2002)**
+		- People generally believe that if they desire to accomplish something, they can do so
+	- **Goal striving (Sheeran)**
+		- Commitment alone is not actually sufficient to achieve goals
+		- Implementation intentions (if-then plans) help to achieve goals
+	- **Ego depletion** 
+		- When exhausted, our motivation shifts towards helping ourselves
+- **Self-monitoring**
+	- Self regulation to match situational norms
+		- In other words, the ability to change from situation to situation
+	- **Self-presentation:** self-regulation to attain social goals
+		- i.e., wearing the correct outfit for a social situation
+		- **Self-focused presentations:** appearance, behavior
+		- **Other-focused presentations:** agreement, interest
+		- **Liked vs. respected (Bergsieker, Shelton, & Richeson, 2010)**
+			- Two students were brought in for a conversation
+				- Students could be either white/white, black/black, or black/white
+			- Behaviors were monitored
+				- Ingratiating behaviors: behaviors performed with the goal of being liked
+				- Promoting behaviors: behaviors performed with the goal of being seen as competent 
+			- In interracial situations, white students performed more ingratiating behaviors and black students performed more promoting behaviors
+- **Self-esteem**
+	- Self-esteem is dynamic and influenced by cognitive biases, stressors, and relationships
+	- **Sociometer hypothesis (Leary, 1995)**
+		- Evolved psychological characteristic that tells us how good our social relationships are 
+		- Suggests that self-esteem is a predictor, rather than an outcome
+- **Self-efficacy**
+	- Confidence of success in domain-specific situations
+	- i.e., I am confident that I will succeed when I try to draw something, but not when I try to run
+	- Self-efficacy influences the likelihood of goal adoption and the persistence to accomplish that goal
+
+-------------------------------------------------------------------
+## Module 5: Perceiving others
+**Perception**
+- **Perception of others happens instantly and continuously**
+	- Based on a mix of social characteristics and physical characteristics
+	- When some is part of our **in-group**, we perform **individuation** of others
+	- When some is part of our **out-group**, we perform **categorization** of others
+	- **Own-race bias:** when others are the same race as us, we are better with emotional and facial recognition
+		- Every race and culture demonstrates this bias
+- **Mind perception**
+	- We view others’ minds on a continuum between **agency** and **experience**
+		- Those with **high agency** have **high moral responsibility**
+			- Those who go against that moral responsibility are harshly punished
+			- For example, tall black men are perceived as more agentic than tall white men, so are often punished more harshly in the justice system
+		- Those with **high experience (or vulnerability)** are owed **moral protection**
+			- Others who violate that protection are harshly punished
+- **Emotional perception**
+	- We are biased to quickly recognize negative stimuli
+	- **Facial threat study (Hansen & Hansen, 1988)**
+		- Participants saw an array of nine faces, where eight would be one emotion, and one would be another 
+		- They were asked to identify the outlier as quickly as possible
+		- Angry faces elicited significantly faster reaction times and significantly lower error rates
+	- **Familiar face recognition (Ackerman et al., 2006)**
+		- Participants were shown blurred photographs that slowly became unblurred
+		- Pictures of friends or family were interspersed with stimuli 
+		- Across all faces, angry or negative faces elicited faster recognition times 
+- **Attribution:** assigning causes to behaviors
+	- **Causal attribution:** determining the causes of people’s behaviors
+		- Based on Lewin’s equation: $B = f(P*E)$
+			- **Personal attribution:** determining that the cause of a person’s behavior was internal
+			- **Situational attribution:** determining that the cause of a person’s behavior was external/environmental 
+	- **Covariation principle:** theory that behaviors are more likely to be situationally caused if they differ across situations
+		- Factors that influence our judgments **(Kelley, 1967)**
+			- **Consistency:** does this situation always produce this behavior?
+			- **Distinctiveness:** does this situation produce this behavior while other situations do not?
+			- **Consensus:** are others behaving similarly in this situation?
+		- High ratings on all three lead to higher rates of situational attribution 
+	- **Attributional style:** type of attributions people typically make for their own behavior 
+		- Negative attributional style (external, stable, and global) can lead to learned helplessness
+		- Positive attributional style (external, unstable, and specific) can lead to unrealistic optimism 
+- **Attribution biases**
+	- **Fundamental attribution error:** overestimating the influence of internal factors and underestimating the influence of external factors on a person’s behavior
+		- We have a tendency to make personality attributions regardless of situational factors 
+		- Studies done by Ross (1977); Gilbert & Malone (1993)
+	- **Correspondence bias:** excessively attributing a person’s behaviors to internal causes
+	- **Actor-observer bias:** tendency to think that others are responsible for their behaviors, but that our behaviors are caused by the situation
+	- **Trait ascription bias:** tendency to view our own behaviors as more variable than those of others
+	- **Group-serving bias:** actor-observer bias, but on a group scale
+	- **Personal attribution:** determining that the cause of a person’s behavior was internal making assumptions about a group’s behavior based on a small sample
+- **Person perception:** process of learning about other people
+	- Often performed within the prefrontal cortex
+	- **Primacy effect:** tendency to be biased towards information that we learn earlier
+		- **Asch (1946)**
+			- Participants saw a series of traits in different orders before rating the person as a possible friend
+			- One group saw positive traits first, while another group saw negative traits first
+			- The positive-first group’s ratings were much higher than the negative-first group
+		- **Ambady & Rosenthal (1993)**
+			- Participants rated professors across fifteen personality traits after seeing varying amounts of their behavior
+			- One group saw a thirty-second video before evaluation
+			- Another group observed their behavior across a semester before evaluation
+			- Both groups had incredibly similar evaluations, indicating that our first impressions last over time
+	- **Recency effect:** tendency to be biased towards information that we learn later
+	- **Halo effect:** overall positive influence of a good first impression
+	- **Thin slicing:** making a judgement about another person based on a small amount of information
+- **Nonverbal behavior:** type of communication that does not involve speaking
+- **Personal differences**
+	- **Entity theorists:** people who believe behaviors and personalities are fundamentally fixed
+	- **Incremental theorists:** people who believe behaviors and personalities naturally change 
+- **Mental averaging (Mills, 2007)**
+	- Tendency to quickly average another’s traits to make a judgement
+
+-------------------------------------------------------------------
+## Module 6: Conformity
+**Key definitions**
+- **Social influence:** effect of others on our own feelings and behaviors
+	- **Informational social influence:** change in beliefs and behaviors based on information from a reliable source, especially when we lack information 
+		- Often the result of social comparison
+		- Can lead to private acceptance (change in behavior and opinion)
+		- **Case study: Sherif (1936)**
+			- Participants stared at a red dot as long as they could, experiencing the auto-kinetic effect
+			- When they estimated the amount of movement, their results quickly conformed 
+		- **Case study: Asch (1952)**
+			- Participants had to match two lines of the same length
+			- Confederates went ahead of the participants and all gave an incorrect answer
+			- Participants (76%) then also gave an incorrect answer 
+		- **Case study: Franzen & Mader (2023)**
+			- Similar setup, but focused on politics
+	- **Normative social influence:** change in beliefs and behaviors with the goal of avoiding rejection or isolation
+		- Can lead to public acceptance (change in behavior, but not in opinion)
+		- **Case study: Moscovici (1969)**
+			- Four participants and two confederates were shown a swatch of color
+			- When the confederates consistently gave an incorrect answer, rates of conformity from the participants skyrocketed
+		- **Case study: Darley & Latane (1968)**
+			- Participants sat in a room that was filling with smoke while completing a survey 
+			- Researchers measured how long it took participants to leave the room a) when alone and b) when with others who are not leaving
+			- When alone, people left within thirty seconds, but with others, people stayed for fifteen minutes
+- **Conformity:** change in beliefs and behaviors as a result of social norms
+	- **Majority influence:** popularity of majority-held beliefs
+		- **Social impact:** increase of conformity after new members join the majority group
+	- **Minority influence:** popularity of minority-held beliefs
+- **Moderators of conformity**
+	- **Environmental moderators of conformity**
+		- Unanimity of group 
+		- Size of group (ideally between 5-6)
+		- Cohesion of group (the closer the better)
+		- Likability of group 
+	- **Personal moderators of conformity**
+		- Arousal
+		- Confusion
+		- Deindividuation 
+	- **Task-based moderators of conformity**
+		- Task difficulty
+		- Task importance
+		- Rewards
+	- **Case study: Baron, Vandello, & Brunsman (1996)**
+		- Participants were asked to match drawings based on poses
+		- Confederates gave incorrect answers before participants answered
+		- When task difficulty or rewards were higher, conformity from participants was much lower
+- **Obedience to authority**
+	- **Case study: Milgram (1963)**
+		- Participants were asked to shock a confederate in another room when they incorrectly answered questions
+			- Level of electricity would increase with each shock
+			- Confederates were not actually being shocked, but screamed as if they were
+		- An experimenter watched the participant and urged them to continue administering the shock
+		- 65% of participants administered lethal levels of electricity
+	- **Case study: Hofling (1966)**
+		- Nurses in a hospital were asked by an experimenter to fill a lethal prescription 
+		- 95% of participants complied
+	- **Case study: Sheridan & King (1972)**
+		- Replication of Milgram (1963) with puppies instead of participants
+		- 77% of participants administered the highest levels of electricity
+- **Social power:** a person’s ability to induce conformity 
+	- **Normative powers**
+		- **Reward power:** ability to deliver positive or negative rewards
+		- **Coercive power:** ability to enact punishments
+	- **Informational powers**
+		- **Legitimate power:** authority resulting from perceived competency
+		- **Referent power:** authority resulting from perceived similarity to audience
+		- **Expert power:** authority resulting from perceived expertise 
+- **Leadership:** ability to lead others
+	- **Types of leaders**
+		- **Charismatic leaders:** those who appeal to their audience based on their personality or charm
+		- **Transactional leaders:** those who appeal to their audience based on their practicality and ability to get things done
+		- **Transformational leaders:** those who appeal to their audience based on promises to transform society
+	- **Contingency model of leadership effectiveness**
+		- **Three key aspects that influence a leader’s efficacy**
+			- Relationship between leader and audience
+			- Structure of task/directive at hand
+			- Level of power
+	- **Case study: Akinola & Mendes (2013)**
+		- Participants were assigned to either low- or high-power positions
+		- Those in low-power positions showed significantly lower adaptability than those in high-power positions
+	- **Case study: Zimbardo (1971)**
+		- Known as the Stanford Prison Study
+		- Participants were randomly assigned to prisoner or guard roles, then kept in an underground prison 
+		- The study was supposed to last two weeks, but only lasted six days, after chaos erupted between guards and prisoners

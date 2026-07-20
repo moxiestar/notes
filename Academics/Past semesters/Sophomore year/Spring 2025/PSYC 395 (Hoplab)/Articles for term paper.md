@@ -1,0 +1,400 @@
+***A bilateral SPCN is elicited by to-be-memorized visual stimuli displayed along the vertical midline*** 
+- Link: [[Chen 2022.pdf]]
+- Background:
+	- N2pc definition: The N2pc is a negative ERP component that typically appears around 200-300ms after stimulation. It appears in the parietal and occipital areas of the brain, always contralateral to the visual stimulus. In electroencephalographic recordings, it is measured by the PO7 and PO8 electrodes. Stimuli in the lower visual field elicit a significantly stronger N2pc than stimuli in the upper visual field. The “source” of the N2pc is found in the extrastriate cortex. 
+	- SPCN definition: The sustained posterior contralateral negativity (SPCN) is a negative deflection observed, like the N2pc, in the parietal and occipital areas. Also like the N2pc, it is evoked in the hemisphere contralateral to the stimulus. The SPCN is commonly measured in research on visual working memory. It appears later and lasts longer than the N2pc, and, notably, its amplitude is positively correlated with the number of visual stimuli. The “source” of the SPCN is found in the parietal cortex. 
+	- Vertical midline definition: line separating the left and right halves of the screen in an experiment
+	- Previous key studies: Hopfinger, Wojcik, Holmes
+- Aims: 
+	- Bilateral SPCN and N2pc components have been evoked by stimuli on the vertical midline. This study, in experiments 1C and 2C, sought to compare the effects of stimuli on the vertical midline and stimuli on the horizontal midline.
+	- Research has compared the N2pc responses to stimuli on the vertical and horizontal midlines, but no research has been done on the equivalent SPCN responses. 
+- Hypotheses: 
+	- Bilateral SPCN and N2pc will be seen in response to lateral stimuli & stimuli on the vertical midline
+	- There will be an overlap between SPCN and N2pc responses to similar stimuli
+	- The SPCN, like the N2pc, will show a greater response to stimuli in the lower visual field
+- Methods:
+	- Participants: 
+		- 19 university students 
+		- Within-subjects design
+		- 10 blocks of 96 trials each
+	- Main experiments: 
+		- Stimuli (notched green or blue squares) appeared on a black background
+			- Each participant would be given a target color (either blue or green) that remained constant throughout the experiment
+		- Stimuli could be either on the vertical or horizontal midline
+		- After a fixation image, stimuli could then reappear, as well as a circle of white notched squares
+		- Participants were tasked with memorizing the location of the notches 
+			- In experiment 1C, there was 1 target present on screen
+			- In experiment 2C, there were 2 targets present on screen
+		- Participants pressed L (present) or A (absent) to indicate whether the target was present or not
+		- Sequence:
+			- Fixation appears for 500-800ms
+			- Stimuli, including target, appear for 200ms
+			- Fixation appears for 1000ms
+			- Circle of stimuli, possibly including target, appear for 2000ms
+			- Repeat
+	- EEG analysis:
+		- 10-10 system
+		- Electrodes of interest: PO7, PO8
+		- Artifact detection: 200ms sliding window peak-to-peak analysis
+		- Bandpass filter from 0.01Hz to 30Hz
+- Statistical results:
+	- 2 x 2 ANOVA (mean response times): memory load (1C, 2C) x target position (lateral, midline)
+		- Response times were shorter in 1C than in 2C
+		- Responses were more accurate in 1C
+		- Responses were more accurate with lateral stimuli as opposed to midline stimuli
+		- Interaction between target position and memory load was significant
+	- 2 x 2 ANOVA (SPCN amplitude): memory load (1C, 2C) x target position (lateral, midline)
+		- Main effect of memory load
+		- Bayes factors showed that the SPCN and SPCNb were statistically equivalent
+	- 2 x 2 ANOVA (N2pc amplitude): memory load (1C, 2C) x target position (lateral, midline)
+		- Interaction effect between memory load and target position
+		- Amplitude of N2pcb was greater than N2pc in 2C
+	- 2 x 2 ANOVA (N2pcb & SPCNb amplitude): visual field (upper, lower) x component (SPCNb, N2pcb)
+		- Larger amplitude was seen in response to stimuli in the lower visual field 
+		- Interaction effect between component and visual field
+- Main findings:
+	- Hypotheses were confirmed 
+	- SPCN and SPCNb were amplified as the number of cues increased
+	- N2pcb was amplified in response to cues in the lower visual field
+- Citation: Chen, Y., Brigadoi, S., Schiano Lomoriello, A., Jolicœur, P., Simal, A., Fu, S., Baro, V., & Dell’Acqua, R. (2022). A bilateral SPCN is elicited by to-be-memorized visual stimuli displayed along the vertical midline. _Psychophysiology_, _59_(8), e14045. [https://doi.org/10.1111/psyp.14045](https://doi.org/10.1111/psyp.14045)
+- Task:
+![[Screenshot 2025-02-28 at 10.11.11 PM.png]]
+- EEG map:
+![[Screenshot 2025-02-28 at 10.32.20 PM.png]]
+![[Screenshot 2025-03-14 at 4.23.39 PM.png]]
+![[Screenshot 2025-03-14 at 4.24.18 PM.png]]
+![[Screenshot 2025-03-14 at 4.24.57 PM.png]]
+
+-------------------------------------------------------------------
+
+***The Focus of Attention in Visual Working Memory: Protection of Focused Representations and Its Individual Variation*** 
+- Link: [[Heuer 2016.pdf]]
+- Hypotheses: defocused items can become refocused and recalled if they become relevant again later
+- Methods:
+	- Participants: 
+		- 17 university students
+		- Within-subjects design
+		- 896 total trials: 28 blocks of 32 trials each
+	- Main experiments:
+		- Stimuli (randomly colored squares) appeared on a grey background
+		- Eight randomly colored squares would appear on a grey background
+		- 2 retrocues appear
+		- One square (either one of the colors from the original set of squares, or a different color) would appear on a grey a background
+		- Participants had to respond, indicating whether the square was a color match or not, with a keypad
+	- EEG analysis:
+		- 10-20 system
+		- Electrodes of interest: PO3, PO4, PO7, PO8
+		- Artifact rejection
+		- Low pass of 0.016Hz and high pass of 250Hz
+- Main findings:
+	- Hypothesis was confirmed
+	- SPCN and N2pc were amplified after each cue in the task
+	- Performance for defocused items is worse than performance for continually focused items
+	- “Individual efficiency of attentional orienting within VWM was related to the magnitude of the retrocueing benefit” - what does this mean? I know it’s important
+- Citation: Heuer, A., & Schubö, A. (2016). The Focus of Attention in Visual Working Memory: Protection of Focused Representations and Its Individual Variation. _PLOS ONE_, _11_(4), e0154228. [https://doi.org/10.1371/journal.pone.0154228](https://doi.org/10.1371/journal.pone.0154228)
+- Task:
+![[Screenshot 2025-02-28 at 11.03.37 PM.png]]
+- EEG results:
+![[Screenshot 2025-02-28 at 11.02.32 PM.png]]
+
+-------------------------------------------------------------------
+
+***Electrophysiological evidence for greater attention to threat when cognitive control resources are depleted***
+- Link: [[Holmes 2014.pdf]]
+- Hypotheses: greater WM load is correlated with increased lateral responses to threatening faces
+- Methods:
+	- Participants:
+		- 22 volunteers
+		- Within-subjects design
+	- Main experiments:
+		- Visual probe task:
+			- Stimuli (faces from NimStim) appeared on a grey background
+			- Two pictures of the same person would appear at the same time, one angry and one neutral
+		- Memory task:
+			- Digits (0,1,2,3,4 in varying order) appeared on a black background
+			- Under low WM load, the digits always appeared as 01234
+			- Under higher load, the digits appeared in random order
+		- Larger experiment:
+			- Memory sets (digits) were interrupted by fixation and 2-4 visual probes 
+			- A certain digit would then appear and participants would have to answer which digit followed it
+	- EEG analysis:
+		- 10-20 system
+		- Electrodes of interest: P7, PO7, P8, PO8
+		- Artifact rejection
+		- Low pass of 40Hz
+- Main findings:
+	- Hypothesis was confirmed
+	- Threatening cues have more potency when WM is strained or depleted
+	- Enhanced contralateral negativity in N2pc in response to threatening faces 
+- Citation: Holmes, A., Mogg, K., de Fockert, J., Nielsen, M. K., & Bradley, B. P. (2014). Electrophysiological evidence for greater attention to threat when cognitive control resources are depleted. _Cognitive, Affective, & Behavioral Neuroscience_, _14_(2), 827–835. [https://doi.org/10.3758/s13415-013-0212-4](https://doi.org/10.3758/s13415-013-0212-4)
+- Task:
+![[Screenshot 2025-02-28 at 11.46.49 PM.png]]
+
+-------------------------------------------------------------------
+
+***Differential engagement of attention and visual working memory in the representation and evaluation of the number of relevant targets and their spatial relations: Evidence from the N2pc and SPCN***
+- Link: [[Maheux 2017.pdf]]
+- Hypotheses: WM and attention are more involved in more complex tasks
+- Methods:
+	- Participants:
+		- 34 university students
+		- Between-subjects design
+		- 256 total trials
+	- Main experiments:
+		- Stimuli (“digital number 8”) appeared in a circle on a black background
+		- 6 frames of stimuli were presented
+		- Certain number of the stimuli would be colored:
+			- 1 stimulus could be colored (blue or green)
+			- 2 stimuli could be the same color (blue or green)
+			- 2 stimuli could be different colors (blue or green)
+		- Participants responded with C, V, B, or N to indicate how many colored stimuli they saw across the past 6 frames (C=0, V=2, B=4, N=6)
+		- C task: participants had to count the total number of stimuli across the 6 frames
+		- SR task: if 1 blue stimulus and 1 green stimulus appeared in the frame, participants had to identify the spacial relation of the stimuli
+	- EEG analysis:
+		- 10-10 system
+		- Electrodes of interest: PO3, PO4, P7, PO7, P8, PO8, O1, O2
+		- Bandpass filtering from 0.05Hz to 30Hz
+- Main findings:
+	- Hypothesis was confirmed
+	- The more stimuli were presented, the greater the N2pc deflection
+	- Within the C task, SPCN was greater when 2 colored stimuli were present
+	- In the SR task, SPCN was greater for 2 different-colored stimuli than 2 stimuli of the same color
+- Citation: Maheux, M., & Jolicœur, P. (2017). Differential engagement of attention and visual working memory in the representation and evaluation of the number of relevant targets and their spatial relations: Evidence from the N2pc and SPCN. _Biological Psychology_, _125_, 28–35. [https://doi.org/10.1016/j.biopsycho.2017.01.011](https://doi.org/10.1016/j.biopsycho.2017.01.011)
+- Task:
+![[Screenshot 2025-03-01 at 12.28.14 AM.png]]
+- EEG map:
+![[Screenshot 2025-03-01 at 12.25.46 AM.png]]
+
+-------------------------------------------------------------------
+
+***Attending to emotional expressions: no evidence for automatic capture in the dot-probe task***
+- Link: [[Puls 2018.pdf]]
+- Hypotheses: emotions do not automatically capture attention
+- Methods:
+	- Participants:
+		- 287 university students
+		- Within- and between-subjects design
+	- Main experiments:
+		- 7 different experiments contained a variety of different stimuli (neutral, angry, happy, and fearful faces)
+		- Participants responded to the orientation or shape of two small targets
+		- Typical dot probe task - stimuli appeared on either side of a fixation cross and were followed by a target on one side of the screen
+- Main findings:
+	- Hypothesis was confirmed
+	- Attention was not captured by any of the emotional stimuli
+- Notes:
+	- No EEG analysis
+	- This could be a good counterargument 
+- Citation: Puls, S., & Rothermund, K. (2018). Attending to emotional expressions: No evidence for automatic capture in the dot-probe task. _Cognition and Emotion_, _32_(3), 450–463. [https://doi.org/10.1080/02699931.2017.1314932](https://doi.org/10.1080/02699931.2017.1314932)
+- Task summaries:
+![[Screenshot 2025-03-01 at 12.52.21 AM.png]]
+
+-------------------------------------------------------------------
+
+***Effects of top-down and bottom-up attention on post-selection posterior contralateral negativity***
+- Link: [[Rashal 2023.pdf]]
+- Background:
+	- N2pc definition: The N2pc is a negative ERP component that typically appears around 200-300ms after stimulation. It appears in the parietal and occipital areas of the brain, always contralateral to the visual stimulus. In electroencephalographic recordings, it is measured by the PO7 and PO8 electrodes. Stimuli in the lower visual field elicit a significantly stronger N2pc than stimuli in the upper visual field
+	- SPCN definition: The sustained posterior contralateral negativity (SPCN) is a negative deflection observed in the parietal and occipital areas. It appears at around 400ms in the hemisphere contralateral to the stimulus. In EEG recordings, it is strongest around electrodes PO7 and PO8. The SPCN is commonly measured in research on visual working memory. Notably, its amplitude is positively correlated with the number of visual stimuli ([[Chen 2022.pdf]])
+	- RLpcN definition: The response-locked posterior contralateral negativity (RLpcN) has been recently studied in relation to visual attention. It appears around -400ms, after the participant has seen the stimulus and as they prepare their response. RLpcN duration directly reflects response times, and often occurs concurrently with the SPCN
+	- Previous articles: Hopfinger, Holmes, Wojcik, Drisdelle & Jolicoeur (2019), Rashal (2022)
+		- **Rashal (2022):** 
+			- Summary: Study was almost identical to this one, but measured N2pc and SPCN instead of RLpcN. Effects of cues and salient distractors were shown. Hypothesized that attention is affected by top-down cueing
+			- Hypotheses: A salient distractor with a neutral cue will have the greatest effect on Pd. Differences in N2pc and Pd between Experiment 1 and 2 are expected, due to varying task difficulty. In Experiment 1, they predict that a Pd will appear after a salient distractor, whereas an N2pc should appear after a salient distractor in Experiment 2. 
+			- Methods:
+				- Participants: n = 39 (21 in 1, 18 in 2)
+				- Experiments: Same designs as 2023 study, but no time difference between Experiment 1 and 2
+				- EEG analysis: 10-10 system, high pass of 0.1 Hz, ICA, semi-automatic
+			- Results:
+				- Experiment 1:
+					- Graphs: [[Rashal 2022.pdf]] - pages 7-9
+					- ANOVA confirmed their hypothesis that salient targets are more beneficial
+					- ANOVA confirmed their main hypothesis, that salient distractors have a greater effect
+					- Large N2pc after neutral cues + salient-target & no-distractor (significance for cues + lateral-target & no-distractor), but not after valid cues
+					- No significance for target salience or salient distractors
+					- Significant Pd after neutral cues, but not valid. Smaller Pd following valid cues
+					- Cueing and N2pc - reflects switching attention. See notes below
+				- Experiment 2:
+					- Graphs: [[Rashal 2022.pdf]] - pages 12-14
+					- Large effect of cue on accuracy
+					- Hypothesis with salient distractors: significant effect of cue on accuracy + responses were seen to be slower and less accurate after salient distractors
+					- Higher accuracy with a neutral cue and a salient target, but no significant results for valid cues
+					- Task difficulty had a sizable effect on accuracy, but not response time
+					- CNV was seen with both neutral and valid cues
+					- N2pc was seen with all targets following a valid cue and only with salient targets (makes sense since they quickly grab attention) following a neutral cue
+					- Pd was again observed after neutral cues but not valid
+			- Citation: Rashal, E., Senoussi, M., Santandrea, E., Ben-Hamed, S., Macaluso, E., Chelazzi, L., & Boehler, C. N. (2022). An EEG study of the combined effects of top-down and bottom-up attentional selection under varying task difficulty. _Psychophysiology_, _59_(6), e14002. https://doi.org/10.1111/psyp.14002
+		- **Drisdelle & Jolicoeur (2019)**: 
+			- Summary: Measured N2pc, SPCN, and RLpcN. Showed that RLpcN variance is correlated with attention, processing, and response time
+			- Hypotheses: With shorter response times, N2pc amplitude should be larger and onset latency should be earlier. With longer response times, the RLpcN should begin earlier. SPCN and RLpcN should behave the same
+			- Methods: 
+				- Participants: n = 154 (some from previous studies)
+				- Experiments: 
+					- Graph on page 4
+					- Typical visual search task with colored, notched squares (target either green or orange - orange is more frequent. Non-target squares are blue), two squares on the left of fixation and two on the right
+					- In control trials, all squares were orange, and participants did not respond
+					- In experimental (target discrimination) trials, participants responded based on the location of the notch on the square. If the notch was on the top (), they responded with M; if it was on any other side, they responded with C
+					- Participants received feedback
+				- EEG analysis: 10-10 system (PO7/PO8 of interest), High pass of 0.01 Hz, low pass of 30 Hz, ICA
+			- Results: 
+				- N2pc was larger after side-responses, targets closer to fixation, and shorter response times
+				- SPCN occurred earlier, and its amplitude was greater, after top-responses. Its amplitude was much larger after targets closer to fixation. It also occurred earlier during fast trials
+				- RLpcN was larger after top-responses and targets closer to fixation. Its onset correlated with response
+				- Variance in onset of RLpcN is key part of the relationship between stimulus- and response-locked activity
+				- **RLpcN could encompass both the N2pc and SPCN** (page 12)
+			- Key findings: 
+			- Citation: Drisdelle, B. L., & Jolicœur, P. (2019). Stimulus- and Response-locked Posterior Contralateral Negativity Bisect Cognitive Operations in Visual Search. _Journal of Cognitive Neuroscience_, _31_(4), 574–591. https://doi.org/10.1162/jocn_a_01364
+	- Top-down attention: participants search a stimulus for a specific detail
+	- Bottom-up attention: participants search a stimulus based on its salience
+- Aims:
+	- Aim was to study visual working memory, post-selection processes, and top-down/bottom-up attention by analyzing SPCN and RLpcN. To do this, they used a visual search task with varying levels of complexity to measure the effects of task difficulty on SPCN and RLpcN
+	- Previous study by Rashal et al compared the effect of task difficulty on N2pc and CNV
+	- This study aims to focus on the post-selection process (SPCN & RLpcN) instead of attentional selection (N2pc)
+	- Comparing RLpcN waveforms across Experiment 1 and 2: the RLpcN has two parts, the first (RLpcN1) correlated with search difficulty and the second (RLpcN2) correlated with response preparation and selection. Since Experiment 2 is more complex than Experiment 1, RLpcN1 (the difficulty segment) should be more negative in Experiment 2 - ==**note the splitting of the RLpcN into two segments seems arbitrary**
+	- SPCN is also correlated with search difficulty, as well as visual working memory, it should be more pronounced in Experiment 2
+	- Studying cue manipulation of top-down attentional control - this may affect RLpcN1
+- Hypotheses: 
+	- In visual search tasks, both the SPCN and RLpcN will be affected by task difficulty and target salience
+	- SPCN and RLpcN1 will be more negative and pronounced in Experiment 2 due to greater task difficulty
+	- The salient distractor should not have an effect on SPCN or RLpcN amplitude, though it has been shown to affect N2pc amplitude - this could be due to changes in the order of the experiment
+	- There should be an interaction effect between target salience and task difficulty on SPCN and RLpcN2. This effect should be larger in Experiment 2
+- Methods:
+	- Participants:
+		- 38 volunteers: 21 in Experiment 1 (mean age = 22.44), 17 in Experiment 2 (mean age = 23.43)
+		- Between-subjects design
+		- 1,152 total trials: 10 trials of practice and 12 blocks of 96 experimental trials
+	- Main experiments:
+		- General setup:
+			- Stimuli (4 bars, either green or red, 3 of the same color and 1 outlier) appeared at various orientations on a grey background
+		- Conditions:
+			- Salient-target condition: target bar is a different color than the three distractors 
+			- No-distractor condition: all bars are the same color
+			- Lateral-target condition: one distractor bar is a different color and appeared on the vertical midline, and the target (the same color as the other two bars) appeared on the lateral midline
+			- Vertical/midline-target condition: one distractor bar is a different color and appeared on the lateral midline, and the target (the same color as the other two bars) appeared on the vertical midline - ==**not used because the target was on the vertical midline**
+		- Cues:
+			- Before stimuli appeared, a diamond would briefly be presented around the fixation cross
+			- Neutral cue: magenta diamond
+			- Valid cues: magenta diamonds with one cyan corner
+			- 75% of valid cues were on the lateral midline; 25% were on the vertical midline - this is because the first 3 conditions have the target on the lateral midline and only the last 1 has the target on the vertical midline
+		- Experiment 1:
+			- Participants responded to indicate the rotation of the target (M for clockwise/right and Z for counterclockwise/left
+			- Target is always 20º
+			- Other bars are horizontal or vertical
+		- Experiment 2:
+			- Target was orientated diagonally (20 degrees), as were the three other bars (25 degrees)
+			- Participants responded to indicate the location of the gap on the target (M for top and Z for bottom)
+			- ==**DIFFERENCE IN FIXATION TIME - much shorter in Experiment 2 - confound?**
+		- Sequence:
+			- Cue appears (480ms)
+			- Fixation appears for cue-target interval (1300-1500ms)
+			- Stimuli appears (300ms)
+			- Responses are recorded for 1500ms
+			- Fixation appears ==**(1000-1200ms in Experiment 1; 100-300ms in Experiment 2)**
+			- Repeat
+		- Response:
+			- Experiment 1: Participants responded to indicate the rotation of the target (M for clockwise/right and Z for counterclockwise/left)
+			- Experiment 2: Participants responded to indicate the location of the gap on the target (M for top and Z for bottom)
+			- Eye movements were monitored
+	- EEG analysis:
+		- 10-10 system
+		- Electrodes of interest: PO7, PO8
+		- High pass of 0.1 Hz
+		- ICA analysis to remove artifacts
+		- Semi-automatic artifact rejection 
+		- Trials rejected: 6% in Experiment 1 and 11% in Experiment 2
+		- SPCN analysis: epochs from -200 to 800ms, measured from 350 to 700ms after stimulus presentation
+		- RLpcN analysis: epochs from - 1000 to 2000ms, measured in two segments of 300ms each
+- Statistical results:
+	- SPCN:
+		- Mixed ANOVA:
+			- Within-subjects factors: search display (lateral-target, no-distractor, salient-target) x cue (valid, neutral)
+			- Between subjects factor: experiment (1, 2)
+			- Significant main effect of experiment (p = 0.01)
+		- Mixed ANOVA:
+			- Within-subjects factor: search display (no-distractor, salient-target)
+			- Between-subjects factor: experiment (1, 2)
+			- Significant main effect of experiment (p = 0.005)
+	- RLpcN:
+		- Mixed ANOVA:
+			- Within-subjects factors: segment (first, second) x search display (lateral-target, no-distractor, salient-target) x cue (valid, neutral)
+			- Between-subjects factor: experiment (1, 2)
+			- Significant main effects of experiment (p = 0.006) and segment (p < 0.0001)
+			- Interaction effects between experiment and segment, experiment and search display, segment and search display, & experiment, segment, and search display
+		- Mixed ANOVA:
+			- Within-subjects factor: search display (no-distractor, salient-target)
+			- Between-subjects factor: experiment (1, 2)
+			- Main effects of experiment (p = 0.0009) and search display (p = 0.03)
+			- Interaction effect between experiment and search display (p = 0.006)
+		- rm-ANOVA: search display x segment 
+			- Experiment 1:
+				- No significant effects
+				- RLpcN2 was more negative than RLpcN1
+			- Experiment 2:
+				- Main effect of segment (p = 0.0001)
+				- Interaction effect between segment and search display (p < 0.0001)
+- Main findings:
+	- Hypotheses were confirmed
+	- SPCN:
+		- Minimal lateralization (trend towards significance) seen in certain conditions in Experiment 1, but significant lateralization was seen in all conditions in Experiment 2, confirming that SPCN is affected by task difficulty
+		- SPCN area was larger for salient-target condition in Experiment 2 (see SPCN results below)
+	- RLpcN1:
+		- Significant lateralization seen in certain conditions (lateral-target & no distracter + neutral cue) in Experiment 1
+		- Significant lateralization seen in certain conditions (lateral-target & salient-target + neutral cue) in Experiment 2
+	- RLpcN2:
+		- Significant lateralization seen in certain conditions (lateral-target & no distracter + neutral cue) in Experiment 1
+		- Significant lateralization seen in all conditions following a valid cue in Experiment 2, as well as other certain conditions (salient-target & no distracter + neutral cue)
+		- Area was larger in Experiment 2 (see RLpcN results below)
+- Discussion:
+	- ==**Major issues: Are these really different components? Huge time difference between fixation in Experiment 1 and 2 - could this be a compound? Could it be worth studying the RLpcN and the SPCN together?**
+	- Aim was to study visual working memory, post-selection processes, and top-down/bottom-up attention by analyzing SPCN and RLpcN
+	- Experiment 2, which was more difficult and complex, had a strong effect on SPCN and RLpcN2
+	- RLpcN1 was effected by salient distractors (differently colored distractor bars) and RLpcN2 was effected by target salience (differently colored target bar)
+	- Larger SPCN and RLpcN2 area in Experiment 2 in response to the more difficult task
+	- Cues had little to no effect on RLpcN or SPCN. In Rashal 2022, an effect of cues on the N2pc was seen, but this is probably because the N2pc reflects attentional direction. A valid cue would fix the subject’s attention on the correct target, making the N2pc less pronounced, while a neutral cue would leave the subject without a target for attention, causing them to search the screen for the target - this switching of attention would be reflected in the N2pc
+	- Salient distractors had no effect on SPCN or RLpcN2
+	- Search display did not have an effect on RLpcN in Experiment 1, but there was an effect of target salience on RLpcN2 in Experiment 2
+	- RLpcN is better-suited to studying post-selection processes
+- Citation: Rashal, E., Santandrea, E., Ben-Hamed, S., Macaluso, E., Chelazzi, L., & Boehler, C. N. (2023). Effects of top-down and bottom-up attention on post-selection posterior contralateral negativity. _Attention, Perception, & Psychophysics_, _85_(3), 705–717. [https://doi.org/10.3758/s13414-022-02636-7](https://doi.org/10.3758/s13414-022-02636-7)
+- Task: ![[Screenshot 2025-03-01 at 1.05.41 AM.png]]
+- Data from Rashal 2022: ![[Screenshot 2025-03-15 at 2.43.43 PM.png]]
+- SPCN results:![[Screenshot 2025-03-15 at 2.53.21 PM.png]]
+- RLpcN results:![[Screenshot 2025-03-15 at 2.53.41 PM.png]]
+
+-------------------------------------------------------------------
+
+***Self-face Captures, Holds, and Biases Attention***
+- Link: [[Wójcik 2018.pdf]]
+- Hypotheses: “self-face” stimuli will elicit SPCN and N2pc
+- Methods:
+	- Participants:
+		- 21 volunteers
+		- Within-subjects design
+	- Main experiments:
+		- 2 facial stimuli were presented on either side of a fixation cross on a black background
+		- Facial stimuli could be either a self-face and an other-face, or 2 other-faces
+		- Stimuli were followed by a target (asterisk) on one side of the fixation cross
+		- The asterisk could appear either on the same side as the self-face, the opposite side from the self-face, or either side following 2 other faces
+		- Experiment 1:
+			- Facial stimuli were followed by a black screen, then the target
+		- Experiment 2:
+			- Stimuli were followed directly by the target, with no black fixation screen in between
+	- EEG analysis:
+		- 10-20 system
+		- Electrodes of interest: PO7, PO8
+		- Artifact rejection
+- Main findings:
+	- Hypothesis was confirmed
+	- Experiment 1:
+		- For N2pc, more negative deflections were shown for a) contralateral stimulus-target presentation and b) shorter stimulus presentation times
+		- SPCN was only seen at the longer stimulus presentation times, indicating attentional hold
+	- Experiment 2:
+		- More negative N2pc was found in response to contralateral stimulus-target presentation
+	- Self-face stimuli elicited a strong N2pc in both experiments
+- Citation: Wójcik, M. J., Nowicka, M. M., Kotlewska, I., & Nowicka, A. (2018). Self-face Captures, Holds, and Biases Attention. _Frontiers in Psychology_, _8_. [https://doi.org/10.3389/fpsyg.2017.02371](https://doi.org/10.3389/fpsyg.2017.02371) 
+- Task (Experiment 1): 
+![[Screenshot 2025-03-01 at 1.25.54 AM.png]]
+- Task (Experiment 2):
+![[Screenshot 2025-03-01 at 1.26.17 AM.png]]
+- EEG results (Experiment 1):
+![[Screenshot 2025-03-01 at 1.26.54 AM.png]]
+- EEG results (Experiment 2):
+![[Screenshot 2025-03-01 at 1.27.26 AM.png]]

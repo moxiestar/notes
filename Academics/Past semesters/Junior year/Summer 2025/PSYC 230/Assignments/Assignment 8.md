@@ -1,0 +1,15 @@
+## Rubric
+**Length**: 1 pages (**200-400 words**)
+**Format:** 12pt Times New Roman Font, Double-spaced. Submit as a PDF
+**Prompt:** 
+1. What is the mental lexicon and how is it thought to be arranged? Come up with 2 examples of words that might be connected in your lexicon.
+2. What is speech segmentation and why is it a problem? What are some of the factors that help us achieve speech segmentation?
+3. What are the two ways that we assess meaning of ambiguous words? Can you think of an example of an ambiguous word?
+
+
+-------------------------------------------------------------------
+
+## Draft
+The capacity to remember words and their meanings is critical for engaging with our world. Each speaker of a language (including languages like braille and sign) has their own mental lexicon, a cognitive dictionary of known words, their meanings, their sounds, and their usages. Within the mental lexicon, words are thought to be arranged based on relevance, so words found in similar settings might be more closely linked than words that would never overlap. For me, “experiment” and “task” are probably stored close together, since many psychology experiments are also referred to as tasks, including the one I’ve been working on for the past few months. 
+Speech segmentation is the ability to tell when one sentence ends and another begins. It is a form of auditory top-down processing, and it allows us to understand the flow of meaning throughout a narrative, whether that be a conversation, a lecture, or a movie. While it is incredibly helpful for familiar languages, the lack of speech segmentation bars us from understanding unknown languages. As an example, I speak (or at least understand) three languages: English, Russian, and French. When someone in the Brain Games episode we watched claimed that the female accomplice was speaking Russian, I knew they were wrong. My speech segmentation is pretty good for Russian, but I could not understand what the woman was saying, nor when her sentences began and ended, so I was confident she was not speaking Russian. Speech segmentation is difficult to improve, but by learning a language and, in particular, listening to spoken language, we can increase our abilities. 
+Because one word can have many different meanings and pronunciations, especially in English, our mental lexicons use meaning dominance to determine the most relevant definition. Meaning dominance relies on probability and situational cues to correctly choose between multiple meanings for a given word. The word “cardinal” is typically associated with the red songbird, but for a member of the Catholic Church, the religious meaning might come to mind instead. Even a word as simple as “blue” has multiple meanings - a color in between red and purple, or a depressive slump. There are two types of meaning dominance: balance dominance, where the various meanings of a word are equally frequent, and biased dominance, where one meaning of a word is much more frequent than the others. Though the world of language is complex and often overwhelming, our brains have developed to navigate that world. 

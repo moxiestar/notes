@@ -1,0 +1,17 @@
+## **Redesign game interface**
+- Each player gets their own “computer” with a set filesystem
+	- Computer setup can be customized (wallpaper can be changed)
+	- Files should be specific to Claude setup/coding/prompting/etc
+	- More files are added as player builds projects
+	- Progress updates in interface as user builds a project
+	- Different folders/applications on the computer can be unlocked throughout the game
+		- AI chat application
+			- Two panes: left for prompting, right for output
+		- Terminal application (with AI embedded)
+		- Code editor application
+		- Artifact preview application
+		- Minigame application
+- AI mentor lives in the computer setup
+	- Design of AI mentor??
+- Instructions, hints, and documentation can all be accessed and brought up as overlays while player is working through levels
+- Menu bar (similar to Mac menu bar)?

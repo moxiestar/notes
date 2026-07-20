@@ -1,0 +1,39 @@
+*Working memory capacity modulates expectancy-based strategic processing: Behavioral and electrophysiological evidence* ([[Fernandez.pdf]])
+- Hypotheses: identifying mismatched pairs of stimuli is affected by WMC and correlated with increased N2 activity
+- Methods: 
+	- 74 participants
+		- Participants' working memory capacity (WMC) was evaluated with the Visual Change Localization task
+			- 1000ms: black screen, fixation cross
+			- 100ms: Four circles of alternating colors were displayed on each quadrant of a grey screen
+			- 900ms: black screen, fixation cross
+			- The circles reappeared, with one now being a different color
+			- Participants would have to indicate which circle changed by clicking the correct quadrant
+	- Measures: EEG, ERP (N2)
+		- 29 electrodes, 10-10
+		- High pass: 24; low pass: 0.2
+		- ICA correction 
+		- 9 frontocentral electrodes: F3/F4, FC1/FC2, Fz, FCz, Cz, C3/C4
+	- Main experiment: 
+		- Participants identified a red or green target as preceeded by the word RED or GREEN
+		- 75% of pairs were mismatches (RED & green); 25% were matches (GREEN & green)
+		- Two different stimulus presentation times (300ms and 700ms) were used to analyze the effects of WMC on the N2 and Stroop effect
+	- Timing of main experiment:
+		- 500-1000ms: black screen, fixation cross
+		- 100ms: color word (RED or GREEN)
+		- 200/600ms: black screen
+		- 2000ms/until response: red or green target
+		- 500ms: black screen
+- Main findings: 
+	- Within shorter (300ms) timeframes, mismatched pairs elicited a greater N2 component, and participants took longer to respond - faster responses were shown for the matched pairs
+	- No interaction between WMC and congruency at 300ms, but WMC had an interaction with congruency at 700ms
+		- At 700ms, the group with higher working memory capacity showed a reversed Stroop-priming congruency effect (faster responses to mismatched pairs)
+- Notes:
+	- WMC:
+		- Working memory encompasses short-term, active memory, as well as attentional selection
+		- Higher WMC is correlated with better performance on Stroop tasks
+		- WMC is also associated with target expectation in semantic word-pair tasks
+		- Could WMC and selective attention overlap?
+	- This experiment:
+		- In this experiment, WMC could allow participants to predict the mismatched pairs correctly 80% of the time
+		- Shorter stimulus presentation time gives participants less time to prepare or anticipate responses, eliciting a more standard stroop effect 
+	- Joystick for response collection?

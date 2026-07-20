@@ -1,0 +1,33 @@
+---
+aliases:
+  - Statistical Significance Assignment 9/8
+---
+1. Dr. X is studying how anger is related to happiness.  His operational definition for anger is how often a person's eyebrows draw or come closer together within a 24-hour period. Is this an operational definition?
+1. Yes, this is an operational definition, because it can be measured. However, it might not be a very accurate definition for anger. 
+
+2.  Dr. X discovered that there was a very strong correlation between the amount of studying someone does and a grade for a course.  He found that r = .8.  Thus, he recommended that students increase their amount of studying since studying more causes better grades.  Was Dr. X correct in his conclusion?
+2. Yes, Dr. X was correct, because r = 0.8 represents a high correlation between studying and final grades.
+
+3. Dr. X discovered that people who ate more yogurt weighed less, on average, than people who did not eat much yogurt.  The p-value from his study was .001.  Explain what the p-value in this specific study means in layperson terms.
+3. A p-value of 0.001 indicates that there is a less than 0.01% chance that the results of the study were random, so the sample can be generalized.
+
+4. Dr. X discovered that people who wrote with a red pen had better grades than people who wrote with a blue pen.  The p-value from his study was .08.  Explain what the p-value in this specific study means in layperson terms.
+4. A p-value of 0.8 indicates that there is an 8% chance that the results of the study were random, so the sample cannot be generalized, since the p-value is greater than 0.5.
+
+5. Dr. X's study has a p-value of .001 while Dr. P's study has a p-value of <.05.  Which researcher's study is more important? (Note: "Importance" here is defined as the study which has a greater magnitude of effect.  The question is, can you tell what the magnitude of effect is by looking at the p-values?)
+5. You can only know what the impact of a given study is by looking at the effect size of the results, so as far as we know, these two studies may be equally important. However, we know from Dr. X's p-value of 0.001 that there is a lower chance that the results of his study were random. 
+
+6. Dr. X found that people who ate kale every day were likely to live a week longer than people who did not eat kale every day.  The p-value for this study was .00001.  Dr. P found that people who watched all the Game of Thrones episodes had, on average, higher SAT scores (by about 100 points) than people who have never watched an episode of the Game of Thrones.  The p-value for this study was .05.  Does it make sense to ask which study was more statistically significant?  Which study is more important (Note: "Importance" here is defined as the study which has a greater magnitude of effect.)?  Explain your answer. 
+6. Yes, it does make sense, and Dr. X's study is more statistically significant, since the p-value is much lower. I would argue that Dr. P's study is more important, as having a higher SAT score is going to make a bigger difference than living an extra week in most people's lives. If Dr. X had found that people lived a year longer, that might make his study more important. But as is, his finding likely isn't enough to convince people to eat kale every day. 
+
+7. Dr. X found that students who come from a wealthy income bracket had, on average, higher GPAs than students who came from a lower income bracket.  On average, the difference was about .8 on a 4-point GPA scale.  The p-value for this study was <.05.  Explain what it means to have a p-value of <.05 in this study.  Is this study important (Note: "Importance" here is defined as the study which has a greater magnitude of effect.)?  Explain your answer.
+7. In Dr. X's study, the p-value of <0.05 indicates that there is a less than 0.5% chance that the results of the study were random, so the sample can be generalized. I would argue that this study is extremely important, since a 0.8 difference in GPA is significant enough to have a huge effect on a student's career. A student who graduates from a school like UNC with a 4.0 has a very different career ahead of them as opposed to a student who graduates with a 3.2 (not that it's the sole determining factor in someone's life - a student could still go far with a 3.2, but it would be much harder).
+
+8. In layperson's terms, explain what the difference is between the terms "statistically significant" and "effect size."
+8. Statistical significance refers to how accurate a study is. If a researcher finishes a study with a p-value of 0.8, that study likely won't be accurate - the results will be too random to apply to the general population. Effect size refers to the impact or effect of the results. For example, imagine a doctor publishes a study with a p-value of 0.0002, indicating that patients with brain tumors who took a new drug lived two weeks longer. Even though the doctor's study is statistically significant, the effect size is relatively small - few patients are going to be eager to try a drug that will only give them two more weeks of life. 
+
+9. Dr. X had 100 men and women try different types of mattresses.  He discovered that while men preferred mattress B, women preferred mattress A.  Is this an experiment?  How did you come to your conclusion?
+9. Based on the information that's provided, I don't think this is an experiment. First of all, Dr. X did not start out with a testable hypothesis, and it isn't clear what he was trying to test. Second of all, Dr. X did not have a control and experiment group - as far as we can tell, it seems like he had all the subjects try both types of mattresses. Thirdly, we don't know how he was testing or proving the results he obtained. 
+
+10. Joey wondered if hypnosis was effective in helping people to stop smoking.  His friend Zoey said that it was because she knew of a family member who had stopped smoking after undergoing hypnosis treatment.  Should Joey believe Zoey?  Why or why not?
+10. Joey could believe Zoey, but if he did, he would not be basing his belief on evidence. Zoey's family member may have had success with hypnosis, but that doesn't mean it will be equally effective for all smokers. If Joey wants to scientifically find the answer to his question, he should either conduct an experiment with an operational definition or read scientific articles on the topic. 

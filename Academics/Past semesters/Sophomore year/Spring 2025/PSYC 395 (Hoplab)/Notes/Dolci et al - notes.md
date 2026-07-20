@@ -1,0 +1,31 @@
+***The dynamics of statistical learning in visual search and its interaction with salience processing: An EEG study*** 
+- Background: 
+	- Experience-independent vs. experience-dependent mechanisms influence attentional direction
+	- Spatial aspect of attentional control?
+	- Effects of target salience?
+- Aims:
+	- Studying ==statistical learning (SL)== and salience within a single visual search task
+	- Equal frequency of the salient target across each condition
+	- Segmenting both the SPCN and N2pc into an early part and a late part
+- Hypotheses: 
+	- Prevalence of one attentional mechanism when two are studied
+	- SPCN: no research has investigated the overlap between SL and SPCN
+	- N2pc: greater amplitude following salient targets and more frequent conditions
+- Methods:
+	- Participants: n = 24
+	- Main experiments: 
+		- General conditions:
+			- Participants had to indicate the location of a gap on the target - similar to Rashal 2023
+			- Participants were randomly assigned to one of four separate conditions
+				- Targets could be in four locations on the screen 
+				- In each condition, one of those four locations would be the most likely location (75/100)
+			- Color varied across trials, with some targets being salient in terms of color
+- Key findings: 
+	- Main effects of condition and target frequency
+	- Significance of the temporal aspects of SL - what??
+	- Performance was better when target was color-salient
+	- Differences in attentional control in the two segments of the SPCN
+	- Responses to targets were faster when they were color-salient and occurred in the high-frequency locations
+	- SL only had a large effect on the N2pc when the target was not color-salient
+	- Implications of SL in attentional research?
+- Citation: Dolci, C., Rashal, E., Santandrea, E., Ben Hamed, S., Chelazzi, L., Macaluso, E., & Boehler, C. N. (2024). The dynamics of statistical learning in visual search and its interaction with salience processing: An EEG study. _NeuroImage_, _286_, 120514. https://doi.org/10.1016/j.neuroimage.2024.120514

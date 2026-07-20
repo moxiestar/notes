@@ -1,0 +1,24 @@
+**Teotihuacán**
+- [Wikipedia article](https://en.wikipedia.org/wiki/Teotihuacan)
+- **Ancient empire located near modern Mexico City**
+	- Culture built on agriculture and trade
+	- Evidence of intricate city planning (grid layout)
+	- Distinctive pyramids in city center
+- Named by the Aztecs in Nahua language
+	- Teotihuacán: “the place where the gods were created”
+- **Size:** 100,000-200,000
+	- Largest city in Americas
+	- Sixth largest in the world
+	- 2,000 residential complexes, 600 pyramids, 500 workshops
+- **Apex:** between 100BCE-650CE
+- **Language:** Proto-Nahua
+- **Structure**
+	- Inclusive societal structure
+	- No evidence of individual rulers or leaders
+		- No palaces or residential elite structures
+			- **Residential structures**: social units
+				- Dormitories, store rooms, kitchens, porticos, patios, ritual courtyards
+	- Arguably the most equal large city
+- **Culture**
+	- Vibrant murals 
+	- Export of obsidian tools

@@ -1,0 +1,58 @@
+- What is reliability? Name and describe the 3 types of reliability
+	- Internal reliability
+	- Inter-rater reliability
+	- Re-test reliability
+- What is validity? Name and describe the 5 types of validity
+	- Construct validity
+	- Convergent validity
+	- Discriminant validity
+	- Incremental validity
+	- Predictive validity
+- What does assessment research involve? (*This is a topic from textbook that you are responsible for knowing*)
+	- Epidemiology: study of disorder
+	- Incidence: instances of disorder
+	- Prevalence: rates of disorder in the population
+- What are correlations and experiments and how do they differ?
+	- Correlations: non-causal relationship between two variables
+	- Experiments: manipulating independent variable to see effects on dependent variable
+- What are the problems with the Serotonin Imbalance theory?
+	- Correlational, not causative
+- What are some of the criticisms/limitations of neuroimaging research?
+	- Oversimplification
+	- Not accurate representation of true cognitive processes
+	- Correlational, not causative
+	- Poor reliability
+- What are content reflections & affect/meaning reflections? (*Be able to identify the difference between them*)
+	- Content: verbatim reflection of client’s words
+	- Affect/meaning: inferring the deeper meaning of client’s words
+- What is the structure of a clinical interview? (*Know the three different structures and pros/cons of each*)
+	- Structured
+	- Semi-structured
+	- Unstructured
+- What are the Key Questions about a presenting problem?
+	- How long has it been happening? 
+	- How often does it occur?
+	- How long does it last?
+	- How intense is it?
+	- What makes it better/worse?
+	- How does it affect your life?
+- What is typically the key referral question for behavioral assessment?
+	- What is the behavior and what causes it? 
+- What is interval coding? What is event recording? (*Be able to identify which one is being used in a case vignette*)
+	- Interval: does the behavior occur
+	- Event: how many times does the behavior occur?
+- What is a behavioral interview and when would you want to conduct one?
+	- Asking the client about the behavior - best when you can’t observe the behavior
+- What are the empirical methods of objective test construction? (*Be able to identify which is which if I give you a description/example of one, but you don’t need to be able to explain*)
+	- What is empirical criterion keying?
+		- Randomness of questions
+	- What is factor analysis?
+		- Similarity between other tests
+	- What is construct validity?
+		- Relevance of questions
+- What are the three core components of intelligence commonly included in definitions?
+	- Ability to think critically, ability to learn, ability to adapt
+- According to research, what does IQ predict?
+	- Academic success, income, career success, physical health
+- What are the four index scores for the WAIS?
+	- Perceptual reasoning, verbal reasoning, working memory, processing speed

@@ -1,0 +1,1287 @@
+**Chapter 1:**
+- William Wundt: "father" of psychology, founded the first psychology lab
+	- Psychology arose from physiology and philosophy
+- Branches of psychology:
+	- Structuralism: analyzing basic elements of consciousness and investigate how those elements are related
+		- Key figure: Edward Titchener
+	- Introspection: self-observation of consciousness
+	- Functionalism: analyzing the function of consciousness rather than its elements
+		- Key figure: William James (flow of consciousness)
+		- Key figure: Stanley Hall (first US psyc lab, first psyc journal)
+	- Psychoanalysis: analyzing personality and disorders based on the role of the unconscious
+		- Key figure: Sigmund Freud (unconscious, developmental psychology, importance of sex in development)
+	- Behaviorism: psychologists should only study observable behaviors - attempt to legitimize the study of consciousness
+		- Key figure: John Watson (beginning of growth mindset, in a way - advocated that any child could be "made" into anything through various factors - essentially nuture over nature)
+		- Key figure: BF Skinner (free will is an illusion - things in the environment will cause you to make certain choices - all internal things can be explained by external factors)
+	- Humanism: emphasizes the unique qualities of humans and their potential for growth
+		- Key ideas: people should be who they're meant to be - if we have psychological support we can become our best selves - only something within you can determine who you are
+		- Key figure: Carl Rogers (self concept)
+		- Key figure: Abraham Maslow (pyramid of needs)
+	- Cognitive: studies the mental processes of acquiring knowledge
+		- Key figure: Noah Chomsky (universal language)
+		- Key figure: George Miller (memory)
+		- Key figure: Theodore Simon (problem solving)
+	- Evolutionary: analyzes behavioral processes in terms of evolutionary value
+	- Positive: focuses on positive aspects of psychology
+	- Clinical: focuses on treatment of psychological disorders
+		- Key ideas: WWII increased need for psychopathology
+
+**Chapter 2:**
+- Operative definition: a hypothesis defined by how it can be tested
+- Descriptive/correlational methods - where researchers cannot manipulate the variables and can only observe the results
+- Reactivity: when the subject's behavior is altered by the presence of an observer
+- Sampling bias: sample is not representative of the population
+- Social desirability bias: tendency to give social approved answers to questions
+- Meta-analysis: combining the statistical results of many studies on the same question
+- Quasi-experiments
+	- Typically experiments where you cannot actually test your hypothesis (ie, effects of cortical lesions) and have to go find people to perform case studies
+	- You can compare "control" and "experimental" groups but you did not actually create the conditions of the "experimental" group
+	- You cannot draw causal conclusions because there can be variables out of your control in a quasi-experiment
+- Statistical procedures:
+	- Descriptive statistics: correlation
+	- Inferential statistics: causation ? (T-test, Chi-test, F-test....)
+		- Researchers want universal truths, but you cannot measure everyone
+		- Researchers sample the generation population and test the sample with inferential statistics
+		- P value equal or above 0.5 (5% chance that the results were random) -> sample cannot be generalized
+		- P value below 0.5 (less than 5% chance that the results were random) -> sample can be generalized
+		- **Therefore, inferential stats gives you a yes or no answer**
+		- For the purpose of this class, something cannot be more or less statistically signifcant 
+		- Effect size: the impact/effect of the results
+			- If effect size was small, "there was no fucking trend" :-)
+![[Screenshot 2024-08-27 at 2.25.50 PM.png]]
+![[Screenshot 2024-08-27 at 2.26.02 PM.png]]
+- Confounding variables:
+	- Experimenter or participant bias
+		- Can be resolved with single- or double-blind studies
+
+**Chapter 5: Variations in Consciousness**
+Stages of sleep:
+![[Screenshot 2024-10-11 at 10.48.15 PM.png]]
+![[Screenshot 2024-10-11 at 10.48.28 PM.png]]
+- Sleep:
+	- REM is positively correlated to intellect
+	- Circadian rhythms regulated by suprachiasmatic nucleus
+		- Travels to pineal gland which secretes melatonin
+	- Infants sleep more with more REM (50% in infants, 20% in adults)
+	- 70 yr olds have a 50% decrease in SWS
+
+- Sleep deprivation:
+	- Complete deprivation: weariness, irritability, paranoia, lapses in attention, memory deficits, “microsleep,” hallucinations
+	- Partial deprivation has similar effects but at a lower intensity
+	- REM and SWS must be made up - you cannot live without them
+- Less REM occurs as we age
+- Sleep can affect:
+	- Brain development, IQ, memory, insights, learning, energy
+
+- Dreams:
+	- Subjects of adult dreams:
+		- Sex, aggression, misfortune - always involving oneself
+	- Life events and ongoing stimuli may affect dreams
+	- Cultural differences affect dreams
+- Purpose of dreams?
+	- Freud: wish fulfillment
+	- Cartwright: problem solving
+	- Hobson: activation synthesis?
+
+- Sleep disorders:
+	- Hypersomnia:
+		- Excessive sleepiness, daytime sleep episodes
+		- Sleep is not restful
+		- TX: stimulants
+	- Insomnia:
+		- Lack of sleep
+		- More common in women
+		- TX: sleep hygiene, downers, melatonin
+	- Narcolepsy:
+		- Attacks of sleep, cataplexy, sleep paralysis, hallucinations
+		- TX: stimulants, SSRIs
+	- Sleep apnea:
+		- Waking up short of breath
+		- Correlated with obesity
+		- TX: CPAP, lifestyle
+	- Somnambulism:
+		- Repeated episodes of walking while asleep
+		- Patient has short retrograde amnesia and is difficult to wake
+		- Can cause accidents
+	- REM sleep behavior disorder:
+		- Deterioration of brainstem 
+		- Violent dreams
+		- Can precede Parkinsonism
+		- Common in older men
+
+- Hypnosis:
+	- "Systematic procedure that typically produces a heightened state of suggestibility"
+	- Associated with: amnesia, hallucinations, disinhibition, hypnotizability
+	- Is it voluntary, or is it another state of consciousness?
+		- No change shown in brain waves
+
+- Meditation:
+	- Transcendental meditation: focused attention
+	- Mindfulness meditation: open monitoring
+	- Associated with:
+		- Higher alpha and theta waves
+		- Lower stress hormones, anxiety, BP
+		- Better immune function, mood, self esteem, overall health
+		- Increased tolerance to pain
+		- Greater parietal lobe activity
+		- Lower left prefrontal lobe activity (limbic forebrain?)
+
+- Drugs & alcohol:
+	- Drugs:
+		- Narcotics: morphine, heroin, oxy, codeine, etc
+			- Effects: anxiety reduction, pain relief, drowsiness, impaired cognition
+		- Sedatives: barbs, benzos
+			- Effects: relaxation, anxiety reduction, drowsiness, impaired cognition
+		- Stimulants: caffeine, nicotine, cocaine, meth, MDMA, etc
+			- Effects: energy, alertness, euphoria, anxiety, insomnia, psychosis, lack of appetite, sweating, urination
+		- Hallucinogens: LSD, MDMA, shrooms, etc
+			- Effects: euphoria, hallucinations (obviously), anxiety, paranoia, impaired judgement
+		- Cannabis: weed, THC
+			- Effects: mild euphoria, relaxation, hunger, impaired memory, increased risk of IQ loss and accidents 
+		- *Risk of overdose: narcotics, sedatives*
+	- Alcohol:
+		- Effects: mild euphoria, mood swings, impaired cognition, aggression
+		- Outcomes: 90% of student rapes, 95% of violent campus crimes, 21% of unplanned sex, 50% of fatal accidents, liver damage, ulcers, neurological issues, heart diseases, strokes, hypertension, cancers, increased risk of death, fatal withdrawal, social issues
+		- Drinking rates:
+			- Regular: 12 drinks a year
+			- Binge: 5 drinks at once, at least once a month
+			- Heavy: 14 a week (men), 7 a week (women)
+		- Standard drink: 0.6 fl oz of alcohol
+		- Metabolism: 1 drink per hour
+		- 0.08 blood alcohol concentration (BAC) - illegal
+		- More tolerance, the more alcoholism is likely
+	- All are DA and NE agonists
+
+**Chapter 6: Learning**
+- Learning: acquired change in behavior that is due to experience 
+
+- Classical (Pavlovian) conditioning: creating the CR
+		- Affects: fear, anxiety, physiological processes 
+	- Terminology:
+		- Unconditioned stimulus: naturally elicits a response
+		- Unconditioned response: natural response to US
+		- Conditioned stimulus: neutral stimulus that, when paired with US, can elicit the same response
+		- Conditioned response: response to CS (appears like UR)
+	- Acquisition: association between UCS and CS is acquired
+		- Stimulus contiguity: timing of UCS and CS
+			- Simultaneous presentation: UCS and CS appear at the same time
+			- Short-delayed presentation: CS appears before UCS but both end at the same time
+			- Trace presentation: CS appears and ends before UCS
+	- Saliency of stimulus: stimulus which is more noticeable 
+	- Extinction: association between UCS and CS can be broken by presenting CS alone 
+	- Spontaneous recovery: return of CR after not being exposed to CS
+	- Renewal effect: return of CR after return to original environment
+	- Stimulus generalization: subject generalizes what they have learned from CS to other stimilar stimuli
+		- i.e., you are scared of spiders and learn to be scared of all bugs
+	- Stimulus discrimination: subject does not generalize what they have learned from CS to other similar stimuli (opposite of generalization)
+	- Higher order conditioning: CS functions as UCS
+		- i.e., boba makes you happy -> money makes you happy because it can be used to buy boba (1st order) -> working makes you happy because you earn money which you can use to buy boba (2nd order) -> seeing your boss makes you happy because he represents your work which earns you money which you can use to buy boba (3rd order)
+	- Conditioned taste aversion: negative association between food and illness
+
+- Operant (Skinner) conditioning: learning occurs in response to consequences
+	- Terminology:
+		- Reinforcement: consequence that increases likelihood to repeat behavior
+		- Punishment: consequence that decreases likelihood to repeat behavior
+		- Negative: taking something away
+		- Positive: adding something
+		  So:
+		- Positive reinforcement: adding something that increases likelihood to repeat behavior
+		- Negative reinforcement: taking something away that increases likelihood to repeat behavior
+		- Positive punishment: adding something that decreases likelihood to repeat behavior
+		- Negative punishment: taking something away that decreases likelihood to repeat behavior
+	- Acquisition: connection between behavior and consequence is shaped
+	- Shaping: reinforcements of closer and closer approximations of a desired response
+	- Extinction: usual consequence does not follow the emitted behavior
+	- Stimulus generalization & discrimination:
+		- Stimulus generalization: responding to a similar stimulus in hopes of receiving the same consequence
+		- Stimulus discrimination: associating a consequence with only one stimulus
+	- Skinner box?
+	- Reinforcements: 
+		- Primary reinforcers: things that satisfy biological needs
+		- Secondary reinforcers: things that enable us to satisfy biological needs
+	- Schedules of reinforcement:
+		- Continuous reinforcement: reinforcement after every target behavior
+		- Intermittent reinforcement:
+			- Fixed-ratio reinforcement (response-based): reinforcement is given based on a fixed number of responses (i.e., every 3)
+			- Variable-ratio reinforcement (response-based): reinforcement is given based on average number of responses (i.e., roughly every 3)
+			- Fixed-interval reinforcement (time-based): reinforcement is given based on the first response after a fixed amount of time (i.e., after a rat pulls a lever after waiting for 3 seconds)
+			- Variable-interval reinforcement (time-based): reinforcement is given based on the first response after an average amount of time (i.e., after a rat pulls a lever after waiting for roughly 3 seconds)
+		- Responses to different reinforcements: ![[Screenshot 2024-10-13 at 8.34.18 PM.png]]
+	- Corporal punishment:
+		- Leads to bad familial relationship 
+		- Affects: cognitive development, criminal behavior, mental health
+		- Not always effective
+		- Used by angry parents 
+	- Instinctive drift: organisms will revert back to their natural behaviors
+	- Conditioning can instill or remove a phobia
+	- Learning can take place without reinforcement
+	- Motivation is an important factor in operant conditioning
+	- Observational learning involves: attention, retention, reproduction, motivation
+
+**Chapter 7: Memory**
+- Encoding:
+	- Attention: 
+		- Focusing awareness onto something
+		- First critical step towards learning and memory
+		- Divided attention impairs memory encoding
+		- Multi-tasking - shifting attention between tasks - lowers quality of work
+	- Levels of processing: 
+		- Structural encoding: visual memory
+		- Phonemic encoding: auditory memory
+		- Semantic encoding: meaning-based memor
+	- Enriching encoding: 
+		- Elaboration: linking stimulus to other information 
+		- Visual imagery: dual-coding theory (verbal and visual cues)
+		- Motivation to remember
+- Storage:
+	- Sensory memory: 
+		- Duration: 0.25 second
+		- Capacity: large (limited to attention)
+		- Benefits?
+	- Short-term/working memory:
+		- Duration: 10 to 20 seconds
+		- Capacity: 7 ± 2 items (old research) or 4 ± 1 items (new research)
+			- Chunking (compartmentalizing): creates more room in working memory
+	- Working memory: 
+		- Phonological loop
+		- Visuospatial sketchpad
+		- Central executive system 
+		- Episodic buffer
+		- Working memory capacity: hereditary, correlated with IQ
+	- Long term memory: 
+		- Duration: indefinite
+		- Capacity: unlimited (hell yes)
+		- Practicing recall is critical to retain long term memory
+		- Types of LTM:
+			- Explicit: declarative memory system - information you can talk about 
+				- Semantic: facts
+				- Episodic: life-related
+			- Implicit: procedural memory system - actions, skills, operations
+- Amnesia:
+	- Retrograde amnesia: loss of memory of events previous to injury
+	- Anterograde amnesia: loss of memory of events after injury
+- Schema: organized group of experiences and associations
+- Semantic network: stores general knowledge and facts
+- Retrieval: 
+	- Usually automatic, but sometimes takes effort (systematic search)
+	- Encoding specificity principle - the better a retrieval cue matches the memory, the easier retrieval will be 
+	- Loftus: misinformation effect - post-event information alters a person's memory
+		- Source monitoring error: incorrectly judge where the information came from
+- Forgetting:
+	- Recall < recognition < relearning
+	- Causes of forgetfulness:
+		- Ineffective encoding: information was never truly learned in the first place
+		- Inappropriate encoding: i.e., structural encoding when semantic encoding was necessary
+		- Decay: memory fades over time
+		- Interference: additional information can confound your memories
+			- Proactive interference: previously learned information interferes with learning new information
+			- Retroactive interference: newly learned information interferes with remembering previously learned information
+		- Retrieval failure: 
+			- Encoding specificity principle
+			- Motivated forgetting (selective amnesia): suggested by Freud, no concrete evidence of existence, typically caused by abuse
+- Physiology of memory:
+	- Neural circuitry of memory: engram
+		- Physical changes leading to synaptic changes
+		- Neurogenesis (i.e., in hippocampus)
+		- Memories are stored all over the brain
+
+**Chapter 10: Human Development**
+- Physical development:
+	- Conception: 
+		- Egg & sperm (each 23 chromosomes)
+		- Pregnancy tests: 
+			- Home test (urine) - detection 10 days after conception
+			- Lab test (blood) - detection 6-8 days after conception
+	- Prenatal development:
+		- Germinal stage (0-2 weeks)
+			- Zygote - proliferation, then implanation (after a week)
+		- Embryonic stage (2-8 weeks)
+			- Embryo
+				- Recognizably human (sort of)
+				- Cephalocaudal: development from head to toe
+				- Proximodistal: development from mid to extremities
+				- Miscarriages occur around this time - mistakes in development during this stage are typically very serious
+			- 70-80% of women have morning sickness during this stage
+		- Fetal stage (8-38 weeks)
+			- Fetus
+				- 12 weeks
+					- Basic structures are completed
+					- Fetus can detect stimulation
+					- Fetus begins to move
+				- 23-25 weeks
+					- 24-72% chance of survival
+					- 20-24 week birth: 43% neuro/psychological impairments, 19% sensory deficits
+		- Remaining weeks: growth
+	- Teratogens: environmental agents that can cause developmental issues
+		- Maternal malnutrition: increased risk of birth and neurological issues
+		- Maternal psychological distress: increase in negative hormones, increased stillbirths
+		- Drug exposure: fetal alcohol syndrome etc
+		- Maternal illness: HIV, chicken pox, etc
+		- Environmental toxins: radiation, etc
+		- Fetal origins of adult diseases? 
+			- Prenatal malnutrition is associated with schizophrenia
+			- Low birth weight is associated with heart disease
+			- Maternal smoking is associated with bipolar
+	- Postnatal development: physical growth is uneven and slows over time
+	- Motor development
+		- 2.75 m: rolls over
+		- 3 m: lifts head and chest up with arm support
+		- 5.5 m: sits without support
+		- 5.75 m: stands holding on to something
+		- 7.5 m: pulls self to standing
+		- 9 m: cruises (walks holding on to something)
+		- 12 m: walks alone
+	- Puberty ![[Screenshot 2024-10-21 at 6.41.45 PM.png]]
+	- Adulthood: 
+		- Subjective age but typically includes some of the following:
+			- Graying/thinning hair
+			- Decline in sensory ability
+			- Menopause
+			- Increase in body fat
+			- Aging well is not just determined by genetics
+
+- Emotional development:
+	- Smiling & laughter
+		- Typically occurs around 4-6 weeks
+		- Varies depending on sex
+		- Easily elicited by human faces
+	- Fear (especially towards strangers)
+		- 3 m: wariness & cold stares
+		- 6 m: distress, whimpering, looking away
+		- 7 m: true fear, crying
+		- 14-18 m: peak of separation anxiety
+	- Emotional attachment styles
+		- As emotional bond with caregiver intensifies, fear of strangers increases
+		- Attachment styles:
+			- Secure attachment (60-65%) - child easily readjusts when caretaker leaves
+				- Brought about by sensitive parental care
+				- Leads to happy long-term relationships
+			- Ambivalent attachment (10-15%) - child becomes intensely distressed when caretaker leaves
+				- Brought about by inconsistent parental care
+				- Leads to short high maintenance relationships
+			- Avoidant attachment (20%) - child avoids emotional intimacy
+				- Brought about by insensitive parental care
+				- Leads to a lack of relationships
+			- Disorientated attachment (5-10%) - child shows a fear of close relationships marked by irrational behavior and caused by childhood trauma
+				- Brought about by abusive parental care or neglect
+		- Ainsworth's strange situation: experiment from 70s where infants were placed in a room with a parent and/or stranger; parent & stranger would perform different things and infant's behavior would be observed
+		- Attachment is influenced by culture
+		- Low correlation between parental care and attachment style
+		- Attachment style is also influenced by overall family status, marital status of parents, and infant's temperament
+
+- Language:
+	- 1-5 m: reflexive communication, cooing
+	- 6-18 m: babbling
+	- 10-13 m: first words
+	- 12-18 m: one word sentences
+		- Receptive vocabulary (all the words that can be understood by a person - Wernicke's area) vs productive vocabulary (all the words that can be produced by a person - Broca's area) 
+		- Overextension - use of a single word to refer to different things
+		- Underextension - use of a word to refer only to a specific instance
+	- 18-24 m: vocabulary growth spurt, fast mapping
+	- 2 yrs: telegraphic speech 
+	- 3 yrs: overregularizations
+	- 5 yrs: well-formed and complex grammar
+
+- Personality:
+	- Theories:
+		- Biological: genetics & traits/predispositions
+		- Psychoanalytic: personality arises as we solve psychosexual conflicts
+		- Neopsychoanalytic: personality arises as we solve psychosocial conflicts
+		- Learning/behavioral: personality is a collection of behavioral tendencies and habits
+		- Humanistic: people have innate drive to become who they were meant to be
+
+- Cognitive:
+	- Jean Piaget:
+		- Worked with Binet to create early IQ tests - inferred that cognitive skills weren't present until a certain age
+	- Piaget's cognitive theory:
+		- Stage 1 (birth to 2 years): Sensorimotor period
+			- Coordination of sensory input and motor responses
+			- Development of object permanence
+		- Stage 2 (2 to 7 years): Preoperational period
+			- Development of symbolic thought marked by irreversibility, centration, and egocentrism
+		- Stage 3 (7 to 11 years): Concrete operational period
+				- Mental operations applied to concrete events
+			- Mastery of conservation (innate qualities of objects)
+			- Hierarchical classification
+		- Stage 4 (11 years through adulthood): Formal operational period
+			- Mental operations applied to abstract ideas
+			- Logical, systematic thinking
+		- Strengths 
+			- One of the first grand theories of cognitive development
+			- Accounts for continuity and change 
+			- Generally correct about the sequence of cognitive development
+		- Weaknesses
+			- Doesn't account for variability of individuals, timing, or cultures
+			- Underestimated cultural and age related factors
+	- Vygotsky's sociocultural theory
+		- More intense focus on social interaction and language acquisition 
+			- Language could be important for development, but there is evidence against (Williams Syndrome - fluency despite cognitive disability) and for (cases like Genie)
+		- Children use "private speech" to talk out their behaviors
+	- Some basic cognitive abilities are innate - object discrimination etc
+	- Teenage brain
+		- Increase in myelination and synaptic pruning
+		- Early developmental of subcortical dopaminergic reward system
+		- Increase in impulsive behavior with decreased inhibition
+	- Adult brain
+		- Loss and shrinkage of neurons
+		- Dementia in later life is not normal
+			- At 85 yrs 33% of people have dementia 
+				- Not a majority - but a significant minority
+			- 70% have Alzheimer's 
+			- Genetic factor? Chronic inflammation?
+			- Untreated depression is associated with loss of neurons
+			- Lower risk of dementia: exercise, cognitive strengthening, socialization, no history of smoking or diabetes, low meat, sugar, and dairy diet
+		- Memory: fairly stable memory and cognition, though research is mixed
+			- Episodic memory worsens throughout life
+			- Problem-solving remains decent
+			- Speed of processing slows down
+			- People with mentally challenging jobs or who engage in intellectual activities have a buffer against cognitive decline
+
+- Moral development:
+	- Kohlberg's moral development theory:
+		- Preconventional level:
+			- Stage 1: punishment orientation - right and wrong is determined by punishment
+			- Stage 2: naive reward orientation - right and wrong is determined by reward
+		- Conventional level:
+			- Stage 3: good boy orientation - right and wrong is determined by friends' approval or disapproval 
+			- Stage 4: authority orientation - right and wrong is determined by society's rules, which should always be obeyed
+		- Postconventional level:
+			- Stage 5: social contract orientation - right and wrong is determined by society's rules, which are fallible
+			- Stage 6: individual principles and conscience orientation - right and wrong is determined by abstract ethical principles 
+		- Strengths: 
+			- Some research shows American children progress through these stages at the indicated ages
+			- Moral reasoning seems to be a predictor of moral behavior
+		- Weaknesses:
+			- Stages can be mixed
+			- Not applicable to other cultures
+			- Focuses on morality of interpersonal conflicts
+			- Too much of an emphasis on reasoning
+			- Kohlberg believed women only reached the conventional level (fucker)
+
+- Issues of stage theories in general (as opposed to continuous development)
+	- Qualitative difference between stages
+	- Each stage builds upon a previous stage
+	- IRL stages are often mixed
+
+- Major developmental events:
+	- Search for identity: could occur during adolescence or over a lifetime 
+	- Marcia's theory of identity statuses: ![[Screenshot 2024-10-21 at 8.11.09 PM.png]]
+	- Psychological benefits to knowing yourself?
+- Emerging adulthood (18-29 yrs)
+	- No longer adolescent but not yet fully adult
+	- Time of optimism, possibilities, search for identity
+- Marriage
+	- Marriage has been delayed, but 90% of people still marry 
+	- 66% of people cohabitate instead - now more common and correlated with better outcomes
+	- 44% of women are still doing the majority of housework and childcare in marriages
+	- 50% of marriages end in divorce - why?
+- Parenthood
+	- Parenthood has also been delayed to 20s and 30s, but the majority of people still have children
+	- Marital satisfaction can decrease after having children
+	- Pandemic led to greater stress in young families and an increase in child abuse
+	- Empty nest syndrome is myth - parents are typically happy when their children leave
+- Aging
+	- Subjective well-being is important
+	- Rates of chronic illness increase
+	- Beneficial psychological factors: higher intelligence, optimism, high self-esteem, behavioral habits
+
+- Death 
+	- Topic is often avoided
+	- The elderly typically worry more about the period right before death
+	- More positive than negative emotions towards impending death
+	- Kubler-Ross stages of grief: denial, anger, bargaining, depression, acceptance
+		- However recent research suggests this is bs
+	- Bereavement:
+		- Cultural differences in grieving
+		- Patterns of grief:
+			- Absent/resilient pattern (most common), chronic grief, common grief, depressed-improved pattern, chronic depression
+
+**Chapter 11: Personality**
+- Personality: unique collection of traits
+	- Relatively consistent across situations and time
+	- Can change over the course of life
+	- Traits - internal dispositions or behavioral tendencies?
+
+- Five-factor model of personality traits (McCrae and Costa) - most popular theory of personality
+	- OCEAN: openness, conscientiousness, extroversion, agreeableness, neuroticism
+		- Openness varies culture to culture
+
+- Psychodynamic theories - inspired by Freud's psychanalytic theory
+	- Freud's psychanalytic theory
+		- Freud was the first to propose a theory on personality development
+		- Structure of personality
+			- Id: primitive psychic energy, pleasure principle, primary processing
+				- Unconscious
+			- Ego: decision-making, reality principle, secondary processing
+				- Conscious, pre-conscious
+			- Superego: moral component, cultural values, tendency to irrationality
+				- Pre-conscious, unconscious
+		- Levels of personality
+			- Conscious: accessible thoughts, thoughts we are aware of
+			- Preconscious: thoughts we are aware of but are not as easily accessible
+			- Unconscious: inaccessible thoughts and feelings
+				- Freud theorized suggested the existence of the unconscious because of dreams and parapraxes (Freudian slips)
+		- Freud: internal conflict influences behavior, especially re:sex and aggression
+		- Defense mechanisms: coping mechanisms to deal with intrusive thoughts
+			- Examples: rationalization, repression, projection, displacement, reaction formation, regression, identification, sublimination 
+		- Unconscious influences behavior and personality; internal conflict leads to external distress; childhood experiences influence adulthood (don't I know it)
+		- Issues with Freud's theory
+			- Poor testability
+			- Unrepresentive samples - upper class, neurotic, sexually repressed Viennese women (lol)
+			- Overreliance on case studies (liberal interpretations, based on memory)
+			- Contradictory evidence
+			- Sexism (unsurprising)
+
+- Alfred Adler's individual psychology
+	- Primary motivation: striving for superiority
+	- Process of development: compensation 
+		- Inferiority complex and overcompensation 
+		- Due to parental pampering or neglect
+	- Social environment influences development
+
+- Erikson's stage theory of psychosocial personality development:
+![[Screenshot 2024-10-25 at 12.37.00 PM.png]]
+
+- Behavioral (learning-based) perspective
+	- Skinner's behavioral ideas:
+		- Environmental factors, observable behavior
+		- Experiences lead to learning response tendencies (habits)
+		- Personality is just a collection of learned responses
+	- Bandura's contribution of cognition 
+		- Observational learning
+		- Personality factors
+	- Mischel - person-situation controversy
+		- Do innate personality traits or situational factors have a bigger effect on a person's behavior?
+		- Personality traits have little consistency across situations
+		- People makes choices that will lead to consequences in the situation
+- Pros and cons of the behavioral theories:
+	- Positives: 
+		- Large research support for various aspects
+	- Negatives: 
+		- Heavy emphasis on environmental factors
+		- Most studies are based on animals
+
+- Humanistic perspective
+	- Focus on healthy human qualities:
+		- Freedom
+		- Innate drive for personal growth - "what a man can be, he must be"
+	- Personality is not determined by biological urges
+	- Personality is not driven by unconscious urges
+	- Carl Roger's person-centered theory
+		- Self-concept - image of oneself?
+		- A disconnect between one's self-concept and reality leads to distress
+		- Conditional love creates a greater risk of that disconnect
+		- Distress and anxiety can cause people to warp reality to protect their self-concept
+	- Maslow's theory of self-actualization
+		- Maslow studied psychologically healthy individuals
+		- The pyramid of needs: ![[Screenshot 2024-10-25 at 9.24.03 PM.png]]
+		- Progression is dependent on satisfaction of the lower needs
+		- Ordering of the needs is flexible, but lower needs are more powerful motivators
+		- Theory is intuitive but lacks support
+	- Pros and cons of the humanistic theories:
+		- Positives:
+			- Emphasis on the importance of subjective view (self concept)
+			- Optimistic view - ties into positive psychology
+		- Negatives:
+			- Vague and difficult to test
+			- Little research has been done to support the theory
+			- Unrealistically optimistic - what about psychopaths?
+
+- Biological perspective
+	- Hans Eysenck's PEN theory (Psychoticism, Extraversion and Neuroticism)
+		- Genes + learning = personality
+			- Heavy emphasis on genetics 
+			- Breakdown of traits looks like this: ![[Screenshot 2024-10-25 at 9.33.37 PM.png]]
+		- Research shows support for this theory
+			- Big five personality traits are heritable 
+			- Heritability estimate may be 50%
+			- Identical twins show more personality similarity than fraternal twins
+				- However shared environment has very little impact on personality
+			- Genetic mapping
+				- Difficult to correlate one gene with one personality trait
+	- Evolutionary theories
+		- Personality traits may play a role in evolutionary fitness
+	- Pros and cons of the biological theories:
+		- Positives:
+			- Strong research support
+		- Negatives:
+			- Results from heritability studies can vary due to sampling procedures
+			- Separation of genetic and environmental factors leads to an artificial setting
+
+- Current research
+	- Study of specific traits as opposed to global personality theory
+		- Narcissism
+			- High positive self-concepts, but self-esteem is easily threatened
+			- More likely found in individualistic societies & upper class
+			- Favorable first impressions which deteriorate over time
+			- Generational effect
+			- Grandiose narcissism: dominance, self-assurance, aggression
+			- Vulnerable narcissism: introversion, hostility, entitlement
+			- Collective narcissism: tendency to exaggerate the importance of one's group
+		- Terror management theory
+			- Culture gives us a sense of legacy and purpose
+			- Self-esteem - how well we are living up to our cultural standards
+			- Self-esteem manages our terror - we are aware that we are sentient beings
+			- Increasing mortality salience leads to greater efforts to bolster self esteem and defend cultural standards
+		- Culture and personality
+			- Structure of personality is fairly universal, except for the openness of the big five
+			- Levels of personality traits differ between cultures
+				- National character does not correlate with actual levels of personality traits
+			- Independent vs interdependent
+				- Individualistic vs collectivist societies
+					- Independent: white, middle class, educated Americans
+					- Interdependent: POC and working class white Americans
+
+- Main theories of personality:
+![[PXL_20241031_180812113~2.jpg]]
+![[PXL_20241031_184131843~2.jpg]]
+
+**Chapter 12: Social Psychology**
+Social Psychology
+- Influence of others?
+	- Person perception
+		- Physical appearance:
+			- People who are: tall, thin, attractive, well-dressed, and sociable
+			- Make better impressions in: personality, job interviews, salary, relationships, leadership positions
+		- Cognitive schemas: framework that helps people organize information
+			- Stereotypes - race, gender, education, occupation, social status, religion, economic status
+				- Confirmation bias - tendency to favor information that affirms our beliefs
+				- Illusory correlation - perception of a connection between two things, even when there is no actual connection
+			- Stereotypes arise because our brains are designed to notice patterns - also because of societal influence
+				- Systemic/institutional bias: idea that society teaches us stereotypes - often inadvertently 
+			- Implicit bias - subconscious beliefs and prejudices
+				- Strongly affected by environmental cues
+			- Explicit bias - conscious beliefs and prejudices
+			- Prejudice: negative attitude based on perceived membership in a group
+			- Outgroup homogeneity effect: perception of "outgroup" people as being more similar than they really are
+			- Diversity: makeup of a group
+			- Equality: providing everyone the same resources
+			- Equity: treating people differently based on need
+	- Making attributions
+	- Interpersonal attraction
+	- Attitudes
+	- Conformity/obedience
+	- Group behavior
+
+- Attribution: how we explain everyday events or experiences
+	- External vs internal attribution - different causes of behavior
+	- Weiner's theory: ![[Screenshot 2024-11-19 at 8.41.31 AM.png]]
+		- Stable - unlikely to change
+		- Unstable - likely to change
+	- Biases influence attribution, attribution influences our behavior - but depends on culture
+		- Actor-observer bias: tendency to attribute one's mistakes to external attribution, while attributing others' mistakes to internal attribution (ie, this wasn't my fault, but it was their fault)
+		- Fundamental attribution error: actors assume external attribution, observers assume internal attribution (ie, if you do it, you're less likely to blame yourself, but you're always likely to blame others for their actions)
+		- Self-serving bias: actors assume internal attribution for successes and external attribution for failures
+
+Interpersonal attraction:
+- Influenced by physical attraction - more for women than for men
+	- Couples are likely to be similar in terms of attractiveness - the more similar they are, the happier they are
+- Similarity extends to: attractiveness, age, race, religion, social class, education, intelligence, attitudes
+	- People who are happy in their relationships tend to overstate how similar they are
+	- True in friendships as well
+- Romantic love:
+	- Hatfield and Berscheid (1988): passionate, companionate
+	- Sternberg (1988): passionate, committed, intimate
+		- Different combinations of these elements - different types of love
+		- Consummate love is high on all components 
+		- Levels of components change over time
+	- Influence of early attachment styles:
+		- Secure: satisfying relationships
+		- Resistant: insecure, needy, high maintenance
+		- Avoidant: difficulty with intimacy
+	- Cultural differences: 
+		- All favor intelligence, kindness, attraction
+		- 50% of western marriages end in divorce
+		- Romantic kissing is not as universal as once thought (only present in .5 cultures)
+	- Online relationships:
+		- Virtual relationships can be intimate and can evolve into in person relationships
+		- Facebook - need to belong, managing first impressions, escapism
+			- Profiles are relatively accurate - just as much as when we try to make a good impression in real life
+			- Negative emotions arise more easily
+				- Envy, compulsion, addiction, bullying, unwanted contacts
+				- Increased risk of depression
+				- 1 week break from facebook was correlated with higher life satisfaction and greater positive emotions
+				- Smartphones are correlated with lower social interaction, higher loneliness and depression, and lower happiness and self-esteem
+		- Online dating sites:
+			- Increased similarity with potential partners
+			- Information-rich
+	- Evolutionary perspective of attractiveness: 
+		- Attractiveness may be indicative of health, genotype, fertility
+			- Facial symmetry - correlated to external and internal development
+			- Gender differences:
+				- Men look for youth, beauty; women look for success, ambition, wealth
+				- Men show their wealth; women show their beauty
+			- During ovulation, women prefer more masculine, dominant features, and wear more provocative clothes and flirt more
+				- Strippers get tipped more while ovulating
+
+Attitudes:
+- Three components: cognitive, affective, behavioral
+- Three dimensions: strength, accessibility, ambivalence
+- Situational constraints: your perception of what others expect of you
+- Implicit vs explicit attitudes
+	- Prejudice
+	- Explicit & implicit biases
+	- Implicit attitudes and prejudices affect behavior
+- Attitude formation
+	- Learning
+		- Classical conditioning - transferring affective component from an unconditioned stimulus to a conditioned stimulus
+		- Operant conditioning - openly expressing attitude and being punished/reinforced for it
+		- Observational learning - observing how others can be punishde or reinforced for their attitudes
+- Persuasion (trying to shift someone's attitude)
+	- Source - is the source credible, likable?
+	- Message factors - two-sided arguments, fear
+	- Receiver factors - strength of attitude, forewarning, resistance
+	- Cognitive dissonance may lead to attitude change
+		- Effort justification - people place higher value on a goal once they have worked hard to achieve it
+		- Elaboration likelihood model - refers to different types of messages
+			- *Elaboration: high or low*
+			- *Route: central or peripheral* 
+			- *Processing: careful or not careful*
+			- *Attitude change: can depend on information or depend on cues*
+			- When elaboration is high, change is longer-lasting, but there is more resistance to change
+
+Social Influence on Behavior
+- Conformity
+	- Solomon Asch: due to group pressure, size, unanimity, normative influence, information influence
+- Obedience 
+	- Compliance due to direct command 
+		- Milgram's obedience study - electric shock experiment where participants are asked to shock a victim who appears to be screaming in pain
+			- Almost 70% of people continued to shock the patient
+
+Behavior in Groups
+- Bystander effect - individuals are less likely to help a victim when others are present
+	- "Someone else will do it"
+- Groups affect one's sense of responsbility
+- Group productivity - the more people, the less gets done
+	- Reduced efficiency due to lack of coordination 
+	- Reduced effort due to diffusion of responsibility ("someone else will do it")
+	- Smaller group size, new groups, public contributions, & collectivist attitudes -> more productivity
+- Group polarization
+	- Groups sometimes take extreme positions after discussion 
+	- Myers & Bishop 1970: study with two groups of prejudiced and unprejudiced high school students - groups were asked questions about racism before and after a discussion
+- Groupthink
+	- Groups sometimes make poor decisions
+		- This can result from an emphasis on cohesion and a pressure to conform
+		- Us vs. them mentality
+		- Working in isolation with the group
+		- Strong, influencial leader pressures group to make a decision
+
+**Chapter 14: Psychopathology**
+Psychological disorders
+- Currently viewed as illnesses 
+	- Advantages to the medical model:
+		- Official diagnosis
+		- Etiology (factors that cause or maintain the pathology)
+		- Prognosis & treatment
+	- Disadvantages:
+		- Stigma has been both increased and decreased
+		- Illness may not be an accurate descriptor
+- Criteria for diagnosis:
+	- Deviance - disobeying societal norms or laws (depends on context)
+	- Dysfunction - maladaptive behavior
+	- Distress - suffering presumably
+	- Subjective assessments of patients - errors can occur, since professionals disagree on criteria
+	- DSM VI
+		- Criteria of psychopathology have changed over time
+		- Supernatural causes of psychopathology? 
+	- Number and frequency of diagnoses is increasing - medicalization of normal behaviors?
+
+Common psychopathologies
+- Anxiety disorders - marked feelings of apprehension or anxiety (GAD etc)
+- Obsessive-compulsive disorders - presence of obsessions or "checking" behavior, intrusive thoughts
+- Trauma-related disorders - caused by exposure to trauma (PTSD ASD etc)
+- Dissociative disorders - due to separation of consciousness (DID etc)
+- Mood disorders - marked by emotional disturbances (depression bipolar etc)
+- Psychotic disorders - marked by psychotic break (hallucinations etc) from reality (schizo etc)
+- Developmental disorders - conditions that appear during a developmental period (autism etc)
+- Personality disorders - enduring maladaptive inner experience and behaviors (borderline etc)
+- Eating disorders - disorders with stress around eating (anorexia SED etc)
+
+Anxiety disorders
+- Marked feelings of apprehension or anxiety
+- Types
+	- Generalized anxiety disorder
+		- Chronic anxiety not related to a specific threat
+		- Prevalence: 19% of population (2/3 are female)
+	- Specific phobia
+		- Irrational fear of a specific object or situation 
+		- Can be related to animals, environments, situations, medicine, etc
+	- Episodic paroxysmal anxiety disorder (panic disorder)
+		- Panic attack: sudden, overwhelming anxiety (palpitations, sweating, shortness of breath, chest pain, nausea, derealization, fear of losing control, fear of dying, chills or hot flashes)
+		- Recurring, unprompted panic attacks
+		- Not characterized by long-term low level anxiety
+	- Agoraphobia
+		- Fear of going out in public
+		- Comorbidity with panic disorder/other anxiety disorders
+- Etiology
+	- Biological factors
+		- Some inheritability
+		- Related to neurotransmitters (GABA, serotonin)
+	- Psychological factors
+		- Can be acquired through conditioning and learning
+			- Acquired via classical conditioning, maintained through operant conditioning
+			- Biological preparedness (Seligman): we learn some fears more easily than others
+			- Evolved module for fear learning (Ohman & Mineka): further develops how we learn some fears more readily than others
+			- Those with PTSD and panic disorder tend to overgeneralize triggering stimuli
+		- Can be caused by maladaptive cognitive patterns
+			- Misinterpreting harmless situations as harmful
+			- Focusing excessive attention as threats
+			- Exclusively recalling threatening situations
+			- Impairment of executive function
+
+Obsessive-compulsive disorders
+- Presence of intrusive thoughts (obsessions) and/or uncontrollable urges to engage in ritualistic behaviors (compulsions)
+- Intrusive thoughts are typically disturbing: harmful, suicidal, sexual
+- Prevalence: 2-3% of population (equal between males and females)
+- Correlated with increased suicide risk :(
+- Related to neurotransmitters (GABA, glutamate, dopamine)
+- Onset: 19-20 yrs
+
+Trauma-related disorders (ASD, PTSD)
+- Anxiety due to exposure to a major traumatic event
+	- Exposure to traumatic events is more common than once thought - most people have been exposed to one or more traumatic events
+	- "Traumatic event" typically refers to an event where your safety, life, or bodily autonomy is threatened (or where you witness a situation where someone's life is threatened) - can also refer to sexual assault
+- Prevalence: 7-8% of population (could be higher)
+- High levels of stress or trauma during childhood and/or intense reaction to traumatic event -> increased risk of PTSD
+
+Dissociative disorders
+- Disorders caused by separation of consciousness and/or memory loss
+- Types
+	- Dissociative amnesia
+		- Loss of extensive personal information
+		- Dissociative fugue is a subtype
+			- Ending up in a new location with no memory of how you got there
+	- Dissociative identity disorder
+		- Coexistence of two or more separation personalities
+		- Amnesia for other personalities - but memory tests indicate awareness of the alters
+		- Alters may be very different from real personality and may play different roles
+			- Typical alters: child alter, persecutor alter, helper alter
+		- "Shifts" or transitions between alters may be sudden
+		- Increase in diagnoses over the years
+- Etiology
+	- Can be caused by stress, including medical stress, or severe childhood trauma
+	- Cause is unclear and physicians disagree
+
+Mood disorders
+- Depressive disorders
+	- Diagnostic criteria (at least 5)
+		- Persistent sadness or loss of interest in passions
+		- Weight loss or gain
+		- Insomnia or hypersomnia
+		- Slowness or agitation
+		- Fatigue
+		- Feelings of worthlessness or guilt
+		- Lack of concentration
+		- Suicidal ideation
+	- Associative features
+		- Onset: typically around puberty-20s
+			- An earlier onset indicates worse severity and prognosis
+		- 50% have recurrances: typically 5-6 episodes over a lifetime
+			- Average duration of an episode: 6 months
+			- Some patients have persistent chronic depression - correlated with health problems and higher mortality
+		- Prevalence: 13-16% (2:1 women to men)
+		- Cohort effect - rate of illness can be affected by social pressure
+- Bipolar disorders
+	- Diagnostic criteria (at least 3)
+		- 1+ manic episode (persistently elevated or irritable mood, lasting at least a week)
+		- Inflated self-esteem/arrogance
+		- Decreased need for sleep
+		- Increased talkativeness
+		- Racing thoughts
+		- Distractibility
+		- Agitation
+		- Increased goal-orientated behavior
+		- Increased self-destructive/hedonistic behavior
+	- Associative features
+		- Prevalence: 1% of population (equal between men and women)
+		- Onset: late teens-early 20s
+- Etiology
+	- Genetic 
+		- Increased heritability for MZ (identical) twins
+		- Predisposition not determination
+	- Neurochemical/neuroanatomical causes
+		- Norep & serotonin, as well as other monoanime neurotransmitters have been linked to depressive disorders
+		- Smaller hippocampus is correlated with depression
+		- Hyperactivity of amygdala
+		- Hypoactivity of reward system
+	- Cognitive factors
+		- Learned helplessness (uh oh)
+		- Rumination (UH OH) - may explain difference in gender rates because women actually think
+		- Hindsight bias - tendency to believe that things were inevitable
+	- Interpersonal causes
+		- Poor social skills -> punishing social experiences -> depression
+	- Stress
+		- Can trigger onset of mood disorders
+
+Psychotic disorders
+- Disorders marked by a psychotic break (hallucinations, delusions) from society
+- Schizophrenia
+	- Diagnostic criteria (at least 2)
+		- Delusions: thoughts broadcast (?), persecution complex, self-grandeur
+		- Hallucinations: hearing voices, seeing things in the walls, seeing people who aren't present
+		- Disorganized thoughts and aphasia
+		- Disorganized or catatonic behavior
+		- Negative symptoms: affective flattening, alogia (lack of speech), avolition (lack of motivation)
+- Associative features
+	- Onset: mid 20s for men, late 20s for women
+	- Earlier onset indicates worse prognosis and greater risk of death (suicide or not)
+	- Prevalence: 1% of population
+- Etiology
+	- Genetic vulernability
+		- Concordance rate: 48% in identical twins vs 17% in fraternal twins
+		- 2 parents with schizophrenia: 46% risk of schizophrenia vs 1% with healthy parents
+		- Lower IQ correlated with higher risk
+	- Neurochemical factors
+		- Dysregulation of dopamine (too low in prefrontal areas, too high in nucleus accumbens area)
+		- Marijuana use during adolescence may increase risk
+	- Neuroanatomical factors
+		- Enlarged ventricles
+		- Decreased volume of grey and white matter
+		- Synaptic pruning issues?
+	- Developmental factors
+		- Viral infection, maternal malnutrition, obstetrical complications
+		- Minor physical abnormalities support this theory, but it is still a hypothesis
+	- Expressed emotion 
+		- Affects course of disorder after onset
+		- Relapse is three times greater for patients returning to families with high expressed emotion
+	- Stress can trigger episodes
+
+Developmental disorders
+- Conditions with onset in developmental period
+- Diagnostic criteria
+	- Social communication and interaction deficits in multiple contexts
+	- Repetitive or restrictive behaviors or interests
+- Associative features
+	- Onset: 15-18 months
+	- Diagnosis typically at 2-3 years
+	- Prevalence: 1.5% of the population (80% males)
+		- Females have a harder time getting diagnosed, but may have more severe impairments
+	- 30-40% may not develop speech
+	- Others have unusual speech characteristics
+	- Extreme reactions to minor changes in environment
+	- 1/2 have subpar IQ scores
+	- Prognosis
+		- 20% good - high level of independence
+		- 31% fair - support and supervision necessary
+		- 48% poor - institutional care is necessary
+- Etiology
+	- Genetic
+	- Brain abnormality
+		- Brain enlargement by 2 years - overgrowth in cortical areas
+	- Mercury and vaccine involvement debunked
+
+Personality disorders
+- Enduring maladaptive inner experience and behaviors
+- Milder than acute mental disorders but still persistent
+- Associative features
+	- Onset: adolescence
+	- Prevalence: 10%
+	- Decreased life expectancy (18-19 years)
+- Three categories 
+	- Anxious/fearful
+	- Odd/eccentric
+	- Dramatic/impulsive
+- Dramatic disorders
+	- Antisocial personality disorder (similar to sociopathy and psychopathy)
+		- Reject widely accepted social norms
+		- Exploit others
+		- Higher prevalence in males (duh)
+		- Rarely experience genuine affection for others
+		- May display charismatic tendencies (ie sociopathy)
+	- Borderline personality disorder
+		- Instability in relationships, self-image, and emotions
+		- Higher prevalence in females
+		- Fear of abandonment
+		- Black and white thinking
+		- Alternate between idealizing and devaluing people
+		- Increased risk of suicide or self-harm
+	- Narcissistic personality disorder
+		- Grandiose sense of self
+		- Sense of entitlement
+		- Excessive need for attention and praise
+		- Extremely vulnerable self-esteem
+- Etiology
+	- Genetic and environmental factors
+	- APD can be caused by dysfunctional family, erratic discipline, parenting neglect, exploitive parenting
+	- BPD is usually caused by early trauma
+
+Eating disorders
+- Disturbance of eating or eating-related behaviors
+- Correlated with increased risk of mortality (yay! that's me!)
+- Types:
+	- Anorexia nervosa
+		- Diagnostic criteria
+			- Restriction of food intake resulting in substantially lower weight
+			- Intense fear of gaining weight
+			- Disturbed body image
+		- Associative features
+			- Comorbidity with depression and anxiety is common
+			- Medical problems may arise from longterm anorexia
+			- Sudden death due to cardiac arrest is possible
+			- 10-fold increase in risk of death
+			- Prevalence: 1% (90-95% women)
+			- Onset: adolescence
+	- Bullimia nervosa
+		- Diagnostic criteria
+			- Recurrent binge eating
+			- Fear of gaining weight
+			- Recurrent purging behaviors
+		- Associative features
+			- Vomiting only decreases caloric intake by less than 50%
+			- Laxatives and diuretics have little impact on weight
+			- Normal weight is common
+			- Medical problems may arise from repeated vomiting
+			- Correlated with increased risk of death (but not as intense as anorexia)
+			- Prevalence: 1.5% (90-95% women)
+			- Onset: adolescence
+	- Binge-eating disorder
+		- Diagnostic criteria
+			- Eating a larger than normal amount in a short period of time
+			- Lack of control over eating
+			- 3 or more of the following are present:
+				- Eating more rapidly than normal
+				- Eating until uncomfortably full
+				- Eating large amounts when not physically hungry
+				- Eating alone due to embarrassment
+				- Feelings of shame post-binge
+		- Associative features
+			- Frequently overweight, unlike other eating disorders
+			- Stress can be a trigger
+			- Prevalence: 3.5% (60% women)
+- Etiology
+	- Genetic
+		- Some predisposition shown for anorexia
+	- Personality
+		- Anxiety, negativity, neuroticism
+		- Perfectionism
+	- Cultural/familial
+		- Family endorses western standard of thinness
+		- Modeling of maladaptive eating behaviors (hi)
+		- Early abuse leads to a greater risk of developing an eating disorder
+	- Cognitive factors
+		- Rigid, all or none mindset
+		- Maladaptive beliefs
+
+Other considerations
+- Early childhood stress/trauma often leads to adult disorders
+- Genetic overlap between major disorders
+	- High overlap: schizophrenia and bipolar
+	- Moderate overlap: schizophrenia and depression
+	- Low overlap: schizophrenia and autism
+
+Mental-health related suicide
+- Suicide: 10th leading cause of death - 45,000+ deaths each year
+- Suicide attempts:suicide (25:1)
+	- Attempts - women:men 4:1
+	- Suicide - men:women 4:1
+- 90% of suicide victims have a psychological disorder
+	- 50% could be depressive or bipolar disorders
+	- Greater severity of depression leads to greater chance of suicide
+- Suicide is difficult to predict
+- Prevention strategies:
+	- Serious talk to ask if they are contemplating suicide
+	- Provide empathy and support
+	- Identify the root cause of suicidal ideation
+	- Do not keep the conversation a secret - report if needed
+	- In a situation where the patient has threatened harm, do not leave them
+	- Encourage professional consultation/therapy
+
+**Chapter 15: Treatment**
+Types of treatment
+- Insight therapies
+- Behavioral or cognitive therapies
+- Biomedical therapies
+
+Patients
+- Reasons for seeking therapy
+	- Range of issues - serious to everyday
+	- Most common issues: anxiety and depression
+	- Barriers to seeking treatment: cost, stigma, delays 
+	- More whites than POC in therapy, more women than men, more educated people, more single or divorced people, most with public health insurance
+
+Therapists
+- Clinical psychologist: PhD or PsyD
+- Psychiatrist: MD
+- Counseling psychologist: PhD, PsyD, or EdD
+- Other mental health professionals (counselors, social workers, etc)
+
+Insight therapists
+- Psychoanalysis (Freud)
+	- Development of psychopathology 
+		- Unconscious
+		- Unresolved conflicts
+		- Psychosexual development issues
+	- Treatment
+		- Resolution of these conflicts to achieve catharsis
+	- Tools
+		- Free association
+		- Dream analysis
+		- Analyzing resistance & transference
+- Psychodynamic therapies 
+	- As with psychoanalysis, psychodynamic treatments consider internal causes, but the treatment is much shorter and less intense than psychoanalytic treatments
+	- Treatment 
+		- Focus on emotional experience
+		- Exploration of avoidance of distressing thoughts and feelings
+		- Identification of recurring patterns in patients' lives
+		- Discussion of past experiences
+		- Analysis of interpersonal relationships
+		- Focus on therapeutic relationships
+		- Exploration of a fantasy life
+- Client-centered therapy (humanist perspective)
+	- Development of psychopathology
+		- Rogers: incongruence between self-concept and reality
+		- History of receiving conditional love
+	- Treatment
+		- Decrease incongruency
+			- Create a positive emotional climate - honesty, unconditional love, accurate empathy
+		- Research suggests that the positive and genuine elements of Roger's treatment are critical in psychotherapy
+- Effectiveness of insight therapies
+	- Hard assess due to variety of patients, techniques, issues, backgrounds
+	- In general they are effective
+		- Roughly as effective as drug therapies
+		- First 10-20 weeks of treatment show the greatest effects, but effects are durable
+		- Not effective for everyone - 1/3 experience spontaneous remission
+	- Method - do different approaches accomplish the same thing in different ways?
+		- Common factors
+			- Relationship with therapist
+			- Emotional support and empathy
+			- Cultivation of hope and positive feelings in client
+			- Explanation of issues and plausible solutions
+	- Other formats
+		- Group therapy 
+			- Therapist screens potential members, sets goals, initiates conversations
+			- 4-12 people
+			- Lower cost than 1:1 therapy
+		- Couples/family/marriage therapy
+			- Goals: understanding the relationship, facilitating communication
+
+Behavior therapies
+- Development of psychopathology 
+	- Patient has learned maladaptive behaviors in response to stimuli
+- Treatment
+	- Unlearning maladaptive behaviors and replacing them with positive behaviors
+- Methods of treatment
+	-  Systematic desensitization therapy
+		- Build anxiety hierarchy
+		- Teach relaxation techniques
+		- Incremental exposure to anxiety-provoking stimuli
+		- Exposure therapy: exposing patient to triggering stimuli
+	- Social skills training
+		- Modeling 
+		- Behavioral rehearsal 
+		- Shaping
+	- Aversion therapy
+		- Patients might take a medication that would make them sick when they drank alcohol, producing an aversion
+- Effectiveness
+	- Overall effective, but better for some issues than others
+
+Cognitive therapies
+- Development of psychopathology
+	- Maladaptive thinking
+- Treatment
+	- Changing maladaptive thinking
+- Methods of treatment
+	- Help patient to identify and challenge maladaptive thoughts
+	- "Homework" to work on changing behavior
+	- Behavioral activation - identifying which behaviors bring patient joy
+	- Cognitive bias modification - computerized cognitive training programs
+
+Cognitive behavioral therapies
+- Research supports CBT 
+- Effects are durable
+- No side effects (as opposed to medication)
+- Rational-emotive behavioral therapy - "you think the way you feel"
+- Dialectical behavioral therapy (DBT) - type of CBT that focuses on intense emotions
+	- Distress tolerance
+	- Mindfulness
+	- Emotion regulation skills
+	- Interpersonal effectiveness
+
+Summary of therapeutic treatments:
+![[Screenshot 2024-11-21 at 10.24.22 PM.png]]
+
+Biomedical therapies
+- Drugs
+	- Anti-anxiety drugs (anxiolytics)
+		- Examples: diazepam, alprazolam, lorazepam, benzos, barbiturates
+		- Short-lived effects (hours)
+		- Side effects: drowsiness, dizziness, depression, nausea, intestinal issues
+		- Can lead to abuse, drug dependence, overdose, withdrawal
+	- Antipsychotic drugs
+		- Traditionally, dopamine antagonist
+		- 70% of patients respond
+		- 2 days-1 week to take effect
+		- Side effects: drowsiness, cottonmouth, tremors, rigidity, relapse
+		- 2nd generation antipsychotic drugs 
+			- Can have milder side effects (except increased risk of diabetes, heart disease)
+			- Lower risk of tardive dyskinesia 
+		- Partial agonists can help both positive and negative symptoms
+			- Affinity - how strongly they bind to receptors
+			- Effinity - how much they activate receptors
+	- Antidepressant drugs
+		- Tricyclics, MAO inhibitors, SNRIs, SSRIs
+		- Research is mixed
+		- Side effects: insomnia, nausea, weight gain, headaches, suicidal ideation
+		- 60% of patients see effects in 2 weeks
+		- Most effective for the severely depressed
+	- Mood stabilizers
+		- Lithium, valproate
+		- To prevent future episodes as well as bringing a patient out of a current episode
+	- Effectiveness of medications
+		- Effective for many
+		- Can treat some cases where talk therapy is not effective
+		- Issues: short-lived, only treating symptoms, overprescribed, side effects
+		- Research difficulties: conflict of interest (drug companies are seeking profit), studies are too short-term, research is biased towards publishing positive results
+- Electroconvulsive therapy (ECT)
+	- Short electrical current that triggers a seizure
+	- Patient awakens after 1-2 hours
+	- 2-3x weekly for 2-7 weeks
+	- Use has been declining
+	- Effectiveness
+		- Controversial - short term or long-term cognitive impairments, retrograde amnesia
+		- Effective for cases that do not respond to other forms of treatment
+
+Trends in treatment
+- Increasing multicultural sensitivity in treatment
+	- Minorities underutilize treatment
+		- Previous negative experience with institutions, language/financial barrier
+		- Outcomes are better when patient and therapist are the same ethnicity
+		- Efforts to improve this:
+			- More minority therapists
+			- Fostering cultural competence 
+			- Fostering cultural humility 
+	- Technology
+		- Technology increases the reach of therapy - phone, zoom, online classes, apps
+
+Mental institutions
+- Previously, patients with mental illnesses were housed with family or in mental hospitals
+- Issues with institutions:
+	- Underfunded
+	- Staff are overworked
+	- Institutionalization separates patients from family
+- 1960s
+	- Community mental health movement
+		- More local care
+		- Less dependent on hospitalization
+		- Preventative care
+	- Deinstitutionalization
+		- Mixed success
+			- Alternative, less costly option: can be near loved ones
+			- Homelessness among the mentally ill
+				- 1 in 7 patients are readmitted with 30 days; 40-50% are re-hospitalized within a year
+				- Elevated rates of mental illness among the homeless
+					- 1/3 are mentally ill
+					- 1/3 drug or alcohol dependence
+					- Co-morbidities
+				- Lack of funding - mental health care has been cut
+
+Managed care
+- Programs created to decrease cost of treatments
+	- Fee for service vs. managed care
+- Issues
+	- Loss of freedom in choosing a provider
+	- Providers are often less well trained
+	- Restriction to medically necessary services
+		- Underdiagnoses 
+		- Failing to make referrals
+	- Restriction of access to treatments, especially long term care

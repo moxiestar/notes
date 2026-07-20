@@ -1,0 +1,116 @@
+[
+  {
+    "name": "tags",
+    "type": "tags",
+    "options": null,
+    "description": "Short topical labels that group this task with related notes."
+  },
+  {
+    "name": "Status",
+    "type": "list",
+    "options": [
+      "Draft",
+      "In Progress",
+      "Under Review",
+      "Published"
+    ],
+    "description": "Current progress state of the task."
+  },
+  {
+    "name": "Word Count",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "Due Date",
+    "type": "date",
+    "options": null,
+    "description": "Date by which the task should be completed."
+  },
+  {
+    "name": "Last Edited",
+    "type": "datetime",
+    "options": null
+  },
+  {
+    "name": "Published",
+    "type": "checkbox",
+    "options": null
+  },
+  {
+    "name": "Author",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "oct.related",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "cssclasses",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "color",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "excalidraw-plugin",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "status",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "priority",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "scheduled",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "dateCreated",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "dateModified",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "kanban-plugin",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "banner_y",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "sticker",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "aliases",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "Completed",
+    "type": "checkbox",
+    "options": null,
+    "description": "Whether the task has been fully completed."
+  }
+]

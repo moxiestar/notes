@@ -1,0 +1,126 @@
+***Effects of top-down and bottom-up attention on post-selection posterior contralateral negativity***
+- Link: [[Rashal 2023.pdf]]
+- Background:
+	- N2pc definition: The N2pc is a negative ERP component that typically appears around 200-300ms after stimulation. It appears in the parietal and occipital areas of the brain, always contralateral to the visual stimulus. In electroencephalographic recordings, it is measured by the PO7 and PO8 electrodes. Stimuli in the lower visual field elicit a significantly stronger N2pc than stimuli in the upper visual field
+	- SPCN definition: The sustained posterior contralateral negativity (SPCN) is a negative deflection observed in the parietal and occipital areas. It appears at around 400ms in the hemisphere contralateral to the stimulus. In EEG recordings, it is strongest around electrodes PO7 and PO8. The SPCN is commonly measured in research on visual working memory. Notably, its amplitude is positively correlated with the number of visual stimuli ([[Chen 2022.pdf]])
+	- RLpcN definition: The response-locked posterior contralateral negativity (RLpcN) has been recently studied in relation to visual attention. It appears after the participant has seen the stimulus, as they prepare their response. RLpcN duration directly reflects response times, and often occurs concurrently with the SPCN
+	- Previous articles: Hopfinger, Holmes, Wojcik, Drisdelle & Jolicoeur (2019), Rashal (2022)
+		- Rashal (2022): Study was almost identical to this one, but measured N2pc and SPCN instead of RLpcN. Effects of cues and salient distractors were shown. Hypothesized that attention is affected by ==top-down cueing
+		- Drisdelle & Jolicoeur (2019): Measured N2pc, SPCN, and RLpcN. Showed that RLpcN variance is correlated with attention, processing, and response time
+	- ==Top-down attention: participants search a stimulus for a specific detail==
+	- ==Bottom-up attention: participants search a stimulus based on its salience==
+- Aims:
+	- Previous study by Rashal et al compared the effect of task difficulty on SPCN and RLpcN
+	- The previous Rashal study had some issues, including notable differences in the two tasks - this could have been a confounding variable, distorting the results **==MENTION IN NOTES**
+	- This study aims to focus on the post-selection process (SPCN) instead of attentional selection (N2pc)
+	- Comparing RLpcN waveforms across Experiment 1 and 2: the RLpcN has two parts, the first (RLpcN1) correlated with search difficulty and the second (RLpcN2) correlated with response preparation and selection. Since Experiment 2 is more complex than Experiment 1, RLpcN1 (the difficulty segment) should be more negative in Experiment 2
+	- SPCN is also correlated with search difficulty, as well as visual working memory, it should be more pronounced in Experiment 2
+	- Studying cue manipulation of top-down attentional control - this may affect RLpcN1
+- Hypotheses: 
+	- In visual search tasks, both the SPCN and RLpcN will be affected by task difficulty and target salience
+	- SPCN and RLpcN1 will be more negative and pronounced in Experiment 2 due to greater task difficulty
+	- The salient distractor should not have an effect on SPCN or RLpcN amplitude, though it has been shown to affect N2pc amplitude - this could be due to changes in the order of the experiment
+	- There should be an interaction effect between target salience and task difficulty on SPCN and RLpcN2. This effect should be larger in Experiment 2
+- Methods:
+	- Participants:
+		- 38 volunteers: 21 in Experiment 1 (mean age = 22.44), 17 in Experiment 2 (mean age = 23.43)
+		- Between-subjects design
+		- 1,152 total trials: 10 trials of practice and 12 blocks of 96 experimental trials
+	- Main experiments:
+		- General setup:
+			- Stimuli (4 bars, either green or red, 3 of the same color and 1 outlier) appeared at various orientations on a grey background
+		- Conditions:
+			- Salient-target condition: target bar is a different color than the three distractors 
+			- No-distractor condition: all bars are the same color
+			- Lateral-target condition: one distractor bar is a different color and appeared on the lateral midline, and the target (the same color as the other two bars) appeared on the lateral midline
+			- Vertical/midline-target condition: one distractor bar is a different color and appeared on the lateral midline, and the target (the same color as the other two bars) appeared on the vertical midline **==MENTION IN NOTES**
+		- Cues:
+			- Before stimuli appeared, a diamond would briefly be presented around the fixation cross
+			- Neutral cue: magenta diamond
+			- Valid cues: magenta diamonds with one cyan corner
+			- 75% of valid cues were on the lateral midline; 25% were on the vertical midline **==MENTION IN NOTES**
+		- Experiment 1:
+			- A target would be orientated diagonally (20 degrees), while the three other bars would be a mix of horizontal and vertical
+		- Experiment 2:
+			- Target was orientated diagonally (20 degrees), as were the three other bars (25 degrees)
+			- All bars had a gap/cut-out at the end
+		- Sequence: **==MENTION IN NOTES**
+			- Cue appears (480ms)
+			- Fixation appears for cue-target interval (1300-1500ms)
+			- Stimuli appears (300ms)
+			- Responses are recorded for 1500ms
+			- Fixation appears (1000-1200ms in Experiment 1; 100-300ms in Experiment 2)
+			- Repeat
+		- Response: **==MENTION IN NOTES**
+			- Experiment 1: Participants responded to indicate the rotation of the target (M for clockwise/right and Z for counterclockwise/left)
+			- Experiment 2: Participants responded to indicate the location of the gap on the target (M for top and Z for bottom)
+			- Eye movements were monitored
+	- EEG analysis:
+		- 10-10 system
+		- Electrodes of interest: PO7, PO8
+		- High pass of 0.1 Hz
+		- ICA analysis to remove artifacts
+		- Semi-automatic artifact rejection 
+		- Trials rejected: 6% in Experiment 1 and 11% in Experiment 2
+		- SPCN analysis: epochs from -200 to 800ms, measured from 350 to 700ms after stimulus presentation
+		- RLpcN analysis: epochs from - 1000 to 2000ms, measured in two segments of 300ms each
+		- ==Signed-area approach?==
+- Statistical results:
+	- SPCN:
+		- Mixed ANOVA:
+			- Within-subjects factors: search display (lateral-target, no-distractor, salient-target) x cue (valid, neutral)
+			- Between subjects factor: experiment (1, 2)
+			- Significant main effect of experiment
+		- Mixed ANOVA:
+			- Within-subjects factor: search display (no-distractor, salient-target)
+			- Between-subjects factor: experiment (1, 2)
+			- Significant main effect of experiment
+	- RLpcN:
+		- Mixed ANOVA:
+			- Within-subjects factors: segment (first, second) x search display (lateral-target, no-distractor, salient-target) x cue (valid, neutral)
+			- Between-subjects factor: experiment (1, 2)
+			- Significant main effects of experiment and segment
+			- Interaction effects between experiment and segment, experiment and search display, segment and search display, & experiment, segment, and search display
+		- rm-ANOVA: search display x segment 
+			- Experiment 1:
+				- No significant effects
+				- RLpcN2 was more negative than RLpcN1
+			- Experiment 2:
+				- Main effect of segment
+				- Interaction effect between segment and search display
+		- Mixed ANOVA:
+			- Within-subjects factor: search display (no-distractor, salient-target)
+			- Between-subjects factor: experiment (1, 2)
+			- Main effects of experiment and search display
+			- Interaction effect between experiment and search display
+- Main findings:
+	- Hypotheses were confirmed
+	- SPCN:
+		- Minimal lateralization seen in certain conditions in Experiment 1, but significant lateralization was seen in all conditions in Experiment 2, confirming that SPCN is affected by task difficulty
+		- SPCN area was larger for salient-target condition in Experiment 2 (see SPCN results below)
+	- RLpcN1:
+		- Significant lateralization seen in certain conditions in Experiment 1
+		- Significant lateralization seen in certain conditions in Experiment 2
+	- RLpcN2:
+		- Significant lateralization seen in certain conditions in Experiment 1
+		- Significant lateralization seen in all conditions in Experiment 2
+		- Area was larger in Experiment 2 (see RLpcN results below)
+- Discussion:
+	- Aim was to study visual working memory, post-selection processes, and top-down/bottom-up attention by analyzing SPCN and RLpcN
+	- Experiment 2, which was more difficult and complex, had a strong effect on SPCN and RLpcN2
+	- RLpcN1 was effected by salient distractors (differently colored distractor bars) and RLpcN2 was effected by target salience (differently colored target bar)
+	- Larger SPCN and RLpcN2 area in Experiment 2 in response to the more difficult task
+	- Cues had little to no effect on RLpcN or SPCN - note that previous effect on N2pc was seen, probably due to the timing of the experiment
+	- Salient distractors had no effect on SPCN or RLpcN2
+	- Search display did not have an effect on RLpcN in Experiment 1, but there was an effect of target salience on RLpcN2 in Experiment 2
+	- RLpcN is better-suited to studying post-selection processes
+- ==Questions:
+	- ==Differences and nuances of top-down/bottom-up attention
+	- ==What is the signed-area approach?
+	- ==What is the purpose of using a cue?
+	- ==What is an rm-ANOVA?
+- Citation: Rashal, E., Santandrea, E., Ben-Hamed, S., Macaluso, E., Chelazzi, L., & Boehler, C. N. (2023). Effects of top-down and bottom-up attention on post-selection posterior contralateral negativity. _Attention, Perception, & Psychophysics_, _85_(3), 705–717. [https://doi.org/10.3758/s13414-022-02636-7](https://doi.org/10.3758/s13414-022-02636-7)
+- Task: ![[Screenshot 2025-03-01 at 1.05.41 AM.png]]
+- Data from Rashal 2022: ![[Screenshot 2025-03-15 at 2.43.43 PM.png]]
+- SPCN results:![[Screenshot 2025-03-15 at 2.53.21 PM.png]]
+- RLpcN results:![[Screenshot 2025-03-15 at 2.53.41 PM.png]]
