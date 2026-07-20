@@ -13,10 +13,10 @@ tags: []
 - [x] Formulate list of things to talk about in therapy ( [[Life/Therapy notes/Therapy next week]] )
 - [x] Write husband manifestation
 - [x] Sign at Thursday
-- [ ] Get tested for autism & OCD
 - [ ] Pick up new lenses at Academy Eye (Monday)
-- [ ] Go to the range
 - [ ] Redo headshots and LinkedIn banner
+- [ ] Go to the range
+- [ ] Get tested for autism & OCD
 
 ### In progress
 
