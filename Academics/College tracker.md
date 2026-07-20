@@ -1,5 +1,6 @@
-##  **UNC COURSEWORK**
+## **UNC COURSEWORK**
 
+<!--octarine-table-cols:0,0,0,0,0,0,101,100,131-->
 | Term | Course | Credit hours | Grade | Requirement | GPA | Status | Total credit hours | Extracurriculars |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Fall 2022** | ENGL 105 | 3 | A | Gened (introductory writing) | 4.000 | Completed | 3 | Dual-enrolled high school student |
@@ -38,13 +39,13 @@
 |  | PSYC 534 | 3 | A | Psych major (elective) |  |  |  |  |
 |  | PSYC 559 | 3 | A | Data science minor (extra) |  |  |  |  |
 |  | STOR 120 | 4 | A- | Data science minor (main) |  |  |  |  |
-| **Spring 2026** | ANTH 121 | 3 |  | Gened <br>(FC-past) |  | In progress | 15 | Anthropic, Lafayette |
-|  | ASTR 110 | 3 |  | Gened (FC-create) |  |  |  |  |
-|  | GEOG 115 | 3 |  | Data science minor (main) |  |  |  |  |
-|  | PSYC 242 | 3 |  | Psych major |  |  |  |  |
-|  | PSYC 260 | 3 |  | Psych major |  |  |  |  |
-| **Fall 2026** | GEOG 121 | 3 |  | Gened (FC-global) |  | Intended | 12 | Anthropic, Lafayette |
+| **Spring 2026** | ANTH 121 | 3 | A | Gened <br>(FC-past) | 4.000 | Completed | 15 | Anthropic, Lafayette |
+|  | ASTR 110 | 3 | A | Gened (FC-create) |  |  |  |  |
+|  | GEOG 115 | 3 | A | Data science minor (main) |  |  |  |  |
+|  | PSYC 242 | 3 | A | Psych major |  |  |  |  |
+|  | PSYC 260 | 3 | A | Psych major |  |  |  |  |
+| **Fall 2026** | GEOG 121 | 3 |  | Gened (FC-global) |  | Intended | 12 | Thursday Strategy |
 |  | PSYC 601 | 3 |  | Elective |  |  |  |  |
 |  | STOR 113 | 3 |  | Psych major (allied science) |  |  |  |  |
 |  | STOR 455 | 3 |  | Data science minor (extra) |  |  |  |  |
-| **Total** | Too damn many |  |  |  | 3.672 | Bachelor degreeee | 97/125 |  |
+| **Total** | Too damn many |  |  |  | 3.716 | B.S. (Psychology)  | 112/124 |  |
