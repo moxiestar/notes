@@ -6,14 +6,15 @@ Completed: false
 tags: []
 ---
 
+
 # **Things I need to do to fix my life**
 
 ### Immediate
 
-- [x] Formulate list of things to talk about in therapy ( [[Life/Therapy notes/Therapy next week]] )
+- [x] Formulate list of things to talk about in therapy ( [[Life/Therapy notes/Therapy this week]] )
 - [x] Write husband manifestation
 - [x] Sign at Thursday
-- [ ] Pick up new lenses at Academy Eye (Monday)
+- [x] Pick up new lenses at Academy Eye (Monday)
 - [ ] Redo headshots and LinkedIn banner
 - [ ] Go to the range
 - [ ] Get tested for autism & OCD
@@ -21,7 +22,7 @@ tags: []
 ### In progress
 
 - [ ] Get back on meds/herbs
-- [ ] Finish my internship
+- [x] Finish my internship
 - [ ] Start my new job
 
 ### Ongoing
