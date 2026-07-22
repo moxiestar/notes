@@ -6,7 +6,6 @@ Completed: false
 tags: []
 ---
 
-
 # **Things I need to do to fix my life**
 
 ### Immediate
@@ -15,7 +14,7 @@ tags: []
 - [x] Write husband manifestation
 - [x] Sign at Thursday
 - [x] Pick up new lenses at Academy Eye (Monday)
-- [ ] Redo headshots and LinkedIn banner
+- [ ] Redo headshots
 - [ ] Go to the range
 - [ ] Get tested for autism & OCD
 

@@ -1,18 +1,18 @@
-# **Plot ideas**
+# **Outline**
 
-Diana Kowalski, a young sergeant at a small-town Pacific Northwest police station, is going through her ex’s stuff after their long-term relationship has fallen apart. A successful businessman, he has cut her off and moved to the city, leaving her to rebuild her life alone. Her high school friend, Katherine, encourages her to date around town, but Diana is uninterested. 
+Diana Kowalski, a young sergeant at a small-town Pacific Northwest police station, is going through her ex’s stuff after their long-term relationship has fallen apart. A successful businessman, he has cut her off and moved to the city, leaving her to rebuild her life alone. Her high school friend, Katherine, encourages her to date around town, but Diana is uninterested.
 
-Bill Scofield, once a successful psychiatrist, has relocated to the same small town after his life in the city fell apart. His wife Allison and daughter Sara, killed years ago in a drunk driving accident where the perpetrator got away, haunt his dreams and memories. Scofield now lives alone and works as a forensic psychiatrist at the police station, where he is unpopular and largely ignored. He refuses to go to a therapist, disavowing psychology as a field, and with no other way to cope, he turns to alcohol. 
+Bill Scofield, once a successful psychiatrist, has relocated to the same small town after his life in the city fell apart. His wife Allison and daughter Sara, killed years ago in a drunk driving accident where the perpetrator got away, haunt his dreams and memories. Scofield now lives alone and works as a forensic psychiatrist at the police station, where he is unpopular and largely ignored. He refuses to go to a therapist, disavowing psychology as a field, and with no other way to cope, he turns to alcohol.
 
-A teenage girl, Olivia Murphy, gets booked at the station. After a confusing initial statement, Scofield is brought in to conduct a psychological interview, which only raises more questions about her past and her wellbeing. Diana and Scofield begin working together on Murphy’s case, and after initial disagreements, they start to get along. Over time, they begin having one-night-stands. 
+A teenage girl, Olivia Murphy, gets booked at the station. After a confusing initial statement, Scofield is brought in to conduct a psychological interview, which only raises more questions about her past and her wellbeing. Diana and Scofield begin working together on Murphy’s case, and after initial disagreements, they start to get along. Over time, they begin having one-night-stands.
 
-When Scofield comes to work intoxicated, Diana yells at him in front of everyone at the station, leading to warnings for them both. 
+When Scofield comes to work intoxicated, Diana yells at him in front of everyone at the station, leading to warnings for them both.
 
-As Murph continues to get in trouble, Scofield starts to take her under his wing. When Murph is taken into custody after her parents are exposed as violent criminals, Scofield agrees to take her in. They bond over their former lives. After Murph tells Scofield about the abuse she survived at the hands of her family, Scofield hunts down and kills her relatives in revenge. He is caught by Diana, who wants to book him for his crimes but doesn’t have the guts. He tells her about his marriage, and promises to work on his problems, but isn’t sure how he’ll figure it out. 
+As Murph continues to get in trouble, Scofield starts to take her under his wing. When Murph is taken into custody after her parents are exposed as violent criminals, Scofield agrees to take her in. They bond over their former lives. After Murph tells Scofield about the abuse she survived at the hands of her family, Scofield hunts down and kills her relatives in revenge. He is caught by Diana, who wants to book him for his crimes but doesn’t have the guts. He tells her about his marriage, and promises to work on his problems, but isn’t sure how he’ll figure it out.
 
-Back home, Murph runs away and is officially declared missing. Scofield and Diana mount a search. When they find her, Murph is fraught and upset, confessing that she isn’t sure she can keep living. Scofield takes her back home, and he and Diana care for her. 
+Back home, Murph runs away and is officially declared missing. Scofield and Diana mount a search. When they find her, Murph is fraught and upset, confessing that she isn’t sure she can keep living. Scofield takes her back home, and he and Diana care for her.
 
-At the end of their first year together, Scofield adopts Murph. They share an ice cream in the clinic parking lot and look forward to their future. 
+At the end of their first year together, Scofield adopts Murph. They share an ice cream in the clinic parking lot and look forward to their future.
 
 # Elements I want to include in this story
 
