@@ -14,7 +14,7 @@ tags: []
 - [x] Write husband manifestation
 - [x] Sign at Thursday
 - [x] Pick up new lenses at Academy Eye (Monday)
-- [ ] Redo headshots
+- [x] Redo headshots
 - [ ] Go to the range
 - [ ] Get tested for autism & OCD
 
