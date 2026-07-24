@@ -15,6 +15,7 @@ tags: []
 - [x] Sign at Thursday
 - [x] Pick up new lenses at Academy Eye (Monday)
 - [x] Redo headshots
+- [x] Order car
 - [ ] Go to the range
 - [ ] Get tested for autism & OCD
 
@@ -23,6 +24,7 @@ tags: []
 - [ ] Get back on meds/herbs
 - [x] Finish my internship
 - [ ] Start my new job
+  - [ ] Order new photo prints once paid
 
 ### Ongoing
 
