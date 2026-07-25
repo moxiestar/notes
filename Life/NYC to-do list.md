@@ -1,7 +1,7 @@
 ## At apartment
 
 - [ ] Wash sheets
-- [ ] Get new towel?
+- [ ] Get new towel
 - [ ] Get rid of old food
 - [ ] Get rid of toiletries
 - [ ] Take out recycling
