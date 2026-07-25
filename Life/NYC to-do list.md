@@ -8,7 +8,7 @@
 
 ## At work
 
-- [ ] Say goodbye to Hannah and John?
+- [ ] Say goodbye to Hannah?
 - [ ] **Clean out desk**
 
 ## Shopping

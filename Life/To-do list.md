@@ -24,11 +24,9 @@ tags: []
 - [ ] Get back on meds/herbs
 - [x] Finish my internship
 - [ ] Start my new job
-  - [ ] Order new photo prints once paid
 
 ### Ongoing
 
-- [ ] Spend more time with Piper
 - [ ] Go to therapy regularly
 - [ ] Start going to church
 - [ ] Eat three meals every day
