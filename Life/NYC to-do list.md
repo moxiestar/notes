@@ -1,21 +1,36 @@
+# Friday
+
 ## At apartment
 
 - [ ] Wash sheets
 - [ ] Get new towel
 - [ ] Get rid of old food
 - [ ] Get rid of toiletries
-- [ ] Take out recycling
 
 ## At work
 
-- [ ] Say goodbye to Hannah?
 - [ ] **Clean out desk**
 
-## Shopping
+## Outings
 
-- [ ] **Get tag removed from sweater at Banana Republic**
+- [ ] Lunch with Aly (give her gift cards?)
+- [ ] Drinks with Hannah
+- [ ] Get tag removed from sweater at Banana Republic
 - [ ] Exchange shirt at Brandy Melville
 
-## General
+# Saturday
 
-- [ ] Give Agata and Van Leeuwen’s gift cards to Aly
+## Outings
+
+- [ ] East Village Postal
+  - [ ] Get engagement card for Madi (East Village Postal?)
+  - [ ] Get letter to reply to Zlata
+- [ ] Coffee with Siri
+- [ ] Lunch with Julia
+- [ ] Go to Catbird for Stella?
+
+# Sunday
+
+## Outings
+
+- [ ] Drinks with Thursday co

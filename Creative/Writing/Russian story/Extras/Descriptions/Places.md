@@ -22,7 +22,7 @@ The sun glittered like so many gemstones on the water’s surface, and the after
 
 The first snow of the year was always the best. The cheer in the streets, the bright layer of clouds, the blanket of white, the blinding quiet in the early mornings.
 
-When he tried to imagine returning to the estate, he saw an abandoned house, no people, no noises. All the trees and gardens were dead. The cheerful place full of laughing guests and liveried servants existed only in his memory: it died with his mother, lay rotting in a barren grave.
+When he tried to imagine returning to the estate, he saw an abandoned house, no people, no noises. All the trees and gardens were dead. The cheerful place full of laughing guests and liveried servants existed only in his memory: it died with his mother and lay rotting in a barren grave.
 
 Above the glowing fireplace, Golitsyn’s portrait hung like a monument: he stood in tweed and plus fours, flanked by two spaniels, holding a shotgun. The artist had captured the auburn hair, the broad chest, the hooded eyes, the arrogant smirk. Bonaparte crossing the Alps could not have produced a more entrancing effect.
 

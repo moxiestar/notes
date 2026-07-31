@@ -364,7 +364,7 @@ She shrugged. “You never listen — I don’t know why I thought you would now
 
 “Oh, in that case, I’m so sorry.” She walked towards the door, her acres of lace cascading down the front of her nightgown. “I won’t take up any more of your precious time, since you’re so miserably unhappy. Goodnight, Alexis.”
 
-“Go to hell,” Sasha  muttered.
+“Go to hell,” Sasha muttered.
 
 “You’re the one who’s going to hell,” she snapped, whirling around. “Don’t you forget it.”
 
@@ -372,9 +372,7 @@ She shrugged. “You never listen — I don’t know why I thought you would now
 
 “It really is a pity that you couldn’t get a commission,” my grandmother went on. “Vanya, it is a pity that he couldn’t get a commission.”
 
-“You have the face of a much older man,” she said, as if this was a normal thing to say. “Well, seventeen. On n’est pas sérieux. So be it. When do you graduate from this school of yours — what do you call it?”
-
-Convinced of my youth, she lowered her glasses. “I thought you were twenty,” she said, in the same way an appalled dinner guest would’ve told a footman that the steak was undercooked.
+Convinced of my youth, she lowered her glasses. “I thought you were twenty,” she said, in the same way an appalled dinner guest would’ve told a footman that the steak was undercooked. “You have the face of a much older man,” she said, as if this was a normal thing to say. “Well, seventeen. On n’est pas sérieux. So be it. When do you graduate from this school of yours — what do you call it?”
 
 “Letter from my sister,” Sasha said. “She’s… ill.”
 
@@ -384,7 +382,7 @@ He snatched for it, but Sasha got it out of his grasp. The boy sat down on his b
 
 “Yes,” Ilyusha laughed, “that’s right. You know, I don’t think I’ve ever read Anna Karenina. Those long books just sap me of all my fortitude. I mean, what’s it have to be so long for? Why couldn’t he tell the story in fifty pages? Everyone knows what happens in the end. She falls in love with that Count whatever-his-name-is, and then she throws herself under a train. Gruesome way to go, by the way. Couldn’t she have shot herself or taken too much morphine or something straightforward like that? Really, I don’t see why he couldn’t have told it in fifty pages — or five. It’s a waste of paper, if you ask me.”
 
-Thankfully Tolstoy had not asked Ilyusha.
+Thankfully, Tolstoy had not asked Ilyusha.
 
 “If you let me, I’d drag us both down together, and you’re the last person in the world I want to hurt.”
 

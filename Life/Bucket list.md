@@ -1,10 +1,13 @@
-# In my life, I will… 
 
-- [ ] Graduate college 
+# In my life, I will…
+
+- [ ] Celebrate Halloween and dress up with someone
+- [ ] Graduate college
 - [x] Move to a new city
-- [ ] Be successful and happy at my first job 
+- [ ] Move back to New York and get my dream Lower Manhattan apartment
+- [ ] Be successful and happy at my first job
 - [ ] Move to another new city
-- [ ] Travel to a new place with my friend(s)
+- [ ] Travel to new places (Italy, Greece, Asia, Alaska, Colorado/Arizona, Ireland) with my friends 
 - [ ] Finish writing the Scofield book
 - [ ] Make a video game
 - [ ] Marry my dream man

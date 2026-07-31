@@ -30,10 +30,10 @@ Outside the cathedral a congregation of guests had descended upon the street lik
 
 It fell like a dead bird into an emerald sea, flashed, and was gone forever.
 
-Sitting on the end of my bed, he unpinned the medal from my fencing uniform and laid it on the blanket. He was struck by how greenish and dull the gold looked in the dark room. It was so goddamn ridiculous. He held it up, tried to see if it would catch any of the wan evening light that was trickling in through the windows, but it didn’t. It had all been for nothing.
+Sitting on the end of my bed, he unpinned the medal from his fencing uniform and laid it on the blanket. He was struck by how greenish and dull the gold looked in the dark room. It was so goddamn ridiculous. He held it up, tried to see if it would catch any of the wan evening light that was trickling in through the windows, but it didn’t. It had all been for nothing.
 
 King and country, glittering at the head of the parade, continued on past the crowds.
 
-A gray dampness permeated the world, relentless, unceasing, yet gentle. Suddenly understanding why everything had happened the way it had, the pilot brought his face to his own and kissed his lips.
+A gray dampness permeated the world, relentless, unceasing, yet gentle. Suddenly understanding why everything had happened the way it had, he brought his face up and kissed his lips.
 
 A beam of light flooded the compartment, and the camera flashed. The moment was over. The rays grew mottled, then faded altogether, and they went on, as the landscape danced in the windows and the track slowly split the country in two.
