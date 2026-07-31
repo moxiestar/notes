@@ -1,3 +1,4 @@
+
 # Friday
 
 ## At apartment
@@ -6,6 +7,7 @@
 - [ ] Get new towel
 - [ ] Get rid of old food
 - [ ] Get rid of toiletries
+- [ ] Upload photos of apartment 
 
 ## At work
 
