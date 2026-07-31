@@ -7,7 +7,8 @@
 - [ ] Get new towel
 - [ ] Get rid of old food
 - [ ] Get rid of toiletries
-- [ ] Upload photos of apartment 
+- [ ] Pack old stuff
+- [ ] Upload photos of apartment
 
 ## At work
 
@@ -15,10 +16,11 @@
 
 ## Outings
 
-- [ ] Lunch with Aly (give her gift cards?)
-- [ ] Drinks with Hannah
+- [ ] Lunch with Aly (give her gift cards)
+- [ ] Go to Niche Shop
 - [ ] Get tag removed from sweater at Banana Republic
 - [ ] Exchange shirt at Brandy Melville
+- [ ] Drinks with Hannah
 
 # Saturday
 
