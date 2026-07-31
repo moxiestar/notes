@@ -9,25 +9,23 @@
 - [x] Pack old stuff
 - [x] Upload photos of apartment
 
-## At work
-
-- [ ] **Clean out desk**
-
 ## Outings
 
 - [x] Go to Niche Shop
-- [ ] Get tag removed from sweater at Banana Republic
+- [x] Get tag removed from sweater at Banana Republic
 - [ ] Drinks with Hannah
+- [ ] Pick up office key from apartment?
 
 # Saturday
 
 ## Outings
 
+- [ ] Breakfast with Aly
+- [ ] Coffee with Siri
+- [ ] Lunch with Julia
 - [ ] East Village Postal
   - [ ] Get engagement card for Madi (East Village Postal?)
   - [ ] Get letter to reply to Zlata
-- [ ] Coffee with Siri
-- [ ] Lunch with Julia
 - [ ] Go to Catbird for Stella?
 
 # Sunday
@@ -35,3 +33,9 @@
 ## Outings
 
 - [ ] Drinks with Thursday co
+
+# Monday
+
+## At work
+
+- [ ] **Clean out desk (early morning)**
