@@ -15,7 +15,7 @@
 
 ## Outings
 
-- [ ] Go to Niche Shop
+- [x] Go to Niche Shop
 - [ ] Get tag removed from sweater at Banana Republic
 - [ ] Drinks with Hannah
 
