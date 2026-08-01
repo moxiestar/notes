@@ -13,25 +13,26 @@
 
 - [x] Go to Niche Shop
 - [x] Get tag removed from sweater at Banana Republic
-- [ ] Drinks with Hannah
-- [ ] Pick up office key from apartment?
+- [x] Drinks with Hannah
 
 # Saturday
 
 ## Outings
 
 - [ ] Breakfast with Aly
+- [ ] Pick up office key from apartment
 - [ ] Coffee with Siri
 - [ ] Lunch with Julia
 - [ ] East Village Postal
-  - [ ] Get engagement card for Madi (East Village Postal?)
-  - [ ] Get letter to reply to Zlata
-- [ ] Go to Catbird for Stella?
+  - [ ] Get engagement card for Madi 
+  - [ ] Get card to reply to Zlata
+- [ ] West Village (C. O. Bigelow)
 
 # Sunday
 
 ## Outings
 
+- [ ] Go to Catbird for Stella?
 - [ ] Drinks with Thursday co
 
 # Monday
