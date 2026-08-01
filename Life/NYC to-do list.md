@@ -19,19 +19,20 @@
 
 ## Outings
 
-- [ ] Breakfast with Aly
-- [ ] Pick up office key from apartment
+- [x] Breakfast with Aly
 - [ ] Coffee with Siri
 - [ ] Lunch with Julia
 - [ ] East Village Postal
-  - [ ] Get engagement card for Madi 
+  - [ ] Get engagement card for Madi
   - [ ] Get card to reply to Zlata
 - [ ] West Village (C. O. Bigelow)
+- [ ] Pick up office key from apartment
 
 # Sunday
 
 ## Outings
 
+- [ ] Coffee in Williamsburg
 - [ ] Go to Catbird for Stella?
 - [ ] Drinks with Thursday co
 
