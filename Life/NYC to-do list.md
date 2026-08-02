@@ -1,4 +1,3 @@
-
 # Friday
 
 ## At apartment
@@ -31,8 +30,9 @@
 
 ## Outings
 
-- [ ] Coffee in Williamsburg
+- [x] Coffee in Williamsburg
 - [ ] Go to Catbird for Stella?
+- [ ] Go back to East Village Postal for letter labels
 - [ ] Drinks with Thursday co
 - [ ] Send Mom to pick up office key from apartment
 
@@ -41,5 +41,4 @@
 ## Outings
 
 - [ ] **Clean out desk (early morning)**
-- [ ] Breakfast with Aly
-- [ ] Go to Aritzia?
+- [ ] Go to West Village 
