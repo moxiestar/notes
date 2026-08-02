@@ -20,13 +20,12 @@
 ## Outings
 
 - [x] Breakfast with Aly
-- [ ] Coffee with Siri
-- [ ] Lunch with Julia
-- [ ] East Village Postal
-  - [ ] Get engagement card for Madi
-  - [ ] Get card to reply to Zlata
-- [ ] West Village (C. O. Bigelow)
-- [ ] Pick up office key from apartment
+- [x] Coffee with Siri
+- [x] Lunch with Julia
+- [x] East Village Postal
+  - [x] Get engagement card for Madi
+  - [x] Get card to reply to Zlata
+- [x] Dinner
 
 # Sunday
 
@@ -35,9 +34,12 @@
 - [ ] Coffee in Williamsburg
 - [ ] Go to Catbird for Stella?
 - [ ] Drinks with Thursday co
+- [ ] Send Mom to pick up office key from apartment
 
 # Monday
 
-## At work
+## Outings
 
 - [ ] **Clean out desk (early morning)**
+- [ ] Breakfast with Aly
+- [ ] Go to Aritzia?
