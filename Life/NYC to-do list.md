@@ -1,3 +1,4 @@
+
 # Friday
 
 ## At apartment
@@ -31,14 +32,18 @@
 ## Outings
 
 - [x] Coffee in Williamsburg
-- [ ] Go to Catbird for Stella?
-- [ ] Go back to East Village Postal for letter labels
-- [ ] Drinks with Thursday co
-- [ ] Send Mom to pick up office key from apartment
+- [x] Drinks with Thursday co
+- [x] Send Mom to pick up office key from apartment
 
 # Monday
+
+## Work
+
+- [ ] **Email Pyone - weekly meetings, overall goals, project timelines**
 
 ## Outings
 
 - [ ] **Clean out desk (early morning)**
-- [ ] Go to West Village 
+- [ ] Go to West Village
+- [ ] Go to Catbird for Stella?
+- [ ] Go back to East Village Postal for letter labels
