@@ -1,4 +1,3 @@
-
 # Friday
 
 ## At apartment
@@ -39,7 +38,7 @@
 
 ## Work
 
-- [ ] **Email Pyone - weekly meetings, overall goals, project timelines**
+- [ ] **Email Pyone (see draft)**
 
 ## Outings
 
