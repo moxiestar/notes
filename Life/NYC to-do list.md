@@ -1,3 +1,4 @@
+
 # Friday
 
 ## At apartment
@@ -39,6 +40,7 @@
 ## Work
 
 - [ ] **Email Pyone (see draft)**
+- [ ] **Post on Instagram (see drafts)**
 
 ## Outings
 
