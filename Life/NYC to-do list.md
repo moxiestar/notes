@@ -45,5 +45,6 @@
 ## Outings
 
 - [x] **Clean out desk (early morning)**
+- [x] **Plan day tomorrow**
 - [ ] Go to West Village
-- [ ] Go to Catbird for Stella?
+  - [ ] Go to Catbird for Stella
