@@ -40,11 +40,10 @@
 ## Work
 
 - [x] **Email Pyone (see draft)**
-- [ ] **Post on Instagram (see drafts)**
+- [x] **Post on Instagram (see drafts)**
 
 ## Outings
 
 - [x] **Clean out desk (early morning)**
 - [ ] Go to West Village
 - [ ] Go to Catbird for Stella?
-- [ ] Go back to East Village Postal for letter labels
