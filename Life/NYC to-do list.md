@@ -1,4 +1,3 @@
-
 # Friday
 
 ## At apartment
@@ -46,5 +45,7 @@
 
 - [x] **Clean out desk (early morning)**
 - [x] **Plan day tomorrow**
-- [ ] Go to West Village
-  - [ ] Go to Catbird for Stella
+- [x] Go to West Village
+- [x] Move stationary over to my bag
+- [x] Find new references & sketchbook (Rifle Paper?) for Scofield story
+- [x] Wash chocolate stain out of tank top (with dish soap)
