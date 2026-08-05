@@ -4,11 +4,17 @@
 
 **HMM: AI study conducted every year**
 
+- **Notes on past studies (**[[HMM 2024-2025 notes]]**)**
+
 - **General focus:** measuring how things change over time
+
 - **Current focus:** quantifying personal relationships with AI
+
   - Investigating boundaries, information, communication style
   - Going deeper into topics that aren’t as widely covered
+
 - **Alpha panel:** group of testers using one+1
+
   - **Goal:** compare survey data to alpha panel data
     - Using truncated version of original HMM survey
 
@@ -30,4 +36,4 @@
 
 **Brainstorm what could be a good research question for this project**
 
-**Brainstorm potential survey questions** 
+**Brainstorm potential survey questions**
