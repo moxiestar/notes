@@ -2,6 +2,7 @@
 cssclasses:
   - indent
 ---
+
 # PART ONE.
 
 ## *1983. Scofield performs a resection.*
@@ -9,7 +10,7 @@ cssclasses:
 “I just can’t figure him out.”
 The circulator looks up from her desk. She frowns. “Dr. Scofield?”
 The neurosurgical operating room is dark: monitors and nameless students fade into blue oblivion. On the operating table, an old man is hidden under surgical drapes, a dark green sea capped with bright steel. A small window in the sterile cloth glows red. A piece of the man’s skull lies in a plastic cup nearby. Above the pulsating wound, manning a bipolar cautery pen, stands a surgeon in a green gown. The lighthead pours down on his face, picking him out like a psychic with a beaming crystal ball. 
-“Forceps,” he says, holding out a priceless hand. He has a deep voice, academic and confident, yet somehow soothing. The sort of voice heroic doctors on television have. 
+“Forceps,” he says, holding out a priceless hand. He has a deep voice, academic and confident, yet somehow soothing. The sort of voice heroic doctors on television have.
 “Think about it, Emma. He comes in from Yale with an MD-PhD, invents a new cure for epilepsy, and in ten years he’s the chief of neuro,” the scrub tech whispers to the circulator. “It doesn’t add up.”
 “Think he’s the next Dr. Death? Cool it.”
 The tech rolls her eyes. “That’s not what I meant. It’s just funny, that’s all. And then he had that big break with the implants, and then it’s like he’s lost his mind or something. He goes back to tumor resections, he sulks all day in his office, doesn’t speak to anyone.”
@@ -37,7 +38,7 @@ With his trademark nod, the surgeon travels the periphery of the room, taking of
 Taylor isn’t finished. “I think you might have just saved this man’s life.”
 “I aim to please.”
 “No shit,” Emma mutters, scrolling through the case list on her boxy computer. Turning on her nurse voice, she smiles up at the surgeon. “Your case tomorrow morning is in OR 21. Lateral craniotomy for another partial tumor resection. You’re taking over the case from Dr. Burlingame. There’s a med student from UCSF rotating — Tom Howard.” She holds out a printed copy of the file. “Here, in case you need it.”
-“Thanks.” He looks back at the surgical team before he pushes open the door. They can see his face now, his confident smile. He’s about to say something, but he shuts his mouth, and just nods. 
+“Thanks.” He looks back at the surgical team before he pushes open the door. They can see his face now, his confident smile. He’s about to say something, but he shuts his mouth, and just nods.
 The door shuts. Taylor sighs. 
 “This was his last case for the day, wasn’t it?” Bonnie says.
 Emma checks her computer. “Yeah, that’s it.”
@@ -148,7 +149,7 @@ He doesn’t say anything. Maybe he can’t.
 “I’m going back to bed. I have a headache.”
 She watches him, waiting for him to follow her. Waiting for him to turn and say, No, don’t go, I need you more than anything. He doesn’t move. 
 “Goodnight, Nick,” she says. 
-He can hear her soft footsteps as she goes up the stairs. He listens until they fade, then listens a little longer. Eventually, he knows, she will fall back asleep, no matter how much tossing and turning it takes. Scofield hasn’t slept in months. He’s back to the days of residency, those hundred-hour weeks, short nights lying in the hospital cot, holding the pager in his raw hands, waiting. 
+He can hear her soft footsteps as she goes up the stairs. He listens until they fade, then listens a little longer. Eventually, he knows, she will fall back asleep, no matter how much tossing and turning it takes. Scofield hasn’t slept in months. He’s back to the days of residency, those hundred-hour weeks, short nights lying in the hospital cot, holding the pager in his raw hands, waiting.
 He’s waiting again.
 Picking up his pen, he turns to the next page of the article and begins to write a note.
 
@@ -261,7 +262,7 @@ The girl’s double-color eyes dart across the room. She’s thinking. Her metal
 
 ## **Diana and Adela’s first sleepover.**
 
-Even lying at the foot of Adela’s bed, warmed in a fresh set of pajamas and swaddled in Mrs. Zhang’s spare wool blanket, the robot girl is still scared. She cannot understand why Leo is downstairs at the dining table, waiting for his mother. She cannot understand why Adela plays music from her funny little box before going to sleep. She cannot understand why she is not allowed to eat the strange paste in the blue tube by the sink in the bathroom. She cannot even understand why the siblings don’t trust her. 
+Even lying at the foot of Adela’s bed, warmed in a fresh set of pajamas and swaddled in Mrs. Zhang’s spare wool blanket, the robot girl is still scared. She cannot understand why Leo is downstairs at the dining table, waiting for his mother. She cannot understand why Adela plays music from her funny little box before going to sleep. She cannot understand why she is not allowed to eat the strange paste in the blue tube by the sink in the bathroom. She cannot even understand why the siblings don’t trust her.
 She turns over on the old lumpy pillow and looks up at the ceiling, covered in glow-in-the-dark stars. She knows they are not real stars, but she is not sure what separates them. 
 Lucky Number Seven, she told Leo. But she is bad luck. 
 From up on the bed, there’s a rustling sound. “Do you have a real name?” Adela asks. “I mean, seven isn’t a name. It’s a number. Is that, like, your code, or something?” She waits. “You’re a prototype, aren’t you? Your face looks human, but your body looks mechanical. Your eyes are mismatched. Like huskies. You ever seen a husky? You know, one eye’s blue, one eye’s brown.” She waits some more. “And you know something else? You’re a kid. If I was gonna build a robot, I’d make it an adult.” She sits up. “Are you asleep, Lucky?”
@@ -319,8 +320,8 @@ He sits bolt upright in bed, gasping, hand on his chest. He’s at home. None of
 Sighing, he falls back against his pillows and shut his eyes. 
 “Dr. Scofield?” 
 The voice is coming from downstairs: probably his neighbor. Emma? Eloise? Something feminine to that effect. He’s never been good with names. Leaning over, he checks his pager, his watch. It’s Saturday. He’s off the trauma shift. 
-As he stumbles through the kitchen, buttoning his pajamas, he tries to figure it out. Emmaline, or whatever it is, hasn’t shown her face in months. A year, even. They introduced themselves back when they moved in, used to have nice family dinners together. Now things are different. He sees her through the window, her reflection mirrored in his face, and waves sometimes. But they never speak. Why now? A noise complaint? He vaguely remembers pulling into the driveway at three in the morning, groaning as he discovered a scratch on his Alfa Romeo. He hopes she isn’t trying to rekindle a friendship, forcing a connection out of convenience. 
-Rubbing his eyes, he opens the door. It is his neighbor, just as he feared — a short, tough woman with long reddish hair pulled back from her face. Her face has hardened in an unusually appealing way: a strong mouth and deep, patient eyes. Under a taupe Patagonia fleece, she’s wearing a pair of custom pink scrubs. 
+As he stumbles through the kitchen, buttoning his pajamas, he tries to figure it out. Emmaline, or whatever it is, hasn’t shown her face in months. A year, even. They introduced themselves back when they moved in, used to have nice family dinners together. Now things are different. He sees her through the window, her reflection mirrored in his face, and waves sometimes. But they never speak. Why now? A noise complaint? He vaguely remembers pulling into the driveway at three in the morning, groaning as he discovered a scratch on his Alfa Romeo. He hopes she isn’t trying to rekindle a friendship, forcing a connection out of convenience.
+Rubbing his eyes, he opens the door. It is his neighbor, just as he feared — a short, tough woman with long reddish hair pulled back from her face. Her face has hardened in an unusually appealing way: a strong mouth and deep, patient eyes. Under a taupe Patagonia fleece, she’s wearing a pair of custom pink scrubs.
 “Dr. Scofield,” she says, smiling. She’s got that slow Eastern North Carolina accent. 
 “Ah,” he says. “Emily?”
 “Eleanor. Eleanor Douglas.”
@@ -337,7 +338,7 @@ Scofield nods. “That’s right. Can I get you anything? Coffee?”
 “Yeah, I work nights in the ER.”
 Eleanor chooses a chair, the one that looks the least like a sculpture and the most like a piece of furniture. She sits with her hands folded in her lap and watches as Scofield makes himself a cup of coffee. A heavy pour. She wonders if the rumors are true. On a glass table nearby, an issue of the American Journal of Psychology lies atop a neuroanatomy fold-out textbook. She cracks it open and flips through the colorful pages. 
 “You sure have a lot of books,” she says, feeling vastly undereducated. 
-He shrugs. “I haven’t read most of them. My colleague asked me to read that journal two years ago. Haven’t touched it.” With his coffee in one hand, he takes a pack of Camels off the end of the kitchen counter and tosses it to her. 
+He shrugs. “I haven’t read most of them. My colleague asked me to read that journal two years ago. Haven’t touched it.” With his coffee in one hand, he takes a pack of Camels off the end of the kitchen counter and tosses it to her.
 She lights one, continues through gritted teeth: “Too busy?”
 “Something like that.”
 “Have you always been a neurosurgeon?”
@@ -386,7 +387,7 @@ Tony waves back. She doesn’t see him. 
 ## **Lila yells at Adela.
 
 Some girls, Adela believes, are born with a natural, God-given understanding of the social arena. They know what to say, how to say it, when to say it. They know how big their smiles should be, what color eyeshadow they should wear. They know what to do to make boys crazy. Adela is not one of those girls. But Lila Taylor is. 
-Lila Taylor is a lot of things. She is tall, but not too tall; skinny, but not flat. She is smart — not book smart: she can’t spell suspicious — but people smart. She’s got a great smile, big brown eyes, long blonde movie-star hair. Her pale pink top, with that ruched sweetheart neckline, is decorated with tiny embroidered flowers. Underneath, a magenta miniskirt shapes her hips. Any other girl in that skirt would’ve gotten dress-coded before they even stepped in the door. But not Lila. Around her neck is a gold locket, real gold: a present from her parents on her thirteenth birthday. Her dad’s a doctor, the kind that puts people to sleep. More importantly, the kind that makes a lot of money. 
+Lila Taylor is a lot of things. She is tall, but not too tall; skinny, but not flat. She is smart — not book smart: she can’t spell suspicious — but people smart. She’s got a great smile, big brown eyes, long blonde movie-star hair. Her pale pink top, with that ruched sweetheart neckline, is decorated with tiny embroidered flowers. Underneath, a magenta miniskirt shapes her hips. Any other girl in that skirt would’ve gotten dress-coded before they even stepped in the door. But not Lila. Around her neck is a gold locket, real gold: a present from her parents on her thirteenth birthday. Her dad’s a doctor, the kind that puts people to sleep. More importantly, the kind that makes a lot of money.
 Adela hikes her backpack up again. She keeps her eyes on the door. Through it, she sees Mr. Tsao, with his sad shaggy hair and his sweatervest, standing behind his desk, flipping through his materials. She’s been looking forward to this lecture for weeks.
 “Addy,” Lila calls, just as Adela puts her foot through the doorway. 
 Adela stops. “I’m not talking to you.”
@@ -439,7 +440,7 @@ Tony’s hand shoots up. At the back of the classroom, Adela rolls her eyes. 
 “A cyborg,” Tony says, “is like an android, except it has the brain and nervous system of a human.”
 Mr. Tsao nods, a small smile on his face. “That’s exactly right, Anthony.” On the board, he writes, *CYBORG: Human? Robot?* He pauses. Underneath, he writes, *Both?*
 He turns back to the class. “Well? Let’s get a volunteer here. Thank you, Anthony, but we should give someone else a chance to answer. How about you, Lila?”
-Lila Taylor slowly lifts her head. A white bandage blocks out the bridge of her nose. Under her desk, she snaps her pink flip phone shut. “Um,” she begins, starting off strong, “I don’t know. I think all this stuff is pretty freaky. What if they’re evil robots?They could destroy our world.”
+Lila Taylor slowly lifts her head. A white bandage blocks out the bridge of her nose. Under her desk, she snaps her pink flip phone shut. “Um,” she begins, starting off strong, “I don’t know. I think all this stuff is pretty freaky. What if they’re evil robots? They could destroy our world.”
 Mr. Tsao shrugs. “It’s definitely possible. What do you think, would you want to live alongside cyborgs or robots? Thumbs up?”
 A few brave students raise their hands. 
 “Interesting. Thumbs down?” He nods, watching the hands fly up. “That’s what I thought. Well, thankfully for you, it’s not currently possible to create something like this. But what if it was? Let’s say a doctor and a scientist could come together, build the world’s first human cyborg. What do you think it would look like?” He waits. “A boy? A girl? Tall? Strong? Would it be a servant? A soldier?” He drums his fingers on the corner of his desk. “It would only make sense for it to be able to hear, see, talk. But could it think? Could it feel?”
@@ -495,14 +496,14 @@ Mrs. Zhang came home and left again before the girl was even awake. Leo’s alar
 But she’s getting bored of the television. She’s turned it on, off, back on, made the broadcasters speak French, moved the pixels around so they made funny shapes. There are only so many things you can do with a television. 
 She goes back upstairs. Mrs. Zhang’s room is off limits, and Leo’s room — a repurposed office space – holds little appeal. But Adela’s room is fair game. 
 Last night, in the dark, the girl couldn’t see much besides the stars. But now that the room has woken up, she sees the bed with the big plaid duvet; the posters covering the walls — Radiohead, Apollo 11, Led Zeppelin; the laundry awkwardly shoved in a corner; the chunky CD player sitting on the overstuffed dresser. She leans in, squints at the silver logo. A tiny screen reads “disc 1” — next to it, a triangular button. She presses it, hears the click of plastic on plastic. Then she hears it.
-She’s heard music before. At least, she’s heard of music. But now, hearing the guitar, the voices, all layered on top of each other, filling up the small room, she feels something new. 
+She’s heard music before. At least, she’s heard of music. But now, hearing the guitar, the voices, all layered on top of each other, filling up the small room, she feels something new.
 *Rain down... rain down... come on, rain down...*
 She puts her face up to the CD player, her plastic hands pressed against the display. She wishes she could go inside of the music. Sliding her finger across the screen, she makes the music move: faster, slower, higher. This was her favorite trick, back then. They could never figure out how she did it. They used to crowd around her with their clipboards and say, Triple Seven, do it again. Triple Seven, what’s going through your mind at this moment?
 “What are you doing?”
-She jumps back. Standing in the doorway, backpack over one shoulder, is Leo. He looks like he’s just seen a ghost. 
-“Music,” she says, pointing helpfully. 
+She jumps back. Standing in the doorway, backpack over one shoulder, is Leo. He looks like he’s just seen a ghost.
+“Music,” she says, pointing helpfully.
 Leo nods. He steps in, switches the CD player off. “You haven’t gotten into anything else, have you?”
-The girl shakes her head. 
+The girl shakes her head.
 “Great.” Leo forces a smile, turns on his heel, and disappears into the hall. He comes back a moment later without his bag, his sleeves rolled up on his arms. “Well? You still talk, right?”
 She eyes him doubtfully. “Where’s Adela?”
 “Still at school with the computer nerd.” Leo sits down on the chair in the corner. “She said they’re doing a science project together. That poor kid, he’s totally got the hots for her. I don’t know why she won’t just humor him and go out on one date.”
@@ -516,8 +517,8 @@ She shakes her head.
 “Yes.”
 “And the rest of you’s… mechanical?”
 “Yes.”
-Leo whistles. “Of course my sister’s gonna take your side. You’re quiet, you’re sad, you look like the Terminator…. Man, if Ma finds out, we’re so screwed.” 
-He looks over at the girl. She’s almost smiling. 
+Leo whistles. “Of course my sister’s gonna take your side. You’re quiet, you’re sad, you look like the Terminator…. Man, if Ma finds out, we’re so screwed.”
+He looks over at the girl. She’s almost smiling.
 “Do you have parents?” Leo continues. “Like, mother, father, you know? I guess Adela probably already asked you that.”
 “Just Mother.”
 “Okay, that’s something. Does she know you’re… uh… at large?”
@@ -525,7 +526,7 @@ He looks over at the girl. She’s almost smiling.
 Leo winces. “Should’ve guessed. Sorry.” He waits. “My dad’s dead too. He was a pilot. Adela took it pretty hard. She says Ma always liked me better, but I don’t know what she’s talking about, she just needs to grow up a little. Ma’s only nicer to me cause I don’t get detention every other week. If she could just…” He stops. “Oh my God, I’m monologuing to a robot.”
 The girl smiles. “Human.”
 “Sure, if you say so.” He thinks. “What’s your name?”
-She looks down. 
+She looks down.
 “Figured. Too good to be true.” He gets up, ruffling his hair again. “Well, if you wanna talk, I’m downstairs. No, wait — don’t come downstairs. Just stay here.”
 The girl grabs his arm. She fixes him with her big mismatched eyes. “Diana,” she says.
 Leo searches her face. “Diana?”
@@ -536,16 +537,16 @@ She points again, a little more emphatic this time.
 
 ## **Adela and Diana talk about boys.
 
-When Adela comes back an hour later, Diana hears her down in the kitchen, talking to Leo. Adela’s voice is strong and full of feeling, as human as it gets: it travels up like birdsong, and Diana catches every other word. Then she hears her footsteps, racing up the stairs. 
+When Adela comes back an hour later, Diana hears her down in the kitchen, talking to Leo. Adela’s voice is strong and full of feeling, as human as it gets: it travels up like birdsong, and Diana catches every other word. Then she hears her footsteps, racing up the stairs.
 “Hey,” Adela says, “you okay? Sorry I’m so late. Tony kept me at school to talk science stuff. Shit, I bet Leo drove you nuts. He said he actually talked to you, but I don’t believe him.”
 Diana nods.
 “No shit. He wasn’t kidding. Is it true your name is Diana?”
 She nods again.
 “Sick.” Adela sets down her backpack and pulls out a book. “I stopped at the school library before I came home. Mr. Tsao — he’s our science teacher, like I was telling you last night — was talking about cyborgs in class today.”
-Reaching out her plastic hand, Diana takes the book. She opens it, carefully turns back a page. 
+Reaching out her plastic hand, Diana takes the book. She opens it, carefully turns back a page.
 “That’s you, isn’t it? That’s what you are?”
-On a glossy page, an academic diagram illustrates a man, upright and broad. His skull is cut away to reveal a human brain; a spinal cord snakes down his back. But his body, like Diana’s, is plastic and metal. His limbs glint like gunmetal. Diana brings the book up to her face and touches the paper. 
-“Yes,” she says, putting the book aside. 
+On a glossy page, an academic diagram illustrates a man, upright and broad. His skull is cut away to reveal a human brain; a spinal cord snakes down his back. But his body, like Diana’s, is plastic and metal. His limbs glint like gunmetal. Diana brings the book up to her face and touches the paper.
+“Yes,” she says, putting the book aside.
 Adela grins. “That’s insane. Jesus, that is so cool. Are you the only one?”
 Diana thinks about it, her eyes flitting up. “Yes. More… more robots.”
 “But you’re the only cyborg?”
@@ -555,7 +556,7 @@ There’s a silence. Diana’s eyes dart across the room. “Mother,” she says
 “Okay, it’s okay.” Adela reaches out to touch Diana’s arm. “We’re gonna make sure they don’t find you. As long as you’re here, you’re gonna be okay.”
 “No police?”
 “No police. No Mother. No nothing.”
-“Okay,” Diana says. 
+“Okay,” Diana says.
 Smiling, Adela sits down next to Diana, resting against the end of the bed. “When this all gets sorted out, I gotta take you over to my friend Tony’s place,” she says. ”He’s got a ton of video games. You’d love ’em. He’s got Alone in the Dark, Mario, all the cool stuff. He’s even got Resident Evil. I guess you probably haven’t heard of Resident Evil. Ma never lets me play any of that shit — she wants me to go with her on the weekends to play Mahjongg. Man, fuck Mahjongg, I want a PlayStation. I bet she’ll get one for Leo, cause he’s such a goody-two-shoes. He and his asshole girlfriend.” She looks over at Diana. “Man, you’re real lucky you don’t have to go to school.”
 ”Not lucky. Bad luck.” Diana shakes her head. “Bad luck.”
 ”Nuh uh. You’re cool, as cool as it gets. *I* like you, and that’s saying a lot — I don’t like anybody at school. Except Tony, I guess. But you’re cooler than all those kids.”
@@ -566,12 +567,12 @@ Diana smiles. “Okay.”
 Diana frowns. She points to Adela. “No girlfriend?”
 “No, dude. I’m not into girls. I don’t know if I’m into anyone. It just seems like a waste of time. I wanna be an astronaut someday, you know, and if I wanna actually make it, I can’t spend all my time worrying about boys. Who gives a fuck what they think? I don’t wanna be somebody’s daughter or somebody’s girlfriend and then grow up to be somebody’s wife and somebody’s mother. It’s such bullshit. We’re better than that.” Adela gets up, switches the CD player back on. “Ever heard of Radiohead?”
 
-## *Dr. Scofield apologizes to McLaughlin. Not good enough.* 
+## *Dr. Scofield apologizes to McLaughlin. Not good enough.*
 
-McLaughlin sits back in his chair and kicks his feet up on the table. His uniform jacket is hanging over the arm of the couch, one sleeve drooping on the floor. His hat is on the carpet nearby, resting on his belt, the buckle glinting in the sun. He’s got his white wife beater on over his slacks, his arms decorated with scars, at least ten, maybe twenty, running from his shoulders to his hands. One decorates his collarbone, the edge just visible above his shirt. Another lies on his chin, dark and feathery. His hair is running away from itself, brushing his ears, covering his temples. In one hand is a glass of scotch; in the other is a fresh newspaper. Taking a sip of his drink, he scans the page, smiling to himself. It’s the first moment he’s had to himself since the week began. He imagines this is how Bond must feel, before the girl betrays him and the Russians catch up. It’s as he’s lifting his glass that he hears a knock. 
-“Oh, you have got to be fuckin’….” He trails off, squints through the window. The surgeon from across the street — Scofield. He’s got his sharp scrubs on, his North Face, his little silver glasses. McLaughlin had almost forgotten about the mailbox. There’s a chance, if he stays quiet, Scofield might leave. 
-A minute later, there’s another knock. 
-“Fuckin’ hell,” McLaughlin mutters. He puts down his glass, pushes the newspaper away, and stumbles to the door. 
+McLaughlin sits back in his chair and kicks his feet up on the table. His uniform jacket is hanging over the arm of the couch, one sleeve drooping on the floor. His hat is on the carpet nearby, resting on his belt, the buckle glinting in the sun. He’s got his white wife beater on over his slacks, his arms decorated with scars, at least ten, maybe twenty, running from his shoulders to his hands. One decorates his collarbone, the edge just visible above his shirt. Another lies on his chin, dark and feathery. His hair is running away from itself, brushing his ears, covering his temples. In one hand is a glass of scotch; in the other is a fresh newspaper. Taking a sip of his drink, he scans the page, smiling to himself. It’s the first moment he’s had to himself since the week began. He imagines this is how Bond must feel, before the girl betrays him and the Russians catch up. It’s as he’s lifting his glass that he hears a knock.
+“Oh, you have got to be fuckin’….” He trails off, squints through the window. The surgeon from across the street — Scofield. He’s got his sharp scrubs on, his North Face, his little silver glasses. McLaughlin had almost forgotten about the mailbox. There’s a chance, if he stays quiet, Scofield might leave.
+A minute later, there’s another knock.
+“Fuckin’ hell,” McLaughlin mutters. He puts down his glass, pushes the newspaper away, and stumbles to the door.
 “Major McLaughlin,” Scofield says, flashing his cool smile. “I’m not bothering you, am I?”
 “Damn straight, you are. The hell you comin’ over for? Unless you got money or a new mailbox, I don’t wanna hear it.”
 “Major…” Scofield glances down at McLaughlin’s slacks, the badge clipped to his waistband. “You’re a police officer?”
@@ -587,7 +588,7 @@ McLaughlin shrugs. “I guess so.” When Scofield prompts him, he continues. �
 “Any chance you know what happened to that kid’s parents?” Scofield says. ”He can’t be much older than thirteen. I just have to wonder —”
 “All right, can it, doc. You tryin’ to change the subject, ain’t gonna work.” McLaughlin leans on the doorframe. “You look like you’re squirmin’, like you got some big apology planned out.”
 “Not at all, I just came to try to have a conversation. Like I said, Detective, I’m sorry I wrecked your mailbox. If it makes you feel any better, I was the laughing stock of the hospital yesterday morning.”
-McLaughlin chuckles. ”You know, doc, that does make me feel better. I can just picture it. Department head comin’ into work, tail between his legs. Big dent on the side of his fancy race car.” The chuckle turns into a laugh. 
+McLaughlin chuckles. ”You know, doc, that does make me feel better. I can just picture it. Department head comin’ into work, tail between his legs. Big dent on the side of his fancy race car.” The chuckle turns into a laugh.
 Scofield forces a smile. “Happy to help.” He holds out his hand. “Could we put it behind us?”
 “You outta your fuckin’ mind? You ran over my damn mailbox. Say that mailbox had been me. You could’ve killed me. I was an hour late to work fixin’ that damn thing and I still ain’t done with it. And you wanna put it behind us?”
 Sighing, Scofield takes back his hand. “I told you, I’m sorry.”
@@ -603,17 +604,17 @@ Scofield rolls his eyes. “Look, Detective, what do you want?”
 ## *Dr. Scofield contemplates suicide.
 
 At home, the kitchen is bathed in light. The counters are glowing, the cutlery sparkling in the sink. The sun, pouring through the window, blurs the room with its yellow haze. Scofield sits at the kitchen counter, a cup of coffee half-empty in his hands. These days, he needs the coffee just to stay awake. Not during surgery — he has no trouble with the scalpel — but as soon as he leaves the hospital. It’s as if he’s a different person inside than out. There’s something eating away at him. Something stagnant, like algae blooming across a dead pond.
-He doesn’t remember how it happened, or when it began — maybe last month, last year, maybe before Allison left. He hardly remembers how long it’s been since the divorce. It could have been three weeks or six years and it wouldn’t make a difference. It’s as if he’s watching himself, watching as he operates, watching as he talks to his colleagues, watching as he goes home, gets in bed, wakes up with his alarm, drinks his coffee, drives back in. Operates again. Different patient, same procedure, same blood on his gloved hands. The cases go longer than they used to. He leaves the hospital at the same time but feels as if he’s been in the OR for weeks. 
-Sometimes, he takes his mind off it. A cigarette, a night out, a new prescription. But it never leaves. It never changes. In his life, there has been a clear before and after. He didn’t notice as he moved from one to the other. But slowly, he became aware of the change. All the best memories, the biggest awards, the kindest people — all of it belongs to the before. The after is just one day, the same meaningless day, that keeps replaying over and over again. There’s nothing after the after. This is it — Scofield knows that. And recently, he’s started to have this feeling, a feeling he can’t quite put into words. Like he’s waiting for something. A quiet night, the right time. Recently, he’s been so tired. It would be nice to sleep, not have to wake up for a while: a week, a month. A year. That’s what’s next, that’s what comes after the after. That’s what he’s waiting for. 
-The morning passes at the kitchen counter. At half past noon, he has lunch. Later, he showers, throws his scrubs in the laundry, cleans his glasses. He stands on the porch, above the garden and the driveway, where his Ferrari is sitting, dented and a little pathetic. He smokes: always Camel. Then he goes back in, and waits. 
+He doesn’t remember how it happened, or when it began — maybe last month, last year, maybe before Allison left. He hardly remembers how long it’s been since the divorce. It could have been three weeks or six years and it wouldn’t make a difference. It’s as if he’s watching himself, watching as he operates, watching as he talks to his colleagues, watching as he goes home, gets in bed, wakes up with his alarm, drinks his coffee, drives back in. Operates again. Different patient, same procedure, same blood on his gloved hands. The cases go longer than they used to. He leaves the hospital at the same time but feels as if he’s been in the OR for weeks.
+Sometimes, he takes his mind off it. A cigarette, a night out, a new prescription. But it never leaves. It never changes. In his life, there has been a clear before and after. He didn’t notice as he moved from one to the other. But slowly, he became aware of the change. All the best memories, the biggest awards, the kindest people — all of it belongs to the before. The after is just one day, the same meaningless day, that keeps replaying over and over again. There’s nothing after the after. This is it — Scofield knows that. And recently, he’s started to have this feeling, a feeling he can’t quite put into words. Like he’s waiting for something. A quiet night, the right time. Recently, he’s been so tired. It would be nice to sleep, not have to wake up for a while: a week, a month. A year. That’s what’s next, that’s what comes after the after. That’s what he’s waiting for.
+The morning passes at the kitchen counter. At half past noon, he has lunch. Later, he showers, throws his scrubs in the laundry, cleans his glasses. He stands on the porch, above the garden and the driveway, where his Ferrari is sitting, dented and a little pathetic. He smokes: always Camel. Then he goes back in, and waits.
 
 ## *Tony’s conversation with Dr. Scofield.
 
-Late in the afternoon, when Tony Douglas rings the doorbell, Scofield’s house looks almost empty. Only the lamp in the living room is still on, beaming through the picture window. But Scofield opens the door with a smile. He looks as calm as ever, clean cut in his blue sweater even on his day off. 
+Late in the afternoon, when Tony Douglas rings the doorbell, Scofield’s house looks almost empty. Only the lamp in the living room is still on, beaming through the picture window. But Scofield opens the door with a smile. He looks as calm as ever, clean cut in his blue sweater even on his day off.
 “Anthony,” he says. “Your aunt told me you might be stopping by today. Come in.”
-Tony grins. He still has his backpack on — it’s sagging a bit, stuffed full of books and gadgets. Scofield shuts the door behind him and retires to the kitchen. 
-“Cup of tea?” he says. 
-“Sure, Dr. Scofield.” 
+Tony grins. He still has his backpack on — it’s sagging a bit, stuffed full of books and gadgets. Scofield shuts the door behind him and retires to the kitchen.
+“Cup of tea?” he says.
+“Sure, Dr. Scofield.”
 “Just put your bag anywhere. I’ve got a few old case files out on the table — just notes, of course, no names. HIPAA, you know. Your aunt said you were interested in engineering?”
 Tony plops down on one of the living room loveseats, dropping his bag by his feet. “That’s right, Dr. Scofield.”
 “Well, I don’t know much about engineering or computers, but I can tell you what I do know about science, share a few stories. Is green tea okay?”
@@ -650,38 +651,38 @@ Tony takes the journal, holding it like it’s a sacred text. “Are you sure?�
 “You should totally check out Resident Evil. It’s the coolest game out right now. You play as this super tough police officer who has to fend off these zombies. You get to explore this big mansion, and there’s puzzles, and fight scenes, and everything.”
 Scofield nods. “Maybe I’ll have a look.”
 “Okay, well, thanks, really,” Tony says, zipping up his backpack. “I gotta head back to do my homework. You wouldn’t mind if I came back next weekend, would you?”
-”Not at all, Anthony. I’m curious to hear what you think about the journal.” He follows Tony to the foyer, his hands in his pockets. 
+”Not at all, Anthony. I’m curious to hear what you think about the journal.” He follows Tony to the foyer, his hands in his pockets.
 At the door, his shoes tied and his jacket buttoned, Tony stops. “Dr. Scofield,” he says. “Are your hands really insured?”
 
 ## *Nightmare #2. Who is this kid, anyway?*
 
-He’s back here again. The operating room, the blood, the walls a little too close, the ceilings a little too low. He can already see the red pooling around his feet. And the boy on the table, his head rolling back on his neck, his cadaver-pale hands lying limp beside his body. The drapes are on the floor — the boy’s skull is crackled crudely open, a shard of bone left carelessly close to the wound. The techs and nurses are crowded around him, the doctors circling the room. 
-Scofield looks down at his hands. It’s as if they belong to someone else. In his right hand is a slim metal pick. In his left, a small hammer. Stepping in, he watches the surgical team. Their faces are strange — their voices are unfamiliar. This isn’t his team. 
-One of the nurses turns around, beckons him over. “Dr. Scofield, it’s time,” she says. 
-The blue gowns disperse. Suddenly, he is alone. He peers at the boy, but his features keep shifting, changing. He reaches down, checks for a pulse. The boy’s heart is beating, but the rhythm is irregular, almost inhuman. 
+He’s back here again. The operating room, the blood, the walls a little too close, the ceilings a little too low. He can already see the red pooling around his feet. And the boy on the table, his head rolling back on his neck, his cadaver-pale hands lying limp beside his body. The drapes are on the floor — the boy’s skull is crackled crudely open, a shard of bone left carelessly close to the wound. The techs and nurses are crowded around him, the doctors circling the room.
+Scofield looks down at his hands. It’s as if they belong to someone else. In his right hand is a slim metal pick. In his left, a small hammer. Stepping in, he watches the surgical team. Their faces are strange — their voices are unfamiliar. This isn’t his team.
+One of the nurses turns around, beckons him over. “Dr. Scofield, it’s time,” she says.
+The blue gowns disperse. Suddenly, he is alone. He peers at the boy, but his features keep shifting, changing. He reaches down, checks for a pulse. The boy’s heart is beating, but the rhythm is irregular, almost inhuman.
 “It’s time,” the nurse repeats.
 When he looks over his shoulder, the room is empty. “Hello?” he calls out. “This boy is in critical condition. We can’t continue the operation.”
-Silence. 
+Silence.
 “What is the operation, anyway?” He searches for a monitor, a scan, a clue. A piece to the puzzle. “Who performed the craniectomy? Was there a bleed?”
-Still, silence. 
-“Great,” he mutters. He focuses on the boy. He can’t make out his face. When he tries to touch the boy’s hands, they slip away across the table. 
-“He’s still awake,” Scofield says. “We’ll need to up the dose.” He turns around again. The walls have fallen away. Every way he looks, the room stretches out into infinite blackness: no beginning, no end. His hands are shaking, his heart is up in his throat. There’s only one thing he can do. 
-He stands over the boy’s open head, watching the blood drip off the table. The boy stirs, twitches, like a dying deer fighting for its last moment. Scofield positions the pick above the incision and slowly lowers it. The steel cuts through the layers of cortical tissue, severing the boy’s consciousness. He raises the hammer. 
+Still, silence.
+“Great,” he mutters. He focuses on the boy. He can’t make out his face. When he tries to touch the boy’s hands, they slip away across the table.
+“He’s still awake,” Scofield says. “We’ll need to up the dose.” He turns around again. The walls have fallen away. Every way he looks, the room stretches out into infinite blackness: no beginning, no end. His hands are shaking, his heart is up in his throat. There’s only one thing he can do.
+He stands over the boy’s open head, watching the blood drip off the table. The boy stirs, twitches, like a dying deer fighting for its last moment. Scofield positions the pick above the incision and slowly lowers it. The steel cuts through the layers of cortical tissue, severing the boy’s consciousness. He raises the hammer.
 
-The blood pours over Scofield’s gloves. A piece of the boy’s skull cracks and slips onto the table. Again, the hammer comes down, crushing a sliver of the boy’s brain. In the background, he hears an alarm echoing through the hospital, beyond walls he cannot see. Code blue. The rhythmic beeping, getting louder and quieter, louder and quieter. Again he slams the hammer down onto the pick, driving further into the incision. 
-Squirming on the table, the boy opens his eyes. Frozen at first, they dart from left to right, then fix on Scofield. For the first time, Scofield can see him clearly. At least, he can see his eyes, wide and blue and full of fear. 
-“Jesus Christ,” Scofield mutters. He tries to step back, but he can’t move his legs, can’t stop his hands from striking again. 
-The boy tries to lift his arm. He’s trembling. Slowly he raises his hand, reaches for Scofield. 
+The blood pours over Scofield’s gloves. A piece of the boy’s skull cracks and slips onto the table. Again, the hammer comes down, crushing a sliver of the boy’s brain. In the background, he hears an alarm echoing through the hospital, beyond walls he cannot see. Code blue. The rhythmic beeping, getting louder and quieter, louder and quieter. Again he slams the hammer down onto the pick, driving further into the incision.
+Squirming on the table, the boy opens his eyes. Frozen at first, they dart from left to right, then fix on Scofield. For the first time, Scofield can see him clearly. At least, he can see his eyes, wide and blue and full of fear.
+“Jesus Christ,” Scofield mutters. He tries to step back, but he can’t move his legs, can’t stop his hands from striking again.
+The boy tries to lift his arm. He’s trembling. Slowly he raises his hand, reaches for Scofield.
 “What the hell….”
-“Stop,” the boy says. 
-Again the clink of metal against metal, again the blood spattering across Scofield’s gown. 
+“Stop,” the boy says.
+Again the clink of metal against metal, again the blood spattering across Scofield’s gown.
 “Stop…” The boy grabs Scofield’s arm, clenches his fist around his sleeve. “Stop….”
 “I can’t, I can’t. Work with me here, kid. Stay with me.”
 “Stop it, please.” The boy’s eyes are filled up with tears. His mouth slips into a terrified scowl. “Please, just stop.” There’s blood running over his face, trickling down the end of his nose. “Please.” He pulls Scofield’s hand away, shakes it. Seizing up, he begins to sob. “Please, Dad.”
 
-## **Tony calls Adela at Plastic Fantastic. 
+## **Tony calls Adela at Plastic Fantastic.
 
-“Hello?” Tony presses the phone up against his ear. Faintly, in the background, he can hear the soft rumble of music: a song from Alice in Chains’ latest album. Eleanor only allows him fifteen minutes of phone time each day — though he does his best to extend them — and he’s already used one of them listening to the ringing. 
+“Hello?” Tony presses the phone up against his ear. Faintly, in the background, he can hear the soft rumble of music: a song from Alice in Chains’ latest album. Eleanor only allows him fifteen minutes of phone time each day — though he does his best to extend them — and he’s already used one of them listening to the ringing.
 “Hi, thanks for calling Plastic Fantastic,” says a voice on the other end of the line. “How can I help you?”
 Tony grins. “Hi, Plastic Fantastic. This is Tony.”
 Perched on a stool behind the counter, her homework splayed before her, Adela rolls her eyes. For the past five minutes she’s been in a fight to the death with a particularly testy word problem, and she was just gaining the edge. She puts her pencil down and cups the receiver with her hand. “Tony, I’m at work.”
@@ -694,29 +695,29 @@ She hears Tony hesitate. “I was thinking about the science project,” he says
 “Right, okay, sorry. Anyway, he’s crazy smart, head of the department at Duke. I read some of his stuff, and turns out he did some work with robotics back in the day.”
 “No way.”
 “Yes way. He created a new type of neural implant.”
-“A what now?” She thinks maybe she heard him wrong. 
+“A what now?” She thinks maybe she heard him wrong.
 Tony laughs. “A neural implant. It goes inside your brain and changes the way your neurons signal. It’s just like the cyborg stuff that Mr. Tsao was talking about.”
 She sits back, shaking her head. “Tony, you know we can’t make anything crazy for the science project. Cyborgs are cool, but they aren’t real. You don’t see any robots or flying cars around, do you?”
 “No, but —”
 The bell above the door jingles. Adela glances up. “Hold on, Tony, I gotta call you back.”
-Out of all the customers she’s ever seen in the record store, this man might be the strangest. They get unusual visitors every now and then, punctuating the hipsters and skater kids, but as far as she can remember, they’ve never had someone straight off a sixties western set. The man is tall, dark, with a heavy gait and a suspiciously firearm-shaped bulge at his waist. A scarred leather jacket covers his flannel shirt. A healthy head of brown hair frames his face. He even has the hat to match, an old school cowboy hat. 
+Out of all the customers she’s ever seen in the record store, this man might be the strangest. They get unusual visitors every now and then, punctuating the hipsters and skater kids, but as far as she can remember, they’ve never had someone straight off a sixties western set. The man is tall, dark, with a heavy gait and a suspiciously firearm-shaped bulge at his waist. A scarred leather jacket covers his flannel shirt. A healthy head of brown hair frames his face. He even has the hat to match, an old school cowboy hat.
 “Hi, welcome to Plastic Fantastic,” Adela says, leaning across the counter. “Let me know if I can help you out.”
-“Afternoon,” the man says. He waves a big hand in her direction. 
-He’s got a thick Texas accent — not something Adela hears a lot in Durham. As he walks through the stacks, she watches him, interested. Maybe he’s got a farm, horses, a big dog. Probably got a wife and kids back home too: a few boys, she thinks, the type you’d take out fishing or camping. Maybe he’s shopping for one of them now. 
-“Looking for something in particular?” she asks. 
+“Afternoon,” the man says. He waves a big hand in her direction.
+He’s got a thick Texas accent — not something Adela hears a lot in Durham. As he walks through the stacks, she watches him, interested. Maybe he’s got a farm, horses, a big dog. Probably got a wife and kids back home too: a few boys, she thinks, the type you’d take out fishing or camping. Maybe he’s shopping for one of them now.
+“Looking for something in particular?” she asks.
 “As a matter of fact, I am.” He approaches. “I lost one of my Cash records in the move this summer. Wouldn’t happen to have Folsom Prison Blues somewhere in here, would you?”
 Johnny Cash. Of course. “Dude, what do you take us for? Of course we have Cash.” Adela steps out from behind the counter, walks him over to the country section. “Here. Take your pick.”
-Nodding, he flips through the records. His jaw tenses and relaxes, stretching the rough swath of skin behind his ear. “Fuckin-a, this is it.” He holds up his chosen album. “Used to listen to this back in ’Nam. My buddies and I, we’d all sit together, you know, huddle up, sing along.” 
+Nodding, he flips through the records. His jaw tenses and relaxes, stretching the rough swath of skin behind his ear. “Fuckin-a, this is it.” He holds up his chosen album. “Used to listen to this back in ’Nam. My buddies and I, we’d all sit together, you know, huddle up, sing along.”
 Adela tries to come up with a delicate response — not her speciality. “I didn’t… realize you were a veteran. I think we, uh, have a veteran’s discount if you —”
 He breaks out into a grin. “Aww, come on, kid, I’m just fuckin’ with you.”
 She grins too. She likes him already. “You were in ’Nam? What branch?”
 “Army. Okay if I pay with cash?”
 Adela nods. “Sure. My dad was a pilot back home.”
 “Home?”
-The bills he hands her are tattered, dog-eared like bookmarks. She counts them one by one, flattening out some of the creases as she goes. 
+The bills he hands her are tattered, dog-eared like bookmarks. She counts them one by one, flattening out some of the creases as she goes.
 “China,” she says. “Shanghai.”
-“Goddamn far way from North Carolina.” He waves the record in the air. “I will be enjoyin’ this, let me tell you.” 
-She waves back. Not seconds after he’s out the door, the phone rings again. 
+“Goddamn far way from North Carolina.” He waves the record in the air. “I will be enjoyin’ this, let me tell you.”
+She waves back. Not seconds after he’s out the door, the phone rings again.
 “Okay, so, the science project,” Tony says. His voice crackles a little on the other end of the line. “I know this is ambitious, but do you think we could make a neural implant?”
 “Tony, are you crazy? You’re not a doctor. How would we even present it at the fair? We need to have something that looks cool, too. Every time I’ve entered something at the fair, the Riverside kids have beaten me ’cause their projects looked better. I’m not trying to be an asshole — I mean, I just think we should set our sights on something we can actually do.”
 Tony sighs. “Okay.”
@@ -726,29 +727,29 @@ Adela opens her mouth to speak, but stops herself. She pinches the cord between 
 
 ## **Diana’s homemade fashion show.
 
-It’s been an hour. They’re making slow progress. 
+It’s been an hour. They’re making slow progress.
 Leo opens the bottom drawer. He’s starting to get annoyed. Despite his best efforts to seem mature and collected, his fuse is just as short as his sister’s, and fashion has never come easily to him. Rummaging among the pants, he picks out a pair of jeans and holds them up to the light, like they might turn transparent and reveal their secrets.
 “What about these?”
 Adela grimaces. “Hell no. Put that shit back, man. Ma bought these for me when I was, like, twelve.” She nudges him away from the drawer. “Come on. Let me.”
-Brother and sister stand shoulder to shoulder. Behind them, sitting cross-legged on Adela’s bed, is Diana, still in her borrowed pajamas. 
+Brother and sister stand shoulder to shoulder. Behind them, sitting cross-legged on Adela’s bed, is Diana, still in her borrowed pajamas.
 “Don’t worry, Diana,” Adela says, tossing the pants aside. “I know what I’m doing.” She turns to Leo. “You think she’d look good in black?”
 “I don’t know.” Leo makes a face. “What do I know about this stuff? Black’s your thing. Maybe blue.”
 “I got blue.” Adela opens the middle drawer. “Diana, you like blue?”
 Diana nods.
 “Sick. See, I told you she’d have good taste.” She takes a shirt and throws it to Diana. “Try this on. There’s a closet in the corner there.”
-When Diana reemerges a minute later, Adela is impressed that she didn’t put the shirt on backwards. In a way, it suits her. The stripes, blue over darker blue; the round neck; the long sleeves. She glances over at Leo. His eyes are wide. 
-“It’s, uh, it’s a good look,” he says. 
-Adela laughs. “It sure is. You look great, Diana. Here.” She holds out a pair of blue jeans. “To match.” 
+When Diana reemerges a minute later, Adela is impressed that she didn’t put the shirt on backwards. In a way, it suits her. The stripes, blue over darker blue; the round neck; the long sleeves. She glances over at Leo. His eyes are wide.
+“It’s, uh, it’s a good look,” he says.
+Adela laughs. “It sure is. You look great, Diana. Here.” She holds out a pair of blue jeans. “To match.”
 Diana takes them. She sees Leo’s smile, and she smiles too.
 
 ## **Diana tells Adela and Leo about her parents.
 
-That evening, Mrs. Zhang is working overtime. The house is quiet, dark, lit up in all the right places. Through the window, the sunset is so small, it hardly looks real. The kids sit on the couch, the *X-Files* playing in the background. Back in the kitchen, the stove is still hot. On the coffee table are two plates of stir fry, one half eaten and one nearly empty. Diana is sandwiched between Leo and Adela. 
+That evening, Mrs. Zhang is working overtime. The house is quiet, dark, lit up in all the right places. Through the window, the sunset is so small, it hardly looks real. The kids sit on the couch, the *X-Files* playing in the background. Back in the kitchen, the stove is still hot. On the coffee table are two plates of stir fry, one half eaten and one nearly empty. Diana is sandwiched between Leo and Adela.
 “So Scully is the one with red hair,” Adela says. “She’s a doctor, she worked in forensics or something. And the guy with the glasses is Mulder. He’s a conspiracy theorist.”
 Diana frowns.
 “He believes in aliens,” Adela explains.
 “He’s crazy, is what he is,” Leo adds. “And he’s even crazier for going after Scully.”
-“Going after?” Diana’s brow is furrowed. 
+“Going after?” Diana’s brow is furrowed.
 “Mulder’s got a thing for Scully, but Scully’s not into him. I mean, I think she is, but she doesn’t want to date anyone.” Adela reaches for her plate. “It’s a bummer, ’cause they’re such a good team.”
 Leo smiles to himself. “Reminds me of someone else I know.”
 Adela looks up, still in the middle of a mouthful. “What?”
@@ -756,32 +757,32 @@ Adela looks up, still in the middle of a mouthful. “What?”
 “Oh my God, Leo, for the last time, I don’t like Tony.” Adela swallows her food. “Jesus Christ. Tony and I are just good friends. And we’re only friends because he keeps pestering me. If he’d just leave me the fuck alone I’d do my work and go to my classes by myself like I want to.”
 “Yeah, that’s what you always say.” Leo shrugs. “Anyway, Adela and Tony are working together on the science project, but I think it’s just an excuse to get her to—”
 “I know,” Diana says. “Adela told me about Tony. Tony has Resident Evil. Adela doesn’t date. Waste of time. But you do.”
-“I do what?” 
+“I do what?”
 “Date.”
 “Yeah, I do,” Leo says.
-“Good memory,” Adela puts in. 
+“Good memory,” Adela puts in.
 Leo leans back on the couch. “You ever… you ever go out with a guy? Before you ran away?”
 Diana looks up at him. “Go out?”
 “Leo, seriously?” Adela rolls her eyes. “Diana, he means – he wants to know if you had a boyfriend.”
 Diana shakes her head. “No. No boys.”
 “You aren’t missing out. Boys suck. They’re sweaty, they’re loud, they’re immature. They take up all your time. I’m convinced they’re, like, a different species or something. And everyone thinks that just because a girl is friends with a guy, she’s gonna fuck him.”
 “Adela!” Leo hisses.
-“No boys,” Diana says. “Just me. When they… they created me…” She thinks. “Alone. But then, robots. But the robots… don’t have feelings. Not like me. When they talk…” She hesitates again, putting her head to one side. “Mechanical. Like they already know what to say. They don’t think. They look like me.” She holds out her hand. “But no feelings.” 
-Adela and Leo have gotten quiet. When Diana stops, Adela nods, gesturing. 
+“No boys,” Diana says. “Just me. When they… they created me…” She thinks. “Alone. But then, robots. But the robots… don’t have feelings. Not like me. When they talk…” She hesitates again, putting her head to one side. “Mechanical. Like they already know what to say. They don’t think. They look like me.” She holds out her hand. “But no feelings.”
+Adela and Leo have gotten quiet. When Diana stops, Adela nods, gesturing.
 “And?” she prompts.
-“I know… I don’t look human. I look like the robots. But I feel. I think.” Diana keeps her eyes in front of her, pinned on the coffee table. “Before Mother created me, she had… a boyfriend. But he was bad.” She shakes her head. “Mother said he ruined her life. He thought he was better than her. And Mother created me to show him. To prove.” She clenches her jaw. 
-Leo glances over at Adela. His sister’s eyes are wide. “What the fuck,” she whispers. 
+“I know… I don’t look human. I look like the robots. But I feel. I think.” Diana keeps her eyes in front of her, pinned on the coffee table. “Before Mother created me, she had… a boyfriend. But he was bad.” She shakes her head. “Mother said he ruined her life. He thought he was better than her. And Mother created me to show him. To prove.” She clenches her jaw.
+Leo glances over at Adela. His sister’s eyes are wide. “What the fuck,” she whispers.
 “Mother said I look like my father. But Mother said I can’t meet him. He’s dead. A car killed him, on the…” She squints. “The free… the high…”
 “A car crash?” Leo says. “The highway?”
 Diana nods. “It was… too fast. Acute trauma. Skull fracture. A brain bleed. He died in the ambulance because of irreversible trauma.”
-“You sound like a doctor,” Adela says, almost laughing. 
+“You sound like a doctor,” Adela says, almost laughing.
 “Mother is a doctor.”
 “Oh.”
 “What did your dad do?” Leo asks.
-“I don’t know. Mother said he was cruel. She said he lied. She said when she told him… about me, he didn’t want to see me.” Diana balls her hands up into fists. “She said it was just us. Her and me. She said I had to be brave.” Her eyes are welling up with tears. “I was… always brave.” Almost glaring, she looks at Leo. 
+“I don’t know. Mother said he was cruel. She said he lied. She said when she told him… about me, he didn’t want to see me.” Diana balls her hands up into fists. “She said it was just us. Her and me. She said I had to be brave.” Her eyes are welling up with tears. “I was… always brave.” Almost glaring, she looks at Leo.
 With an awkward smile, he reaches out and touches her arm.
 “Your mom sounds kinda crazy,” he says.
-When Diana meets his eyes, her face looks human. 
+When Diana meets his eyes, her face looks human.
 “You don’t have to be scared,” Adela says. “If your mom comes after you, we’ll kick her ass. She should be locked up for what she did.”
 “No.” Diana wipes away a tear. “Not locked up. But I want her to understand.”
 “Sometimes our moms don’t understand us, even when we need them to.” Adela tries to smile. “It’s not your fault, you know. We’re gonna keep you safe. Okay?”
@@ -789,7 +790,7 @@ Diana nods. “Okay.”
 
 ## **Adela and Leo fight.
 
-They sit in Leo’s room that night, after Diana has gone to bed, the backs of their heads resting against Leo’s old dresser. Adela scans the movie posters above his bed: *The Godfather*, *Ferris Bueller*, *The Truman Show*. Leo’s got his arms on his knees, his hands hanging down, a blank look on his face. 
+They sit in Leo’s room that night, after Diana has gone to bed, the backs of their heads resting against Leo’s old dresser. Adela scans the movie posters above his bed: *The Godfather*, *Ferris Bueller*, *The Truman Show*. Leo’s got his arms on his knees, his hands hanging down, a blank look on his face.
 “I don’t know if I even want to believe her,” he says.
 “Yeah.” Adela swallows. “Do you think we should call CPS?”
 “CPS? Are you crazy? She’s not exactly a normal kid. Can you imagine what the government would do if they got ahold of her? Imagine what a cyborg would be like on the battlefield. I bet the White House would give anything to have a prototype.”
@@ -814,7 +815,7 @@ Adela groans. “Dude, just go along with it.”
 “Jesus, I don’t know. You’d have been to fucked up in the head to even think about it. Man, you know, this really is some X-Files type deal.”
 Leo almost laughs. “Something like that, I guess. She sure is out of this world. By the way, speaking of the X-Files, are you sure you don’t like Tony?”
 “For fuck’s sake, I’ve told you a million times, I don’t wanna date him. I don’t wanna date anyone. I know Tony’s a really nice person. I know I’m supposed to have a boyfriend by now. And I know everyone thinks I’m a fucking dyke. It’s just….” Adela shrugs. “It’s just not my thing.”
-“Okay, sorry.” Leo holds up his hands. 
+“Okay, sorry.” Leo holds up his hands.
 “Ma would hate it if I wasn’t dating an Asian guy, anyway. The only reason you get away with dating Lila is because she’s just as much of an asshole as Ma is.”
 “You know what? I am so sick of your attitude about Ma. She works so hard to give us this life, and you —”
 “This life?” Adela repeats. “What fucking life, man? We go to a public school. We live in the fucking hood. We’re not allowed out on the street after dark. We get all our clothes from the thrift store. There’s been a leak in the bathroom for ten years and it keeps getting bigger and bigger and we can’t do anything about it cause we don’t have the money. Ma’s never home, she never sees us, she never asks about school, about our friends. She never even asks you about Lila. Don’t you get it? She doesn’t care, Leo.”
@@ -826,19 +827,19 @@ Leo almost laughs. “Something like that, I guess. She sure is out of this worl
 
 ## *McLaughlin charges Scofield. Scofield charges McLaughlin.
 
-Scofield turns over in bed. It’s still early, not long past six thirty. Had this been a weekday, his alarm would have gone off two hours ago. Instead, today is a Saturday. He won’t have to see the inside of the hospital until Monday morning. He doesn’t exactly enjoy these idle weekends, but the slowness is intoxicating. And the sleep is wonderful. Whenever he can, he tries to sleep till nine, later if he can. Last night, he hardly slept at all. 
-On his left, half hidden by big linen curtains, the sun is coming through the window. Autumn hasn’t set in quite yet — the early mornings are still bright, still warm. Lying on his back, he holds his hand up to the light. His fingers glow red, almost transparent, fragile and alive. He’s held the hands of countless infants in the hospital, felt their tiny fingers clenching his palm, seen their wide eyes and bubbly smiles. Whatever it is that they have at that age, they always lose it, and they never get it back. 
+Scofield turns over in bed. It’s still early, not long past six thirty. Had this been a weekday, his alarm would have gone off two hours ago. Instead, today is a Saturday. He won’t have to see the inside of the hospital until Monday morning. He doesn’t exactly enjoy these idle weekends, but the slowness is intoxicating. And the sleep is wonderful. Whenever he can, he tries to sleep till nine, later if he can. Last night, he hardly slept at all.
+On his left, half hidden by big linen curtains, the sun is coming through the window. Autumn hasn’t set in quite yet — the early mornings are still bright, still warm. Lying on his back, he holds his hand up to the light. His fingers glow red, almost transparent, fragile and alive. He’s held the hands of countless infants in the hospital, felt their tiny fingers clenching his palm, seen their wide eyes and bubbly smiles. Whatever it is that they have at that age, they always lose it, and they never get it back.
 
 ***??????????????????????.
 
 ## **Mr. Tsao gives Adela advice on the science project.
 
-No one is sure exactly how Mr. Tsao got his job as Jordan High School’s freshman science teacher. Principal Leibniz does his best to keep Mr. Tsao’s shenanigans to a minimum, but he sees the kids’ smiles through the classroom door. No one smiles like that during a high school science lesson. Leibniz doesn’t remember what Mr. Tsao did before coming to the school, either. There were no resumes or references. Somehow or other, he just showed up, endowed with the kind of knowledge that could stump a Harvard professor. 
+No one is sure exactly how Mr. Tsao got his job as Jordan High School’s freshman science teacher. Principal Leibniz does his best to keep Mr. Tsao’s shenanigans to a minimum, but he sees the kids’ smiles through the classroom door. No one smiles like that during a high school science lesson. Leibniz doesn’t remember what Mr. Tsao did before coming to the school, either. There were no resumes or references. Somehow or other, he just showed up, endowed with the kind of knowledge that could stump a Harvard professor.
 There’s something enigmatic about Mr. Tsao, as endearing as he is. As far as Adela knows, teaching is Mr. Tsao’s only job. But whenever she stops by his office, he’s nose-deep in calculations, with mysterious-looking papers towering on his desk corners. Today is no different.
 “Mr. Tsao?” she calls out, tapping on his reinforced glass window.
-He turns over a piece of paper and purposefully scores out a line at the top of the page. 
+He turns over a piece of paper and purposefully scores out a line at the top of the page.
 “Mr. Tsao?”
-He looks up, squinting through his narrow glasses. When he recognizes her, he smiles, and waves for her to come in. He’s sitting on one side of his desk, behind piles of essays and assignments. A diploma hangs crooked on the wall. Two bookshelves flank his chair; some of his books are earmarked and worn, some even have his name on the spine. An old Newton’s cradle stands like a crown atop a stack of books. Pinned on a bulletin board are clippings, pictures with famous physicists, notes from alumni. 
+He looks up, squinting through his narrow glasses. When he recognizes her, he smiles, and waves for her to come in. He’s sitting on one side of his desk, behind piles of essays and assignments. A diploma hangs crooked on the wall. Two bookshelves flank his chair; some of his books are earmarked and worn, some even have his name on the spine. An old Newton’s cradle stands like a crown atop a stack of books. Pinned on a bulletin board are clippings, pictures with famous physicists, notes from alumni.
 “It’s great to see you. What brings you in?”
 Adela closes the door behind her. She brushes her bangs out of her face, tosses her long hair over her shoulder. “I have a question about the science project,” she says.
 Mr. Tsao puts his pen down. “Please, have a seat. Okay, shoot. What’s going on?”
@@ -849,17 +850,17 @@ She shrugs. “Yeah, well, we’re out of ideas. Tony… he lives next door to t
 “Yeah, that. So Tony calls me up the other day and says he wants to make a fu — an implant.” She laughs. “Sorry, my mom’s always riding me about my swearing. Anyway, I told Tony he was crazy, he was shooting way too high. I said we’d do something else cool, but now I don’t know what the hell we *could* do, and I know it needs to be something impressive ’cause of the Riverside kids, right, they always beat me. But I’m totally out of ideas. And I know I shouldn’t be asking you, I know we’re supposed to come up with the project on our own, but I didn’t know who else to ask.”
 Mr. Tsao nods. He collects his papers and deposits them in a heavy drawer. “That’s a very interesting idea that Tony had.”
 Adela wants to say, *interesting doesn’t mean achievable,* but she keeps her mouth shut.
-“Now, just because an idea’s interesting doesn’t make it achievable,” Mr. Tsao continues. 
-Nodding, Adela smiles to herself. 
+“Now, just because an idea’s interesting doesn’t make it achievable,” Mr. Tsao continues.
+Nodding, Adela smiles to herself.
 “You probably can’t make a neural implant from scratch. But you can still make something interesting. You can still steal the show.” He reaches into one of the drawers and places a small rectangular device on the desk. Two long black cords snake out from one side; Mr. Tsao quickly disconnects them. Coiling the cords around his hand, he pushes the device towards Adela.
-“A walkman?” She picks it up. 
+“A walkman?” She picks it up.
 “You’ve got one of these, right?”
-“Yeah, everyone does. This is a new one.” She takes hers out of her backpack and holds the two devices up. ”Mine’s a hand-me-down. It’s all scuffed up now.” Peeling white lines run through the stickers on the edge of her Walkman. Near the top, a sizable dent marks its territory. A printed label, a proud badge of ownership, spells out Adela’s Chinese name: ZHANG MEI LIN. 
+“Yeah, everyone does. This is a new one.” She takes hers out of her backpack and holds the two devices up. ”Mine’s a hand-me-down. It’s all scuffed up now.” Peeling white lines run through the stickers on the edge of her Walkman. Near the top, a sizable dent marks its territory. A printed label, a proud badge of ownership, spells out Adela’s Chinese name: ZHANG MEI LIN.
 “Ever taken yours apart?”
 Adela scrunches up her nose. “Are you insane? Ma would never buy me a new one.”
 Mr. Tsao gestures. “Go on, then.”
 “I’m not gonna take yours.” Adela holds it out, shaking her head. “No way. Thanks, but I’d never be able to repay you.”
-“I’ll take it out of your raise.” 
+“I’ll take it out of your raise.”
 “Are you serious?” Adela’s eyes flit back and forth between her teacher and the Walkman. “You’re kidding, right?”
 Mr. Tsao smiles. “I’m no Bill Gates, but I know a thing or two about technology. You might not be able to make a cyborg, but if you could take this thing apart and figure out how to put it back together, you’d be able to make yourself a nice MP3 player. The Riverside kids won’t know what hit them.”
 Adela beams. She pinches the Walkman in her hand, her smile getting bigger and bigger. “Thanks,” she says. There’s more that she wants to say, but that’s what it all comes down to. “Seriously, thanks.”
@@ -868,17 +869,17 @@ Adela beams. She pinches the Walkman in her hand, her smile getting bigger and b
 ## **Leo has feelings.
 
 Between the two siblings, Leo has always done everything first. He got out of diapers first, started reading first, even wrote his name first, those big childish shapes on the sheets of colored paper. In the afternoons, he gets home from school first, gets his work done first, staples the papers and tucks them into the neat red binder in his bag. And back in China, he was first too, always the favorite. Riding shotgun in the cockpit with his dad, feeling the world careening in blue strips around the propeller. Sitting by his mother in the studio, watching his reflection in the camera lens, upside down and inside out. Even in music lessons he was the first to take the stickers off the white keys. He never played well, but punctually, accurately, which got him far, farther than he ever really wanted to go.
-Some of what Adela says is true. Exaggeration comes easily to her, but she is often right about their mother. And it’s true, their mother likes him more than Adela. 
-As brothers and sisters go, they have little in common besides their looks. Leo is a star athlete, a star student, a star everything. There have always been gold stars near his name, and notes near Adela’s. They’ve fallen into a routine over the years. Adela causes problems, Leo fixes them. Adela complains, Leo apologizes. For most of his life, Adela has been a nuisance. Leo has found it easy to sympathize with his mother, even when she is harsh. Even when she is cruel. For him, authority is not something worth questioning. For Adela, authority was made to be questioned. 
-Now, for the first time, he thinks his sister might be right. Of course, Leo’s never seen a cyborg before. But he’s never met a girl with a boy’s name before, either. He’s never met a girl who has one green eye and one blue eye, a smile that he never sees, a star-shaped scar that spiders across her face. It’s stupid. He knows it’s stupid. That’s what bothers him the most, the knowing, and the not being able to do anything about it. It doesn’t matter how much he knows. It doesn’t matter that he knows he knows. He still thinks about her when he’s lying in bed at night, tries to imagine the beating of her mechanical heart. Even sees her reflection in the window on the bus. He wants to talk to her, wants to get inside her head, but doesn’t know how. He’s a little scared of her. He’s scared of how interesting she is. And now, he’s scared of how uninteresting he is. He doesn’t curse in the principal’s face like Adela or take computers apart like Tony. Even Lila has a story of some kind, though he’s not sure he wants to be part of it anymore. 
-Now, it’s five o’clock. He’s sitting at the dinner table, like he always does, and flipping through his homework. The same old story. That’s what he likes about his life, more than anything else. The sameness. And now that he’s starting to not like it, he doesn’t know what he is supposed to like. He can’t abandon one routine without a new one to cling on to. 
-When his mother comes home, she always opens the door the same way. Jamming the key into the lock, turning it abstractly a couple times, before pushing the door over the threshold as quickly as she can, like it’s her last shot at escaping a mad dog. The door is old, sagging on its hinges like the remains of a botched plastic surgery, and it scrapes over the floorboards as it swings into the entryway. 
-She drops her bag onto the welcome mat, already sighing. He’s watching her from his side of the table, trying to make it seem like he isn’t watching her, and she moves in the corner of his eye like a strange, unfamiliar bird. 
+Some of what Adela says is true. Exaggeration comes easily to her, but she is often right about their mother. And it’s true, their mother likes him more than Adela.
+As brothers and sisters go, they have little in common besides their looks. Leo is a star athlete, a star student, a star everything. There have always been gold stars near his name, and notes near Adela’s. They’ve fallen into a routine over the years. Adela causes problems, Leo fixes them. Adela complains, Leo apologizes. For most of his life, Adela has been a nuisance. Leo has found it easy to sympathize with his mother, even when she is harsh. Even when she is cruel. For him, authority is not something worth questioning. For Adela, authority was made to be questioned.
+Now, for the first time, he thinks his sister might be right. Of course, Leo’s never seen a cyborg before. But he’s never met a girl with a boy’s name before, either. He’s never met a girl who has one green eye and one blue eye, a smile that he never sees, a star-shaped scar that spiders across her face. It’s stupid. He knows it’s stupid. That’s what bothers him the most, the knowing, and the not being able to do anything about it. It doesn’t matter how much he knows. It doesn’t matter that he knows he knows. He still thinks about her when he’s lying in bed at night, tries to imagine the beating of her mechanical heart. Even sees her reflection in the window on the bus. He wants to talk to her, wants to get inside her head, but doesn’t know how. He’s a little scared of her. He’s scared of how interesting she is. And now, he’s scared of how uninteresting he is. He doesn’t curse in the principal’s face like Adela or take computers apart like Tony. Even Lila has a story of some kind, though he’s not sure he wants to be part of it anymore.
+Now, it’s five o’clock. He’s sitting at the dinner table, like he always does, and flipping through his homework. The same old story. That’s what he likes about his life, more than anything else. The sameness. And now that he’s starting to not like it, he doesn’t know what he is supposed to like. He can’t abandon one routine without a new one to cling on to.
+When his mother comes home, she always opens the door the same way. Jamming the key into the lock, turning it abstractly a couple times, before pushing the door over the threshold as quickly as she can, like it’s her last shot at escaping a mad dog. The door is old, sagging on its hinges like the remains of a botched plastic surgery, and it scrapes over the floorboards as it swings into the entryway.
+She drops her bag onto the welcome mat, already sighing. He’s watching her from his side of the table, trying to make it seem like he isn’t watching her, and she moves in the corner of his eye like a strange, unfamiliar bird.
 “Dai Lin,” she says, cutting through the two syllables with her old Shanghai accent, “why aren’t you done with your homework?”
 Leo holds up the stack of pages, each bearing his unmistakable handwriting.
 His mother makes a face. “What about dinner?”
 “In the fridge. Chicken. And Adela’s done with all her homework, except her reflection. I told her she could do that tonight.”
-Mrs. Zhang lets out a long sigh. “Doesn’t matter what you told her — matters what she did. Stupid girl, always trouble.” She’s unpacking the groceries now, and Leo’s trying not to look at her. The bag of apples slumps onto the kitchen counter. Carrots, celery, mushrooms soon sit nearby. She lifts a big package of rice and carries it over to the cabinet, holding the bottom in her rough hands. 
+Mrs. Zhang lets out a long sigh. “Doesn’t matter what you told her — matters what she did. Stupid girl, always trouble.” She’s unpacking the groceries now, and Leo’s trying not to look at her. The bag of apples slumps onto the kitchen counter. Carrots, celery, mushrooms soon sit nearby. She lifts a big package of rice and carries it over to the cabinet, holding the bottom in her rough hands.
 “Work okay?” Leo says.
 She nods. “Finish this,” she tells him, gesturing to the groceries. “I go upstairs to check Mei Lin’s room.”
 At the back of Leo’s neck, a prickly sensation spreads across his skin. “No, no,” he says. “The lock is broken. Just sit while I finish with the groceries.”
@@ -887,24 +888,24 @@ Leo purses his lips. “Uh, this morning. She was trying to lock the door before
 “You lie.”
 “No, seriously.” He’s getting desperate. “I gave the maintenance guy a call earlier, but I haven’t heard anything. Anyway, you checked her room last night. It’ll be okay.”
 Mrs. Zhang’s thin eyebrows draw closer together. She frowns, the middle of her mouth puckering up and wrinkling her chin. “You lie. You tell me what happened in her room.”
-Leo hesitates. He imagines Diana, upstairs, her back against the wall. Her big eerie eyes. She’s probably fiddling with the CD player again, or worse, his brand-new digital camera that he bought off one of the art kids at school. If his mother finds her, the cops will be at the house before ten minutes have passed, and Diana will have to go back to wherever it is that she came from. 
+Leo hesitates. He imagines Diana, upstairs, her back against the wall. Her big eerie eyes. She’s probably fiddling with the CD player again, or worse, his brand-new digital camera that he bought off one of the art kids at school. If his mother finds her, the cops will be at the house before ten minutes have passed, and Diana will have to go back to wherever it is that she came from.
 “Look, Ma.” He lowers his voice. “Adela got — it’s — she’s — it’s her time of the month. And her room got kinda messy, and she just didn’t want you to see.”
 “Lock not broken.”
 “No. But —”
 “You lie.” There’s a long space between the words. The syllables come down heavy and hard.
 “Just — please,” he says. “I’ll deal with the groceries, I’ll clean Adela’s room, everything. She just didn’t want you to see it. I know she causes trouble, but she’s…” There’s no word for Adela. “I’ll make sure she gets the lock fixed.”
-Mrs. Zhang raises her eyebrows. For a second, her face is pale, flat. Like she’s daring him to keep talking. Then she shakes her head, starts walking. He listens as her feet fall, one after another, the bottoms of her mauve slippers dragging on the stairs. That old carpet that they’ve been meaning to replace since the day they moved in. As she ascends, he has a feeling he’s never named before. He’s scared of her. He stands up, and his hand grazes this back of his chair. She’s almost at the top, shoulders shifting with each step. He says it to himself: I’m scared of my mother. He doesn’t know what this means, but he knows they are big words. And he knows he meant them. If he follows her, she will tell him to go back to the kitchen to finish with the dishes. But it doesn’t really matter, because when she finds Diana, he and Adela will probably both be disowned and sent back to Shanghai to meet their maker. Whoever that might be. 
-In a second, his mother disappears at the top of the stairs. He hears her knocking on Adela’s door, once, twice, three times. The door rattles on its hinges. He hears the doorknob twisting, the tired metallic sound. 
-He squeezes his eyes shut. 
+Mrs. Zhang raises her eyebrows. For a second, her face is pale, flat. Like she’s daring him to keep talking. Then she shakes her head, starts walking. He listens as her feet fall, one after another, the bottoms of her mauve slippers dragging on the stairs. That old carpet that they’ve been meaning to replace since the day they moved in. As she ascends, he has a feeling he’s never named before. He’s scared of her. He stands up, and his hand grazes this back of his chair. She’s almost at the top, shoulders shifting with each step. He says it to himself: I’m scared of my mother. He doesn’t know what this means, but he knows they are big words. And he knows he meant them. If he follows her, she will tell him to go back to the kitchen to finish with the dishes. But it doesn’t really matter, because when she finds Diana, he and Adela will probably both be disowned and sent back to Shanghai to meet their maker. Whoever that might be.
+In a second, his mother disappears at the top of the stairs. He hears her knocking on Adela’s door, once, twice, three times. The door rattles on its hinges. He hears the doorknob twisting, the tired metallic sound.
+He squeezes his eyes shut.
 
 “Watch out, kiddo!”
-Leo opens his eyes. A semi-circle of blue is waltzing with the city. Up, down. Back up again. Outside the windows, the world is whistling by. He lets out a big breath, and feels the oxygen slipping out of his lungs. Behind him, his dad is laughing. That long, happy laugh. Beneath him, on all sides, surrounding him like water in a bathtub, is Shanghai. 
-“There’s Wai Tan.” His dad points. 
-Leo puts both hands on the glass and looks down. The waterfront glitters down there, smaller than his smallest finger, shifting in the sun. Against the window, his palms feel cold and bright. 
-“Do you think they can see us?” Leo shouts. 
+Leo opens his eyes. A semi-circle of blue is waltzing with the city. Up, down. Back up again. Outside the windows, the world is whistling by. He lets out a big breath, and feels the oxygen slipping out of his lungs. Behind him, his dad is laughing. That long, happy laugh. Beneath him, on all sides, surrounding him like water in a bathtub, is Shanghai.
+“There’s Wai Tan.” His dad points.
+Leo puts both hands on the glass and looks down. The waterfront glitters down there, smaller than his smallest finger, shifting in the sun. Against the window, his palms feel cold and bright.
+“Do you think they can see us?” Leo shouts.
 “Of course!”
 “Really?”
-His dad grins — Leo can hear the smile in his voice. “Of course,” he repeats. 
+His dad grins — Leo can hear the smile in his voice. “Of course,” he repeats.
 
 “Why did you lie?”
 Leo opens his eyes. “What?”
@@ -912,17 +913,17 @@ His mother is standing in front of him, her arms folded, her eyes harsh. But she
 “I didn’t —”
 “The lock fine.” Mrs. Zhang nods. “Fine.”
 “Oh,” Leo says. “I thought maybe it had gotten…”
-She’s turned away, heading back for the kitchen. He knows her well enough to know she isn’t listening. That shuffling gait again, her feet hardly coming off the ground. 
+She’s turned away, heading back for the kitchen. He knows her well enough to know she isn’t listening. That shuffling gait again, her feet hardly coming off the ground.
 “I did the groceries,” he offers.
-She doesn’t reply. 
+She doesn’t reply.
 
 ## **Leo and Diana kiss. She runs away.
 
-The lock is fine. Worse, Adela’s room is empty. He’s checked in the closet, under the bed, in the bed, in the dresser, even on the windowsill. It’s like she was never here. For a second, standing with the big Led Zeppelin poster over his head, he wonders if he dreamt it. The robot girl, the Radiohead, *lock not broken*, maybe even the science project. 
-He sits down on the bed. The bed that was once his. It’s funny, the way things fall in this family. From his father, to him, then on to his sister. In his hands, the duvet feels cold and bright, just like the windows on his father’s biplane. 
+The lock is fine. Worse, Adela’s room is empty. He’s checked in the closet, under the bed, in the bed, in the dresser, even on the windowsill. It’s like she was never here. For a second, standing with the big Led Zeppelin poster over his head, he wonders if he dreamt it. The robot girl, the Radiohead, *lock not broken*, maybe even the science project.
+He sits down on the bed. The bed that was once his. It’s funny, the way things fall in this family. From his father, to him, then on to his sister. In his hands, the duvet feels cold and bright, just like the windows on his father’s biplane.
 “Leo.”
 He looks up, a little too quickly. It’s her, standing in the doorway, her arms covering her chest. “You said, make sure she didn’t —”
-Without stopping to think, Leo runs to her and pulls her in. She’s cold, like Adela said she was. Her whole body is stiff. Only her head, which rests half against his, is warm. Beneath her hair, he can see a glimpse of something else, something pink and pulsating. Feeling uncomfortably curious, he tries to take a closer look, but she wriggles away. 
+Without stopping to think, Leo runs to her and pulls her in. She’s cold, like Adela said she was. Her whole body is stiff. Only her head, which rests half against his, is warm. Beneath her hair, he can see a glimpse of something else, something pink and pulsating. Feeling uncomfortably curious, he tries to take a closer look, but she wriggles away.
 “Sorry,” he says. “Sorry. I don’t know what got into me.” He reaches over her shoulder and shuts the door, lowering his voice. “Why’d you do that? Why’d you… How’d you get into the bathroom without Ma hearing you?”
 Diana frowns, like she can’t understand why he’d even ask. “I just made it so that she wouldn’t know.”
 Leo isn’t sure what she means by that, and decides it’s probably best if it stays that way. “Sorry I hugged you, I…”
@@ -942,24 +943,24 @@ She nods.
 When he’s sitting next to her, he feels like he’s back at middle school prom, eyeing his date from across the refreshments table. “You okay?” he says.
 “Yes.”
 “You can’t stay here forever, you know. We’re gonna get in a ton of trouble if my mom finds out. And she will find out, and I’m gonna be the one who gets the worse of it.” He takes a big breath. “I wanna help you, but…”
-“Don’t make me go back. Please don’t make me go back.” Her eyes are getting wide, red and pinched at the corners. 
+“Don’t make me go back. Please don’t make me go back.” Her eyes are getting wide, red and pinched at the corners.
 “I’m not.”
 “Please.”
 “I’m not.” He puts his hand on her shoulder and shakes his head. “I’m not.”
-Diana leans away, pulling a knee up to her chest. Then, eventually, she leans back. Leo remembers the long night in the middle school ballroom, dancing to *Forever Young* with Angela Lu, his hands resting gingerly on her waist. He remembers holding his palms above her dress, trying not to touch her. Remembers the disaffected look on her face, her black eyes framed with thick eyeliner. Remembers the green dress she’d ordered from Delia’s, the straps just a little too long, the bodice she kept pulling up. At the end of the semester, which is fast approaching, he’ll have to ask Lila to the dance. He likes Lila. He really likes her. 
+Diana leans away, pulling a knee up to her chest. Then, eventually, she leans back. Leo remembers the long night in the middle school ballroom, dancing to *Forever Young* with Angela Lu, his hands resting gingerly on her waist. He remembers holding his palms above her dress, trying not to touch her. Remembers the disaffected look on her face, her black eyes framed with thick eyeliner. Remembers the green dress she’d ordered from Delia’s, the straps just a little too long, the bodice she kept pulling up. At the end of the semester, which is fast approaching, he’ll have to ask Lila to the dance. He likes Lila. He really likes her.
 “You’re really pretty,” he says.
-Diana looks over at him. She isn’t scared. But she doesn’t understand. 
+Diana looks over at him. She isn’t scared. But she doesn’t understand.
 “You’re pretty,” he repeats. “Your face is nice.”
 She touches her skin, pinching it like it belongs to someone else.
 “And your eyes are cool.”
 “Cold,” she says.
 “No, like…”
-She moves her hand up towards her green eye and begins to peel her eyelid back. The skin comes up like a sticker off an apple. And below it, a metal skull glistens like quicksilver. Wires for veins, tiny circuits for nerves. And the eye, hollow behind the socket, moving on a strange spring. She reaches for the eye. 
-Feeling nauseous, Leo shakes his head. “That’s okay,” he says. 
-Looking away, she puts her face back together. 
+She moves her hand up towards her green eye and begins to peel her eyelid back. The skin comes up like a sticker off an apple. And below it, a metal skull glistens like quicksilver. Wires for veins, tiny circuits for nerves. And the eye, hollow behind the socket, moving on a strange spring. She reaches for the eye.
+Feeling nauseous, Leo shakes his head. “That’s okay,” he says.
+Looking away, she puts her face back together.
 “Who made you?”
-“Mother.” Again the blank stare. 
-They’re silent for a while, silent together. It’s not uncomfortable, but it’s not totally comfortable either. Leo wishes he hadn’t said that stuff about her eyes. He also wishes he could forget that he just saw the inside of her skull. Diana wishes she could go back to the bathroom, where she was trying to see how far she could bend the mirror before it broke. 
+“Mother.” Again the blank stare.
+They’re silent for a while, silent together. It’s not uncomfortable, but it’s not totally comfortable either. Leo wishes he hadn’t said that stuff about her eyes. He also wishes he could forget that he just saw the inside of her skull. Diana wishes she could go back to the bathroom, where she was trying to see how far she could bend the mirror before it broke.
 “Before I came here,” she says slowly, “I never knew there were people like you.”
 “Asian people?” says Leo, a little annoyed.
 “People who lived outside. Every day. School. Work. And you have people you talk to, all the time. And you eat things, and you sleep in these rooms, rooms just for sleeping, without any wires or monitors. And no one asks you questions about anything.”
@@ -968,28 +969,28 @@ They’re silent for a while, silent together. It’s not uncomfortable, but it�
 Leo almost laughs, but stops himself just in time, remembering his mother downstairs. “No, like at school. At the end of each semester, we have finals. We get tested on everything we’ve learned.”
 “Is it hard?”
 “No.”
-“Are there needles?” 
+“Are there needles?”
 Leo isn’t sure how to answer that one, especially because she seems to think it was an obvious question. “Uh, no,” he finally says, “there aren’t any needles.”
 She nods. “It’s… weird.”
 “Yeah, now you know how we feel about you.”
 “You think I’m weird?” She seems shocked.
 Leo nods emphatically. “Uh huh.”
 “But you think I’m pretty.”
-She’s got him there. Even a girl who’s only partially human, who doesn’t know what a hug is and thinks exams involve needles, knows how to corner him. And she’s looking at him with her funny eyes, and he notices that the blue eye is a little brighter than the green eye, and he wonders whether she was created as a baby and somehow grew up, or whether she was created like this, adult from birth, and it scares him. And while he’s looking at her, she’s still looking at him, her eyes tracing his hair, his nose, his jaw. 
+She’s got him there. Even a girl who’s only partially human, who doesn’t know what a hug is and thinks exams involve needles, knows how to corner him. And she’s looking at him with her funny eyes, and he notices that the blue eye is a little brighter than the green eye, and he wonders whether she was created as a baby and somehow grew up, or whether she was created like this, adult from birth, and it scares him. And while he’s looking at her, she’s still looking at him, her eyes tracing his hair, his nose, his jaw.
 “You’re pretty too,” she says.
-And he leans in, his hand over her scar, and kisses her. Her lips, like her hands, are cold. He wonders if this is what it’s like at open-coffin funerals, touching a dead body. And he draws back just a little, and tries not to think about anything. Then they get closer again, and he can feel her arms around his neck, and he can almost taste the metal in her mouth, and he likes it. 
+And he leans in, his hand over her scar, and kisses her. Her lips, like her hands, are cold. He wonders if this is what it’s like at open-coffin funerals, touching a dead body. And he draws back just a little, and tries not to think about anything. Then they get closer again, and he can feel her arms around his neck, and he can almost taste the metal in her mouth, and he likes it.
 She jumps away. She’s breathing hard. She starts shaking her head. “No,” she says.
-“Wait, hold on.” 
+“Wait, hold on.”
 She stands up. “No, no. Stay. Don’t. Don’t.”
 “I’m not doing anything. Hold on, talk to me. Talk to me, Diana.”
-“You can’t do that,” she says. 
+“You can’t do that,” she says.
 He isn’t sure what she means by “that,” but he nods. He gets up too, comes over to her.
-“No, no.” She’s backing herself into the corner. 
+“No, no.” She’s backing herself into the corner.
 “Careful, Ma’s gonna hear you.”
 “No.”
-“Diana, just take a deep breath. It’s okay. I’m not gonna hurt you. I’m sorry I scared you. Here.” He takes her hand. 
+“Diana, just take a deep breath. It’s okay. I’m not gonna hurt you. I’m sorry I scared you. Here.” He takes her hand.
 He isn’t exactly sure how it happens. Her hand slips out of his, and something strikes his head, something heavy. Then he’s on the ground, his ears ringing. And she’s gone. The big window, the one with his mother’s sad old linen curtains, is open. The curtains are jumping in the breeze, like they’re trying to fly away. He scrambles off the floor and rushes to the window, but the yard is empty, just the old play set rotting in a sea of dead grass. His mother’s reading chair rusting from the inside out.
-The side of his face is burning. When he touches his cheek, his hand comes back red and warm. Running to the bathroom, he peers into the mirror. A slim red line decorates his reflection. Smatters of blood punctuate his face. He notices, like it’s slowly occurring to him, that the cut stings. It isn’t deep. One of those shallow cuts that bleeds and bleeds. He knows she did it. There was no one else in the room and he wouldn’t slice his own cheek open for fun. But he’s sure — or, at least, he thinks he’s sure — that she didn’t even come close to his face. Could she have thrown something at him? Diana, with her big eyes like mismatched socks and her nervous hands? He doubts it. And then again, why would she? He leans on the sink, both hands on the porcelain, and feels something else. Anger. 
+The side of his face is burning. When he touches his cheek, his hand comes back red and warm. Running to the bathroom, he peers into the mirror. A slim red line decorates his reflection. Smatters of blood punctuate his face. He notices, like it’s slowly occurring to him, that the cut stings. It isn’t deep. One of those shallow cuts that bleeds and bleeds. He knows she did it. There was no one else in the room and he wouldn’t slice his own cheek open for fun. But he’s sure — or, at least, he thinks he’s sure — that she didn’t even come close to his face. Could she have thrown something at him? Diana, with her big eyes like mismatched socks and her nervous hands? He doubts it. And then again, why would she? He leans on the sink, both hands on the porcelain, and feels something else. Anger.
 
 ## ***Nightmare #3. Scofield’s son.***
 
@@ -997,18 +998,18 @@ The side of his face is burning. When he touches his cheek, his hand comes back 
 Her face emerges from a sea of blue. Those watery eyes. That pleading smile. Her thin hands are covered in blood. She only has her undershirt on, a white camisole lined with scalloped lace. Her hair is pulled back from her forehead, the fringe slipping out in pieces, the ends gathering around her sharp shoulders. Her earrings shine in the lighthead, those gold hoops that women wear when they want to look nonchalant.
 “Nicola,” she says. Her voice is milky, like it’s coming from deep underwater.
 Scofield frowns. “What’s the matter?”
-“You need to help me.” She grabs his arm, and the blood pours over his scrubs, dripping onto the floor. He wrinkles his nose in disgust. 
+“You need to help me.” She grabs his arm, and the blood pours over his scrubs, dripping onto the floor. He wrinkles his nose in disgust.
 “Here,” she says, holding out a brimming glass, the liquid a little too red, a little too thick. “Drink this. It’ll help with your headache.”
 He backs away. “Thanks, but my head’s fine. You aren’t scrubbed in, Chris. You need to wait outside in the observation room. Taylor will speak to you once you’re out there.”
-“I don’t want to talk to Taylor. I want to talk to you.” 
+“I don’t want to talk to Taylor. I want to talk to you.”
 When she puts her hands on his face, the warm rush of blood spills down his cheeks.
 “Jesus Christ, let me go,” he says. And he tastes it in his mouth when she kisses him. That metallic tang. That sweet edge.
 
-“Dr. Scofield,” she says. 
-They part. Scofield’s heart catches in his chest. Eleanor stands before him, one hand on his arm. 
+“Dr. Scofield,” she says.
+They part. Scofield’s heart catches in his chest. Eleanor stands before him, one hand on his arm.
 “Shit,” he whispers. “I’m sorry, Eleanor, what is this?”
-“Dr. Scofield, there’s someone asking for you. A little boy. Right in there.” She points over his shoulder. He turns to look. Before him, the hospital gown, the big blue eyes. And his head, the black hair, Allison’s movie star black hair. By his temple is the incision, eating away at his forehead, and beneath it, the pulsating, marbled expanse of brain. 
-“Hey, kiddo,” Scofield says, approaching gingerly. “You’ve got a little….” He gestures. “Let’s get you up to a trauma bay and get that taken care of.” He reaches out for the child’s hand. The boy’s skin is cold. His nails, those little half moons, are turning blue. 
+“Dr. Scofield, there’s someone asking for you. A little boy. Right in there.” She points over his shoulder. He turns to look. Before him, the hospital gown, the big blue eyes. And his head, the black hair, Allison’s movie star black hair. By his temple is the incision, eating away at his forehead, and beneath it, the pulsating, marbled expanse of brain.
+“Hey, kiddo,” Scofield says, approaching gingerly. “You’ve got a little….” He gestures. “Let’s get you up to a trauma bay and get that taken care of.” He reaches out for the child’s hand. The boy’s skin is cold. His nails, those little half moons, are turning blue.
 “Dad?”
 “Yeah?”
 “You know that ice cream place by that big farm?”
@@ -1021,7 +1022,7 @@ The boy’s grip tightens. His hand is trembling. “Okay,” he says.
 
 ## **Adela confronts Leo.
 
-When Leo opens the door, his sister is standing in the hall. 
+When Leo opens the door, his sister is standing in the hall.
 “Oh my God,” she says, her eyes darting across his face. “Holy shit.”
 “Shh.” Leo pulls her inside and locks the door behind her.
 “Ma’s out, she went next door for Mahjongg. Dude, what the fuck happened? Where’s Diana?”
@@ -1040,9 +1041,9 @@ Adela rolls her eyes. “Look, I know you don’t like her, but come on. She’s
 “*That’s* what you’re upset about?” Leo gives her a look. “Anyway, she… she freaked out, and I tried to get her to calm down, but I guess I just made it worse, and all of a sudden she was gone. And now the window’s open and — and my face is messed up.”
 “What do you mean, all of a sudden she was gone?”
 Leo groans. “I don’t know! She was there one second, and the next she wasn’t. She’s got, like, magic powers or something. She’s nuts, Adela. She’s not human.” He hesitates. “I think it’s good that she’s gone.”
-Adela leans back against the bathroom door and sighs. She walks slowly over to the toilet, brushing past her brother, and sits down on the lid. “Fuck,” she says, putting her head in her hands. Her bangs splay back from her hairline and fan through her fingers. There’s a big, long silence, the kind of silence that boils up right before a bomb goes off. “Do we call the cops?” 
+Adela leans back against the bathroom door and sighs. She walks slowly over to the toilet, brushing past her brother, and sits down on the lid. “Fuck,” she says, putting her head in her hands. Her bangs splay back from her hairline and fan through her fingers. There’s a big, long silence, the kind of silence that boils up right before a bomb goes off. “Do we call the cops?”
 “No, we’d just get in more trouble if we did.” Leo shakes his head. “We’d be — what’s the word — implicating ourselves. And Ma would find out.”
-“Fuck,” Adela repeats, drawing it out. 
+“Fuck,” Adela repeats, drawing it out.
 “Watch your language.”
 Adela mimes punching a hole in the wall. “I swear to God, you are just like Ma sometimes,” she mutters. “What’s gonna happen to Diana out there? She’s not gonna make it on her own. And maybe they’ll catch her. Someone’s responsible for this. Someone did that to her.”
 “Who cares? She’s gone now. We can’t get wrapped up in this.”
@@ -1084,10 +1085,10 @@ Leo screws up his face. “Okay, you know what? You’re done.” He opens the b
 
 ## *McLaughlin saves Scofield.*
 
-After the third knock, McLaughlin begins to get suspicious. He puts his face up against the glass slit in the big wooden door and shuts one eye, squinting with the other. The house is quiet and dark. Purple streaks of evening fall across the foyer, painting the spotless floor. He can just see the edge of the kitchen, suspended in a bluish haze. One corner of the thin woven carpet that runs along the hall is wrinkled, crimped, like someone tripped over it on their way to bed. 
+After the third knock, McLaughlin begins to get suspicious. He puts his face up against the glass slit in the big wooden door and shuts one eye, squinting with the other. The house is quiet and dark. Purple streaks of evening fall across the foyer, painting the spotless floor. He can just see the edge of the kitchen, suspended in a bluish haze. One corner of the thin woven carpet that runs along the hall is wrinkled, crimped, like someone tripped over it on their way to bed.
 McLaughlin steps away. “Scofield?” he calls, knocking again. “Doc, I don’t got all day here.”
-The door swings open, almost into his face. He jumps back, a little stunned, and opens his mouth to say something. Then he stops, frowning. Scofield’s face is pale, his bloodshot eyes framed by mauve shadows. His hair, usually combed back from his face in slow waves, is strewn across his forehead, matted and parted by sweat. 
-“Everything all right here?” 
+The door swings open, almost into his face. He jumps back, a little stunned, and opens his mouth to say something. Then he stops, frowning. Scofield’s face is pale, his bloodshot eyes framed by mauve shadows. His hair, usually combed back from his face in slow waves, is strewn across his forehead, matted and parted by sweat.
+“Everything all right here?”
 Scofield nods, wiping the beads of sweat off his lip. “Yeah, fine.”
 “I was just comin’ over to ask about my mailbox. Was hopin’ we could come to an agreement.” McLaughlin shifts his weight. “But seein’ as you… uh….” He gestures. “What’s goin’ on?”
 “I’m fine,” Scofield says, breathless. “Thanks, Leslie.”
@@ -1096,16 +1097,16 @@ As he makes to shut the door, McLaughlin holds it open. “What’s the matter w
 McLaughlin hesitates. “Fuck off. You ain’t right in the head.”
 “I told you I’m fine. Go back across the street and leave me the hell alone.”
 “Let me in.”
-Scofield throws up his hands. “Jesus Christ,” he mutters, but steps aside for McLaughlin to come in. He watches the officer’s back as he walks past, his eyes darting from shoulder to shoulder, the way a deer looks across a highway. At the base of his throat, he tastes his heart pounding, faster with each second. He struggles for breath. And as McLaughlin passes through the rooms, he stands by the door, waiting. 
+Scofield throws up his hands. “Jesus Christ,” he mutters, but steps aside for McLaughlin to come in. He watches the officer’s back as he walks past, his eyes darting from shoulder to shoulder, the way a deer looks across a highway. At the base of his throat, he tastes his heart pounding, faster with each second. He struggles for breath. And as McLaughlin passes through the rooms, he stands by the door, waiting.
 “Look,” McLaughlin says, voice echoing from the kitchen, “I’ll make this quick. What are you on?”
 “Not what you think I’m on.”
 “What, snow?”
-“No.” Scofield almost laughs. “I wish.” 
+“No.” Scofield almost laughs. “I wish.”
 McLaughlin opens a drawer, the cutlery clattering within. “I won’t get you in trouble.”
-“I’m not worried about that.” 
-“Why the hell are you staying in the entryway like a fuckin’ creep? Don’t wanna talk to me?” The drawer slams shut. McLaughlin moves on to the dining room. “Like I said, I ain’t gonna get you in trouble. I just…” Then he’s silent for a while. 
-The light from the garden glows on the table. A plate, still full, lies before the head, a fork resting stained at its side. A small orange bottle sits empty where the wine should be. Next to it, a loaded gun: an old Sig Sauer with a chipped slide. 
-Scofield listens, his hand on the wall, as McLaughlin drops the magazine and sighs. 
+“I’m not worried about that.”
+“Why the hell are you staying in the entryway like a fuckin’ creep? Don’t wanna talk to me?” The drawer slams shut. McLaughlin moves on to the dining room. “Like I said, I ain’t gonna get you in trouble. I just…” Then he’s silent for a while.
+The light from the garden glows on the table. A plate, still full, lies before the head, a fork resting stained at its side. A small orange bottle sits empty where the wine should be. Next to it, a loaded gun: an old Sig Sauer with a chipped slide.
+Scofield listens, his hand on the wall, as McLaughlin drops the magazine and sighs.
 “What did you take?”
 “Diazepam.”
 McLaughlin emerges, a dangerous look on his face. “In English?”
@@ -1115,8 +1116,8 @@ McLaughlin emerges, a dangerous look on his face. “In English?”
 “And let you die?”
 Scofield nods. “Believe me, you’d be doing me a favor.”
 “Shut the hell up. You have no idea —”
-“Yes, I do. Every day I watch people die. Every day I fight against that. Against death. I see infants with their chests split on, living on ventilators. And it’s waiting for me, every single day, when I get home. I feel it.” He’s breathing hard. Strands of his greying hair are falling across his forehead. “I don’t want to fight. Everything in my life, I’ve ruined. I want to stop….” He scrunches up his face. “I want to stop pretending that someday I’m going to wake up and it’s all going to be fucking rainbows and sunshine. It is not getting better. It’s not going to get better.” 
-McLaughlin watches him from under hooded eyes. 
+“Yes, I do. Every day I watch people die. Every day I fight against that. Against death. I see infants with their chests split on, living on ventilators. And it’s waiting for me, every single day, when I get home. I feel it.” He’s breathing hard. Strands of his greying hair are falling across his forehead. “I don’t want to fight. Everything in my life, I’ve ruined. I want to stop….” He scrunches up his face. “I want to stop pretending that someday I’m going to wake up and it’s all going to be fucking rainbows and sunshine. It is not getting better. It’s not going to get better.”
+McLaughlin watches him from under hooded eyes.
 “You think you’ve got me figured out, don’t know? Rich screw up doctor who can’t handle his own career? Bad neighbor who blares the car radio at three in the morning, right?”
 McLaughlin shrugs.
 “You don’t know anything about me.”
@@ -1130,15 +1131,15 @@ McLaughlin groans. “Why try to kill yourself?”
 “I am not dying in a hospital.”
 “Nick, let me help you, for fuck’s sake.”
 Scofield’s gaze is getting abstract, glassy. “No,” He says, smiling. “No, let me. Let me.”
-Their time is running out. McLaughlin glances around the hall, as if he’ll find a med kit hidden in a compartment in the wall. He darts into the kitchen, rummages through the drawers, comes back empty-handed. 
+Their time is running out. McLaughlin glances around the hall, as if he’ll find a med kit hidden in a compartment in the wall. He darts into the kitchen, rummages through the drawers, comes back empty-handed.
 “Come on, you’ve gotta have something in your bathroom. You’re a doctor, for God’s sake. Look at me, Nick. Look at me.”
 Scofield leans against the wall, his mouth slack on his face.
 “Nick. Jesus fucking Christ.”
 “Flumazenil,” Scofield says. That’s all he can say. “Flumazenil.”
-It takes McLaughlin too long to find the master bathroom. By the time he does, Scofield is slumped on the bedroom floor, his limbs heavy and limp beside his body. McLaughlin is kneeling by the sink, the fluorescent bulbs illuminating a small bottle of clear liquid. The name on the label looks right, even a little familiar — he remembers it, barely, from a medical course he took in his early days at the station. Big words like contraindicated and antidote come to mind as he extracts a heavy dose of the medicine with a spare syringe. Only someone as neurotic as Scofield would keep the poison in the same cabinet as the cure. 
+It takes McLaughlin too long to find the master bathroom. By the time he does, Scofield is slumped on the bedroom floor, his limbs heavy and limp beside his body. McLaughlin is kneeling by the sink, the fluorescent bulbs illuminating a small bottle of clear liquid. The name on the label looks right, even a little familiar — he remembers it, barely, from a medical course he took in his early days at the station. Big words like contraindicated and antidote come to mind as he extracts a heavy dose of the medicine with a spare syringe. Only someone as neurotic as Scofield would keep the poison in the same cabinet as the cure.
 The veins in Scofield’s arms are prominent, somewhere between blue and green. When McLaughlin pinches the skin above them, their edges blur. His hand trembles a little, his thumb too heavy for the plunger. He keeps his teeth gritted, his eyes fixed on the angled tip of the needle as it pierces Scofield’s skin. Flinching, he begins to empty the syringe.
 
-After the fourth dose, McLaughlin stops. He sits with Scofield for a long time, more than half an hour, while the doctor’s face changes, paling from peach to grey. His breathing slows, then, briefly, stops, and his chest sits flat and tepid on the carpet. The ribbed shell of his trachea lies still under his skin. Minutes pass. The house begins to get dark. Outside, traffic slows, but the signs of life continue: sirens and birdsong on a street he can’t see. Like Scofield, McLaughlin has watched death up close. He has, like Scofield, let people die. People he loved, people he liked, people he hated but whose bodies terrified him as rigor mortis took control. In days he does not want to remember, he was the one to pull the trigger. He was a good shot, a good soldier. He did everything right. 
+After the fourth dose, McLaughlin stops. He sits with Scofield for a long time, more than half an hour, while the doctor’s face changes, paling from peach to grey. His breathing slows, then, briefly, stops, and his chest sits flat and tepid on the carpet. The ribbed shell of his trachea lies still under his skin. Minutes pass. The house begins to get dark. Outside, traffic slows, but the signs of life continue: sirens and birdsong on a street he can’t see. Like Scofield, McLaughlin has watched death up close. He has, like Scofield, let people die. People he loved, people he liked, people he hated but whose bodies terrified him as rigor mortis took control. In days he does not want to remember, he was the one to pull the trigger. He was a good shot, a good soldier. He did everything right.
 When Scofield’s breathing starts again, a gentle rush over the sounds of evening, McLaughlin starts breathing too. He stops his prayer halfway through and waits for Scofield’s eyes to open. Finally, they do. The color floods back into his face, spreading from his jaw to the bridge of his nose. He blinks, opens his mouth and closes it a few times, like he’s not sure what he’s meant to do with it. McLaughlin takes his hand and squeezes it.
 “Hey,” he says.
 Scofield shuts his eyes. “Fuck you,” he whispers. His voice is hoarse. “Fuck you.”
@@ -1146,20 +1147,20 @@ Scofield shuts his eyes. “Fuck you,” he whispers. His voice is hoarse. “Fu
 Lying on the floor like a bug on its back, Scofield groans. “Let me sit up.”
 “No fucking way.”
 “The room is spinning. Please.”
-Sighing, McLaughlin puts his arm under Scofield’s shoulders and hoists him up till he rests against the side of the bed. He touches Scofield’s forehead, still cool and a little ashy, but definitively alive. 
+Sighing, McLaughlin puts his arm under Scofield’s shoulders and hoists him up till he rests against the side of the bed. He touches Scofield’s forehead, still cool and a little ashy, but definitively alive.
 “Look, I know you probably wanna beat my face in,” McLaughlin begins, “but I —”
 “Stop talking,” Scofield manages, grabbing McLaughlin’s arm. “Stop talking. I….” His skin turns a shade of greyish green. “Shit.”
-Five minutes go by while McLaughlin stands outside the bathroom door, listening to Scofield retch. He thinks about knocking, but figures he might as well let the doctor keep the little dignity he has left. The minutes go by slowly. He checks his watch, then checks it again two minutes later to find, disappointingly, that only thirty seconds have passed. He taps his foot on the ground until Scofield grumbles at him, through the door, to stop. When he hears Scofield leaning over to unlock the door, he’s almost surprised. 
-“Sorry,” Scofield says, glancing in his direction. He’s sitting on the tile floor, his head against the towel rack, his shirt half undone. Sweat is beading on his face. 
+Five minutes go by while McLaughlin stands outside the bathroom door, listening to Scofield retch. He thinks about knocking, but figures he might as well let the doctor keep the little dignity he has left. The minutes go by slowly. He checks his watch, then checks it again two minutes later to find, disappointingly, that only thirty seconds have passed. He taps his foot on the ground until Scofield grumbles at him, through the door, to stop. When he hears Scofield leaning over to unlock the door, he’s almost surprised.
+“Sorry,” Scofield says, glancing in his direction. He’s sitting on the tile floor, his head against the towel rack, his shirt half undone. Sweat is beading on his face.
 “That’s all right. I’ve had worse.”
 “You don’t need to say that to make me feel better.”
 “Do I look like the kind of person who would say shit to make you feel better?”
-Scofield shrugs. 
+Scofield shrugs.
 Smiling, McLaughlin turns on the faucet. He passes a towel under the water and wrings it out above the sink, droplets spattering on the mirror. Scofield watches him, trying not to move his head, but looks away when McLaughlin comes closer and holds the towel up to his face.
 “Christ,” Scofield mutters, swatting him off.
 “You are a bad patient.”
-“That’s not my job.” He shoots McLaughlin a glare, but the quick movement of his eyes nearly has him doubling over again. Admitting defeat, he lets McLaughlin spread the towel over his forehead. 
-“Back at the station, this one time,” McLaughlin begins, speaking low, his accent winning, “we brought this guy in for a DUI. Fucker’s been swervin’ all over the road, scared a couple pedestrians, all that. Refuses the breathalyzer so we gotta cuff him, force it on him. He’s throwin’ a goddamn fit. Reading comes back, four times the legal limit.” He clicks his tongue. “As soon as we put this guy in the back of the car, he starts hurlin’. When we finally got to the damn station, he’s just sittin’ there, makin’ the kinda noise I imagine a pig might make while it’s dyin’. That smell stuck around for months.” 
+“That’s not my job.” He shoots McLaughlin a glare, but the quick movement of his eyes nearly has him doubling over again. Admitting defeat, he lets McLaughlin spread the towel over his forehead.
+“Back at the station, this one time,” McLaughlin begins, speaking low, his accent winning, “we brought this guy in for a DUI. Fucker’s been swervin’ all over the road, scared a couple pedestrians, all that. Refuses the breathalyzer so we gotta cuff him, force it on him. He’s throwin’ a goddamn fit. Reading comes back, four times the legal limit.” He clicks his tongue. “As soon as we put this guy in the back of the car, he starts hurlin’. When we finally got to the damn station, he’s just sittin’ there, makin’ the kinda noise I imagine a pig might make while it’s dyin’. That smell stuck around for months.”
 Scofield manages a smile. “That’s disgusting. And that’s what I smell like?”
 “No, he was worse.”
 “I’m flattered.”
@@ -1168,8 +1169,8 @@ Scofield manages a smile. “That’s disgusting. And that’s what I smell like
 There’s a prickly silence. McLaughlin slowly turns his head. “Man, I don’t expect you to be grateful for that I saved your life, but goddamn, you are makin’ me real tempted to wish I hadn’t given you that antidote.”
 Scofield nods. He faces McLaughlin, and nods some more. His eyes are beginning to sharpen, slowly coming back to life. He opens his mouth to say something, stops, thinks. “Tell me about your accident,” he says. “That’s what you were going to tell me, yeah?”
 “Yeah, but I doubt it’ll make much difference.”
-“It probably won’t, but I’m curious anyway.” 
-A constellation of punctures lies in the crease between Scofield’s forearm and bicep. Beneath it, his veins are becoming brighter, still blue and faint, but an alive sort of blue, no longer the blue of a decaying body. Offshoots of a beating heart, like the roots of an evergreen. McLaughlin knows the worst is over. He sees it in Scofield’s face: he has something. It isn’t hope. It’s almost hope. It’s the kind of thing you have when you’ve learned over and over to be wary of joy, even wary of life itself. 
+“It probably won’t, but I’m curious anyway.”
+A constellation of punctures lies in the crease between Scofield’s forearm and bicep. Beneath it, his veins are becoming brighter, still blue and faint, but an alive sort of blue, no longer the blue of a decaying body. Offshoots of a beating heart, like the roots of an evergreen. McLaughlin knows the worst is over. He sees it in Scofield’s face: he has something. It isn’t hope. It’s almost hope. It’s the kind of thing you have when you’ve learned over and over to be wary of joy, even wary of life itself.
 “Okay,” McLaughlin says. “Well, I had an accident, when I was in ’Nam. I’d had, you know, scrapes and shit before, but I’d never had an accident, not like this. I’d grown up rough, for sure. Our house was the kinda house that — well, the kinda house that scared kids. Kids like you, I mean, kids that grew up nice. We had a big dog, a shepherd, and that dog bit. So, I knew what it was like, bein’ hurt, real hurt. I didn’t grow up with sympathy or patience or any of that shit. It was just me and my mom, and she was pretty tough. She had a heavy fuckin’ hand, that woman, let me tell you, and I was fuckin’ terrified of her. But that was just the way things was. Anyway, in the war, we had some tough stretches. Couple of my buddies died, shot in the head, or worse, the chest, bleedin’ out in the mud. So, in my head, you know, I thought I’d seen it all, thought I was ready for anythin’ to happen, anythin’ to hit me.”
 “Yeah? I think we’ve all been there.”
 “Nah, I don’t think most folks have. You see a lot of death, it changes you. You said so yourself back there. You stop bein’ scared, the way normal folks get. Anyway, don’t matter. I was a soldier from backass nowhere, pretty much bottom of the barrel, so I got some real gnarly jobs. And this one time, I’m out there, takin’ out a few of the enemy guys, but there ain’t much, it’s real quiet. So, I’m startin’ to get relaxed. And all of a sudden, outta nowhere, I just go flyin’ down the hill, gun fallin’ outta my hands. And next thing I know I’m on my back with this crazy pain in my chest.” McLaughlin unbuttons his flannel and pulls the collar aside. A deep, striated scar runs from his neck to the crown of his shoulder. “I can’t move, I can’t breathe. I don’t even feel like a person. I just feel the bullet.”
@@ -1199,7 +1200,7 @@ Groaning, Scofield covers his face with his hands and rubs his eyes with his pal
 “What happened to you? You messed up, didn’t you? With those implants or something. And you tried to cover your tracks.”
 Scofield sits up. “I never tried to cover my tracks. I took the implants out of commission right after my son’s operation.”
 “When I looked you up, before I was movin’ in, I heard about the big articles you published. Who was Patient H.S.?”
-“Patient H.S. was my son, Leslie. Patient H.S. was my son. Henry Scofield.” 
+“Patient H.S. was my son, Leslie. Patient H.S. was my son. Henry Scofield.”
 “Why’d you do it?”
 “The surgery? It was a last resort. We’d tried everything else.”
 “He was born sick?”
@@ -1213,42 +1214,42 @@ Scofield sits up. “I never tried to cover my tracks. I took the implants out o
 “Nicola, stop.” McLaughlin grabs his arm. “Look at me. You loved that kid. You did all you could do.”
 “And it wasn’t enough. He’s still fucking dead.”
 “But that ain’t your fault. He’d be dead anyway if you hadn’t done that surgery. He died while he was under. If anything you let him suffer less than he would’ve.”
-Scofield shakes his head. “I loved him more than anything else in the world. He was it. He was everything. And it wasn’t enough. I did everything right. I was the best surgeon in the state. Maybe in the country. Who cares, it doesn’t matter. It wasn’t fucking enough.” He’s yelling now. “I know that’s part of my job. They gave us that lecture in the first week of med school. But it was different when it was him.” 
+Scofield shakes his head. “I loved him more than anything else in the world. He was it. He was everything. And it wasn’t enough. I did everything right. I was the best surgeon in the state. Maybe in the country. Who cares, it doesn’t matter. It wasn’t fucking enough.” He’s yelling now. “I know that’s part of my job. They gave us that lecture in the first week of med school. But it was different when it was him.”
 McLaughlin is quiet. He nods, lowering his eyes. “I’m real sorry.”
 “I know.” Scofield fights through his tears. His voice is taught. “I know. I can’t get over this, Leslie. I can’t sleep. Every night I see him. Every night I kill him. Every night it happens again, again and again and again. I can’t keep living like this. I can’t, Leslie. But I don’t want to die.” He wipes his lip on the back of his hand. “That’s why I took the pills.”
 “Instead of the gun?”
 “Yeah.” Scofield nods. “Yeah.”
 The bathroom gets quiet again. The evening has long since faded to night. The hands on Scofield’s watch are beginning to glow. From the bedroom, McLaughlin can hear birdsong, intermingling with the sounds of wind. A tiny sliver of Scofield’s unmade bed cuts the bathroom mirror in two. The shadows on the sink are deep and tangible, blue and green like the veins in the doctor’s arm. Reaching into his pocket, McLaughlin takes out a pack of Marlboros and an old silver lighter, obviously heirloom. He puts one between his teeth and clicks the lighter into life. The flame dances in front of his face.
 “I heard about another name when I was lookin’ you up,” McLaughlin says.
-“Curtis,” Scofield supplies. “Christina Curtis.” He reaches down for the pack and carefully selects a cigarette. 
+“Curtis,” Scofield supplies. “Christina Curtis.” He reaches down for the pack and carefully selects a cigarette.
 McLaughlin leans in and lights it. “Didn’t know you smoked.”
 “Bad habit.” Scofield takes a long drag. “Christina,” he continues, resting his hands on his knees. “She was a resident at Duke back in the eighties. She worked with me on the implant project.”
 “And then she left Duke.”
 “Yes, in 1983.”
 “Why?”
-“Towards the end of the project, I caught her falsifying data, lying about patient outcomes. I threatened to tell the head of the hospital and have her kicked out. But it wasn’t a huge concern of mine. It should’ve been, but 
+“Towards the end of the project, I caught her falsifying data, lying about patient outcomes. I threatened to tell the head of the hospital and have her kicked out. But it wasn’t a huge concern of mine. It should’ve been, but
 That was before my son died, of course.”
 
 McLaughlin looks up. He’s still for a moment before speaking. “Curtis was there when your son died?”
 “No, no. She was on a different case that day. But she helped me develop the implants.”
 “She was a med student, wasn’t she?”
-“Yeah, that’s right. We met about fifteen years ago, in the early eighties, like I said. I was still relatively new to medicine then. I’d graduated pretty young, and I’d only been practicing for about a decade and a half, give or take a couple years. Because of the implant research, I’d been made chief of functional neurosurgery, which was a promotion I didn’t really deserve.” 
+“Yeah, that’s right. We met about fifteen years ago, in the early eighties, like I said. I was still relatively new to medicine then. I’d graduated pretty young, and I’d only been practicing for about a decade and a half, give or take a couple years. Because of the implant research, I’d been made chief of functional neurosurgery, which was a promotion I didn’t really deserve.”
 “And Curtis?”
 “Curtis was in her third year when she rotated in the neurosurgical department. I had a couple medical students rotating on my floor, but to be honest, I didn’t pay them much mind. My residents and my patients were my first priority. Whether some naive student liked my methods or not didn’t matter to me.”
 McLaughlin chuckles. “Yeah, figures. But I don’t follow how some nobody med student ended up workin’ with you on this science fiction business.”
 “I’m getting to that. It’s just not easy to describe Curtis, that’s all. No one really knew who she was. She said different things to different people, and everyone had their own idea of her. She wanted that. She wanted people to think about her. And she always knew what people wanted to hear. She was a great smooth-talker. There were a lot of outlandish stories about her, but the fact was, she wasn’t really all that special. At least not outwardly — she didn’t look special. She’d studied biology at a state school, she’d rushed one of those big sororities. She looked the part, too. Nice face, blonde hair, eyes that really drew you in. I guess it was her banality that made her so fascinating.” Scofield shifts, putting both his arms around McLaughlin’s shoulders. “She heard about my project through one of my colleagues, and she came to my office one night when our cases were over to ask me about the implants. We talked for… Christ, two, maybe three hours. I was very impressed with her ideas. She was sharp and articulate and innovative.”
 
 Something like fear flashes across Scofield’s face. “How do you know that?”
-“I’m a detective, Nick. It’s my job to know things.” McLaughlin blows a cloud of smoke into the humid air. 
+“I’m a detective, Nick. It’s my job to know things.” McLaughlin blows a cloud of smoke into the humid air.
 
 “You must have liked her a little bit, if you ended up in bed with her.”
 “That’s what Allison thought too. I admired her. She was my best student. She had an incredible mind.”
-“You liked her mind?” The concept is foreign to McLaughlin. 
-“Yes. How could I not? It was astounding, the way she thought. She was the smartest person I’ve ever met. Talking to her was captivating. It was like seeing this entire world that I never could have imagined. But it wasn’t love, Leslie.” 
+“You liked her mind?” The concept is foreign to McLaughlin.
+“Yes. How could I not? It was astounding, the way she thought. She was the smartest person I’ve ever met. Talking to her was captivating. It was like seeing this entire world that I never could have imagined. But it wasn’t love, Leslie.”
 “Why not?”
 “That doesn’t concern you.”
 McLaughlin smiles. “Concerns you, doesn’t it? That’s what I’m here for.”
-Scofield doesn’t answer. 
+Scofield doesn’t answer.
 “Well?”
 “Look, I’m tired. I’ve only been alive for a couple hours, don’t forget. I need to turn in.”
 “Like hell you do. You ain’t kickin’ me out, doc. No way in hell am I leavin’ you alone in this house with a loaded gun.”
@@ -1257,20 +1258,19 @@ Scofield doesn’t answer.
 “Not from you.”
 “Who else is gonna do it? It’s not like you got a whole list of friends to call on.”
 “What do you want?” Scofield lets the question hang in the air for a minute, searching McLaughlin’s face. “Saving my life was one thing. This conversation is another. This is ridiculous, Leslie. Asking me whether I loved my wife? What are you getting at? What are you implying about me?” Again, he waits. “What do you want me to say?”
-Finally, he turns away. Waiting doesn’t come naturally to him. His pager is still in his pocket, but he is off this weekend. He timed it nicely. Taylor wouldn’t have wondered. The nurses wouldn’t have asked questions. He would’ve sat at the head of his overpriced dining table and slowly slumped in his chair, his head rolling back, exposing his neck to the hungry air. And two days would have passed, and then three, and Eleanor would’ve noticed the dark windows and called the police, and they would’ve found his body, stiff and greying, in that same chair. But it is only Friday night, and he is still alive, still breathing. It will be a long, miserable weekend. 
-He looks back. McLaughlin has his cigarette in his hands, rolling it between his finger and thumb. 
+Finally, he turns away. Waiting doesn’t come naturally to him. His pager is still in his pocket, but he is off this weekend. He timed it nicely. Taylor wouldn’t have wondered. The nurses wouldn’t have asked questions. He would’ve sat at the head of his overpriced dining table and slowly slumped in his chair, his head rolling back, exposing his neck to the hungry air. And two days would have passed, and then three, and Eleanor would’ve noticed the dark windows and called the police, and they would’ve found his body, stiff and greying, in that same chair. But it is only Friday night, and he is still alive, still breathing. It will be a long, miserable weekend.
+He looks back. McLaughlin has his cigarette in his hands, rolling it between his finger and thumb.
 “It’s late,” Scofield says.
 McLaughlin nods.
 “Look at me.”
-His eyes flit up. 
+His eyes flit up.
 “What do you want me to say?”
-McLaughlin lowers his eyes again, cocking his head to one side and sighing. Scofield reaches across, takes the cigarette from his hand, and throws it into the sink. As he’s turning back, McLaughlin catches his arm, the sleeve of his button-up. He studies Scofield for a minute: his tired eyes, his strong nose, his sweaty hair. With his other hand, he touches Scofield’s cheek, grazes his thumb over a freckle on his chin. 
-“I want you to tell me….” He trips on his words. “Fuckin’ hell, you know what I want.” And he leans in and kisses Scofield’s lips, gentle but firm. Very intentional. It’s a slow kiss, the kind of kiss you dream about and never get in real life. He feels Scofield’s hand on his waist, tugging at his shirt, and tastes the acidic sting on his teeth. 
+McLaughlin lowers his eyes again, cocking his head to one side and sighing. Scofield reaches across, takes the cigarette from his hand, and throws it into the sink. As he’s turning back, McLaughlin catches his arm, the sleeve of his button-up. He studies Scofield for a minute: his tired eyes, his strong nose, his sweaty hair. With his other hand, he touches Scofield’s cheek, grazes his thumb over a freckle on his chin.
+“I want you to tell me….” He trips on his words. “Fuckin’ hell, you know what I want.” And he leans in and kisses Scofield’s lips, gentle but firm. Very intentional. It’s a slow kiss, the kind of kiss you dream about and never get in real life. He feels Scofield’s hand on his waist, tugging at his shirt, and tastes the acidic sting on his teeth.
 
 “Well, that’s probably for the best.” With steady hands, he pinches the hem of McLaughlin’s shirt and pulls it over his head. And he looks at him for a long time, still holding the shirt, like he doesn’t know what to do with it. He lets McLaughlin untangle it from his hands and lay it on the floor. He lets him take off his glasses and discard those on the floor too, the metal temples clicking on the tiles.
 
-When they come together again, it’s different. It’s not calculated. McLaughlin holds Scofield’s face in his big hands, as close as he can get. It isn’t close enough. Scofield doesn’t let go. He presses McLaughlin into the wall, feeling his arms around his neck. It’s almost like anger. Their fall is violent. Scofield tenses when he feels the cold tiles on his back, and he throws McLaughlin over and holds him down. McLaughlin flinches, shivering, the hairs on his arms standing up, and he keeps his eyes set on Scofield’s. 
-
+When they come together again, it’s different. It’s not calculated. McLaughlin holds Scofield’s face in his big hands, as close as he can get. It isn’t close enough. Scofield doesn’t let go. He presses McLaughlin into the wall, feeling his arms around his neck. It’s almost like anger. Their fall is violent. Scofield tenses when he feels the cold tiles on his back, and he throws McLaughlin over and holds him down. McLaughlin flinches, shivering, the hairs on his arms standing up, and he keeps his eyes set on Scofield’s.
 
 “And your wife? When did you split up?”
 He leans back, like he’s counting the years in his head. “Oh, I don’t know. A while ago.”
@@ -1281,7 +1281,7 @@ He leans back, like he’s counting the years in his head. “Oh, I don’t know
 
 # PART TWO.
 
-## **Lila finds out.** 
+## **Lila finds out.**
 
 ADELA TELLS LILA IN THE BATHROOM
 

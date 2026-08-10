@@ -1,10 +1,10 @@
-# HMM: Meeting with Pyone & Sahar | August 4, 2026
+# HMM recap with Pyone & Sahar | August 4, 2026
 
 ## ==🔵Basic rundown==
 
 **HMM: AI study conducted every year**
 
-- **Notes on past studies (**[[HMM 2024-2025 notes]]**)**
+- **Notes on past studies (** [[HMM 2024-2025 notes]] **)**
 
 - **General focus:** measuring how things change over time
 
@@ -25,15 +25,14 @@
 - Think about what could be a good research question for this project
 - Note that the survey should be accessible to a general population
 - **Broad survey sections**
-  - Screener questions
-  - Tracking/previous questions
-  - Net new questions
+  - Screener questions (questions that qualify participants)
+  - Tracking questions (repeat questions from previous studies)
+  - Net new questions (completely new questions)
   - AI-specific questions for heavy users
 - **Ideas**
   - Short-form videos summarizing interview results?
 
 ## ==🔵Deliverables==
 
-**Brainstorm what could be a good research question for this project**
-
-**Brainstorm potential survey questions**
+- **Brainstorm what could be a good research question for this project**
+- **Brainstorm potential survey questions**

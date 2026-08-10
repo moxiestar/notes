@@ -2,22 +2,39 @@
 
 ## ==🔵August 5, 2025==
 
-**Current projects**
+### **Current projects**
 
-- **HMM:** yearly AI study
+- **HMM (yearly AI study) | first priority**
   - **Notes on past studies (** [[HMM 2024-2025 notes]] **)**
   - **General focus:** measuring how things change over time
-- **Deliverables**
-  - Brainstorm what could be a good research question for this project
-  - Brainstorm potential survey questions
+  - **Deliverables**
+    - ==🔴Brainstorm what could be a good research question for this project==
+    - ==🔴Brainstorm potential survey questions==
+- **Chase DCM | second priority**
+  - **General focus:** working on improving Sapphire portfolio
+    - **Prism:** Chase’s mid-fee card (competing with Amex Gold)
+  - **Deliverables**
+    - ==🔴Get Microsoft access==
+- **Other deliverables**
+  - ==🔴Add school schedule to Thursday calendar==
 
-**Questions**
+### **Questions**
 
-- **How do we get the IT stuff resolved?** 
-  - Microsoft access
-  - Gmail access
 - **How should I report my work & hours?**
+  - ==🔴Ask Emily about reporting hours==
+- **How should I share my notes etc? Google Drive?**
+  - Share notes via weekly meetings
+- **How should I schedule the team meetings?**
+  - ==🔴Schedule one-on-ones via chat==
 - **What are the expectations for my work right now?**
-  - How autonomously should I operate? 
-  - How much can I bug you with questions? 
-  - How much should I be getting done in these first few weeks?
+  - Getting informed
+
+### **==🔴Current deliverables==**
+
+- [x] Set up computer
+- [x] Ask Emily about reporting hours
+- [x] Add school schedule to Thursday calendar
+- [x] Reach out to schedule meetings with Thursday team
+- [ ] Meet with Thursday team (4/11)
+- [x] Get through phishing/HIPAA training
+- [ ] [Work on HMM project - read through survey and brainstorm question topics](https://docs.google.com/document/d/1tXbOROM-XqFWXk8F0r2yavNRFz1K_cdjki-VKEqvPG8/edit?tab=t.tvd2u3fv7u2k#heading=h.oc8ci8zgd82m)
