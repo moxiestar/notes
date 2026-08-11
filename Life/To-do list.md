@@ -16,14 +16,14 @@ tags: []
 - [x] Pick up new lenses at Academy Eye (Monday)
 - [x] Redo headshots
 - [x] Order car
-- [ ] Go to the range
+- [x] Go to the range
 - [ ] Get tested for autism & OCD
 
 ### In progress
 
 - [ ] Get back on meds/herbs
 - [x] Finish my internship
-- [ ] Start my new job
+- [x] Start my new job
 
 ### Ongoing
 

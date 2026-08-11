@@ -36,3 +36,14 @@
 
 - **Brainstorm what could be a good research question for this project**
 - **Brainstorm potential survey questions**
+
+# HMM recap with Sahar | August 10, 2026
+
+## ==🔵Basic rundown==
+
+**Tracking battery has been reduced**
+
+## ==🔵Deliverables==
+
+- **Read through tracking battery to check if they make sense and are relevant**
+- **Read through green survey questions to check if they make sense and are relevant** 

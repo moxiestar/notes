@@ -7,8 +7,8 @@ The Sapphire Reserve DCM study is designed to quantify the incremental value of 
 ### Aims
 
 - Isolate the value participants place on each card benefit, including how that value varies across audiences
-- Benchmark the Sapphire portfolio against competitors 
-- Establish a benefits simulator that can inform future card design decisions 
+- Benchmark the Sapphire portfolio against competitors
+- Establish a benefits simulator that can inform future card design decisions
 
 ### Structure *(based on Kickoff Slide Deck)*
 
@@ -24,9 +24,17 @@ The Sapphire Reserve DCM study is designed to quantify the incremental value of 
 
 1. Participants are shown individual features that exist across all cards and are asked to design their ideal card
 2. Participants are shown initial card configurations and asked to indicate their favorites
-3. ==🔴Participants are then shown options weighted by prior preference?==
+3. Participants are then shown benefit options weighted by prior preference
 
 **Bespoke Choice-Based Conjoint**
 
 1. Participants are asked to select the most important card features that drive their decisions
-2. ==🔴Participants are then put through a Choice Tournament based on only bespoke features?==
+2. Participants are then put through a choice tournament based on only bespoke features (choosing their favorites)
+
+### Survey draft
+
+- Participants are screened (upper-middle class audience, specific work environments)
+
+
+- Survey is mostly anonymous (minimal mentions of Chase)
+- Participants run through multiple DCM/choice exercises

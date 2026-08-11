@@ -16,7 +16,7 @@ The next morning, Diana blows up at a colleague in front of everyone, leading to
 
 When Scofield gets home, he finds the house empty, with only a short note from Sara explaining her choice to leave. Panicked, he calls Diana and the police, and spends the night driving around town searching for her. He finds her on the side of the road, bleeding and exhausted, and they share their first hug. With the police in tow, he drives her back to the hospital.
 
-Sara recovers, and slowly warms up to Scofield and Diana. At the end of their first year together, Scofield takes Sara ice-skating, once her favorite pastime, and they laugh about their lives. Diana, now living with them, picks them up for dinner at Sara’s favorite restaurant. 
+Sara recovers, and slowly warms up to Scofield and Diana. At the end of their first year together, Scofield takes Sara ice-skating, once her favorite pastime, and they laugh about their lives. Diana, now living with them, picks them up for dinner at Sara’s favorite restaurant.
 
 # Elements I want to include in this story
 

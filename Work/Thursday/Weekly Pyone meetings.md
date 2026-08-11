@@ -35,6 +35,13 @@
 - [x] Ask Emily about reporting hours
 - [x] Add school schedule to Thursday calendar
 - [x] Reach out to schedule meetings with Thursday team
-- [ ] Meet with Thursday team (4/11)
 - [x] Get through phishing/HIPAA training
-- [ ] [Work on HMM project - read through survey and brainstorm question topics](https://docs.google.com/document/d/1tXbOROM-XqFWXk8F0r2yavNRFz1K_cdjki-VKEqvPG8/edit?tab=t.tvd2u3fv7u2k#heading=h.oc8ci8zgd82m)
+- [x] [Work on HMM project - read through survey and brainstorm question topics](https://docs.google.com/document/d/1tXbOROM-XqFWXk8F0r2yavNRFz1K_cdjki-VKEqvPG8/edit?tab=t.tvd2u3fv7u2k#heading=h.oc8ci8zgd82m)
+- [ ] Meet with Thursday team (5/11)
+- [ ] Work on HMM - read through battery & new survey questions
+
+# Weekly meetings with Pyone
+
+## ==🔵August 12, 2025==
+
+ffff

@@ -59,16 +59,6 @@ Partner overseeing the qualitative research team, serving as ringleader of hirin
 
 **Google Play project**
 
-# Introductory meeting with Viet | August 10, 2026
-
-### What’s your role at Thursday?
-
-…
-
-### What Thursday project are you most proud of? Walk me through the methodology and final report.
-
-…
-
 # Introductory meeting with Connor | August 11, 2026
 
 ### What’s your role at Thursday?
