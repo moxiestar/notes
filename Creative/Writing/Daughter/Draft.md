@@ -1,4 +1,6 @@
-Even now, halfway done, she isn’t sure where to start. For once the house is quiet. The old black fridge is bare of magnets, and in the dusty afternoon haze, the furniture could belong to anyone. The bed is empty, unmade, sheets spilling onto the floor like the first time. Without the carpets or curtains the whole place looks like it never held any of their crazy memories, the dancing, the laughing at the television, the last-minute sex on the couch. Without the memories it is just a room, nothing special. By two, when the sun comes out, she has packed everything in Kat’s red pickup. There isn’t much to pack, she’s keeping less than she should. Now she’s getting tired. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust. She’s gotten stuck by the door, by the hooks that used to hold two sets of keys. 
+Even now, halfway done, she isn’t sure where to start. With each suitcase she starts over, thrown back to a rushed beginning, knees cramping on the hardwood floors. For once the house is quiet. No music on the radio, no worried voices singing along. All…
+
+The old black fridge is bare of magnets, and in the dusty afternoon haze, the furniture could belong to anyone. The bed is empty, unmade, sheets spilling onto the floor like the first time. Without the carpets or curtains the whole place looks like it never held any of their crazy memories, the dancing, the laughing at the television, the last-minute sex on the couch. Without the memories it is just a room, nothing special. By two, when the sun comes out, she has packed everything in Kat’s red pickup. There isn’t much to pack, she’s keeping less than she should. Now she’s getting tired. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust. She’s gotten stuck by the door, by the hooks that used to hold two sets of keys.
 
 “Come on, Di. You’re never going to feel ready,” Kat says, pressing a hand to her shoulder. “You just have to go.”
 
@@ -10,7 +12,7 @@ Even now, halfway done, she isn’t sure where to start. For once the house is q
 
 “Di, he’s not gonna fucking call. You’re embarrassing me. Get in the car.”
 
-The hum of the truck, growling past the country line like a big metal dog, silences them both. They each watch the sad signs pass by, dots in a cloudless sky, the center of a rocky orbit. The world shakes around them even as the sound fades. In the front seat, Diana’s hair flaps around her face, golden streamers in the wind. She is ashamed, a shame so deep she wants to climb out of her body and walk another way home, a shame so deep the only thing that could fix it would be the thing that caused it. Her world surrounds her like water in a bathtub but she is ready to drain it and give up. The engine screams underneath her, so close she thinks it might be inside her, a vital organ that just came to life. She wants to imagine herself as another person, a part of the machine, a dial or a gear, essential but not important. One of many blunt instruments. 
+The hum of the truck, growling past the country line like a big metal dog, silences them both. They each watch the sad signs pass by, dots in a cloudless sky, the center of a rocky orbit. The world shakes around them even as the sound fades. In the front seat, Diana’s hair flaps around her face, golden streamers in the wind. She is ashamed, a shame so deep she wants to climb out of her body and walk another way home, a shame so deep the only thing that could fix it would be the thing that caused it. Her world surrounds her like water in a bathtub but she is ready to drain it and give up. The engine screams underneath her, so close she thinks it might be inside her, a vital organ that just came to life. She wants to imagine herself as another person, a part of the machine, a dial or a gear, essential but not important. One of many blunt instruments.
 
 “Do you think there’s another woman?”
 
@@ -30,9 +32,9 @@ The hum of the truck, growling past the country line like a big metal dog, silen
 
 “Kat, it was my bullshit. You always have to put up with bullshit. And I wanted his bullshit to be my bullshit. I wanted bullshit I could count on.”
 
-The engine flutters up and startles them both. The dirt, kicked up in the tracks, blooms on the windshield. They stop for coffee, say nothing. Kat puts Pearl Jam on the radio, Black, and they each listen in silence, each hearing different lyrics, and still say nothing. 
+The engine flutters up and startles them both. The dirt, kicked up in the tracks, blooms on the windshield. They stop for coffee, say nothing. Kat puts Pearl Jam on the radio, Black, and they each listen in silence, each hearing different lyrics, and still say nothing.
 
-It takes barely an hour to set the new apartment up. They sit in the living room beside Ikea boxes and finish their coffees. Diana avoids the other rooms, reluctant to face her new home. It isn’t much of a home, rudimentary and impersonal. Almost all the furniture is cheap: plywood edges sticking out like messy hems on a white dress. 
+It takes barely an hour to set the new apartment up. They sit in the living room beside Ikea boxes and finish their coffees. Diana avoids the other rooms, reluctant to face her new home. It isn’t much of a home, rudimentary and impersonal. Almost all the furniture is cheap: plywood edges sticking out like messy hems on a white dress.
 
 “I’m sorry I blew up at you.” Kat thumbs her empty styrofoam cup. “It wasn’t fair.”
 
@@ -54,15 +56,15 @@ It takes barely an hour to set the new apartment up. They sit in the living room
 
 “Yeah.”
 
-That first night is long. She doesn’t remember many nights after that one. The days blur like paint on a busy palette as the weeks go by, but that night sticks in her mind for a long time. She lies alone in her new room, her small room, as the world opens up to swallow her whole and alive. She lies there all night in her stiff twin bed, tossing and turning to stare at different parts of the room, watching the light filter through the thinning curtains. For the first time in years, she feels the ache of grief, that pain in her throat as she realizes that this cold foreign place is the closest thing she has to home. 
+That first night is long. She doesn’t remember many nights after that one. The days blur like paint on a busy palette as the weeks go by, but that night sticks in her mind for a long time. She lies alone in her new room, her small room, as the world opens up to swallow her whole and alive. She lies there all night in her stiff twin bed, tossing and turning to stare at different parts of the room, watching the light filter through the thinning curtains. For the first time in years, she feels the ache of grief, that pain in her throat as she realizes that this cold foreign place is the closest thing she has to home.
 
-Eventually she goes back to work. Just a few days pass but they stretch on like years. She wanders around town, skips meals, drives circles through parking lots, anything to avoid the reality of her solitude. She tries to pretend she is someone else, but she always catches up with herself. She is almost angry at herself for not anticipating it, the ache welling in her throat, the isolation, the angry restless whirring of the town pulling at its seams. The cage rose up quickly, before she realized she was the one building it, driving up the walls, locking the doors. Sometimes humans are such self-sabotaging machines. Now she is underwater, treading at the mouth of the cave, thrashing and flailing. 
+Eventually she goes back to work. Just a few days pass but they stretch on like years. She wanders around town, skips meals, drives circles through parking lots, anything to avoid the reality of her solitude. She tries to pretend she is someone else, but she always catches up with herself. She is almost angry at herself for not anticipating it, the ache welling in her throat, the isolation, the angry restless whirring of the town pulling at its seams. The cage rose up quickly, before she realized she was the one building it, driving up the walls, locking the doors. Sometimes humans are such self-sabotaging machines. Now she is underwater, treading at the mouth of the cave, thrashing and flailing.
 
-At the station it is torture. She thinks everyone might be watching her and she gives in to the fear too easily, too quickly. Maybe she likes the fear, the thought that her sadness is noticeable and meaningful. It keeps her from worrying that this was all for nothing: the crying, the skipped meals, the missed calls. She doesn’t want to face her greater fear, that none of this means anything to anyone but her. So she waits, morning and night, for something to contradict her, but nothing comes. She lets herself feel pathetic to avoid the other, scarier feeling, that maybe this never mattered and never will. She tells herself, if the love never mattered, the pain must matter. There must be something in here that makes this all worth it. She’ll keep telling herself that until she believes it. 
+At the station it is torture. She thinks everyone might be watching her and she gives in to the fear too easily, too quickly. Maybe she likes the fear, the thought that her sadness is noticeable and meaningful. It keeps her from worrying that this was all for nothing: the crying, the skipped meals, the missed calls. She doesn’t want to face her greater fear, that none of this means anything to anyone but her. So she waits, morning and night, for something to contradict her, but nothing comes. She lets herself feel pathetic to avoid the other, scarier feeling, that maybe this never mattered and never will. She tells herself, if the love never mattered, the pain must matter. There must be something in here that makes this all worth it. She’ll keep telling herself that until she believes it.
 
-Soon enough she falls into her old habits, the coffee rings on her desk, the familiar creases in her uniform. She drives slow again, just under the limit, keeps her blue eyes on the road. Kat comes over for dinner and they sit on the couch and now and then she even laughs, that big boyish laugh. The walls are still blank and the bed still neat but there is something almost charming to it now. 
+Soon enough she falls into her old habits, the coffee rings on her desk, the familiar creases in her uniform. She drives slow again, just under the limit, keeps her blue eyes on the road. Kat comes over for dinner and they sit on the couch and now and then she even laughs, that big boyish laugh. The walls are still blank and the bed still neat but there is something almost charming to it now.
 
-“You’ll be bringing guys over here soon enough,” Kat says. 
+“You’ll be bringing guys over here soon enough,” Kat says.
 
 “Over my dead fucking body.”
 
@@ -74,9 +76,9 @@ Soon enough she falls into her old habits, the coffee rings on her desk, the fam
 
 Diana shifts. “I used to think I had him.”
 
-So another week passes, and another weekend, and they lounge again on the couch, and have the same conversation, and each time Diana blows her off but each time she gets closer to surrendering. Things fade at the office too. Not just in her but in those around her too. One Monday she sits in the captain’s office and talks as if nothing changed. 
+So another week passes, and another weekend, and they lounge again on the couch, and have the same conversation, and each time Diana blows her off but each time she gets closer to surrendering. Things fade at the office too. Not just in her but in those around her too. One Monday she sits in the captain’s office and talks as if nothing changed.
 
-“How’s the new house?” he says, looking half up from his computer. 
+“How’s the new house?” he says, looking half up from his computer.
 
 “Fine. Thanks.”
 
@@ -90,7 +92,7 @@ So another week passes, and another weekend, and they lounge again on the couch,
 
 “Met any of your neighbors yet?”
 
-“No, I haven’t been out much other than work. I’ve seen the woman who lives next door.” But Diana has avoided her, watched her only through the window, seeing her face caught in her reflection. She looks older, the woman, and she lives alone: a future Diana is desperate to avoid. 
+“No, I haven’t been out much other than work. I’ve seen the woman who lives next door.” But Diana has avoided her, watched her only through the window, seeing her face caught in her reflection. She looks older, the woman, and she lives alone: a future Diana is desperate to avoid.
 
 “Well, you might start. I don’t wanna see you hangin around the station after hours anymore.”
 
@@ -98,11 +100,11 @@ So another week passes, and another weekend, and they lounge again on the couch,
 
 “Don’t bullshit me, Kowalski. I know what you’re doin. Do me a favor and do somethin other than work this weekend. It’s sad watchin you sit at that desk late at night.”
 
-So she does. She wants to say that she hates the feeling of being watched, the feeling of curious eyes on her back, her uniform. But on Friday she sits at the bar, the only one on her side of town. She is again reminded of her solitude, astonished by the simple freedom of being able to drink anything she wants. Then the freedom suffocates her. She takes a short sip before pushing the glass away. An older man comes to the bar, one of many, and sits on the stool next to hers. She is not aware of him until he speaks. 
+So she does. She wants to say that she hates the feeling of being watched, the feeling of curious eyes on her back, her uniform. But on Friday she sits at the bar, the only one on her side of town. She is again reminded of her solitude, astonished by the simple freedom of being able to drink anything she wants. Then the freedom suffocates her. She takes a short sip before pushing the glass away. An older man comes to the bar, one of many, and sits on the stool next to hers. She is not aware of him until he speaks.
 
 “You from around here?”
 
-Diana looks in his direction and nods. She likes his face: handsome, self-assured, and piercing. His hair is dark but tending towards gray. 
+Diana looks in his direction and nods. She likes his face: handsome, self-assured, and piercing. His hair is dark but tending towards gray.
 
 “I just moved in,” he offers. A glass of scotch sits in his hand. “You come here a lot?”
 
@@ -154,15 +156,15 @@ He shrugs.
 
 “What’d you think?”
 
-Diana doesn’t want to talk about what she thought, about the pictures she can’t throw out, the walks they took, the apartment they planned. She doesn’t know what to think. 
+Diana doesn’t want to talk about what she thought, about the pictures she can’t throw out, the walks they took, the apartment they planned. She doesn’t know what to think.
 
 “It was nice,” she says. “Why’d you move?”
 
 “I got an offer here. And it was the right thing to do.”
 
-A car pulls into the lot and the yellow lights shine through the windows, the condensation, scattering on the far wall past the bottles of liquor, neat like military graves. Diana sips and sits silent, crossing and uncrossing her legs. She likes the fatigue, the pins and needles going to her head. She hasn’t drunk in months, nothing past the beers they kept in the fridge. She thinks she could do anything tonight, but know she will probably just drive home and lie restless in her cold little bed. When she looks at her watch only a minute has passed. 
+A car pulls into the lot and the yellow lights shine through the windows, the condensation, scattering on the far wall past the bottles of liquor, neat like military graves. Diana sips and sits silent, crossing and uncrossing her legs. She likes the fatigue, the pins and needles going to her head. She hasn’t drunk in months, nothing past the beers they kept in the fridge. She thinks she could do anything tonight, but know she will probably just drive home and lie restless in her cold little bed. When she looks at her watch only a minute has passed.
 
-“You really gave up Seattle to come here?” she presses. 
+“You really gave up Seattle to come here?” she presses.
 
 “I did.”
 
@@ -170,12 +172,12 @@ A car pulls into the lot and the yellow lights shine through the windows, the co
 
 “No, at the clinic in town. There’s no hospital out here. Look, I need to head out. It was nice meeting you… I’m sorry, I didn’t catch your name.”
 
-“Diana.” She holds out her hand. 
+“Diana.” She holds out her hand.
 
 “Bill.”
 
 “You have a good night, Bill.”
 
-The truth is, he isn’t sure it was the right thing to do. He lives in a duplex now, dusty, the stairs rotting at the edges, and when he thinks of Seattle, the high rise, the blanket of blue mist wrapping around his Mercedes on the highway, he thinks he might have made a mistake. Not that staying in Seattle would’ve solved his problems. But he can’t shake the feeling that here, his problems are stubbornly getting worse. Late at night, he sits on one of his Danish chairs and watches Law and Order past midnight, drink in hand. His life surrounds him - his spendy furniture, his medical books, his phone and pack of camels. Every night as long as the last. His neighbor stumbles blindly to bed upstairs and he hears the thudding sounds like the workings of a machine. The television blurs the room with its technicolor haze, and something eats away at him from the inside out, something stagnant, blooming like algae across a shallow pond. 
+The truth is, he isn’t sure it was the right thing to do. He lives in a duplex now, dusty, the stairs rotting at the edges, and when he thinks of Seattle, the high rise, the blanket of blue mist wrapping around his Mercedes on the highway, he thinks he might have made a mistake. Not that staying in Seattle would’ve solved his problems. But he can’t shake the feeling that here, his problems are stubbornly getting worse. Late at night, he sits on one of his Danish chairs and watches Law and Order past midnight, drink in hand. His life surrounds him - his spendy furniture, his medical books, his phone and pack of camels. Every night as long as the last. His neighbor stumbles blindly to bed upstairs and he hears the thudding sounds like the workings of a machine. The television blurs the room with its technicolor haze, and something eats away at him from the inside out, something stagnant, blooming like algae across a shallow pond.
 
-He doesn’t remember how it happened or what it began. Maybe last month, maybe last year, maybe before Allison left, maybe when she walked around the door. Sometimes he takes his mind off of it. Another cigarette, another drink, another show. But it never leaves. In his life there has been a clear before and after. He didn’t notice as he moved from one to the other, not until it was too late. Everything good is a memory, everything good belongs to the before. The after is just one day, the same endless day, that keeps replaying over and over. There’s nothing after the after - this is it. He knows that. And he waits, for change, for another before, but knows nothing will come. He knows the greatest luck of his life has come and gone. But waiting is an easy game, easier than quitting, so he smokes another cigarette and sits through another episode. And he waits. 
+He doesn’t remember how it happened or what it began. Maybe last month, maybe last year, maybe before Allison left, maybe when she walked around the door. Sometimes he takes his mind off of it. Another cigarette, another drink, another show. But it never leaves. In his life there has been a clear before and after. He didn’t notice as he moved from one to the other, not until it was too late. Everything good is a memory, everything good belongs to the before. The after is just one day, the same endless day, that keeps replaying over and over. There’s nothing after the after - this is it. He knows that. And he waits, for change, for another before, but knows nothing will come. He knows the greatest luck of his life has come and gone. But waiting is an easy game, easier than quitting, so he smokes another cigarette and sits through another episode. And he waits.

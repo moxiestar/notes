@@ -63,41 +63,60 @@ Partner overseeing the qualitative research team, serving as ringleader of hirin
 
 ### What’s your role at Thursday?
 
-…
+Director on the quantitative team, working on “funky” analytical questions.
 
 ### What Thursday project are you most proud of? Walk me through the methodology and final report.
 
-…
+**Microsoft 365 UX tracking project**
+
+- Focused on peak end theory (asking participants to define their peak UX moments - often a more recent moment)
+  - When the peak positive moments applied generally to the brand, there was often a meaningful effect on revenue
+- Tied to telemetry data - amount of usage, usage frequency, revenue
+
+**Google XR (extended reality) team**
+
+- Google wanted a customer segmentation for product development
+- Connor had already done a similar project for Meta, but had focused on products
+- With the Google project, he took a more human-focused approach, and settled on a list of nine human needs
+- Tested experimental features based on human needs and Google’s plans
 
 # Introductory meeting with Sahar | August 11, 2026
 
 ### What’s your role at Thursday?
 
-…
+Associate on the quantitative research team, working on everything from survey design to project management.
 
-### What Thursday project are you most proud of? Walk me through the methodology and final report.
+### What Thursday projects are you most proud of? Walk me through the methodology and final report.
 
-…
+1. **YouTube secondary strategy research**
+   - **Basics**
+     - Competitive landscaping to understand the success of Instagram Edits (informing YouTube Create)
+     - Researching download rates across US and Indian markets
+     - Presented final report to the broader YouTube team
+   - **Methodology**
+     - Social listening (patterns, sentiments, etc)
+     - App store research (keywords, etc)
+     - Influencer marketing strategy research
+2. **Chase x Southwest Airlines segmentation project**
+   - **Segmentation:** dividing client’s total possible market based on audience attributes
+     - Often done through surveys
+     - Profiling based on attitudes or demographics
+     - Analyzed with driver’s analysis to see which attributes actually have an impact
 
 # Introductory meeting with Pablo | August 11, 2026
 
 ### What’s your role at Thursday?
 
-…
+Director on the quantitative team, working in middle management (business development, proposals, etc).
 
 ### What Thursday project are you most proud of? Walk me through the methodology and final report.
 
-…
+**Chase MPS project**
 
-# Introductory meeting with Agnish | August 11, 2026
-
-### What’s your role at Thursday?
-
-…
-
-### What Thursday project are you most proud of? Walk me through the methodology and final report.
-
-…
+- Maximum potential score (MPS): ranking audience members on enthusiasm 
+- Chase has a strong focus on rankings like this
+  - A recent MPS showed low approval among young wealthy people
+- Unlike other projects with Chase, which tend to be more specific, this project surveys a wide range of Chase’s products and services
 
 # Introductory meeting with Tadashi | August 12, 2026
 
@@ -110,6 +129,16 @@ Partner overseeing the qualitative research team, serving as ringleader of hirin
 …
 
 # Introductory meeting with Nina | August 13, 2026
+
+### What’s your role at Thursday?
+
+…
+
+### What Thursday project are you most proud of? Walk me through the methodology and final report.
+
+…
+
+# Introductory meeting with Agnish | August 13, 2026?
 
 ### What’s your role at Thursday?
 
