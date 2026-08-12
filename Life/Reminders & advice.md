@@ -113,3 +113,5 @@ Knowing better and living better are not the same thing ([Instagram](https://www
 To get something you never had, you’ve got to do something you never did ([Denzel Washington](https://www.instagram.com/reel/DZnEekAzzyO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==))
 
 What if the safest option is the worst choice you could make? ([Instagram](https://www.instagram.com/p/DaIfbhnDTLz/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==))
+
+You can’t say the wrong thing to the right person, and you can never say the right thing to the wrong person. 

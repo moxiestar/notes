@@ -113,12 +113,24 @@ Director on the quantitative team, working in middle management (business develo
 
 **Chase MPS project**
 
-- Maximum potential score (MPS): ranking audience members on enthusiasm 
+- Maximum potential score (MPS): ranking audience members on enthusiasm
 - Chase has a strong focus on rankings like this
   - A recent MPS showed low approval among young wealthy people
 - Unlike other projects with Chase, which tend to be more specific, this project surveys a wide range of Chase’s products and services
 
-# Introductory meeting with Tadashi | August 12, 2026
+# Introductory meeting with Veronica | August 12, 2026
+
+### What’s your role at Thursday?
+
+Director on the quantitative team, working mostly on Google projects. 
+
+### What Thursday project are you most proud of? Walk me through the methodology and final report.
+
+**Google Play Path to Download project**
+
+- Understanding the path to downloading an app or game, with the aim of driving more traffic into the Google Play store
+
+# Introductory meeting with Tadashi | August 13, 2026
 
 ### What’s your role at Thursday?
 
@@ -138,7 +150,7 @@ Director on the quantitative team, working in middle management (business develo
 
 …
 
-# Introductory meeting with Agnish | August 13, 2026?
+# Introductory meeting with Agnish | August 18, 2026
 
 ### What’s your role at Thursday?
 

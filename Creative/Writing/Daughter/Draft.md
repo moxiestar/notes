@@ -1,10 +1,34 @@
-Even now, halfway done, she isn’t sure where to start. With each suitcase she starts over, thrown back to a rushed beginning, knees cramping on the hardwood floors. For once the house is quiet. No music on the radio, no worried voices singing along. All…
+Even now, halfway done, she isn’t sure where to start. With each suitcase she starts over, thrown back to a rushed beginning, knees cramping on hardwood floors. For once the house is quiet. No music on the radio, no worried voices singing along, no shutting of half-open doors. The bed is cold, unmade, sheets dragging on the floor. The old black fridge is bare and empty. Their collection of magnets, dispersed and disbanded, now sits at the bottom of a trash bag on the corner of the street. She doesn’t want to look at the house, the blank house, the house that she loved and thought she would love forever. Without the carpets or curtains it looks like it never belonged to them, like they never followed the real estate agent through the kitchen wondering about ventilation and expansion, like they never hung two sets of keys on special hooks by the door. She touches her hot cheeks, chews on her lip. 
 
-The old black fridge is bare of magnets, and in the dusty afternoon haze, the furniture could belong to anyone. The bed is empty, unmade, sheets spilling onto the floor like the first time. Without the carpets or curtains the whole place looks like it never held any of their crazy memories, the dancing, the laughing at the television, the last-minute sex on the couch. Without the memories it is just a room, nothing special. By two, when the sun comes out, she has packed everything in Kat’s red pickup. There isn’t much to pack, she’s keeping less than she should. Now she’s getting tired. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust. She’s gotten stuck by the door, by the hooks that used to hold two sets of keys.
+“It’s getting late, Di.”
 
-“Come on, Di. You’re never going to feel ready,” Kat says, pressing a hand to her shoulder. “You just have to go.”
+She glances up at her friend, her bony hands, her dark hair. “You can head out if you want,” she says. 
 
-“I can’t.”
+“I’m not leaving you here.”
+
+“I’m not ready.”
+
+“You’re never going to feel ready,” Kat says. “You just have to go.”
+
+Diana shakes her head. “I can’t.”
+
+“What are you leaving behind? A house you hated?”
+
+“I didn’t hate the house.”
+
+“Bullshit, you called me all the time to tell me how much you hated it.”
+
+“Yeah, but it was my house.” She’s surprised by how loud the words come out. “Sorry. I mean, it’s a shitty house. But it was our shitty house.”
+
+“But now you get to have your own house,” Kat says. “Your own good house. It’s your life now. You never have to put up with his bullshit again.”
+
+“It was my bullshit,” Diana says, almost yelling. “You always have to put up with bullshit. And I wanted to put up with his bullshit. I wanted there to be one goddamn thing in this stupid life that I could count on, and I wanted it to be him.”
+
+Kat wrinkles her nose, puckering the piercing  “There’s nothing I can say, is there?”
+
+“No, there’s nothing.”
+
+By two, when the sun comes out, she has packed everything in Kat’s red pickup. There isn’t much to pack, she’s keeping less than she should. Now she’s getting tired. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust.
 
 “No, you don’t want to. I promise you can do this. You need to do this.”
 
@@ -13,24 +37,6 @@ The old black fridge is bare of magnets, and in the dusty afternoon haze, the fu
 “Di, he’s not gonna fucking call. You’re embarrassing me. Get in the car.”
 
 The hum of the truck, growling past the country line like a big metal dog, silences them both. They each watch the sad signs pass by, dots in a cloudless sky, the center of a rocky orbit. The world shakes around them even as the sound fades. In the front seat, Diana’s hair flaps around her face, golden streamers in the wind. She is ashamed, a shame so deep she wants to climb out of her body and walk another way home, a shame so deep the only thing that could fix it would be the thing that caused it. Her world surrounds her like water in a bathtub but she is ready to drain it and give up. The engine screams underneath her, so close she thinks it might be inside her, a vital organ that just came to life. She wants to imagine herself as another person, a part of the machine, a dial or a gear, essential but not important. One of many blunt instruments.
-
-“Do you think there’s another woman?”
-
-“Okay, Di, for the rest of this drive, this truck is a Jonathan-free space. It doesn’t matter how much you talk about him, Di, you aren’t going to figure him out.”
-
-“You don’t get it, Kat, I have nothing else to talk about. Or think about. Every thing in my world is about him.”
-
-“Jesus, you’re depressing.” Kat swings her hand out the window. “Moving to your new place isn’t about him.”
-
-“Are you nuts? This isn’t what I want. I’d still be in his house if it weren’t for him.”
-
-“You hated that house. You called me all the time to tell me how much you hated it.”
-
-“Okay, it was a shitty house. But it was our shitty house.”
-
-“But now you get to have your own house. Your own good house. It’s your life, Di. You never have to put up with his bullshit again.”
-
-“Kat, it was my bullshit. You always have to put up with bullshit. And I wanted his bullshit to be my bullshit. I wanted bullshit I could count on.”
 
 The engine flutters up and startles them both. The dirt, kicked up in the tracks, blooms on the windshield. They stop for coffee, say nothing. Kat puts Pearl Jam on the radio, Black, and they each listen in silence, each hearing different lyrics, and still say nothing.
 
