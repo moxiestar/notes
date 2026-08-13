@@ -37,11 +37,13 @@
 - [x] Reach out to schedule meetings with Thursday team
 - [x] Get through phishing/HIPAA training
 - [x] [Work on HMM project - read through survey and brainstorm question topics](https://docs.google.com/document/d/1tXbOROM-XqFWXk8F0r2yavNRFz1K_cdjki-VKEqvPG8/edit?tab=t.tvd2u3fv7u2k#heading=h.oc8ci8zgd82m)
-- [ ] Meet with Thursday team (5/11)
-- [ ] Work on HMM - read through battery & new survey questions
+- [x] Work on HMM - read through battery & new survey questions
 
 # Weekly meetings with Pyone
 
 ## ==🔵August 13, 2025==
 
-…
+### **==🔴Current deliverables==**
+
+- [ ] Meet with Thursday team (13/14)
+- [x] Work on HMM - rewrite survey questions with Claude

@@ -76,6 +76,8 @@ Honestly, Joan, not every good deed is part of a plan (Mad Men)
 
 You deserve what you tolerate (Mark Graban)
 
+We accept the love we think we deserve (The Perks of Being a Wallflower)
+
 A rubber band doesn’t hold anything until you stretch it (John Kennedy)
 
 It doesn’t get easier, you just go faster (Greg LeMond)
@@ -114,4 +116,4 @@ To get something you never had, you’ve got to do something you never did ([Den
 
 What if the safest option is the worst choice you could make? ([Instagram](https://www.instagram.com/p/DaIfbhnDTLz/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==))
 
-You can’t say the wrong thing to the right person, and you can never say the right thing to the wrong person. 
+You can’t say the wrong thing to the right person, and you can never say the right thing to the wrong person.

@@ -1,40 +1,8 @@
-Even now, halfway done, she isn’t sure where to start. With each suitcase she starts over, thrown back to a rushed beginning, knees cramping on hardwood floors. For once the house is quiet. No music on the radio, no worried voices singing along, no shutting of half-open doors. The bed is cold, unmade, sheets dragging on the floor. The old black fridge is bare and empty. Their collection of magnets, dispersed and disbanded, now sits at the bottom of a trash bag on the corner of the street. She doesn’t want to look at the house, the blank house, the house that she loved and thought she would love forever. Without the carpets or curtains it looks like it never belonged to them, like they never followed the real estate agent through the kitchen wondering about ventilation and expansion, like they never hung two sets of keys on special hooks by the door. She touches her hot cheeks, chews on her lip. 
+Even now, halfway done, she isn’t sure where to start. With each suitcase she starts over, thrown back to a rushed beginning, knees cramping on hardwood floors. For once the house is quiet. No music on the radio, no worried voices singing along, no shutting of half-open doors. The bed is cold, unmade, sheets dragging on the floor. The old black fridge is bare and empty. Their collection of magnets, dispersed and disbanded, now sits at the bottom of a trash bag on the corner of the street. She doesn’t want to look at the house, the blank house, the house that she loved and thought she would love forever. Without the carpets or curtains it looks like it never belonged to them, like they never followed the real estate agent through the kitchen wondering about ventilation and expansion, like they never hung two sets of keys on special hooks by the door. She touches her hot cheeks, chews on her lip. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust.
 
-“It’s getting late, Di.”
+????
 
-She glances up at her friend, her bony hands, her dark hair. “You can head out if you want,” she says. 
-
-“I’m not leaving you here.”
-
-“I’m not ready.”
-
-“You’re never going to feel ready,” Kat says. “You just have to go.”
-
-Diana shakes her head. “I can’t.”
-
-“What are you leaving behind? A house you hated?”
-
-“I didn’t hate the house.”
-
-“Bullshit, you called me all the time to tell me how much you hated it.”
-
-“Yeah, but it was my house.” She’s surprised by how loud the words come out. “Sorry. I mean, it’s a shitty house. But it was our shitty house.”
-
-“But now you get to have your own house,” Kat says. “Your own good house. It’s your life now. You never have to put up with his bullshit again.”
-
-“It was my bullshit,” Diana says, almost yelling. “You always have to put up with bullshit. And I wanted to put up with his bullshit. I wanted there to be one goddamn thing in this stupid life that I could count on, and I wanted it to be him.”
-
-Kat wrinkles her nose, puckering the piercing  “There’s nothing I can say, is there?”
-
-“No, there’s nothing.”
-
-By two, when the sun comes out, she has packed everything in Kat’s red pickup. There isn’t much to pack, she’s keeping less than she should. Now she’s getting tired. The sweat is dripping down her forehead and her ratty pullover is covered sleeve to hem in dust.
-
-“No, you don’t want to. I promise you can do this. You need to do this.”
-
-“What if he calls, Kat? He said he would call.”
-
-“Di, he’s not gonna fucking call. You’re embarrassing me. Get in the car.”
+In the car, on the way out, she flips through the channels on the radio.
 
 The hum of the truck, growling past the country line like a big metal dog, silences them both. They each watch the sad signs pass by, dots in a cloudless sky, the center of a rocky orbit. The world shakes around them even as the sound fades. In the front seat, Diana’s hair flaps around her face, golden streamers in the wind. She is ashamed, a shame so deep she wants to climb out of her body and walk another way home, a shame so deep the only thing that could fix it would be the thing that caused it. Her world surrounds her like water in a bathtub but she is ready to drain it and give up. The engine screams underneath her, so close she thinks it might be inside her, a vital organ that just came to life. She wants to imagine herself as another person, a part of the machine, a dial or a gear, essential but not important. One of many blunt instruments.
 

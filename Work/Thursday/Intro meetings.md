@@ -122,7 +122,7 @@ Director on the quantitative team, working in middle management (business develo
 
 ### What’s your role at Thursday?
 
-Director on the quantitative team, working mostly on Google projects. 
+Director on the quantitative team, working mostly on Google projects.
 
 ### What Thursday project are you most proud of? Walk me through the methodology and final report.
 
@@ -134,21 +134,13 @@ Director on the quantitative team, working mostly on Google projects.
 
 ### What’s your role at Thursday?
 
-…
-
-### What Thursday project are you most proud of? Walk me through the methodology and final report.
-
-…
+Lead on the quantitative team, primarily working on Chase projects.
 
 # Introductory meeting with Nina | August 13, 2026
 
 ### What’s your role at Thursday?
 
-…
-
-### What Thursday project are you most proud of? Walk me through the methodology and final report.
-
-…
+???
 
 # Introductory meeting with Agnish | August 18, 2026
 
