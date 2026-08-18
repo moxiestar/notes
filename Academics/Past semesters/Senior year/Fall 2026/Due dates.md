@@ -1,7 +1,7 @@
 ### Wednesday, August 19
 
 - [ ] GEOG 121: Reading
-- [ ] STOR 455: First R Markdown 
+- [x] STOR 455: First R Markdown
 
 ### Friday, August 21
 
