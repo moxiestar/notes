@@ -15,6 +15,10 @@
 - [ ] STOR 455: Reading (textbook 1.1-1.3)
 - [ ] STOR 455: Exercises (homework 1, homework problems 1-6)
 
+### Tuesday, September 29
+
+- [ ] **PSYC 601: Midterm 1**
+
 ### Thursday, October 1
 
 - [ ] **STOR 113: Midterm 1**
@@ -22,6 +26,10 @@
 ### Monday, October 5
 
 - [ ] **GEOG 121: Midterm**
+
+### Thursday, November 12
+
+- [ ] **PSYC 601: Midterm 2**
 
 ### Tuesday, November 17
 
@@ -35,3 +43,7 @@
 ### Saturday, December 5
 
 - [ ] **STOR 113: Final Exam (12:00)**
+
+### Thursday, December 10
+
+- [ ] **PSYC 601: Final Exam (4:00)**
