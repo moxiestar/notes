@@ -9,13 +9,14 @@
 
 ### Friday, August 21
 
-- [ ] GEOG 121: Reading
+- [ ] GEOG 121: Reading (Massey)
 - [ ] STOR 455: Reading (textbook 0.1-0.2)
 - [ ] STOR 455: Exercises (homework 1.1, homework inference refresher)
 
 ### Monday, August 24
 
 - [ ] GEOG 121: Reading
+- [ ] GEOG 121: Assignment 1
 - [ ] STOR 455: Reading (textbook 1.1-1.3)
 - [ ] STOR 455: Exercises (homework 1, homework problems 1-6)
 
