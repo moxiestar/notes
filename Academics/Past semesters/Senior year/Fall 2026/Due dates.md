@@ -1,9 +1,9 @@
 ### Wednesday, August 19
 
-- [ ] GEOG 121: Reading
+- [x] GEOG 121: Reading
 - [x] STOR 455: First R Markdown
 
-### Thursday, August 20 
+### Thursday, August 20
 
 - [ ] PSYC 601: Reading (B&B 1)
 
