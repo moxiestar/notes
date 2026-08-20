@@ -6,7 +6,6 @@
 ### Thursday, August 20
 
 - [x] ASTR 103: Warm-up 2
-- [ ] PSYC 601: Reading (B&B 1)
 
 ### Friday, August 21
 
@@ -29,14 +28,11 @@
 ### Tuesday, August 25
 
 - [ ] ASTR 103: Warm-up 4
-- [ ] GEOG 215: Assignment 1
-- [ ] PSYC 601: Reading (B&B 2, Kapardis 1)
 
 ### Wednesday, August 26
 
 - [ ] ASTR 103: LT Check 1
 - [ ] ASTR 103: Homework 2
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, August 27
 
@@ -54,14 +50,11 @@
 ### Tuesday, September 1
 
 - [ ] ASTR 103: Warm-up 7
-- [ ] GEOG 215: Assignment 2
-- [ ] PSYC 601: Reading (Kapardis 7, articles on Canvas)
 
 ### Wednesday, September 2
 
 - [ ] ASTR 103: LT Check 3
 - [ ] ASTR 103: Homework 4
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, September 3
 
@@ -79,13 +72,10 @@
 
 - [ ] ASTR 103: Warm-up 9
 - [ ] ASTR 103: Homework 5
-- [ ] GEOG 215: Assignment 3
-- [ ] PSYC 601: Reading (articles on Canvas)
 
 ### Wednesday, September 9
 
 - [ ] ASTR 103: Homework 6
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, September 10
 
@@ -106,21 +96,14 @@
 ### Tuesday, September 15
 
 - [ ] ASTR 103: LT Check 7
-- [ ] **GEOG 215: Project 1**
-- [ ] PSYC 601: Reading (B&B 4, Kapardis 2, article on Canvas)
 
 ### Wednesday, September 16
 
 - [ ] ASTR 103: Homework 8
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, September 17
 
 - [ ] ASTR 103: Warm-up 11
-
-### Friday, September 18
-
-- [ ] **GEOG 215: Project 1 presentation**
 
 ### Sunday, September 20
 
@@ -130,16 +113,10 @@
 
 - [ ] ASTR 103: Warm-up 12
 - [ ] ASTR 103: Homework 9
-- [ ] PSYC 601: Reading (Kapardis 3, articles on Canvas)
-
-### Wednesday, September 23
-
-- [ ] PSYC 601: Submit discussion questions
 
 ### Friday, September 25
 
 - [ ] ASTR 103: LT Check 9
-- [ ] **GEOG 215: Midterm**
 
 ### Sunday, September 27
 
@@ -154,18 +131,14 @@
 ### Tuesday, September 29
 
 - [ ] ASTR 103: Warm-up 14
-- [ ] GEOG 215: Assignment 4
-- [ ] **PSYC 601: Midterm 1**
 
 ### Wednesday, September 30
 
 - [ ] ASTR 103: Homework 12
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, October 1
 
 - [ ] ASTR 103: Warm-up 15
-- [ ] PSYC 601: Reading (Kapardis 4, article on Canvas)
 
 ### Sunday, October 4
 
@@ -177,15 +150,9 @@
 - [ ] ASTR 103: Homework 13
 - [ ] **GEOG 121: Midterm**
 
-### Tuesday, October 6
-
-- [ ] GEOG 215: Assignment 5
-- [ ] PSYC 601: Reading (articles on Canvas)
-
 ### Wednesday, October 7
 
 - [ ] **ASTR 103: Midterm 2**
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, October 8
 
@@ -198,13 +165,10 @@
 ### Tuesday, October 13
 
 - [ ] ASTR 103: Warm-up 17
-- [ ] GEOG 215: Assignment 6
-- [ ] PSYC 601: Reading (B&B 7)
 
 ### Wednesday, October 14
 
 - [ ] ASTR 103: Homework 14
-- [ ] PSYC 601: Submit discussion questions
 
 ### Sunday, October 18
 
@@ -213,14 +177,11 @@
 ### Tuesday, October 20
 
 - [ ] ASTR 103: Warm-up 18
-- [ ] **GEOG 215: Project 2**
-- [ ] PSYC 601: Reading (B&B 7, B&B 10, articles on Canvas)
 
 ### Wednesday, October 21
 
 - [ ] ASTR 103: LT Check 15
 - [ ] ASTR 103: Homework 15
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, October 22
 
@@ -229,7 +190,6 @@
 ### Friday, October 23
 
 - [ ] ASTR 103: LT Check 16
-- [ ] **GEOG 215: Project 2 presentation**
 
 ### Sunday, October 25
 
@@ -243,14 +203,11 @@
 ### Tuesday, October 27
 
 - [ ] ASTR 103: Warm-up 21
-- [ ] GEOG 215: Assignment 7
-- [ ] PSYC 601: Reading (B&B 5, Kapardis 5, article on Canvas)
 
 ### Wednesday, October 28
 
 - [ ] ASTR 103: LT Check 18
 - [ ] ASTR 103: Homework 17
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, October 29
 
@@ -273,14 +230,11 @@
 ### Tuesday, November 3
 
 - [ ] ASTR 103: Warm-up 24
-- [ ] GEOG 215: Assignment 8
-- [ ] PSYC 601: Reading (B&B 6, article on Canvas)
 
 ### Wednesday, November 4
 
 - [ ] ASTR 103: LT Check 21
 - [ ] ASTR 103: Homework 20
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, November 5
 
@@ -300,20 +254,13 @@
 
 - [ ] ASTR 103: Homework 22
 
-### Tuesday, November 10
-
-- [ ] GEOG 215: Assignment 9
-- [ ] PSYC 601: Reading (B&B 3, articles on Canvas)
-
 ### Wednesday, November 11
 
 - [ ] **ASTR 103: Midterm 3**
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, November 12
 
 - [ ] ASTR 103: Warm-up 27
-- [ ] **PSYC 601: Midterm 2**
 
 ### Friday, November 13
 
@@ -331,12 +278,10 @@
 ### Tuesday, November 17
 
 - [ ] ASTR 103: Warm-up 29
-- [ ] PSYC 601: Reading (Kapardis 8, article on Canvas)
 
 ### Wednesday, November 18
 
 - [ ] ASTR 103: LT Check 26
-- [ ] PSYC 601: Submit discussion questions
 
 ### Thursday, November 19
 
@@ -350,32 +295,17 @@
 
 - [ ] ASTR 103: Homework 24
 
-### Tuesday, November 24
-
-- [ ] **GEOG 215: Project 3**
-- [ ] PSYC 601: Reading (articles on Canvas)
-
-### Wednesday, November 25
-
-- [ ] PSYC 601: Submit discussion questions
-
 ### Sunday, November 29
 
 - [ ] ASTR 103: Warm-up 32
 
-### Monday, November 30
-
-- [ ] **GEOG 215: Project 3 presentation**
-
 ### Tuesday, December 1
 
 - [ ] ASTR 103: Warm-up 33
-- [ ] PSYC 601: Reading (B&B 12, article on Canvas)
 
 ### Wednesday, December 2
 
 - [ ] ASTR 103: Homework 25
-- [ ] PSYC 601: Submit discussion questions
 
 ### Friday, December 4
 
@@ -385,11 +315,3 @@
 ### Tuesday, December 8
 
 - [ ] **ASTR 103: Final Exam (4:00)**
-
-### Thursday, December 10
-
-- [ ] **PSYC 601: Final Exam (4:00)**
-
-### Friday, December 11
-
-- [ ] **GEOG 215: Final Exam (12:00)**
