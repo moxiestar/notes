@@ -11,7 +11,7 @@
 
 - [ ] GEOG 121: Reading (Massey)
 - [ ] STOR 455: Reading (textbook 0.1-0.2)
-- [ ] STOR 455: Exercises (homework 1.1, homework inference refresher)
+- [ ] STOR 455: Exercises (homework inference refresher)
 
 ### Sunday, August 23
 
