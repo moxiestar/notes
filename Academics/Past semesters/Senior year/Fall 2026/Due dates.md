@@ -20,19 +20,23 @@
 - [x] ASTR 103: Homework 1
 - [ ] GEOG 121: Reading
 - [ ] GEOG 121: Assignment 1
+- [ ] MATH 210: Homework
 
 ### Tuesday, August 25
 
 - [ ] ASTR 103: Warm-up 4
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, August 26
 
 - [ ] ASTR 103: LT Check 1
 - [ ] ASTR 103: Homework 2
+- [ ] MATH 210: Homework
 
 ### Thursday, August 27
 
 - [ ] ASTR 103: Warm-up 5
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, August 30
 
@@ -42,19 +46,23 @@
 ### Monday, August 31
 
 - [ ] ASTR 103: Homework 3
+- [ ] MATH 210: Homework
 
 ### Tuesday, September 1
 
 - [ ] ASTR 103: Warm-up 7
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 2
 
 - [ ] ASTR 103: LT Check 3
 - [ ] ASTR 103: Homework 4
+- [ ] MATH 210: Homework
 
 ### Thursday, September 3
 
 - [ ] ASTR 103: Warm-up 8
+- [ ] MATH 210: Before-class assignment
 
 ### Friday, September 4
 
@@ -64,18 +72,25 @@
 
 - [ ] ASTR 103: LT Check 5
 
+### Monday, September 7
+
+- [ ] MATH 210: Homework
+
 ### Tuesday, September 8
 
 - [ ] ASTR 103: Warm-up 9
 - [ ] ASTR 103: Homework 5
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 9
 
 - [ ] ASTR 103: Homework 6
+- [ ] MATH 210: Homework
 
 ### Thursday, September 10
 
 - [ ] ASTR 103: Warm-up 10
+- [ ] MATH 210: Before-class assignment
 
 ### Friday, September 11
 
@@ -88,27 +103,45 @@
 ### Monday, September 14
 
 - [ ] **ASTR 103: Midterm 1**
+- [ ] MATH 210: Homework
 
 ### Tuesday, September 15
 
 - [ ] ASTR 103: LT Check 7
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 16
 
 - [ ] ASTR 103: Homework 8
+- [ ] MATH 210: Homework
 
 ### Thursday, September 17
 
 - [ ] ASTR 103: Warm-up 11
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, September 20
 
 - [ ] ASTR 103: LT Check 8
 
+### Monday, September 21
+
+- [ ] MATH 210: Homework
+
 ### Tuesday, September 22
 
 - [ ] ASTR 103: Warm-up 12
 - [ ] ASTR 103: Homework 9
+- [ ] MATH 210: Before-class assignment
+
+### Wednesday, September 23
+
+- [ ] MATH 210: Homework
+
+### Thursday, September 24
+
+- [ ] MATH 210: Before-class assignment
+- [ ] **MATH 210: Midterm 1**
 
 ### Friday, September 25
 
@@ -123,18 +156,22 @@
 ### Monday, September 28
 
 - [ ] ASTR 103: Homework 11
+- [ ] MATH 210: Homework
 
 ### Tuesday, September 29
 
 - [ ] ASTR 103: Warm-up 14
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 30
 
 - [ ] ASTR 103: Homework 12
+- [ ] MATH 210: Homework
 
 ### Thursday, October 1
 
 - [ ] ASTR 103: Warm-up 15
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, October 4
 
@@ -145,43 +182,67 @@
 
 - [ ] ASTR 103: Homework 13
 - [ ] **GEOG 121: Midterm**
+- [ ] MATH 210: Homework
+
+### Tuesday, October 6
+
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, October 7
 
 - [ ] **ASTR 103: Midterm 2**
+- [ ] MATH 210: Homework
 
 ### Thursday, October 8
 
 - [ ] ASTR 103: LT Check 12
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, October 11
 
 - [ ] ASTR 103: LT Check 13
 
+### Monday, October 12
+
+- [ ] MATH 210: Homework
+
 ### Tuesday, October 13
 
 - [ ] ASTR 103: Warm-up 17
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, October 14
 
 - [ ] ASTR 103: Homework 14
+- [ ] MATH 210: Homework
+
+### Thursday, October 15
+
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, October 18
 
 - [ ] ASTR 103: LT Check 14
 
+### Monday, October 19
+
+- [ ] MATH 210: Homework
+
 ### Tuesday, October 20
 
 - [ ] ASTR 103: Warm-up 18
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, October 21
 
 - [ ] ASTR 103: LT Check 15
 - [ ] ASTR 103: Homework 15
+- [ ] MATH 210: Homework
 
 ### Thursday, October 22
 
 - [ ] ASTR 103: Warm-up 19
+- [ ] MATH 210: Before-class assignment
 
 ### Friday, October 23
 
@@ -195,19 +256,24 @@
 ### Monday, October 26
 
 - [ ] ASTR 103: Homework 16
+- [ ] MATH 210: Homework
 
 ### Tuesday, October 27
 
 - [ ] ASTR 103: Warm-up 21
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, October 28
 
 - [ ] ASTR 103: LT Check 18
 - [ ] ASTR 103: Homework 17
+- [ ] MATH 210: Homework
 
 ### Thursday, October 29
 
 - [ ] ASTR 103: Warm-up 22
+- [ ] MATH 210: Before-class assignment
+- [ ] **MATH 210: Midterm 2**
 
 ### Friday, October 30
 
@@ -222,19 +288,23 @@
 ### Monday, November 2
 
 - [ ] ASTR 103: Homework 19
+- [ ] MATH 210: Homework
 
 ### Tuesday, November 3
 
 - [ ] ASTR 103: Warm-up 24
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, November 4
 
 - [ ] ASTR 103: LT Check 21
 - [ ] ASTR 103: Homework 20
+- [ ] MATH 210: Homework
 
 ### Thursday, November 5
 
 - [ ] ASTR 103: Warm-up 25
+- [ ] MATH 210: Before-class assignment
 
 ### Friday, November 6
 
@@ -249,14 +319,21 @@
 ### Monday, November 9
 
 - [ ] ASTR 103: Homework 22
+- [ ] MATH 210: Homework
+
+### Tuesday, November 10
+
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, November 11
 
 - [ ] **ASTR 103: Midterm 3**
+- [ ] MATH 210: Homework
 
 ### Thursday, November 12
 
 - [ ] ASTR 103: Warm-up 27
+- [ ] MATH 210: Before-class assignment
 
 ### Friday, November 13
 
@@ -270,18 +347,23 @@
 ### Monday, November 16
 
 - [ ] ASTR 103: Homework 23
+- [ ] MATH 210: Homework
 
 ### Tuesday, November 17
 
 - [ ] ASTR 103: Warm-up 29
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, November 18
 
 - [ ] ASTR 103: LT Check 26
+- [ ] MATH 210: Homework
 
 ### Thursday, November 19
 
 - [ ] ASTR 103: Warm-up 30
+- [ ] MATH 210: Before-class assignment
+- [ ] **MATH 210: Midterm 3**
 
 ### Sunday, November 22
 
@@ -290,18 +372,29 @@
 ### Monday, November 23
 
 - [ ] ASTR 103: Homework 24
+- [ ] MATH 210: Homework
+
+### Tuesday, November 24
+
+- [ ] MATH 210: Before-class assignment
 
 ### Sunday, November 29
 
 - [ ] ASTR 103: Warm-up 32
 
+### Monsday, November 30
+
+- [ ] MATH 210: Homework
+
 ### Tuesday, December 1
 
 - [ ] ASTR 103: Warm-up 33
+- [ ] MATH 210: Before-class assignment
 
 ### Wednesday, December 2
 
 - [ ] ASTR 103: Homework 25
+- [ ] MATH 210: Homework
 
 ### Friday, December 4
 
@@ -309,4 +402,5 @@
 
 ### Tuesday, December 8
 
+- [ ] **MATH 210: Final Exam (12:00)?**
 - [ ] **ASTR 103: Final Exam (4:00)**
