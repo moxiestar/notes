@@ -19,13 +19,15 @@
 
 - [x] ASTR 103: Homework 1
 - [x] GEOG 121: Reading
-- [ ] GEOG 121: Assignment 1
+- [ ] GEOG 121: Reading
+- [x] GEOG 121: Assignment 1
 - [x] MATH 210: Homework
 
 ### Tuesday, August 25
 
-- [ ] ASTR 103: Warm-up 4
-- [x] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 4
+- [x] MATH 210: Before-class assignment 1
+- [ ] MATH 210: Before-class assignment 2
 
 ### Wednesday, August 26
 
@@ -38,6 +40,10 @@
 - [ ] ASTR 103: Warm-up 5
 - [ ] MATH 210: Before-class assignment
 
+### Friday, August 28
+
+- [ ] GEOG 121: Assignment 2 (in class)
+
 ### Sunday, August 30
 
 - [ ] ASTR 103: Warm-up 6
@@ -46,6 +52,7 @@
 ### Monday, August 31
 
 - [ ] ASTR 103: Homework 3
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 1
@@ -74,6 +81,7 @@
 
 ### Monday, September 7
 
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 8
@@ -103,6 +111,7 @@
 ### Monday, September 14
 
 - [ ] **ASTR 103: Midterm 1**
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 15
@@ -126,6 +135,7 @@
 
 ### Monday, September 21
 
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 22
@@ -156,6 +166,7 @@
 ### Monday, September 28
 
 - [ ] ASTR 103: Homework 11
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 29
@@ -204,6 +215,7 @@
 
 ### Monday, October 12
 
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 13
@@ -226,6 +238,7 @@
 
 ### Monday, October 19
 
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 20
@@ -256,6 +269,7 @@
 ### Monday, October 26
 
 - [ ] ASTR 103: Homework 16
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 27
@@ -288,6 +302,7 @@
 ### Monday, November 2
 
 - [ ] ASTR 103: Homework 19
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, November 3
@@ -319,6 +334,7 @@
 ### Monday, November 9
 
 - [ ] ASTR 103: Homework 22
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, November 10
@@ -347,6 +363,7 @@
 ### Monday, November 16
 
 - [ ] ASTR 103: Homework 23
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, November 17
@@ -372,6 +389,7 @@
 ### Monday, November 23
 
 - [ ] ASTR 103: Homework 24
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, November 24
@@ -384,6 +402,7 @@
 
 ### Monsday, November 30
 
+- [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, December 1

@@ -46,4 +46,17 @@
 ## ==🔵Deliverables==
 
 - **Read through tracking battery to check if they make sense and are relevant**
-- **Read through green survey questions to check if they make sense and are relevant** 
+- **Read through green survey questions to check if they make sense and are relevant**
+
+# HMM recap with Pyone & Sahar | August 24, 2026
+
+## ==🔵Basic rundown==
+
+**No longer using Research Results for programming - Thursday programmer creating the survey**
+
+- No AI probing
+
+## ==🔵Deliverables==
+
+- [ ] **Go through Andrew’s comments**
+- [ ] **Review AI usage questions**
