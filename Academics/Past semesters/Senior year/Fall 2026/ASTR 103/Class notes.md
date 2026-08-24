@@ -44,3 +44,27 @@
 - **Steps**
   1. Production of organic molecules
   2. Replication of organic molecules (i.e., RNA replicates DNA)
+
+# Week 2
+
+### August 24, 2026
+
+#### **Lecture | Drake Equation**
+
+![{\\displaystyle N=R_{*}\\cdot f_{\\mathrm {p} }\\cdot n_{\\mathrm {e} }\\cdot f_{\\mathrm {l} }\\cdot f_{\\mathrm {i} }\\cdot f_{\\mathrm {c} }\\cdot L}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
+
+$N$: number of civilizations in the Milky Way that can communicate across interstellar distances
+
+$R_*$: rate at which stars form in the Milky Way
+
+$f_p$: fraction of stars with planets
+
+$n_e$: for stars with planets, the average number of potentially habitable planets
+
+$f_l$: fraction of habitable planets with life
+
+$f_i$: fraction of habitable planets with life that develop intelligent life
+
+$f_c$: fraction of intelligent civilizations that develop the ability to communicate across interstellar distances
+
+$L$: average lifetime of a communicating civilization 

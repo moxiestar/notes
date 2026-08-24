@@ -33,17 +33,31 @@
 
 #### **Reading | Space, Place, and Gender (Doreen Massey)**
 
-**Globalization** 
+**Globalization**
 
-- Capital is becoming international 
+- Capital is becoming international
 - **Time-space compression:** overcoming spatial barriers to interconnect the world
-- Uncertainty arises around places and locality 
-  - Places are getting less homogenous and consistent 
+- Uncertainty arises around places and locality
+  - Places are getting less homogenous and consistent
     - What is local if everything is universal?
     - Is locality arbitrary?
-  - But maybe this is good - maybe consistent places are a mark of colonization 
+  - But maybe this is good - maybe consistent places are a mark of colonization
   - This may be due to the flow of capital, which is becoming more international
   - This also depends on your gender/race/whatnot/etc
 - Understanding of globalization depends on your level of power, freedom, and mobility
 - How can we hold on to local uniqueness and identity if everything is universal?
   - Maybe “places” are just intersections between people and their ideas about those places
+
+### August 24, 2026
+
+#### **Reading | Disjuncture and Difference in the Global Economy (Arjun Appadurai)**
+
+**…**
+
+#### **Reading | Geography: How do we think spatially? (Neil Coe, et al.)**
+
+**…**
+
+#### **Reading | Seeing Earth from Outer Space (Matthew Conlen)**
+
+**…**
