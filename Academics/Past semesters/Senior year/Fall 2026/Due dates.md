@@ -13,19 +13,19 @@
 
 ### Sunday, August 23
 
-- [ ] ASTR 103: Warm-up 3
+- [x] ASTR 103: Warm-up 3
 
 ### Monday, August 24
 
 - [x] ASTR 103: Homework 1
-- [ ] GEOG 121: Reading
+- [x] GEOG 121: Reading
 - [ ] GEOG 121: Assignment 1
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, August 25
 
 - [ ] ASTR 103: Warm-up 4
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, August 26
 
@@ -402,5 +402,5 @@
 
 ### Tuesday, December 8
 
-- [ ] **MATH 210: Final Exam (12:00)?**
+- [ ] **MATH 210: Final Exam (12:00)**
 - [ ] **ASTR 103: Final Exam (4:00)**
