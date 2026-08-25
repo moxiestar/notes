@@ -27,11 +27,11 @@
 
 - [x] ASTR 103: Warm-up 4
 - [x] MATH 210: Before-class assignment 1
-- [ ] MATH 210: Before-class assignment 2
+- [x] MATH 210: Before-class assignment 2
 
 ### Wednesday, August 26
 
-- [ ] ASTR 103: LT Check 1
+- [x] ASTR 103: LT Check 1
 - [ ] ASTR 103: Homework 2
 - [ ] MATH 210: Homework
 
