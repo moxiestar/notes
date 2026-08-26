@@ -38,7 +38,7 @@
 ### Thursday, August 27
 
 - [x] ASTR 103: Warm-up 5
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Friday, August 28
 
