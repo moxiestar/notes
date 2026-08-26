@@ -51,7 +51,7 @@
 
 #### **Lecture | Drake Equation**
 
-![{\\displaystyle N=R_{*}\\cdot f_{\\mathrm {p} }\\cdot n_{\\mathrm {e} }\\cdot f_{\\mathrm {l} }\\cdot f_{\\mathrm {i} }\\cdot f_{\\mathrm {c} }\\cdot L}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
+![{displaystyle N=R{}cdot f{mathrm {p} }cdot n{mathrm {e} }cdot f{mathrm {l} }cdot f{mathrm {i} }cdot f{mathrm {c} }cdot L}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
 $N$: number of civilizations in the Milky Way that can communicate across interstellar distances
 
@@ -67,4 +67,29 @@ $f_i$: fraction of habitable planets with life that develop intelligent life
 
 $f_c$: fraction of intelligent civilizations that develop the ability to communicate across interstellar distances
 
-$L$: average lifetime of a communicating civilization 
+$L$: average lifetime of a communicating civilization
+
+### August 26, 2026
+
+#### **Lecture | Phylogeny**
+
+**Aliens are commonly depicted as human-like**
+
+- This depiction (head, eyes, arms, legs, etc) is largely based on science fiction
+- But appearance is based on evolutionary history, which aliens don’t share
+
+**Tree of life (phylogeny)**
+
+- **Diagram showing the evolution of organisms from an original common ancestor**
+
+  - Every organism on life is connected via the common ancestor
+
+- **Evolution:** change over time in proportions of individual organisms that differ in one or more traits
+
+- **Evidence for evolution**
+
+  - Fossil records show convergence of species
+  - DNA shows convergence of species
+  - Geography shows overlap between species
+  - Skeletons show common underlying structures (including vestigial structures and non-optimal structures)
+  - Embryology shows historical structures (gills, tail, etc)
