@@ -32,12 +32,12 @@
 ### Wednesday, August 26
 
 - [x] ASTR 103: LT Check 1
-- [ ] ASTR 103: Homework 2
+- [x] ASTR 103: Homework 2
 - [ ] MATH 210: Homework
 
 ### Thursday, August 27
 
-- [ ] ASTR 103: Warm-up 5
+- [x] ASTR 103: Warm-up 5
 - [ ] MATH 210: Before-class assignment
 
 ### Friday, August 28
