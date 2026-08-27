@@ -19,7 +19,6 @@
 
 - [x] ASTR 103: Homework 1
 - [x] GEOG 121: Reading
-- [ ] GEOG 121: Reading
 - [x] GEOG 121: Assignment 1
 - [x] MATH 210: Homework
 
@@ -33,7 +32,7 @@
 
 - [x] ASTR 103: LT Check 1
 - [x] ASTR 103: Homework 2
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, August 27
 
@@ -42,11 +41,13 @@
 
 ### Friday, August 28
 
+- [x] GEOG 121: Reading
 - [ ] GEOG 121: Assignment 2 (in class)
+- [ ] MATH 210: Homework
 
 ### Sunday, August 30
 
-- [ ] ASTR 103: Warm-up 6
+- [x] ASTR 103: Warm-up 6
 - [ ] ASTR 103: LT Check 2
 
 ### Monday, August 31
