@@ -1,8 +1,6 @@
-# Week 1
+# Class notes
 
-### August 17, 2026
-
-#### **Lecture | Fordism**
+## **Lecture One | Fordism**
 
 - Globalization of American brand
 - Expansion of factory work
@@ -10,7 +8,7 @@
 - Presence as a “global imaginary”
   - Claims of climate change awareness while factories are poisoning the land
 
-#### **Reading | What is globalization? (Manfred Steger)**
+## **Reading | What is globalization? (Manfred Steger)**
 
 **Definitions**
 
@@ -29,16 +27,7 @@
     - Intensification and acceleration of worldwide interactions
     - Compression of human consciousness
 
-### August 19, 2026
-
-#### Lecture | Introductions
-
-**Office hours**
-
-- Made by appointment
-- Monday & Tuesday mornings
-
-#### **Reading | Space, Place, and Gender (Doreen Massey)**
+## **Reading | Space, Place, and Gender (Doreen Massey)**
 
 **Globalization**
 
@@ -55,9 +44,7 @@
 - How can we hold on to local uniqueness and identity if everything is universal?
   - Maybe “places” are just intersections between people and their ideas about those places
 
-### August 21, 2026
-
-#### Lecture | Manfred Steger
+## Lectures Two & Three | Manfred Steger
 
 **Four concepts for understanding the globe**
 
@@ -65,12 +52,12 @@
    - “Instant implosion” of society
    - Creation of a global village (increased interconnectedness across the world)
    - Our experience of space seems to have shrunk, and places seem closer together
-     - Began in the 1840s with the advent of the railroad 
+     - Began in the 1840s with the advent of the railroad
      - Chaotic “timetables” were created to organize railroad depature times
-     - To simplify the railroad system, American time zones were created (Eastern, Central, Mountain, Pacific) 
+     - To simplify the railroad system, American time zones were created (Eastern, Central, Mountain, Pacific)
 2. **Globality as imaginary**
    - Internal understanding of the world
-   - **Sputnik (1957)** 
+   - **Sputnik (1957)**
      - Marker of globalization - shared technology providing new perspective on earth
      - Hannah Arendt: most important development of the 20th century
      - McLuhan: “nature ended and ecology was born … the planet [became] a work of art”
@@ -82,7 +69,7 @@
    - **Decolonization of the world in 20th century**
      - Year of Africa (1960)
 3. **Globality as globalism**
-   - **Political component of globalization** 
+   - **Political component of globalization**
    - **Examples:** colonalization, propaganda, free trade, global currency
      - Closing of borders in response to increased immigration
    - WTO protests (Seattle, 1999) sought to shut down the Ministerial Conference
@@ -93,9 +80,7 @@
    - A global social relation links people at any inhabitable place on earth
      - **Examples:** pandemics, internet chatrooms, planes, media broadcasts, climate change
 
-### August 24, 2026
-
-#### **Reading | Disjuncture and Difference in the Global Economy (Arjun Appadurai)**
+## **Reading | Disjuncture and Difference in the Global Economy (Arjun Appadurai)**
 
 **Globalization and economy**
 
@@ -117,7 +102,7 @@
 - **Financescapes:** disposition of global capital
 - **Ideoscapes:** political concatenations of images
 
-#### **Reading | Seeing Earth from Outer Space (Matthew Conlen)**
+## **Reading | Seeing Earth from Outer Space (Matthew Conlen)**
 
 **History of astrophotography**
 
@@ -129,9 +114,7 @@
 - **1972:** First Landsat satellite
   - Could only distinguish objects larger than 80 meters
 
-### August 26, 2026
-
-#### **Lecture | Geography**
+## **Lecture Four | Geography**
 
 **History of geography**
 
@@ -147,17 +130,15 @@
       - **Example:** latitude and longitude
         - **Greenwich, England:** standard reference point for spatial measurements
     - **Relative location:** changeable location, understood through its relations to other places
-      - Can also be understood in terms of relative accessibility between locations 
+      - Can also be understood in terms of relative accessibility between locations
   - **Place**
     - Unique configuration of human and geographical landmarks
     - Helps us understand culture, identity, and feelings
   - **Territory**
-    - Demarcated, bounded segments of space over which power exercised 
+    - Demarcated, bounded segments of space over which power exercised
   - **Network**
 
-### August 28, 2026
-
-#### **Lecture | Networks, Scales, & Nations**
+## **Lecture Five | Networks, Scales, & Nations**
 
 **Networks**
 
@@ -166,8 +147,8 @@
   - Connectivity
   - Topology (arrangement)
 - **Types of networks**
-  - Centralized 
-  - Decentralized 
+  - Centralized
+  - Decentralized
   - Distributed
 
 **Scales**

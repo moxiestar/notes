@@ -1,8 +1,6 @@
-# Week 1
+# Class notes
 
-### August 21, 2026
-
-#### **Lecture | Life**
+## **Lecture One | Life**
 
 **What is life?**
 
@@ -45,11 +43,7 @@
   1. Production of organic molecules
   2. Replication of organic molecules (i.e., RNA replicates DNA)
 
-# Week 2
-
-### August 24, 2026
-
-#### **Lecture | Drake Equation**
+## **Lecture Two | Drake Equation**
 
 ![{displaystyle N=R{}cdot f{mathrm {p} }cdot n{mathrm {e} }cdot f{mathrm {l} }cdot f{mathrm {i} }cdot f{mathrm {c} }cdot L}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
@@ -69,9 +63,7 @@ $f_c$: fraction of intelligent civilizations that develop the ability to communi
 
 $L$: average lifetime of a communicating civilization
 
-### August 26, 2026
-
-#### **Lecture | Phylogeny**
+## **Lecture Three | Phylogeny**
 
 **Aliens are commonly depicted as human-like**
 
@@ -93,3 +85,32 @@ $L$: average lifetime of a communicating civilization
   - Geography shows overlap between species
   - Skeletons show common underlying structures (including vestigial structures and non-optimal structures)
   - Embryology shows historical structures (gills, tail, etc)
+
+## **Lecture Four | Evolution**
+
+**Natural selection**
+
+- **Definition:** organisms that possess more advantageous traits will be more likely to survive and reproduce
+
+- **Requirements**
+
+  1. Individuals in a population must exhibit variation in one or more traits
+  2. Those traits must be heritable
+  3. Possessing one or more of these traits must make individuals more likely to survive and reproduce
+
+- **Appearance of design:** complex life looks carefully crafted
+
+- **Origin of variation:** genetic mutation
+
+  - Each human has roughly 100 mutations in their DNA
+  - Mutations are completely random, but natural selection is not
+  - **Dominant & recessive genes**
+    - The traits encoded by **dominant genes** will be expressed as long as the offspring inherits it from **one** parent
+    - The traits encoded by **recessive genes** will only be expressed if the offspring inherits it from **both** parents
+
+
+- **Misconceptions**
+
+  - Natural selection does not drive organisms to evolve what they “need”
+  - Traits only develop due to mutations, which can be passed down based on desirability 
+  - Offspring cannot inherit characters that their parents acquire during their lives (fitness, injuries, etc)
