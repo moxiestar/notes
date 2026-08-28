@@ -42,8 +42,9 @@
 ### Friday, August 28
 
 - [x] GEOG 121: Reading
-- [ ] GEOG 121: Assignment 2 (in class)
-- [ ] MATH 210: Homework
+- [x] GEOG 121: Assignment 2 (in class)
+- [x] GEOG 121: Transcribe weekly notes
+- [x] MATH 210: Homework
 
 ### Sunday, August 30
 
@@ -75,6 +76,7 @@
 ### Friday, September 4
 
 - [ ] ASTR 103: LT Check 4
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 6
 
@@ -104,6 +106,7 @@
 ### Friday, September 11
 
 - [ ] ASTR 103: LT Check 6
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 13
 
@@ -129,6 +132,10 @@
 
 - [ ] ASTR 103: Warm-up 11
 - [ ] MATH 210: Before-class assignment
+
+### Friday, September 18
+
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 20
 
@@ -157,6 +164,7 @@
 ### Friday, September 25
 
 - [ ] ASTR 103: LT Check 9
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 27
 
@@ -185,6 +193,10 @@
 - [ ] ASTR 103: Warm-up 15
 - [ ] MATH 210: Before-class assignment
 
+### Friday, October 2
+
+- [ ] GEOG 121: Transcribe weekly notes
+
 ### Sunday, October 4
 
 - [ ] ASTR 103: Warm-up 16
@@ -210,6 +222,10 @@
 - [ ] ASTR 103: LT Check 12
 - [ ] MATH 210: Before-class assignment
 
+### Friday, October 9
+
+- [ ] GEOG 121: Transcribe weekly notes
+
 ### Sunday, October 11
 
 - [ ] ASTR 103: LT Check 13
@@ -232,6 +248,10 @@
 ### Thursday, October 15
 
 - [ ] MATH 210: Before-class assignment
+
+### Friday, October 16
+
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, October 18
 
@@ -261,6 +281,7 @@
 ### Friday, October 23
 
 - [ ] ASTR 103: LT Check 16
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, October 25
 
@@ -293,6 +314,7 @@
 ### Friday, October 30
 
 - [ ] ASTR 103: LT Check 19
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 1
 
@@ -325,6 +347,7 @@
 ### Friday, November 6
 
 - [ ] ASTR 103: LT Check 22
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 8
 
@@ -355,6 +378,7 @@
 ### Friday, November 13
 
 - [ ] ASTR 103: LT Check 24
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 15
 
@@ -382,6 +406,10 @@
 - [ ] ASTR 103: Warm-up 30
 - [ ] MATH 210: Before-class assignment
 - [ ] **MATH 210: Midterm 3**
+
+### Friday, November 20
+
+- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 22
 
