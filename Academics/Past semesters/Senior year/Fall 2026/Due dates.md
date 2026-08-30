@@ -49,7 +49,7 @@
 ### Sunday, August 30
 
 - [x] ASTR 103: Warm-up 6
-- [ ] ASTR 103: LT Check 2
+- [x] ASTR 103: LT Check 2
 
 ### Monday, August 31
 

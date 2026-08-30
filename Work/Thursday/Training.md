@@ -28,3 +28,40 @@
        - Does the file work?
        - Does the data look real?
 5. **Full launch**
+
+# Data quality training
+
+### **Meeting with Veronica | August 28, 2026**
+
+**Why do we check data quality while in-field?**
+
+- The analysis is only as good as the participants
+  - Participant response quality is measured via a strike system (3 strikes out)
+- Checking provides better estimates of participant counts
+- Cutting earlier on is cheaper than cutting later
+
+**Terminology**
+
+- **Strikes:** quality checks built into the survey (attention checks, trick questions, etc)
+- **Flags:** small errors signalling poorer quality data
+- **LOI:** length of interview (how long the participant spent on the survey)
+- **QC age:** question that re-checks the participant’s age
+- **OE:** open-ended questions where the participants type their answers
+
+**Steps to the data quality process**
+
+1. **Set up the data quality layout (choose key variables)**
+   - Record ID, date, age vs. QC age, strikes, flags, OEs, LOI
+2. **Pull the Excel file from Decipher/software of choice**
+   - Sort the file by strikes and flags, from highest to lowest
+   - Then sort by LOI, lowest first
+   - Read every OE in that order
+     - Look for gibberish, illogical, contradictory, or off-topic answers, copy-pasted content, AI-generated content
+3. **Keep an eye on participant quotas**
+   - Every removal changes the proportions of the participant pool
+   - Removing 10-20% of the sample is typical 
+4. **Hand off the removal reports**
+   - Mark the record/participant IDs
+   - Explain the reason for removal
+   - Save the file in the project folder
+   - Send the ID list to Research Results/equivalent
