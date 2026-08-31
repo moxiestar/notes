@@ -53,7 +53,7 @@
 
 ### Monday, August 31
 
-- [ ] ASTR 103: Homework 3
+- [x] ASTR 103: Homework 3
 - [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
