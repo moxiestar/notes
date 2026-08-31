@@ -139,3 +139,5 @@ $L$: average lifetime of a communicating civilization
 - **Note on acids & bases**
   - **Acid:** substance that increases the concentration of H+ ions in a solution
   - **Base:** substance that decreases the concentration of H+ ions in a solution
+- **LUCA (last unknown common ancestor)**
+  - Likely had genes to survive hot, low-oxygen environments in hydrothermal vents at the bottom of the ocean
