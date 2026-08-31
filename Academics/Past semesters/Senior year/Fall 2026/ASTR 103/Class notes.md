@@ -108,9 +108,34 @@ $L$: average lifetime of a communicating civilization
     - The traits encoded by **dominant genes** will be expressed as long as the offspring inherits it from **one** parent
     - The traits encoded by **recessive genes** will only be expressed if the offspring inherits it from **both** parents
 
-
 - **Misconceptions**
 
   - Natural selection does not drive organisms to evolve what they “need”
-  - Traits only develop due to mutations, which can be passed down based on desirability 
+  - Traits only develop due to mutations, which can be passed down based on desirability
   - Offspring cannot inherit characters that their parents acquire during their lives (fitness, injuries, etc)
+
+## **Lecture Five | Extremophiles**
+
+**Evolution & environment**
+
+- **Extremophiles:** organisms that thrive in extreme environments (often environments that are inhabitable for normal organisms)
+- **E. coli Long Term Evolution Experiment**
+  - Experiment that began in 1988
+  - Scientists cultivated 12 different populations of E. coli
+  - Each population was grown in a citrate-dense, low-glucose environment
+    - E. coli thrives on glucose and cannot naturally process citrate
+  - Samples were frozen every 75 days to preserve the genetic code
+  - In 2003, one bacterium acquired a mutation that allowed it to process and digest citrate
+- **Types of extremophiles**
+  - **Thermophiles:** heat-biased organisms
+  - **Psychrophiles:** cold-biased organisms
+  - **Acidophiles:** acid-biased organisms (pH < 3)
+  - **Alkaliphiles:** base-biased organisms (pH > 9)
+  - **Piezophiles:** pressure-biased organisms
+  - **Xerophiles:** dryness-biased organisms
+  - **Halophiles:** salt-biased organisms
+  - **Anaerobes:** low-oxygen-biased organisms
+  - **Radioresistant:** radiation-biased organisms
+- **Note on acids & bases**
+  - **Acid:** substance that increases the concentration of H+ ions in a solution
+  - **Base:** substance that decreases the concentration of H+ ions in a solution
