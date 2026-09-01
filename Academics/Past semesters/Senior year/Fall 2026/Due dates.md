@@ -66,11 +66,11 @@
 
 - [x] ASTR 103: LT Check 3
 - [x] ASTR 103: Homework 4
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, September 3
 
-- [ ] ASTR 103: Warm-up 8
+- [x] ASTR 103: Warm-up 8
 - [ ] MATH 210: Before-class assignment
 
 ### Friday, September 4
