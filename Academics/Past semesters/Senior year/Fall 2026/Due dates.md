@@ -55,7 +55,7 @@
 
 - [x] ASTR 103: Homework 3
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, September 1
 
@@ -64,8 +64,8 @@
 
 ### Wednesday, September 2
 
-- [ ] ASTR 103: LT Check 3
-- [ ] ASTR 103: Homework 4
+- [x] ASTR 103: LT Check 3
+- [x] ASTR 103: Homework 4
 - [ ] MATH 210: Homework
 
 ### Thursday, September 3
