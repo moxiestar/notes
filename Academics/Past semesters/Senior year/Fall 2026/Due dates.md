@@ -80,7 +80,7 @@
 
 ### Sunday, September 6
 
-- [ ] ASTR 103: LT Check 5
+- [x] ASTR 103: LT Check 5
 
 ### Monday, September 7
 
