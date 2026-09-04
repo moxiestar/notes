@@ -142,8 +142,39 @@ $L$: average lifetime of a communicating civilization
 - **LUCA (last unknown common ancestor)**
   - Likely had genes to survive hot, low-oxygen environments in hydrothermal vents at the bottom of the ocean
 
+## **Lecture Six | Planetary surfaces**
+
+**Four processes that shape surfaces** 
+
+- **Impact cratering**
+  - Bowl-shaped marks left by asteroids or comets after striking a planet’s surface 
+  - Older planets should have more cratered surfaces 
+- **Erosion** 
+  - The wearing down or building up of geologic features by natural environmental processes (wind, ice, water)
+  - Requires fluid that flows on the surface and a substantial atmosphere 
+- **Volcanism** 
+  - Eruption of lava from a planet’s interior onto its surface
+- **Tectonics**
+  - Fracturing and movement of a planet’s hard outer layer (lithosphere) into multiple plates 
+  - Tectonics may have brought about life on earth 
+
 ## **Lecture Seven | Planetary orbits**
 
-**Natural selection**
+**Eccentricity:** how much an ellipse/orbit deviates from a perfect circle
 
-**Eccentricity:** how much an ellipse deviates from a perfect circle
+**Astronomical Unit (AU):** average distance between the earth and the sun 
+
+**Kepler’s Laws**
+
+- **Kepler’s First Law:** the orbit of every object around the sun is an ellipse with the sun at one focus/point
+- **Kepler’s Second Law:** planets move faster when closer to the sun, and slower when further away
+- **Kepler’s Third Law:** the orbital period of an object is related to the semi-major axis of its orbit and the mass of whatever it is orbiting according to the following equation
+  - **If…** 
+    - The object is orbiting the sun
+    - The semi-major axis is measured in AU
+    - The period P is measured in years
+  - **Then the equation is just P² = a³** 
+
+[[Screenshot 2026-09-04 at 1.40.01 PM.png]]
+
+ 
