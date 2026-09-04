@@ -141,3 +141,9 @@ $L$: average lifetime of a communicating civilization
   - **Base:** substance that decreases the concentration of H+ ions in a solution
 - **LUCA (last unknown common ancestor)**
   - Likely had genes to survive hot, low-oxygen environments in hydrothermal vents at the bottom of the ocean
+
+## **Lecture Seven | Planetary orbits**
+
+**Natural selection**
+
+**Eccentricity:** how much an ellipse deviates from a perfect circle
