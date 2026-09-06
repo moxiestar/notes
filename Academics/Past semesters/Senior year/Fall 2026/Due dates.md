@@ -75,7 +75,7 @@
 
 ### Friday, September 4
 
-- [ ] ASTR 103: LT Check 4
+- [x] ASTR 103: LT Check 4
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 6
