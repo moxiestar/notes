@@ -95,12 +95,12 @@
 
 ### Wednesday, September 9
 
-- [ ] ASTR 103: Homework 6
+- [x] ASTR 103: Homework 6
 - [ ] MATH 210: Homework
 
 ### Thursday, September 10
 
-- [ ] ASTR 103: Warm-up 10
+- [x] ASTR 103: Warm-up 10
 - [ ] MATH 210: Before-class assignment
 
 ### Friday, September 11
