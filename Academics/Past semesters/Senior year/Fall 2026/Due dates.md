@@ -76,7 +76,7 @@
 ### Friday, September 4
 
 - [x] ASTR 103: LT Check 4
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 6
 
@@ -85,13 +85,13 @@
 ### Monday, September 7
 
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, September 8
 
-- [ ] ASTR 103: Warm-up 9
-- [ ] ASTR 103: Homework 5
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 9
+- [x] ASTR 103: Homework 5
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, September 9
 
