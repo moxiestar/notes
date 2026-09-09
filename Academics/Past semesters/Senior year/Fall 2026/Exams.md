@@ -8,6 +8,7 @@
 
 **Things to review**
 
+- [ ] Practice exam
 - [ ] Notes
 - [ ] Homeworks
 - [ ] Warm-ups

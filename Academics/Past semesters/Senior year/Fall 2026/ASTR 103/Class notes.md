@@ -144,37 +144,62 @@ $L$: average lifetime of a communicating civilization
 
 ## **Lecture Six | Planetary surfaces**
 
-**Four processes that shape surfaces** 
+**Four processes that shape surfaces**
 
 - **Impact cratering**
-  - Bowl-shaped marks left by asteroids or comets after striking a planet’s surface 
-  - Older planets should have more cratered surfaces 
-- **Erosion** 
+  - Bowl-shaped marks left by asteroids or comets after striking a planet’s surface
+  - Older planets should have more cratered surfaces
+- **Erosion**
   - The wearing down or building up of geologic features by natural environmental processes (wind, ice, water)
-  - Requires fluid that flows on the surface and a substantial atmosphere 
-- **Volcanism** 
+  - Requires fluid that flows on the surface and a substantial atmosphere
+- **Volcanism**
   - Eruption of lava from a planet’s interior onto its surface
 - **Tectonics**
-  - Fracturing and movement of a planet’s hard outer layer (lithosphere) into multiple plates 
-  - Tectonics may have brought about life on earth 
+  - Fracturing and movement of a planet’s hard outer layer (lithosphere) into multiple plates
+  - Tectonics may have brought about life on earth
 
 ## **Lecture Seven | Planetary orbits**
 
 **Eccentricity:** how much an ellipse/orbit deviates from a perfect circle
 
-**Astronomical Unit (AU):** average distance between the earth and the sun 
+**Astronomical Unit (AU):** average distance between the earth and the sun
 
 **Kepler’s Laws**
 
 - **Kepler’s First Law:** the orbit of every object around the sun is an ellipse with the sun at one focus/point
 - **Kepler’s Second Law:** planets move faster when closer to the sun, and slower when further away
 - **Kepler’s Third Law:** the orbital period of an object is related to the semi-major axis of its orbit and the mass of whatever it is orbiting according to the following equation
-  - **If…** 
+  - **If…**
     - The object is orbiting the sun
     - The semi-major axis is measured in AU
     - The period P is measured in years
-  - **Then the equation is just P² = a³** 
+  - **Then the equation is just P² = a³**
 
 [[Screenshot 2026-09-04 at 1.40.01 PM.png]]
 
- 
+## **Lecture Eight | Newton’s Las**
+
+**Key terms**
+
+- **Velocity:** speed and direction of an object
+  - An object’s velocity always points in the direction it’s moving
+- **Acceleration:** change in velocity (via speed, direction, or both)
+  - If an object’s acceleration points in the same direction as its velocity, the object speeds up
+  - If an object’s acceleration points in the opposite direction as its velocity, the object slows down
+  - If an object’s acceleration points perpendicular to its velocity, the object’s speed stays the same, but it changes direction
+- **Force:** push or pull that one object exerts on another
+  - **Unit:** Newton (N)
+  - **Finding net force**
+    - Force, like velocity and acceleration, has direction
+    - When two forces acting on an object point in the same direction, you add them
+    - When two forces acting on an object point in opposite directions, you subtract them
+
+**Newton’s Laws**
+
+- **Newton’s First Law:** an object moves at a constant velocity unless acted on by a force
+- **Newton’s Second Law:** an object of mass M, experiencing a force F, will experience acceleration given by F = ma
+- **Newton’s Third Law:** if Object 1 exerts a force on Object 2, Object 2 exerts an opposite but equal force on Object 1
+- **Newton’s Law of Gravitation:** the gravitational force between two objects depends on the product of the masses of the objects and the distance between them
+  - Gravitational force is always attractive
+
+[[Screenshot 2026-09-09 at 1.43.20 PM.png]]
