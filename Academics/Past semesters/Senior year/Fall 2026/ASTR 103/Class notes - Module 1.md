@@ -1,4 +1,4 @@
-# Class notes
+# Class notes | Module 1
 
 ## **Lecture One | Life**
 

@@ -96,7 +96,7 @@
 ### Wednesday, September 9
 
 - [x] ASTR 103: Homework 6
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, September 10
 
@@ -105,12 +105,12 @@
 
 ### Friday, September 11
 
-- [ ] ASTR 103: LT Check 6
+- [x] ASTR 103: LT Check 6
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 13
 
-- [ ] ASTR 103: Homework 7
+- [x] ASTR 103: Homework 7
 
 ### Monday, September 14
 

@@ -9,7 +9,7 @@
 **Things to review**
 
 - [ ] Practice exam
-- [ ] Notes
+- [ ] Flashcards
 - [ ] Homeworks
 - [ ] Warm-ups
 
