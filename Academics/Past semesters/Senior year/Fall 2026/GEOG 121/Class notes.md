@@ -180,12 +180,12 @@
 
 **Historical perspectives**
 
-- **Manfred Steger:** globalization is about planetary interconnectivities, mobilities, and imaginations 
+- **Manfred Steger:** globalization is about planetary interconnectivities, mobilities, and imaginations
   - Does globalization have a distinct history? Can we define the historical phases of globalization?
 - **Globalization (1989):** triumphalist narrative
   - Fall of national empires led to the creation of a single global trade market and the advent of global democracy
 - **Different versions of global history**
-  - Non-linear process, spatially and temporally uneven 
+  - Non-linear process, spatially and temporally uneven
   - **Globalization as the short, medium, and long**
     - **Short:** information technology boom and financialization
     - **Medium:** oceanic age of colonization, Industrial Revolution, and trade
@@ -193,47 +193,47 @@
   - **Globalization as the thick and thin**
     - Density of networks
     - Speed of social interchange
-    - Complexity of interdependency 
+    - Complexity of interdependency
 
- **Early globalization**
+**Early globalization**
 
 - **Paleolithic Age:** spread of humanity across the globe
 - **Neolithic Age:** development of humanity
   - First uses of technology and fire
   - Domestication of plants and animals
   - Organization of class systems
-  - Embodied divergence? 
-  - **Urban Revolution** 
+  - Embodied divergence?
+  - **Urban Revolution**
     - For most of human history, we lived in hunter-gatherer tribes, not cities
     - The fossil fuel era is 0.1% of human history
 - **Equestrian and Classical Ages**
-  - Empires became universal and all-powerful 
-  - Organizational extension of hierarchy 
+  - Empires became universal and all-powerful
+  - Organizational extension of hierarchy
   - Trade across Indian Ocean
-    - Strong maritime network 
-    - Local farmland fertility 
-    - No empires 
-    - High circuliation of trade between nations 
+    - Strong maritime network
+    - Local farmland fertility
+    - No empires
+    - High circuliation of trade between nations
 - **Ocean Age**
-  - European expansion fueled by stock and imperialism 
-  - Era of economic growth, global trade, and multinational corporations 
+  - European expansion fueled by stock and imperialism
+  - Era of economic growth, global trade, and multinational corporations
   - Complex and controversial global image
   - Enforced the modern Western understanding of history
-- **Era of Colonization** 
+- **Era of Colonization**
   - Indigenous majority, colonizer minority
-  - Often driven by religious and ethnic hierarchy 
-  - **Colonizer tactics:** coersion, persuasion, conflict, and collaboration 
+  - Often driven by religious and ethnic hierarchy
+  - **Colonizer tactics:** coersion, persuasion, conflict, and collaboration
   - **Legacy:** expropriation, dispossession, exploitation, extraction, and violence
   - **Etymology:** Latin *colonia*, meaning “estate”
     - Term was coined during the Abolotion Era (beginning in the 1700s)
     - Used primarily in critical contexts
   - **Spatiality**
     - Colonization displaced both the colonized and the colonizers
-    - The original place is forever contaminated 
+    - The original place is forever contaminated
   - **Columbus**
     - Arrived in “India” in 1492
       - Actually the Carribean
-    - Described indigenous people as peaceful, generous, open, and unhierarchical 
+    - Described indigenous people as peaceful, generous, open, and unhierarchical
     - “With fifty men, we could make them do whatever we want”
     - Came back on a second expedition for slaves, gold, and silver
       - Over three million people died
@@ -242,10 +242,10 @@
     - The Spanish brought genocide, diseases, ecological chaos, and forced labor upon South America
   - **Columbian Exchange**
     - Exchange of goods, people, diseases, and more between East and West in the 1500s
-    - Beginning of modern globalization of goods, biological globalization, and global homogenization 
+    - Beginning of modern globalization of goods, biological globalization, and global homogenization
       - Single farming culture
       - Lack of diet diversity
-      - Huge increase in agricultural productivity 
+      - Huge increase in agricultural productivity
     - Facilitated by the slave trade and colonization of the Americas
     - **Ecological Imperialism:** destruction of environment by European colonizers
       - Smallpox epidemic killed 95% of the indigenous South American population over 150 years
@@ -260,37 +260,41 @@
       - Critical element of the trade flow between India, China, and the rest of the world
       - Linked Spanish-colonized South America to Spain
       - **Enabled trade and production specialization in Europe**
-        - Caused an ecological windfall, since Europe no longer had to rely on their own agriculture 
+        - Caused an ecological windfall, since Europe no longer had to rely on their own agriculture
   - **Trans-Atlantic Slave Trade**
-    - Enabled accelerated development of Europe and its colonies 
+    - Enabled accelerated development of Europe and its colonies
     - Capture of people, largely from West Africa, who were brought to North, Central, and South America
       - Millions died in transport alone
     - **Plantations**
       - Large farms that facilitated production of classic crops like sugar, tobacco, and cotton
-      - Laborers were brutalized and kept uneducated and trapped for generations 
+      - Laborers were brutalized and kept uneducated and trapped for generations
       - **Europe benefitted hugely from slavery, financially and industrially**
-        - **Core-periphery relationship developed between Europe and Africa, creating dependency and international inequality** 
-          - Raw materials taken from Africa 
+        - **Core-periphery relationship developed between Europe and Africa, creating dependency and international inequality**
+          - Raw materials taken from Africa
           - Specialization and finer production occurred in Europe
           - Goods were then sold in Africa to continue facilitating the slave trade
-    - **In the early nineteenth century, slaves made up 35% of the southern population in the United States** 
+    - **In the early nineteenth century, slaves made up 35% of the southern population in the United States**
     - **Profitability**
       - Northern states benefitted from slavery too, even without directly having slaves
-      - At US minimum wage, slave labor in America was worth roughly 100 trillion 
-      - “Slavery was not born of racism; racism was the consequence of slavery” 
+      - At US minimum wage, slave labor in America was worth roughly 100 trillion
+      - “Slavery was not born of racism; racism was the consequence of slavery”
 
 **Core-periphery modts**
 
 - **Spatial model for understanding uneven development between places**
   - **Core place:** industrial, wealthier state
   - **Peripheral place:** manufacturing state
-- **Pattern:** the core develops, specializes, and thrives off the raw materials from the periphery, while the periphery becomes dependent 
+- **Pattern:** the core develops, specializes, and thrives off the raw materials from the periphery, while the periphery becomes dependent
 
 **Biased media**
 
 - **Time-biased media:** media created to endure over time
-  - Time-biased media favors durability 
+  - Time-biased media favors durability
   - Speech is a time-biased media, as are clay tablets
-- **Space-biased media:** media created to spread over space 
-  - Space-biased media favors expansion, portability, and distributability 
+- **Space-biased media:** media created to spread over space
+  - Space-biased media favors expansion, portability, and distributability
   - Paper is a space-biased media
+
+## **Lectures Ten & Eleven | Global Finance**
+
+**Historical perspectives**
