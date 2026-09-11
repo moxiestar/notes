@@ -116,6 +116,7 @@
 
 - [ ] **ASTR 103: Midterm 1**
 - [ ] GEOG 121: Reading
+- [ ] **GEOG 121: Commonplace essay 4**
 - [ ] MATH 210: Homework
 
 ### Tuesday, September 15

@@ -177,7 +177,7 @@ $L$: average lifetime of a communicating civilization
 
 [[Screenshot 2026-09-04 at 1.40.01 PM.png]]
 
-## **Lecture Eight | Newton’s Las**
+## **Lecture Eight | Newton’s Laws**
 
 **Key terms**
 
@@ -203,3 +203,30 @@ $L$: average lifetime of a communicating civilization
   - Gravitational force is always attractive
 
 [[Screenshot 2026-09-09 at 1.43.20 PM.png]]
+
+## **Lecture Nine | Wavelengths**
+
+**Light**
+
+- Sometimes light acts like it’s made up of particles
+- Sometimes light acts like it’s a wave
+- **Wavelength:** distance between adjacent peaks of the electric field
+- **Frequency:** number of times that the electric field vibrates up and down
+- **Speed of light** **= wavelength • frequency**
+- **Electromagnetic wave:** wave made up of many particles of light
+
+**Interactions of light**
+
+- **Emission:** when matter emits light, it gives off light
+- **Transmission:** when matter transmits light, the light passes through the matter
+- **Reflection:** when matter reflects light, the light bounces off the matter and changes direction
+- **Absorption:** when matter absorbs light, it removes the light from the environment
+
+**Spectroscopy**
+
+- **Study of the spectrum of light produced by an object**
+  - Note that the light you see depends on your location relative to the object
+- **Continuous spectrum:** seen when a hot, dense object gives off light at all wavelengths
+- **Emission spectrum:** seen when a hot, low-density cloud of gas gives off light at just a few specific wavelengths 
+- **Absorption spectrum:** seen when a hot, dense object has a cool cloud of gas in front of it, and some light is absorbed at specific wavelengths
+  - Often the reverse of an emission spectrum

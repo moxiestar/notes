@@ -296,5 +296,3 @@
   - Paper is a space-biased media
 
 ## **Lectures Ten & Eleven | Global Finance**
-
-**Historical perspectives**
