@@ -296,3 +296,97 @@
   - Paper is a space-biased media
 
 ## **Lectures Ten & Eleven | Global Finance**
+
+**Global governance**
+
+- **United Nations (1945)**
+  - Comprised of six main branches, or “organs”
+    - General Assembly (built in NYC, 1952)
+  - “One country, one vote” principles
+- **International Monetary Fund (IMF)**
+  - Organization that manages the international monetary system
+  - Maintains the exchange rate
+  - **Bretton Woods Regime**
+    - Committee held in 1945 that organized international financial relations
+    - Led by Harry Morgenthau Jr., who favored US economic growth
+    - Harry Dexter White, a proponent of free trade, designed the IMF
+  - **Voting system**
+    - One dollar, one vote
+    - Quota system breeds inequality: the more you contribute, the more you have access to
+      - US contributes billions
+      - Africa is barely represented 
+      - To a win a majority, you needed the US vote
+  - **Headquarters**
+    - Established in Washington, DC
+    - Reinforced US power in the IMF
+- **World Bank**
+  - Financed the postwar reconstruction in Europe
+  - Now funds “development projects” in third-world countries
+- **Together, the IMF and the World Bank pushed the global adoption of the US dollar as the world reserve currency**
+  - **Monetary hierarchy** established at Bretton Woods, at a time when the US had the greatest national gold reserve of any country
+    1. Gold
+    2. National currency
+    3. Bank deposits
+    4. Bonds and stocks
+
+**Global development**
+
+- **Third World vs. Global South**
+  - **Third World**
+    - Originally used to describe a nonaligned movement
+    - Used in an effort to break the racial hierarchy of wealth
+      - But describes mostly African and Asian countries
+    - Emerged as a political response to the Cold War 
+  - **Global South**
+    - Used to describe countries that were not highly industrialized 
+    - Now a dated term - refers to countries that are now advanced 
+      - Singapore, South Korea, Saudi Arabia, etc
+- **Developmentalism**
+  - **Hallmarks:** social spending, higher wages, import over production
+  - Adopted by newly independent states
+- **Commodity power**
+  - Post-colonial states controlled reserves the US and West Europe needed
+    - Oil, copper, bananas, aluminum 
+  - **G77:** non-aligned movement that attempted to leverage labor and goods for political demands
+- **New International Economic Order**
+  - Regulates multinational organizations
+  - Nationalizes foreign assets
+  - Protects economies with tariffs
+  - Receives financial aid without overextraction 
+- **G7**
+  - Created to counter NIEO and prevent cartel formation
+  - **Kissinger’s strategy**
+    - Shifting decision-making from the UN to the Security Council, where rich nations held veto power
+    - Dividing G77 by offering “least developed countries” aid if they left their organizations
+
+**Global debt**
+
+- Unlike other obligations, debts can be quantified, allowing them to become simple, impersonal, and transferable 
+- **Lessor debtors**
+  - Burdened, poorer countries who prioritize solving debt over domestic needs
+  - Borrowing money to afford basic necessities 
+  - Debt is constant and inescapable
+- **Greater debtors**
+  - Rich countries with leveraging power
+  - Borrowing to invest in financial products
+  - Debt is a short path to abundance and luxury
+- **Borrowing from the IMF/World Bank**
+  - Loans are denominated in US dollars
+  - Variable interest rates often made debtors more vulnerable 
+  - These loans were predatory, largely given to Latin America 
+- **US National debt**
+  - Harms the global economy, especially Third World countries
+  - In 1982, when the stock market crashes, Wall Street gets bailed out, but Mexico defaults on its debt
+  - **Volcker Shock**
+    - US Federal Chair, Volcker, raises interest rates to combat inflation 
+  - **Structural Adjustment Program**
+    - **Austerity:** public spending cuts, taxes
+    - **Privatization:** private entities take over formerly public organizations
+    - **Deregulation:** reduction of rules?
+    - **Removal of tariffs**
+  - **IMF and World Bank employ similar programs**
+    - As a result, poverty increases, GDP plummets, and social services are depleted in Third World countries
+    - Losses were mostly felt in South America and Sub-Saharan Africa
+    - “This was a colonialism of giving, not taking”
+  - **From 1980 to 2012, the Global South paid $13 trillion to Northern creditors**
+    - Ironically, more money than it would cost to resolve global poverty

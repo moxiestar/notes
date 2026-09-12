@@ -106,7 +106,7 @@
 ### Friday, September 11
 
 - [x] ASTR 103: LT Check 6
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 13
 
@@ -121,7 +121,7 @@
 
 ### Tuesday, September 15
 
-- [ ] ASTR 103: LT Check 7
+- [x] ASTR 103: LT Check 7
 - [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 16
