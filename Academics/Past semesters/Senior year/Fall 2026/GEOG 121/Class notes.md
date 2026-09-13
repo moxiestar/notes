@@ -314,7 +314,7 @@
     - One dollar, one vote
     - Quota system breeds inequality: the more you contribute, the more you have access to
       - US contributes billions
-      - Africa is barely represented 
+      - Africa is barely represented
       - To a win a majority, you needed the US vote
   - **Headquarters**
     - Established in Washington, DC
@@ -336,23 +336,23 @@
     - Originally used to describe a nonaligned movement
     - Used in an effort to break the racial hierarchy of wealth
       - But describes mostly African and Asian countries
-    - Emerged as a political response to the Cold War 
+    - Emerged as a political response to the Cold War
   - **Global South**
-    - Used to describe countries that were not highly industrialized 
-    - Now a dated term - refers to countries that are now advanced 
+    - Used to describe countries that were not highly industrialized
+    - Now a dated term - refers to countries that are now advanced
       - Singapore, South Korea, Saudi Arabia, etc
 - **Developmentalism**
   - **Hallmarks:** social spending, higher wages, import over production
   - Adopted by newly independent states
 - **Commodity power**
   - Post-colonial states controlled reserves the US and West Europe needed
-    - Oil, copper, bananas, aluminum 
+    - Oil, copper, bananas, aluminum
   - **G77:** non-aligned movement that attempted to leverage labor and goods for political demands
 - **New International Economic Order**
   - Regulates multinational organizations
   - Nationalizes foreign assets
   - Protects economies with tariffs
-  - Receives financial aid without overextraction 
+  - Receives financial aid without overextraction
 - **G7**
   - Created to counter NIEO and prevent cartel formation
   - **Kissinger’s strategy**
@@ -361,10 +361,10 @@
 
 **Global debt**
 
-- Unlike other obligations, debts can be quantified, allowing them to become simple, impersonal, and transferable 
+- Unlike other obligations, debts can be quantified, allowing them to become simple, impersonal, and transferable
 - **Lessor debtors**
   - Burdened, poorer countries who prioritize solving debt over domestic needs
-  - Borrowing money to afford basic necessities 
+  - Borrowing money to afford basic necessities
   - Debt is constant and inescapable
 - **Greater debtors**
   - Rich countries with leveraging power
@@ -372,13 +372,13 @@
   - Debt is a short path to abundance and luxury
 - **Borrowing from the IMF/World Bank**
   - Loans are denominated in US dollars
-  - Variable interest rates often made debtors more vulnerable 
-  - These loans were predatory, largely given to Latin America 
-- **US National debt**
+  - Variable interest rates often made debtors more vulnerable
+  - These loans were predatory, largely given to Latin America
+- **US National deb**
   - Harms the global economy, especially Third World countries
   - In 1982, when the stock market crashes, Wall Street gets bailed out, but Mexico defaults on its debt
   - **Volcker Shock**
-    - US Federal Chair, Volcker, raises interest rates to combat inflation 
+    - US Federal Chair, Volcker, raises interest rates to combat inflation
   - **Structural Adjustment Program**
     - **Austerity:** public spending cuts, taxes
     - **Privatization:** private entities take over formerly public organizations
