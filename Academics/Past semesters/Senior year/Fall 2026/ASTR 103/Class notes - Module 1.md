@@ -1,17 +1,36 @@
 # Class notes | Module 1
 
-## **Lecture One | Life**
+## **Lecture One | History of Earth**
 
-**What is life?**
+**Timeline of life on Earth**
 
-- Organisms that grow, reproduce, respond to stimuli, regulate their internal environment, and use external energy
+- **4.5 billion years ago:** Earth forms
+- **4 billion years ago:** Late Heavy Bombardment occurs, nearly destroying Earth’s surface
+- **3.5 billion years ago:** first record of fossils
+- **600 million years ago:** multicellular life appears
+- **300,000 years ago:** Homo sapiens appears
+- **12,000 years ago:** agriculture begins
+- **100 years ago:** first radio signals leave Earth
+
+[[Screenshot 2026-09-13 at 8.23.21 PM.png]]
+
+## **Lecture Two | Life**
+
+**What are the requirements for living organisms?**
+
+- Growing
+- Reproducing
+- Responding to stimuli
+- Regulating their internal environment
+- Using external energy
 
 **What are atoms?**
 
 - Everything we can see is made of atoms
 - **Structure of atoms**
-  - **Outer shell:** electrons
-  - **Inner shell:** protons and neutrons
+  - **Outer shell:** electrons (negative)
+  - **Inner shell:** protons (positive) and neutrons (neutral)
+- An atomic number is the number of protons in an atom’s nucleus 
 - Atoms can have positive, negative, or neutral charge
 - Electrons can only orbit their atoms in certain shells
 
@@ -31,8 +50,15 @@
 
 - **Solvent:** liquid in which another substance dissolves
   - **Example:** salt dissolving in water
-- Water is an excellent solvent because of its polarity (one side of the molecule is positive and the other side is negative)
+- Water is an excellent solvent because of its polarity (the oxygen side of the molecule is positive, while the hydrogen side is negative)
   - Ammonia has been proposed as an alternate solvent
+
+**What makes an environment habitable?**
+
+- Biogenic elements (carbon, silicon, etc)
+- Liquid solvent (water, ammonia, etc)
+- Stable conditions
+- Energy source
 
 **What is abiogenesis?**
 
@@ -42,18 +68,19 @@
 - **Steps**
   1. Production of organic molecules
   2. Replication of organic molecules (i.e., RNA replicates DNA)
+  3. Formation of membranes 
 
-## **Lecture Two | Drake Equation**
+## **Lecture Three | Drake Equation**
 
 ![{displaystyle N=R{}cdot f{mathrm {p} }cdot n{mathrm {e} }cdot f{mathrm {l} }cdot f{mathrm {i} }cdot f{mathrm {c} }cdot L}](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
-$N$: number of civilizations in the Milky Way that can communicate across interstellar distances
+$N$: number of civilizations in the Milky Way that can communicate across interstellar distances (at least 1; must be a whole number)
 
-$R_*$: rate at which stars form in the Milky Way
+$R_*$: rate at which stars form in the Milky Way (roughly 10 stars per year)
 
-$f_p$: fraction of stars with planets
+$f_p$: fraction of stars with planets (roughly 100%)
 
-$n_e$: for stars with planets, the average number of potentially habitable planets
+$n_e$: for stars with planets, the average number of potentially habitable planets (roughly 0.4)
 
 $f_l$: fraction of habitable planets with life
 
@@ -63,7 +90,7 @@ $f_c$: fraction of intelligent civilizations that develop the ability to communi
 
 $L$: average lifetime of a communicating civilization
 
-## **Lecture Three | Phylogeny**
+## **Lecture Four | Phylogeny**
 
 **Aliens are commonly depicted as human-like**
 
@@ -86,7 +113,13 @@ $L$: average lifetime of a communicating civilization
   - Skeletons show common underlying structures (including vestigial structures and non-optimal structures)
   - Embryology shows historical structures (gills, tail, etc)
 
-## **Lecture Four | Evolution**
+- **LUCA (last unknown common ancestor)**
+
+  - Lived roughly 3.6 billion years ago, before the end of the Late Heavy Bombardment
+  - Likely evolved in hydrothermal vents at the bottom of the ocean
+    - Had genes to survive hot, low-oxygen environments
+
+## **Lecture Five | Evolution**
 
 **Natural selection**
 
@@ -114,18 +147,15 @@ $L$: average lifetime of a communicating civilization
   - Traits only develop due to mutations, which can be passed down based on desirability
   - Offspring cannot inherit characters that their parents acquire during their lives (fitness, injuries, etc)
 
-## **Lecture Five | Extremophiles**
+- **Convergent evolution**
+
+  - Evolution of similar features in species that occupy similar ecological niches in different geographical areas
+
+## **Lecture Six | Extremophiles**
 
 **Evolution & environment**
 
 - **Extremophiles:** organisms that thrive in extreme environments (often environments that are inhabitable for normal organisms)
-- **E. coli Long Term Evolution Experiment**
-  - Experiment that began in 1988
-  - Scientists cultivated 12 different populations of E. coli
-  - Each population was grown in a citrate-dense, low-glucose environment
-    - E. coli thrives on glucose and cannot naturally process citrate
-  - Samples were frozen every 75 days to preserve the genetic code
-  - In 2003, one bacterium acquired a mutation that allowed it to process and digest citrate
 - **Types of extremophiles**
   - **Thermophiles:** heat-biased organisms
   - **Psychrophiles:** cold-biased organisms
@@ -139,26 +169,37 @@ $L$: average lifetime of a communicating civilization
 - **Note on acids & bases**
   - **Acid:** substance that increases the concentration of H+ ions in a solution
   - **Base:** substance that decreases the concentration of H+ ions in a solution
-- **LUCA (last unknown common ancestor)**
-  - Likely had genes to survive hot, low-oxygen environments in hydrothermal vents at the bottom of the ocean
 
-## **Lecture Six | Planetary surfaces**
+## **Lecture Seven | Planetary surfaces**
+
+**Lithosphere**
+
+- The hard outer layer of a planet 
+- The thicker the lithosphere, the harder it is to fracture
+  - Both volcanism and tectonics require a thin lithosphere
+- A hotter, younger planet has a thinner lithosphere
 
 **Four processes that shape surfaces**
 
 - **Impact cratering**
   - Bowl-shaped marks left by asteroids or comets after striking a planet’s surface
-  - Older planets should have more cratered surfaces
+  - Destroyed by erosion, volcanism, and tectonics
+  - Older planets and smaller planets (due to their thicker lithospheres) should have more cratered surfaces
 - **Erosion**
   - The wearing down or building up of geologic features by natural environmental processes (wind, ice, water)
   - Requires fluid that flows on the surface and a substantial atmosphere
+  - Since bigger planets have thicker atmospheres, they typically experience more erosion
 - **Volcanism**
   - Eruption of lava from a planet’s interior onto its surface
+  - Requires a thin lithosphere
+  - Replenishes the atmosphere’s carbon
 - **Tectonics**
   - Fracturing and movement of a planet’s hard outer layer (lithosphere) into multiple plates
   - Tectonics may have brought about life on earth
+  - Requires a thin lithosphere
+  - Replenishes the atmosphere’s carbon
 
-## **Lecture Seven | Planetary orbits**
+## **Lecture Eight | Planetary orbits**
 
 **Eccentricity:** how much an ellipse/orbit deviates from a perfect circle
 
@@ -177,7 +218,7 @@ $L$: average lifetime of a communicating civilization
 
 [[Screenshot 2026-09-04 at 1.40.01 PM.png]]
 
-## **Lecture Eight | Newton’s Laws**
+## **Lecture Nine | Newton’s Laws**
 
 **Key terms**
 
@@ -204,9 +245,13 @@ $L$: average lifetime of a communicating civilization
 
 [[Screenshot 2026-09-09 at 1.43.20 PM.png]]
 
-## **Lecture Nine | Wavelengths**
+## **Lecture Ten | Wavelengths**
 
 **Light**
+
+[[Screenshot 2026-09-13 at 8.23.10 PM.png]]
+
+ 
 
 - Sometimes light acts like it’s made up of particles
 - Sometimes light acts like it’s a wave
@@ -227,6 +272,6 @@ $L$: average lifetime of a communicating civilization
 - **Study of the spectrum of light produced by an object**
   - Note that the light you see depends on your location relative to the object
 - **Continuous spectrum:** seen when a hot, dense object gives off light at all wavelengths
-- **Emission spectrum:** seen when a hot, low-density cloud of gas gives off light at just a few specific wavelengths 
+- **Emission spectrum:** seen when a hot, low-density cloud of gas gives off light at just a few specific wavelengths
 - **Absorption spectrum:** seen when a hot, dense object has a cool cloud of gas in front of it, and some light is absorbed at specific wavelengths
   - Often the reverse of an emission spectrum

@@ -6,13 +6,6 @@
 
 **Content:** Lectures 2-10
 
-**Things to review**
-
-- [ ] Practice exam
-- [x] Flashcards
-- [ ] Homeworks
-- [ ] Warm-ups
-
 ### Midterm 2
 
 ### Midterm 3
