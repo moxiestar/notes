@@ -30,7 +30,7 @@
 - **Structure of atoms**
   - **Outer shell:** electrons (negative)
   - **Inner shell:** protons (positive) and neutrons (neutral)
-- An atomic number is the number of protons in an atom’s nucleus 
+- An atomic number is the number of protons in an atom’s nucleus
 - Atoms can have positive, negative, or neutral charge
 - Electrons can only orbit their atoms in certain shells
 
@@ -64,11 +64,11 @@
 
 - **Abiogenesis:** formation of life from non-living elements
   - We don’t really understand how this happens
-  - **Panspermia:** theory that life formed elsewhere in the universe and then travelled to earth
+- **Panspermia:** theory that life formed elsewhere in the universe and then travelled to earth
 - **Steps**
   1. Production of organic molecules
   2. Replication of organic molecules (i.e., RNA replicates DNA)
-  3. Formation of membranes 
+  3. Formation of membranes
 
 ## **Lecture Three | Drake Equation**
 
@@ -174,7 +174,7 @@ $L$: average lifetime of a communicating civilization
 
 **Lithosphere**
 
-- The hard outer layer of a planet 
+- The hard outer layer of a planet
 - The thicker the lithosphere, the harder it is to fracture
   - Both volcanism and tectonics require a thin lithosphere
 - A hotter, younger planet has a thinner lithosphere
@@ -250,8 +250,6 @@ $L$: average lifetime of a communicating civilization
 **Light**
 
 [[Screenshot 2026-09-13 at 8.23.10 PM.png]]
-
- 
 
 - Sometimes light acts like it’s made up of particles
 - Sometimes light acts like it’s a wave
