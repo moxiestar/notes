@@ -14,6 +14,8 @@
 
 [[Screenshot 2026-09-13 at 8.23.21 PM.png]]
 
+[[Screenshot 2026-09-14 at 12.21.25 PM.png]]
+
 ## **Lecture Two | Life**
 
 **What are the requirements for living organisms?**
@@ -65,6 +67,9 @@
 - **Abiogenesis:** formation of life from non-living elements
   - We don’t really understand how this happens
 - **Panspermia:** theory that life formed elsewhere in the universe and then travelled to earth
+
+**How does life form?**
+
 - **Steps**
   1. Production of organic molecules
   2. Replication of organic molecules (i.e., RNA replicates DNA)
@@ -144,7 +149,7 @@ $L$: average lifetime of a communicating civilization
 - **Misconceptions**
 
   - Natural selection does not drive organisms to evolve what they “need”
-  - Traits only develop due to mutations, which can be passed down based on desirability
+  - Traits only develop due to mutations, which can be passed down based on adaptability
   - Offspring cannot inherit characters that their parents acquire during their lives (fitness, injuries, etc)
 
 - **Convergent evolution**
@@ -177,7 +182,8 @@ $L$: average lifetime of a communicating civilization
 - The hard outer layer of a planet
 - The thicker the lithosphere, the harder it is to fracture
   - Both volcanism and tectonics require a thin lithosphere
-- A hotter, younger planet has a thinner lithosphere
+- A hotter, younger, bigger planet has a thinner lithosphere
+  - INVERSE RELATIONSHIP WITH MASS
 
 **Four processes that shape surfaces**
 
@@ -189,13 +195,14 @@ $L$: average lifetime of a communicating civilization
   - The wearing down or building up of geologic features by natural environmental processes (wind, ice, water)
   - Requires fluid that flows on the surface and a substantial atmosphere
   - Since bigger planets have thicker atmospheres, they typically experience more erosion
+    - PROPORTIONAL RELATIONSHIP WITH MASS
 - **Volcanism**
   - Eruption of lava from a planet’s interior onto its surface
   - Requires a thin lithosphere
   - Replenishes the atmosphere’s carbon
 - **Tectonics**
   - Fracturing and movement of a planet’s hard outer layer (lithosphere) into multiple plates
-  - Tectonics may have brought about life on earth
+  - Tectonics may have brought about life on earth by freeing minerals trapped under the surface
   - Requires a thin lithosphere
   - Replenishes the atmosphere’s carbon
 
