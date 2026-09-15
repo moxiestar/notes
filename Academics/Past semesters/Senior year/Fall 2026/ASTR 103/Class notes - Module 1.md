@@ -256,14 +256,18 @@ $L$: average lifetime of a communicating civilization
 
 **Light**
 
-[[Screenshot 2026-09-13 at 8.23.10 PM.png]]
-
 - Sometimes light acts like it’s made up of particles
 - Sometimes light acts like it’s a wave
 - **Wavelength:** distance between adjacent peaks of the electric field
 - **Frequency:** number of times that the electric field vibrates up and down
 - **Speed of light** **= wavelength • frequency**
 - **Electromagnetic wave:** wave made up of many particles of light
+
+**Light spectrum**
+
+![This figure depicts radiation and the Earth’s atmosphere. Vertically from bottom to top, the Troposphere (weather), Stratosphere (ozone layer at 20 – 30 km; jets fly at 10 km), Mesosphere (meteors burn up), and Thermosphere (auroras)” are labeled. At the top of the figure, from shorter waves to longer waves, the different kinds of waves are labeled: “Gamma”, “X-ray”, “Ultraviolet (UV)”, “Visible”, “Infrared (IR)”, “Microwave”, and “Radio”. Under visible light is an observatory, labeled “Optical window”. Under radio is a radio telescope, labeled “Radio window”.](https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/fd686395fdb767eb21ed9f677d202e5b639293db)
+
+[[Screenshot 2026-09-14 at 9.24.58 PM.png]]
 
 **Interactions of light**
 

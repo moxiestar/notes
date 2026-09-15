@@ -114,19 +114,19 @@
 
 ### Monday, September 14
 
-- [ ] **ASTR 103: Midterm 1**
+- [x] **ASTR 103: Midterm 1**
 - [ ] GEOG 121: Reading
 - [x] **GEOG 121: Commonplace essay 4**
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, September 15
 
 - [x] ASTR 103: LT Check 7
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, September 16
 
-- [ ] ASTR 103: Homework 8
+- [x] ASTR 103: Homework 8
 - [ ] MATH 210: Homework
 
 ### Thursday, September 17
