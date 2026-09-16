@@ -131,7 +131,7 @@
 
 ### Thursday, September 17
 
-- [ ] ASTR 103: Warm-up 11
+- [x] ASTR 103: Warm-up 11
 - [ ] MATH 210: Before-class assignment
 
 ### Friday, September 18
