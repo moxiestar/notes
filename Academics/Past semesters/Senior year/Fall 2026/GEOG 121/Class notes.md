@@ -390,3 +390,106 @@
     - “This was a colonialism of giving, not taking”
   - **From 1980 to 2012, the Global South paid $13 trillion to Northern creditors**
     - Ironically, more money than it would cost to resolve global poverty
+
+## **Lectures Twelve, Thirteen, & Fourteen | Mobility & Migration**
+
+**Mobility**
+
+- Movement of people, ideas, and goods across space
+- Human mobility varies in time and distance
+- As travel has gotten easier, the sense of global distance has shrunk
+
+**Transnationality, etc**
+
+- **Transnationality:** cultural interconnectedness and mobility across space
+- **Transnationalism:** cultural specifities of global processes
+- **Transnational human mobility:** crossing of national borders by people
+  - **Categories**
+    - 80% tourists
+    - 18.5% migrants
+    - 1.1% refugees
+    - 0.2% students
+    - 0.1% asylum seekers
+- **Transnational human communication:** transfer of information across national borders
+
+**Migration**
+
+- Permanent relocation of people from one place to another
+- Shapes the development of the globe
+  - Migrants make up 3.6% of the global population
+  - **Net migration:** numerical difference between number of immigrants and emigrants
+  - **Gross migration:** total raw number of migrants
+- **Categories:** international/domestic, temporary/permanent, forced/voluntary, legal/illegal
+- **Emigration**
+  - Migration into a new place
+  - Typically refers to migration between countries
+  - UN provides a right for people to leave their home countries, but not necessarily to enter other countries
+- **Immigration**
+  - Voluntary permanent migration from one’s country
+  - Major driver of global social change
+  - **Immigrants**
+    - Often minorities in their new countries
+    - Sometimes their cultural differences are visible, sometimes not
+    - **Types of responses to immigrants**
+      - **Social exclusion:** immigrants are fully excluded from society
+      - **Assimmilation:** immigrants are forced to adopt their new country’s culture
+      - **Pluralism:** immigrants are allowed to celebrate their own culture within their new country
+- **Refugees**
+  - People forced to leave their homes, typically without government protection
+  - In international law, “refugee” refers to someone fleeing political violence
+  - Refugees often seek asylum in new countries
+  - **The US has a big role in producing refugee crises, but has little responsibility to manage them**
+    - Most refugees come from Africa or the Middle East, areas where the US has made repeated attacks
+    - Many try to travel to Europe but borders are strictly enforced
+      - “Paper fortress” keeps migrants from passing through the bureaucratic system
+      - Europe often outsources its security to other countries, relying on them to shoot down refugees before they reach European borders
+  - **“Unsafe Passage”**
+    - Doctors Without Borders volunteers intercept refugee boats off the coast of Libya
+    - Refugees are largely African and Middle Eastern
+    - The Libyan coastguard, funded by European immigration authorities, tries to hunt the boats down
+    - After reaching Italy to seek asylum, most of the refugees will be turned down
+- **States**
+  - Centralized system of institutions with authority to govern
+  - States vary widely in form and function
+  - **Key elements of a state**
+    - Institutions and personnel
+    - Central authority
+    - Defined boundaries
+    - Monopoly of power
+  - **Treaty of Westphalia (1648)**
+    - Established the modern state system
+      - Defined, recognized territory
+      - Sovereignty
+      - Currency and taxes
+      - Formal government & infrastructure
+      - Police power
+  - **Sovereignty**
+    - **Authority of a government to rule its people**
+      - No external entity can impose the law within a sovereign state
+      - **Exceptions:** mafia, gangs, cartel
+    - **Types of sovereignty**
+      - **Internal sovereignty**
+        - State exercising power within its territory
+      - **External sovereignty**
+        - Mutual recognition by other states
+      - **Graduated sovereignty**
+        - Varied methods of governing different population groups based on their connections to global markets
+          - **Examples:** rights of Israeli citizens vs. Palestinian citizens
+        - **Customized legal arrangements for special production zones**
+          - Marked internal zones not subject to typical taxes, labor laws, or environmental regulations
+          - Often factories or production-based facilities
+          - Created to appeal to foreign companies
+    - **Passports**
+      - Documents that define nationality and freedom to travel
+      - Some passports allow near universal global entry (Singapore, UAE), while others require lots of paperwork (Afghanistan)
+      - **Guardian passport index**
+        - **Mobility score** (travel freedom granted by your country’s passport)
+        - **Welcoming score** (openness of your country’s borders)
+      - Flexible citizenship
+        - Cultural logistics of travel 
+        - Individuals negotiate state boundaries differently
+  - **Migrating money**
+    - Money travels aroud the globe, but some places have a greater influx
+      - $30 billion from US to Mexico 
+      - Huge influx to India… 
+      - Haiti and South Sudan both have remittances making up 30% of their GDP 
