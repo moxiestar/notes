@@ -1,6 +1,6 @@
 # ASTR 103
 
-### **==🔴Midterm 1 | September 14==**
+### **Midterm 1 | September 14**
 
 **Format:** 40 multiple choice questions
 
@@ -20,10 +20,31 @@
 
 # MATH 210
 
-### Midterm 1 | September 24
+### ==🔴Midterm 1 | September 24==
 
-### Midterm 2 | October 29 
+**Format:** Short answer questions
 
-### Midterm 3 | November 19 
+**Content:** Lectures 1.1-2.7
+
+**Cheat sheet:** one-sided page allowed
+
+**First phase of review**
+
+- [ ] Videos
+- [ ] Textbook
+
+**Second phase of review**
+
+- [ ] Lecture slides
+- [ ] Practice exams
+
+**Third phase of review**
+
+- [ ] CREATE CHEAT SHEET
+- [ ] Homework problems
+
+### Midterm 2 | October 29
+
+### Midterm 3 | November 19
 
 ### Final | December 8

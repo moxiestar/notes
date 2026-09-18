@@ -59,9 +59,52 @@
      - Look for gibberish, illogical, contradictory, or off-topic answers, copy-pasted content, AI-generated content
 3. **Keep an eye on participant quotas**
    - Every removal changes the proportions of the participant pool
-   - Removing 10-20% of the sample is typical 
+   - Removing 10-20% of the sample is typical
 4. **Hand off the removal reports**
    - Mark the record/participant IDs
    - Explain the reason for removal
    - Save the file in the project folder
    - Send the ID list to Research Results/equivalent
+
+# Survey writing training
+
+### **New Hire Team | September 17, 2026**
+
+**Survey structure**
+
+1. **Research overview**
+   - Objectives
+   - Timelines
+   - Quota table
+   - Methodology
+   - Screening criteria
+   - Samples and splits
+2. **Screener (qualifying participants)**
+   - Bringing the right participants in
+   - Filtering the wrong participants out
+   - Sorting participants into quota categories 
+3. **Survey body**
+   - Research questions
+     - Typically filtered by topic sections
+4. **Profiling**
+   - Additional demographic questions
+   - Age confirmation (quality check)
+
+**What makes a good survey question?**
+
+- The question focuses on one idea only
+- The question uses neutral framing (without leading participants or absolute language)
+- The question has as many positive options as negative options
+- The question is mutually exclusive (no overlap between options)
+- The question is written in plain language
+- The question has exhaustive options
+- The question is answerable 
+
+**Common types of survey questions**
+
+- Single select 
+- Open-ended
+- Multi select
+- Ranking
+- Grid/matrix
+- Advanced (MaxDiff, DCM, etc)
