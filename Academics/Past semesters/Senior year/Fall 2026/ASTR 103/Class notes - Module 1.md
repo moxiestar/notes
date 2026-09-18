@@ -284,3 +284,19 @@ $L$: average lifetime of a communicating civilization
 - **Emission spectrum:** seen when a hot, low-density cloud of gas gives off light at just a few specific wavelengths
 - **Absorption spectrum:** seen when a hot, dense object has a cool cloud of gas in front of it, and some light is absorbed at specific wavelengths
   - Often the reverse of an emission spectrum
+
+## **Lecture Eleven | The Bohr Model**
+
+**Understanding the Bohr Model**
+
+- Model stating that electrons can only orbit at specific distances from the nucleus, on rings known as “orbitals”
+- **Orbitals are also known as “states”**
+  - **Ground state:** closest orbital to the nucleus
+  - **1st state:** second closest to the nucleus
+- Larger gap between the orbitals closer to the nucleus
+- Energy is required to jump from one orbital to the other
+  - **Absorption (lower → higher orbital)**
+    - ==🔴If a photon absorbs the exact required amount of energy to jump up from one orbital to another, the atom transfers the energy from the photon to the electron==
+  - **Emission (higher → lower orbital)**
+    - ==🔴When an electron jumps down from one orbital to another, the atom emits the exact same amount of energy==
+- Different elements have different energy gaps between their orbitals, which is why each element has its own unique set of emission and absorption lines 

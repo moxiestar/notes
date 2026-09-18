@@ -136,7 +136,7 @@
 
 ### Friday, September 18
 
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 20
 
