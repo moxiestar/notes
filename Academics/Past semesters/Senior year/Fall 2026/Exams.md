@@ -32,20 +32,24 @@
 
 - [ ] Videos
 - [ ] Lecture notes
+- [ ] Ask Claude go through pain points (systems of equations, vectors)
 
 **Second phase of review**
 
 - [ ] Practice exams
-- [ ] AI-generated practice exams
+  - [ ] Ask Claude to generate practice exams based on weak points
 
 **Third phase of review**
 
 - [ ] CREATE CHEAT SHEET
-- [ ] Homework problems
+  - [ ] Summaries, definitions, and important examples for each topic
+- [ ] Homework & example problems if needed
 
 **Pain points**
 
 - [ ] 1.2 - solving systems of equations
+- [ ] 2.3 - solving vectors from a graph
+- [ ] 2.3 - second example on page 91, example on page 92
 
 ### Midterm 2 | October 29
 
