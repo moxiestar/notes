@@ -140,21 +140,22 @@
 
 ### Sunday, September 20
 
-- [ ] ASTR 103: LT Check 8
+- [x] ASTR 103: LT Check 8
 
 ### Monday, September 21
 
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, September 22
 
-- [ ] ASTR 103: Warm-up 12
-- [ ] ASTR 103: Homework 9
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 12
+- [x] ASTR 103: Homework 9
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, September 23
 
+- [ ] **GEOG 121: Commonplace essay 5**
 - [ ] MATH 210: Homework
 
 ### Thursday, September 24

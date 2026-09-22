@@ -31,17 +31,21 @@
 **First phase of review**
 
 - [ ] Videos
-- [ ] Textbook
+- [ ] Lecture notes
 
 **Second phase of review**
 
-- [ ] Lecture slides
 - [ ] Practice exams
+- [ ] AI-generated practice exams
 
 **Third phase of review**
 
 - [ ] CREATE CHEAT SHEET
 - [ ] Homework problems
+
+**Pain points**
+
+- [ ] 1.2 - solving systems of equations
 
 ### Midterm 2 | October 29
 
