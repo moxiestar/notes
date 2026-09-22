@@ -155,12 +155,12 @@
 
 ### Wednesday, September 23
 
-- [ ] **GEOG 121: Commonplace essay 5**
-- [ ] MATH 210: Homework
+- [x] **GEOG 121: Commonplace essay 5**
+- [x] MATH 210: Homework
 
 ### Thursday, September 24
 
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 - [ ] **MATH 210: Midterm 1**
 
 ### Friday, September 25
