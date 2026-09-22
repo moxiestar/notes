@@ -22,7 +22,7 @@
 
 ### ==🔴Midterm 1 | September 24==
 
-**Format:** Short answer questions
+**Format:** Short answer questions & multiple choice
 
 **Content:** Lectures 1.1-2.7
 
@@ -43,13 +43,14 @@
 
 - [ ] CREATE CHEAT SHEET
   - [ ] Summaries, definitions, and important examples for each topic
-- [ ] Homework & example problems if needed
+- [ ] Example problems from lecture notes
 
 **Pain points**
 
 - [ ] 1.2 - solving systems of equations
 - [ ] 2.3 - solving vectors from a graph
 - [ ] 2.3 - second example on page 91, example on page 92
+- [ ] 2.4 - examples on pages 107, 108, and 110
 
 ### Midterm 2 | October 29
 
