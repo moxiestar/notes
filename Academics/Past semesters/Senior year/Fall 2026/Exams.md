@@ -51,6 +51,7 @@
 - [ ] 2.3 - solving vectors from a graph
 - [ ] 2.3 - second example on page 91, example on page 92
 - [ ] 2.4 - examples on pages 107, 108, and 110
+- [ ] 2.5 - theorem on page 116, example on page 118
 
 ### Midterm 2 | October 29
 
