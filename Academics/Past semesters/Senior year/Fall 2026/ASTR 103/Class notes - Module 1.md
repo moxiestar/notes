@@ -285,7 +285,7 @@ $L$: average lifetime of a communicating civilization
 - **Absorption spectrum:** seen when a hot, dense object has a cool cloud of gas in front of it, and some light is absorbed at specific wavelengths
   - Often the reverse of an emission spectrum
 
-## **Lecture Eleven | The Bohr Model**
+## **Lecture Eleven | Bohr Model**
 
 **Understanding the Bohr Model**
 
@@ -301,6 +301,20 @@ $L$: average lifetime of a communicating civilization
     - ==🔴When an electron jumps down from one orbital to another, the atom emits the exact same amount of energy==
 - Different elements have different energy gaps between their orbitals, which is why each element has its own unique set of emission and absorption lines
 
-## **Lecture Twelve | …**
+## **Lecture Twelve | Stefan-Boltzmann Law**
 
-**…**
+**Blackbodies**
+
+- **Luminosity:** the amount of energy an object emits as light each second
+  - The bigger the size, the greater the luminosity
+  - The hotter the temperature, the greater the luminosity
+
+**The Stefan-Boltzmann Law**
+
+- Mathematical version of the luminosity laws 
+- Note that…
+  - A star that has a luminosity of 2 solar luminosities gives off twice as much luminosity as the sun 
+
+[[Screenshot 2026-09-23 at 1.33.50 PM.png]]
+
+ 
