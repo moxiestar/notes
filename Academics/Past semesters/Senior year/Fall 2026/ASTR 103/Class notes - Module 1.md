@@ -299,4 +299,8 @@ $L$: average lifetime of a communicating civilization
     - ==🔴If a photon absorbs the exact required amount of energy to jump up from one orbital to another, the atom transfers the energy from the photon to the electron==
   - **Emission (higher → lower orbital)**
     - ==🔴When an electron jumps down from one orbital to another, the atom emits the exact same amount of energy==
-- Different elements have different energy gaps between their orbitals, which is why each element has its own unique set of emission and absorption lines 
+- Different elements have different energy gaps between their orbitals, which is why each element has its own unique set of emission and absorption lines
+
+## **Lecture Twelve | …**
+
+**…**
