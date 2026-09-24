@@ -161,7 +161,7 @@
 ### Thursday, September 24
 
 - [x] MATH 210: Before-class assignment
-- [ ] **MATH 210: Midterm 1**
+- [x] **MATH 210: Midterm 1**
 
 ### Friday, September 25
 

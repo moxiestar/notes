@@ -82,7 +82,7 @@
 2. **Screener (qualifying participants)**
    - Bringing the right participants in
    - Filtering the wrong participants out
-   - Sorting participants into quota categories 
+   - Sorting participants into quota categories
 3. **Survey body**
    - Research questions
      - Typically filtered by topic sections
@@ -98,13 +98,47 @@
 - The question is mutually exclusive (no overlap between options)
 - The question is written in plain language
 - The question has exhaustive options
-- The question is answerable 
+- The question is answerable
 
 **Common types of survey questions**
 
-- Single select 
+- Single select
 - Open-ended
 - Multi select
 - Ranking
 - Grid/matrix
 - Advanced (MaxDiff, DCM, etc)
+
+# Methodology training
+
+### **New Hire Team | September 24, 2026**
+
+**Methodologies**
+
+1. **MaxDiff**
+   - **When should I use it?** When you need to cleanly rank a long list of choices
+   - **What question does it answer?** Of these 20 features, which 3 do people care about the most?
+   - **What can’t it do?** Specify the gap between rankings - how much more do people like the best-ranked choice? 
+   - **How does it work?** 
+     - Participants are shown a small set of choices and asked to rank them from best to worst
+     - This is repeated until every choice from the full list has been ranked
+   - **Duo MaxDiff**
+     - Asks participants to rank choices from best to worst based on two different aspects (instead of one)
+   - **Ways of handling long lists for MaxDiff**
+     - **Express**
+       - Best for: medium lists
+       - Each person only sees a snippet of the full list
+     - **Sparse** 
+       - Best for: long lists
+       - Each person sees every choice, but fewer times (less precise)
+     - **Bandit**
+       - Best for: huge massive lists
+       - Adaptive design: for each participant, repeatedly unselected choices are dropped 
+2. **TURF**
+   - **When should I use it?** If you’re picking a lineup of choices, but can only choose a few
+   - **What question does it answer?** Which 5 of these 20 choices ensure almost everyone is happy?
+   - **What can’t it do?** Talk about volume or revenue
+   - **How does it work?**
+     - Defines what counts as “reached” (first or second choice)
+     - Tries every combination of items
+     - Keeps the mix that reaches the most unique people
