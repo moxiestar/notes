@@ -165,7 +165,7 @@
 
 ### Friday, September 25
 
-- [ ] ASTR 103: LT Check 9
+- [x] ASTR 103: LT Check 9
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 27
