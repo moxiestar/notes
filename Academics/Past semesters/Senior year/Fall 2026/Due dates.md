@@ -176,7 +176,7 @@
 
 ### Monday, September 28
 
-- [ ] ASTR 103: Homework 11
+- [x] ASTR 103: Homework 11
 - [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
