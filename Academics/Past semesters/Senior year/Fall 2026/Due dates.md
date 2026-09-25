@@ -166,13 +166,13 @@
 ### Friday, September 25
 
 - [x] ASTR 103: LT Check 9
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, September 27
 
-- [ ] ASTR 103: Warm-up 13
+- [x] ASTR 103: Warm-up 13
 - [ ] ASTR 103: LT Check 10
-- [ ] ASTR 103: Homework 10
+- [x] ASTR 103: Homework 10
 
 ### Monday, September 28
 
