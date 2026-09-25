@@ -311,10 +311,28 @@ $L$: average lifetime of a communicating civilization
 
 **The Stefan-Boltzmann Law**
 
-- Mathematical version of the luminosity laws 
+- Mathematical version of the luminosity laws
 - Note that…
-  - A star that has a luminosity of 2 solar luminosities gives off twice as much luminosity as the sun 
+  - A star that has a luminosity of 2 solar luminosities gives off twice as much luminosity as the sun
 
 [[Screenshot 2026-09-23 at 1.33.50 PM.png]]
 
- 
+## **Lecture Thirteen | Wein’s Law**
+
+**Wein’s Law**
+
+- Law that defines the relationship between a blackbody’s temperature and wavelength
+
+[[Screenshot 2026-09-25 at 1.30.09 PM.png]]
+
+**Color of stars**
+
+- Stars are visible on a spectrum from blue to white to red
+
+[[Screenshot 2026-09-25 at 1.35.44 PM.png]]
+
+**Temperature**
+
+- **As an object’s temperature increases, its spectral curve changes in two ways**
+  - Peak wavelength becomes hotter
+  - The object emits more at all wavelengths
