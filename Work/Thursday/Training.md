@@ -118,8 +118,8 @@
 1. **MaxDiff**
    - **When should I use it?** When you need to cleanly rank a long list of choices
    - **What question does it answer?** Of these 20 features, which 3 do people care about the most?
-   - **What can’t it do?** Specify the gap between rankings - how much more do people like the best-ranked choice? 
-   - **How does it work?** 
+   - **What can’t it do?** Specify the gap between rankings - how much more do people like the best-ranked choice?
+   - **How does it work?**
      - Participants are shown a small set of choices and asked to rank them from best to worst
      - This is repeated until every choice from the full list has been ranked
    - **Duo MaxDiff**
@@ -128,12 +128,12 @@
      - **Express**
        - Best for: medium lists
        - Each person only sees a snippet of the full list
-     - **Sparse** 
+     - **Sparse**
        - Best for: long lists
        - Each person sees every choice, but fewer times (less precise)
      - **Bandit**
        - Best for: huge massive lists
-       - Adaptive design: for each participant, repeatedly unselected choices are dropped 
+       - Adaptive design: for each participant, repeatedly unselected choices are dropped
 2. **TURF**
    - **When should I use it?** If you’re picking a lineup of choices, but can only choose a few
    - **What question does it answer?** Which 5 of these 20 choices ensure almost everyone is happy?
@@ -142,3 +142,19 @@
      - Defines what counts as “reached” (first or second choice)
      - Tries every combination of items
      - Keeps the mix that reaches the most unique people
+3. **Segmentation**
+   - **When should I use it?** When a client wants to split their market into groups
+   - **What question does it answer?** What groups are in this market, and how do we reach them?
+   - **What can’t it do?** Answer the question for you - you have to decide the groups manually
+   - **How does it work?** 
+     - Narrows the battery to a short list
+     - Clusters people based on similar answers
+     - Profiles each group
+4. **Drivers**
+   - **When should I use it?** When you want to know which factors affect an outcome
+   - **What question does it answer?** Of these 15 attributes, which ones best predict someone recommending us?
+   - **What can’t it do?** Prove causation - it only shows correlation
+   - **How does it work?**
+     - Choosing your attributes
+     - Feeding in the possible inputs
+     - Scoring how strongly each input predicts the outcome
