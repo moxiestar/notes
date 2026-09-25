@@ -486,10 +486,55 @@
         - **Mobility score** (travel freedom granted by your country’s passport)
         - **Welcoming score** (openness of your country’s borders)
       - Flexible citizenship
-        - Cultural logistics of travel 
+        - Cultural logistics of travel
         - Individuals negotiate state boundaries differently
   - **Migrating money**
     - Money travels aroud the globe, but some places have a greater influx
-      - $30 billion from US to Mexico 
-      - Huge influx to India… 
-      - Haiti and South Sudan both have remittances making up 30% of their GDP 
+      - $30 billion from US to Mexico
+      - Huge influx to India…
+      - Haiti and South Sudan both have remittances making up 30% of their GDP
+
+## Lecture Fifteen | Supply Chain
+
+**Supply Chain**
+
+- **Universal Product Code (1974)**
+  - Made the world readable to computers via “capture”
+  - Regulates the world’s goods, including food, textiles, organs, blood, and even cadavers
+- **Walmart** 
+  - Founded in Bentonville, AR
+  - Once the largest generator of revenue
+  - **Remains the highest employer in 21 states**
+    - Largely concentrated in the South since the West Coast has more regulatory labor laws
+    - Lower income in the South and Midwest has attracted Walmart
+      - Land is cheap for development and wages are low for labor
+  - **Functions as a logistics empire**
+    - 2.1 million employees worldwide
+    - Massive distribution centers (up to 1 million square feet)
+    - Superstores are always within 100-150 miles of distribution centers
+    - Continuous flow of goods minimizes inventory costs, facilitated by machines and crossdocking
+    - Outsourcing of production has lowered overall costs
+
+**Commodities**
+
+- **Karl Marx:** capitalist societies appear like immense collections of commodities
+- **Commodities:** things that are bought and sold 
+  - All commodities are either merchandise or services
+- **Commodification:** process of turning things into commodities
+- **Commodity-producing societies:** societies where commodities (people) create commodities (things)
+  - Recent development in modern global history
+  - **Henry Ford** was a major proponent of commodification
+    - Enforced increased labor hours and lower wages
+    - Promoted factory lines
+    - Created more products, more quicly
+- **Examples of major modern commodities**
+  - Coffee
+  - Bottled water
+  - Ford F-150 (one of the most popular American vehicles)
+  - Smartphones
+- **The structure of international trade became nested in the late 20th century**
+  - Trade and production became interdependent
+  - A surplus of intermediate goods arose
+- **Commodity chain**
+  - Production → distribution → consumption
+    - He’s consumptive, sir
