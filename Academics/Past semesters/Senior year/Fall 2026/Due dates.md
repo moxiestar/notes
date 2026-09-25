@@ -198,6 +198,7 @@
 ### Friday, October 2
 
 - [ ] GEOG 121: Transcribe weekly notes
+- [ ] GEOG 121: Presentation 1
 
 ### Sunday, October 4
 
