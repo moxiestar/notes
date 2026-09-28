@@ -82,3 +82,23 @@
 - **As an object’s temperature increases, its spectral curve changes in two ways**
   - Peak wavelength becomes hotter
   - The object emits more at all wavelengths
+
+## **Lecture Fourteen | Hertzsprung and Russell (HR) Diagrams**
+
+**HR Diagrams**
+
+- Most important graph in astronomy 
+- Contains information about temperature, luminosity, mass, evolution, and relative abundance
+- **Three main categories**
+  - **Top right corner:** red giants
+  - **Middle:** main sequence
+    - Inside its core, a main sequence star fuses hydrogen nuclei to create helium nuclei
+    - Fusion forces prevent the star from collapsing
+  - **Bottom left corner:** white dwarfs
+
+[[Screenshot 2026-09-28 at 1.59.45 PM.png]]
+
+**Spectra types**
+
+- **From hottest to coolest:** O B A F G K M 
+- 

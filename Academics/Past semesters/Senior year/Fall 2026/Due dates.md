@@ -182,12 +182,12 @@
 
 ### Tuesday, September 29
 
-- [ ] ASTR 103: Warm-up 14
+- [x] ASTR 103: Warm-up 14
 - [ ] MATH 210: Before-class assignment
 
 ### Wednesday, September 30
 
-- [ ] ASTR 103: Homework 12
+- [x] ASTR 103: Homework 12
 - [ ] MATH 210: Homework
 
 ### Thursday, October 1
