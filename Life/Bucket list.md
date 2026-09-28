@@ -1,4 +1,3 @@
-
 # In my life, I will…
 
 - [ ] Celebrate Halloween and dress up with someone
@@ -8,7 +7,8 @@
 - [ ] Be successful and happy at my first job
 - [ ] Move to another new city
 - [ ] Travel to new places (Italy, Greece, Asia, Alaska, Colorado/Arizona, Ireland) with my friends
-- [ ] Finish writing the Scofield book
+- [ ] Finish writing the Scofield story
 - [ ] Make a video game
 - [ ] Marry my dream man
 - [ ] Have a maple tree outside my house
+- [ ] Learn how to sail

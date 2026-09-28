@@ -171,7 +171,7 @@
 ### Sunday, September 27
 
 - [x] ASTR 103: Warm-up 13
-- [ ] ASTR 103: LT Check 10
+- [x] ASTR 103: LT Check 10
 - [x] ASTR 103: Homework 10
 
 ### Monday, September 28
