@@ -87,7 +87,7 @@
 
 **HR Diagrams**
 
-- Most important graph in astronomy 
+- Most important graph in astronomy
 - Contains information about temperature, luminosity, mass, evolution, and relative abundance
 - **Three main categories**
   - **Top right corner:** red giants
@@ -98,7 +98,17 @@
 
 [[Screenshot 2026-09-28 at 1.59.45 PM.png]]
 
-**Spectra types**
+**Spectral types**
 
-- **From hottest to coolest:** O B A F G K M 
-- 
+- **From hottest to coolest:** O B A F G K M
+  - Star temperature is ranked by numbers (A2 is hotter than A8)
+  - Star luminosity is ranked by Roman numerals
+    - The sun is a G2V star
+- **A larger star has an exponentially shorter lifetime**
+  - **Low-mass stars:** main sequence stars smaller than 8 solar masses
+  - **High-mass stars:** main sequence stars larger than 8 solar masses
+
+**Star growth trajectory**
+
+- **Low-mass star:** main-sequence star → red giant → supernova → neutron star or black hole
+- **High-mass star:** main-sequence star → red giant → planetary nebula → white dwarf
