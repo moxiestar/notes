@@ -48,6 +48,11 @@
 - **QC age:** question that re-checks the participant’s age
 - **OE:** open-ended questions where the participants type their answers
 
+**Instant terminations**
+
+- More than 3 strikes
+- Less than 1/3 of the average completion time
+
 **Steps to the data quality process**
 
 1. **Set up the data quality layout (choose key variables)**
@@ -146,7 +151,7 @@
    - **When should I use it?** When a client wants to split their market into groups
    - **What question does it answer?** What groups are in this market, and how do we reach them?
    - **What can’t it do?** Answer the question for you - you have to decide the groups manually
-   - **How does it work?** 
+   - **How does it work?**
      - Narrows the battery to a short list
      - Clusters people based on similar answers
      - Profiles each group
