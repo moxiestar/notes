@@ -120,26 +120,28 @@
 - Region around a star where liquid water can exist on the surface of a planet
 - **Size of the habitable zone depends on several factors**
   - Distance from the star
-  - Composition of the planet’s atmosphere
-  - Atmospheric pressure on the planet’s surface
+  - **Composition of the planet’s atmosphere**
+    - **Atmospheres**
+      - A layer of gas that surrounds a planet
 
-**Albedo**
+      **Greenhouse gasses**
+      - A gas molecule that absorbs and re-mits infrared light but transmits visible light
+        - **Examples:** water, carbon dioxide, methane 
+  - Pressure on the planet’s surface
 
-- A planet’s albedo is a number that ranges from 0 to 1 and equals the fraction of light that the planet reflects
-  - A perfectly white surface has an albedo of 1
-  - A perfectly black surface has an albedo of 0
+**Light**
 
-**Atmospheres**
-
-- A layer of gas that surrounds a planet
-
-**Greenhouse gasses**
-
-- A gas molecule that absorbs and re-mits infrared light but transmits visible light
-  - **Examples:** H2O, CO2, CH4
-
-**How light travels through earth’s atmosphere**
-
-- Sunlight (UV, visible, and IR) enters atmosphere, then travels to the ozone layer
-- UV gets absorbed in the ozone layer 
-- Some other light is absorbed by greenhouse gasses
+- **Albedo**
+  - A planet’s albedo is a number that ranges from 0 to 1 and equals the fraction of light that the planet reflects
+    - A perfectly white surface has an albedo of 1
+    - A perfectly black surface has an albedo of 0
+- **How light travels through Earth’s atmosphere**
+  - Sunlight (UV, visible, and IR) enters atmosphere
+  - UV gets absorbed in the ozone layer
+  - Some other light is absorbed by greenhouse gasses
+  - Visible and IR light reaches Earth’s surface
+- **How light travels from Earth’s surface**
+  - Atmosphere absorbs IR from the surface
+  - Some IR returns to space 
+  - Some IR is re-emitted by the atmosphere 
+- Note that the energy that leaves Earth is equal to the energy that reaches Earth 

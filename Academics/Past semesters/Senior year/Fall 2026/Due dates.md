@@ -189,7 +189,7 @@
 
 - [x] ASTR 103: Homework 12
 - [x] MATH 210: Homework
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, October 1
 
@@ -199,6 +199,7 @@
 ### Friday, October 2
 
 - [ ] **GEOG 121: Presentation 1**
+- [ ] **MATH 210: Comprehensive class notes**
 
 ### Sunday, October 4
 
