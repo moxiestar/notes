@@ -202,22 +202,22 @@
 
 ### Sunday, October 4
 
-- [ ] ASTR 103: Warm-up 16
+- [x] ASTR 103: Warm-up 16
 - [ ] ASTR 103: LT Check 10
 
 ### Monday, October 5
 
 - [ ] ASTR 103: Homework 13
-- [ ] **GEOG 121: Midterm**
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 6
 
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, October 7
 
 - [ ] **ASTR 103: Midterm 2**
+- [ ] **GEOG 121: Midterm**
 - [ ] MATH 210: Homework
 
 ### Thursday, October 8

@@ -118,15 +118,22 @@
 **Habitable zones**
 
 - Region around a star where liquid water can exist on the surface of a planet
+
 - **Size of the habitable zone depends on several factors**
+
   - Distance from the star
+
   - **Composition of the planet’s atmosphere**
+
     - **Atmospheres**
+
       - A layer of gas that surrounds a planet
 
       **Greenhouse gasses**
+
       - A gas molecule that absorbs and re-mits infrared light but transmits visible light
-        - **Examples:** water, carbon dioxide, methane 
+        - **Examples:** water, carbon dioxide, methane
+
   - Pressure on the planet’s surface
 
 **Light**
@@ -142,6 +149,9 @@
   - Visible and IR light reaches Earth’s surface
 - **How light travels from Earth’s surface**
   - Atmosphere absorbs IR from the surface
-  - Some IR returns to space 
-  - Some IR is re-emitted by the atmosphere 
-- Note that the energy that leaves Earth is equal to the energy that reaches Earth 
+  - Some IR returns to space
+  - Some IR is re-emitted by the atmosphere
+- **Light notes**
+  - Note that the energy that leaves Earth is equal to the energy that reaches Earth
+  - The sun gives off light at all wavelengths, but most of it is visible and IR
+  - Greenhouse gas molecules absorb and re-emit IR in random directions
