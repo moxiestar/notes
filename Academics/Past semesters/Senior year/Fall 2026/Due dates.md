@@ -199,7 +199,6 @@
 ### Friday, October 2
 
 - [ ] **GEOG 121: Presentation 1**
-- [ ] **MATH 210: Comprehensive class notes**
 
 ### Sunday, October 4
 
