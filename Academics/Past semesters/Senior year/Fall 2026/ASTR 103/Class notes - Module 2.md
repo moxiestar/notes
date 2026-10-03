@@ -1,19 +1,27 @@
-## **Lecture Ten | Wavelengths**
+## **Lecture Ten | Spectra & Wavelengths**
+
+**Review of atoms & electric charge**
+
+- **Atom anatomy**
+  - Protons and neutrons form the nucleus of an atom
+  - Electrons lie on the outskirts of an atom
+- **Electric charge**
+  - Protons have a positive charge
+  - Neutrons have no charge
+  - Electrons have a negative charge
 
 **Light**
 
-- Sometimes light acts like it’s made up of particles
-- Sometimes light acts like it’s a wave
+- **Properties of light**
+  - Sometimes light acts like it’s made up of particles
+  - Sometimes light acts like it’s a wave
 - **Wavelength:** distance between adjacent peaks of the electric field
 - **Frequency:** number of times that the electric field vibrates up and down
-- **Speed of light** **= wavelength • frequency**
+- **Speed of light** **= wavelength • frequency** (c = λfc = λf$**)**
+- **Energy of a wave**
+  - Energy of a photon is derived from E = hf
+  - High frequencies (short wavelengths) have more energy than short frequencies (long wavelengths)
 - **Electromagnetic wave:** wave made up of many particles of light
-
-**Light spectrum**
-
-![This figure depicts radiation and the Earth’s atmosphere. Vertically from bottom to top, the Troposphere (weather), Stratosphere (ozone layer at 20 – 30 km; jets fly at 10 km), Mesosphere (meteors burn up), and Thermosphere (auroras)” are labeled. At the top of the figure, from shorter waves to longer waves, the different kinds of waves are labeled: “Gamma”, “X-ray”, “Ultraviolet (UV)”, “Visible”, “Infrared (IR)”, “Microwave”, and “Radio”. Under visible light is an observatory, labeled “Optical window”. Under radio is a radio telescope, labeled “Radio window”.](https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/fd686395fdb767eb21ed9f677d202e5b639293db)
-
-[[Screenshot 2026-09-14 at 9.24.58 PM.png]]
 
 **Interactions of light**
 
@@ -30,21 +38,34 @@
 - **Emission spectrum:** seen when a hot, low-density cloud of gas gives off light at just a few specific wavelengths
 - **Absorption spectrum:** seen when a hot, dense object has a cool cloud of gas in front of it, and some light is absorbed at specific wavelengths
   - Often the reverse of an emission spectrum
+- **Clouds of gas produce either emission or absorption spectra**
+  - The emission and absorption lines for a given gas always occur at the same wavelengths
+  - We can identify the gas using the spectra pattern
+
+**Light spectrum**
+
+![This figure depicts radiation and the Earth’s atmosphere. Vertically from bottom to top, the Troposphere (weather), Stratosphere (ozone layer at 20 – 30 km; jets fly at 10 km), Mesosphere (meteors burn up), and Thermosphere (auroras)” are labeled. At the top of the figure, from shorter waves to longer waves, the different kinds of waves are labeled: “Gamma”, “X-ray”, “Ultraviolet (UV)”, “Visible”, “Infrared (IR)”, “Microwave”, and “Radio”. Under visible light is an observatory, labeled “Optical window”. Under radio is a radio telescope, labeled “Radio window”.](https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/fd686395fdb767eb21ed9f677d202e5b639293db)
+
+[[Screenshot 2026-09-14 at 9.24.58 PM.png]]
 
 ## **Lecture Eleven | Bohr Model**
 
 **Understanding the Bohr Model**
 
-- Model stating that electrons can only orbit at specific distances from the nucleus, on rings known as “orbitals”
+- **Model stating that electrons can only orbit at specific distances from the nucleus, on rings known as “orbitals”**
+  - Electrons are never found in between orbitals
+  - Positive charge of the protons in the nucleus attracts the negatively charged electrons on the orbitals
+  - As the electrons get closer to the nucleus, the amount of energy required to jump from one orbital to the next increases
+    - The gap between orbitals increases as they get closer to the nucleus
+    - Electrons gain the required energy when the atom absorbs a photon of light
+      - The atom can only absorb the exact amount of light required for an electron jump
 - **Orbitals are also known as “states”**
   - **Ground state:** closest orbital to the nucleus
   - **1st state:** second closest to the nucleus
-- Larger gap between the orbitals closer to the nucleus
-- Energy is required to jump from one orbital to the other
-  - **Absorption (lower → higher orbital)**
-    - ==🔴If a photon absorbs the exact required amount of energy to jump up from one orbital to another, the atom transfers the energy from the photon to the electron==
-  - **Emission (higher → lower orbital)**
-    - ==🔴When an electron jumps down from one orbital to another, the atom emits the exact same amount of energy==
+- **Absorption (lower → higher orbital)**
+  - ==🔴If a photon absorbs the exact required amount of energy to jump up from one orbital to another, the atom transfers the energy from the photon to the electron==
+- **Emission (higher → lower orbital)**
+  - ==🔴When an electron jumps down from one orbital to another, the atom emits the exact same amount of energy==
 - Different elements have different energy gaps between their orbitals, which is why each element has its own unique set of emission and absorption lines
 
 ## **Lecture Twelve | Stefan-Boltzmann Law**

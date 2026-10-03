@@ -8,6 +8,17 @@
 
 ### Midterm 2 | October 7
 
+**Format:** 40 multiple choice questions
+
+**Content:** Lectures 11-17
+
+**Things to review**
+
+- [ ] Practice exam
+- [ ] Class slides
+- [ ] Notes
+- [ ] Flashcards (Quizlet)
+
 ### Midterm 3 | November 11
 
 ### Final | December 8
@@ -15,6 +26,17 @@
 # GEOG 121
 
 ### Midterm | October 5
+
+**Format:** multiple choice, short answer, and one essay
+
+**Content:** Everything so far
+
+**Things to review**
+
+- [ ] Practice exam
+- [ ] Class slides
+- [ ] Notes
+- [ ] Flashcards (Quizlet)
 
 ### Final | December 4
 
@@ -62,7 +84,7 @@
     - [x] Vector length problem from exam (5c)
 
       [[Screenshot 2026-09-23 at 7.24.38 PM.png]]
-    - [ ] Computing vectors on graphs 
+    - [ ] Computing vectors on graphs
 
       [[Screenshot 2026-09-23 at 7.25.38 PM.png]]
   - [x] **2.4 (vector equations)**

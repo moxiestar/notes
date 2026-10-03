@@ -203,7 +203,7 @@
 ### Sunday, October 4
 
 - [x] ASTR 103: Warm-up 16
-- [ ] ASTR 103: LT Check 10
+- [x] ASTR 103: LT Check 10
 
 ### Monday, October 5
 
