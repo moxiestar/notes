@@ -72,23 +72,34 @@
 
 **Blackbodies**
 
+- **Blackbodies:** hot dense objects that emit continuous spectra 
+
+
 - **Luminosity:** the amount of energy an object emits as light each second
   - The bigger the size, the greater the luminosity
   - The hotter the temperature, the greater the luminosity
 
 **The Stefan-Boltzmann Law**
 
-- Mathematical version of the luminosity laws
-- Note that…
-  - A star that has a luminosity of 2 solar luminosities gives off twice as much luminosity as the sun
+- **Mathematical version of the luminosity laws**
+  - The luminosity of a blackbody depends on the product of its surface area and its surface temperature
+  - **Notes**
+    - Luminosity is measured in Watts
+    - A star that has a luminosity of 2 solar luminosities gives off twice as much luminosity as the sun
 
 [[Screenshot 2026-09-23 at 1.33.50 PM.png]]
 
 ## **Lecture Thirteen | Wein’s Law**
 
+**Spectral curves**
+
+- **Spectral curve:** graph that shows the amount of energy emitted each second per each wavelength of light
+  - Wavelengths become longer (and energy gets lower) towards the right end of the x-axis on a spectral curve
+
 **Wein’s Law**
 
 - Law that defines the relationship between a blackbody’s temperature and wavelength
+  - Temperature is inversely proportional to peak wavelength
 
 [[Screenshot 2026-09-25 at 1.30.09 PM.png]]
 
@@ -101,7 +112,7 @@
 **Temperature**
 
 - **As an object’s temperature increases, its spectral curve changes in two ways**
-  - Peak wavelength becomes hotter
+  - Peak wavelength becomes shorter
   - The object emits more at all wavelengths
 
 ## **Lecture Fourteen | Hertzsprung and Russell (HR) Diagrams**
