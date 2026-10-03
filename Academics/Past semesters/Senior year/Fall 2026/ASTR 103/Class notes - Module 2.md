@@ -132,13 +132,16 @@
 
 **Spectral types**
 
-- **From hottest to coolest:** O B A F G K M
-  - Star temperature is ranked by numbers (A2 is hotter than A8)
-  - Star luminosity is ranked by Roman numerals
+- **From hottest to coolest:** **O** → **B** → **A** → **F** → **G** → **K** → **M**
+  - A star’s spectral type is completely determined by its temperature
+  - A star’s temperature is ranked by numbers (A2 is hotter than A8)
+  - A star’s luminosity is ranked by Roman numerals
     - The sun is a G2V star
+  - A star cannot change its spectral type during its time on the main sequence 
 - **A larger star has an exponentially shorter lifetime**
   - **Low-mass stars:** main sequence stars smaller than 8 solar masses
   - **High-mass stars:** main sequence stars larger than 8 solar masses
+  - Cooler main sequence stars are smaller, dimmer, longer-living, and more numerous than hotter main sequence stars
 
 **Star growth trajectory**
 
@@ -153,7 +156,7 @@
 
 - **Size of the habitable zone depends on several factors**
 
-  - Distance from the star
+  - **Distance from the star**
 
   - **Composition of the planet’s atmosphere**
 
@@ -166,7 +169,17 @@
       - A gas molecule that absorbs and re-mits infrared light but transmits visible light
         - **Examples:** water, carbon dioxide, methane
 
-  - Pressure on the planet’s surface
+  - **Pressure on the planet’s surface**
+
+- **Factors affecting a planet’s temperature**
+
+  - Its distance from the sun
+  - The amount of light it reflects back into space
+  - Its atmosphere
+
+- **Planetary temperature equation**
+
+  [[Screenshot 2026-10-03 at 3.05.30 PM.png]]
 
 **Light**
 

@@ -6,7 +6,7 @@
 
 **Content:** Lectures 2-10
 
-### Midterm 2 | October 7
+### ==🔴Midterm 2 | October 7==
 
 **Format:** 40 multiple choice questions
 
@@ -15,7 +15,7 @@
 **Things to review**
 
 - [ ] Practice exam
-- [ ] Class slides
+- [x] Class slides
 - [ ] Notes
 - [ ] Flashcards (Quizlet)
 
@@ -25,7 +25,7 @@
 
 # GEOG 121
 
-### Midterm | October 5
+### ==🔴Midterm | October 5==
 
 **Format:** multiple choice, short answer, and one essay
 
@@ -33,8 +33,7 @@
 
 **Things to review**
 
-- [ ] Practice exam
-- [ ] Class slides
+- [ ] Study guide (fill out)
 - [ ] Notes
 - [ ] Flashcards (Quizlet)
 
@@ -42,7 +41,7 @@
 
 # MATH 210
 
-### ==🔴Midterm 1 | September 24==
+### Midterm 1 | September 24
 
 **Format:** Short answer questions & multiple choice
 
