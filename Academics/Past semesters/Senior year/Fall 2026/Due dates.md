@@ -207,7 +207,7 @@
 
 ### Monday, October 5
 
-- [ ] ASTR 103: Homework 13
+- [x] ASTR 103: Homework 13
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 6
