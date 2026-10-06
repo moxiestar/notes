@@ -374,7 +374,7 @@
   - Loans are denominated in US dollars
   - Variable interest rates often made debtors more vulnerable
   - These loans were predatory, largely given to Latin America
-- **US National deb**
+- **US National debt**
   - Harms the global economy, especially Third World countries
   - In 1982, when the stock market crashes, Wall Street gets bailed out, but Mexico defaults on its debt
   - **Volcker Shock**
@@ -421,11 +421,11 @@
   - **Gross migration:** total raw number of migrants
 - **Categories:** international/domestic, temporary/permanent, forced/voluntary, legal/illegal
 - **Emigration**
-  - Migration into a new place
+  - Act of leaving one’s country
   - Typically refers to migration between countries
   - UN provides a right for people to leave their home countries, but not necessarily to enter other countries
 - **Immigration**
-  - Voluntary permanent migration from one’s country
+  - Voluntary permanent migration from one’s country into a new country
   - Major driver of global social change
   - **Immigrants**
     - Often minorities in their new countries
@@ -501,7 +501,7 @@
 - **Universal Product Code (1974)**
   - Made the world readable to computers via “capture”
   - Regulates the world’s goods, including food, textiles, organs, blood, and even cadavers
-- **Walmart** 
+- **Walmart**
   - Founded in Bentonville, AR
   - Once the largest generator of revenue
   - **Remains the highest employer in 21 states**
@@ -518,7 +518,7 @@
 **Commodities**
 
 - **Karl Marx:** capitalist societies appear like immense collections of commodities
-- **Commodities:** things that are bought and sold 
+- **Commodities:** things that are bought and sold
   - All commodities are either merchandise or services
 - **Commodification:** process of turning things into commodities
 - **Commodity-producing societies:** societies where commodities (people) create commodities (things)

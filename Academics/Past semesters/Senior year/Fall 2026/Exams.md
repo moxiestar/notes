@@ -35,6 +35,7 @@
 **Things to review**
 
 - [x] Flashcards (Quizlet)
+- [ ] Claude review
 - [ ] Study guide (fill out)
 - [ ] Notes (go through and explain each concept)
 
