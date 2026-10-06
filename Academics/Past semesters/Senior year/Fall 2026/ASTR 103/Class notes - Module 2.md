@@ -17,7 +17,7 @@
   - Sometimes light acts like it’s a wave
 - **Wavelength:** distance between adjacent peaks of the electric field
 - **Frequency:** number of times that the electric field vibrates up and down
-- **Speed of light** **= wavelength • frequency** (c = λfc = λf$**)**
+- **Speed of light** **= wavelength • frequency** (c = λf)**
 - **Energy of a wave**
   - Energy of a photon is derived from E = hf
   - High frequencies (short wavelengths) have more energy than short frequencies (long wavelengths)
@@ -72,10 +72,10 @@
 
 **Blackbodies**
 
-- **Blackbodies:** hot dense objects that emit continuous spectra 
-
+- **Blackbodies:** hot dense objects that emit continuous spectra
 
 - **Luminosity:** the amount of energy an object emits as light each second
+
   - The bigger the size, the greater the luminosity
   - The hotter the temperature, the greater the luminosity
 
@@ -94,18 +94,24 @@
 **Spectral curves**
 
 - **Spectral curve:** graph that shows the amount of energy emitted each second per each wavelength of light
-  - Wavelengths become longer (and energy gets lower) towards the right end of the x-axis on a spectral curve
+  - **Y-axis:** energy
+  - **X-axis:** wavelength
+    - Wavelengths become longer (and energy gets lower) towards the right end of the x-axis on a spectral curve
 
 **Wein’s Law**
 
 - Law that defines the relationship between a blackbody’s temperature and wavelength
   - Temperature is inversely proportional to peak wavelength
+  - Peak temperature is correlated with position of peak wavelength, not height of peak wavelength
+- ==🔴Note that size does not affect wavelength==
+- ==🔴Note that two stars that have the same temperature will have the same peak wavelength==
 
 [[Screenshot 2026-09-25 at 1.30.09 PM.png]]
 
 **Color of stars**
 
 - Stars are visible on a spectrum from blue to white to red
+- ==🔴Two stars of the same temperature will be the same color ==
 
 [[Screenshot 2026-09-25 at 1.35.44 PM.png]]
 
@@ -137,7 +143,7 @@
   - A star’s temperature is ranked by numbers (A2 is hotter than A8)
   - A star’s luminosity is ranked by Roman numerals
     - The sun is a G2V star
-  - A star cannot change its spectral type during its time on the main sequence 
+  - A star cannot change its spectral type during its time on the main sequence
 - **A larger star has an exponentially shorter lifetime**
   - **Low-mass stars:** main sequence stars smaller than 8 solar masses
   - **High-mass stars:** main sequence stars larger than 8 solar masses
@@ -173,7 +179,7 @@
 
 - **Factors affecting a planet’s temperature**
 
-  - Its distance from the sun
+  - ==🔴Its distance from the sun (further distance = lower temperature)==
   - The amount of light it reflects back into space
   - Its atmosphere
 
@@ -187,6 +193,7 @@
   - A planet’s albedo is a number that ranges from 0 to 1 and equals the fraction of light that the planet reflects
     - A perfectly white surface has an albedo of 1
     - A perfectly black surface has an albedo of 0
+  - ==🔴The higher the albedo, the colder the planet==
 - **How light travels through Earth’s atmosphere**
   - Sunlight (UV, visible, and IR) enters atmosphere
   - UV gets absorbed in the ozone layer
@@ -197,6 +204,7 @@
   - Some IR returns to space
   - Some IR is re-emitted by the atmosphere
 - **Light notes**
+  - ==🔴Majority of light absorbed by Earth’s surface is IR ==
   - Note that the energy that leaves Earth is equal to the energy that reaches Earth
   - The sun gives off light at all wavelengths, but most of it is visible and IR
   - Greenhouse gas molecules absorb and re-emit IR in random directions

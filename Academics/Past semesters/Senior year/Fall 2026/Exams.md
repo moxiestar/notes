@@ -14,10 +14,11 @@
 
 **Things to review**
 
-- [ ] Practice exam
 - [x] Class slides
-- [ ] Notes
-- [ ] Flashcards (Quizlet)
+- [x] Flashcards (Quizlet)
+- [x] Notes (go through and explain each concept)
+- [x] Practice exam
+- [ ] Claude review
 
 ### Midterm 3 | November 11
 

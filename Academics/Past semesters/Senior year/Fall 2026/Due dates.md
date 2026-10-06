@@ -208,7 +208,7 @@
 ### Monday, October 5
 
 - [x] ASTR 103: Homework 13
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, October 6
 
@@ -222,7 +222,7 @@
 
 ### Thursday, October 8
 
-- [ ] ASTR 103: LT Check 12
+- [x] ASTR 103: LT Check 12
 - [ ] MATH 210: Before-class assignment
 
 ### Friday, October 9
