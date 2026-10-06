@@ -111,7 +111,7 @@
 **Color of stars**
 
 - Stars are visible on a spectrum from blue to white to red
-- ==🔴Two stars of the same temperature will be the same color ==
+- ==🔴Two stars of the same temperature will be the same color==
 
 [[Screenshot 2026-09-25 at 1.35.44 PM.png]]
 

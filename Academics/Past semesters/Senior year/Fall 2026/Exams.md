@@ -34,9 +34,9 @@
 
 **Things to review**
 
+- [x] Flashcards (Quizlet)
 - [ ] Study guide (fill out)
-- [ ] Notes
-- [ ] Flashcards (Quizlet)
+- [ ] Notes (go through and explain each concept)
 
 ### Final | December 4
 
