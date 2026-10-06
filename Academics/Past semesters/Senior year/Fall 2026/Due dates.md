@@ -218,16 +218,16 @@
 
 - [ ] **ASTR 103: Midterm 2**
 - [ ] **GEOG 121: Midterm**
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, October 8
 
 - [x] ASTR 103: LT Check 12
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Friday, October 9
 
-- [ ] GEOG 121: Transcribe weekly notes
+- [ ] GEOG 121: Transcribe weekly notes?
 
 ### Sunday, October 11
 
