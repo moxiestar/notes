@@ -288,6 +288,6 @@
 
 - 
 
-**Import reliance (Robles, Chang, Gamio**
+**Import reliance (Robles, Chang, Gamio)**
 
 - 
