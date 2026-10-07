@@ -146,9 +146,9 @@
 
 **==🔴“China Ship” (Arranz et al.)==**
 
-- Galleons built from a variety of global materials that sailed the “tornaviaje” between the Philippines and South America for over two hundred years, carrying Chinese goods 
+- Galleons built from a variety of global materials that sailed the “tornaviaje” between the Philippines and South America for over two hundred years, carrying Chinese goods
 - They developed notable Philippino characteristics, such as hard protected hulls, varying materials, and hemp rigging
-- **Remember** the Dutch still-life from class, showing how international goods, especially those perceived as Oriental, became luxuries 
+- **Remember** the Dutch still-life from class, showing how international goods, especially those perceived as Oriental, became luxuries
 
 **Silver/Spanish pieces of eight (Wojcik)**
 
@@ -228,7 +228,7 @@
 
 **Internally displaced person**
 
-- A refugee who is displaced from one part of their country and ends up in another 
+- A refugee who is displaced from one part of their country and ends up in another
 
 **Flexible citizenship (Ong)**
 
@@ -244,11 +244,11 @@
 
 **Fair trade organizations (Sieff)**
 
-- Organizations that 
+- Organizations that
 
 **==🔴Follow the thing methodology (Cook et al.)==**
 
-- 
+- Process of following a commodity throughout its chain of production, distribution, and consumption, and analyzing its spinout across domains
 
 **Fordism**
 
@@ -261,17 +261,20 @@
 
 **Universal Product Code (1974)**
 
-- Ubiquitous barcode system used to identify and catalogue every commodity 
+- Ubiquitous barcode system used to identify and catalogue every commodity
 
 **Walmart**
 
 - Logistical empire
+- A chain of superstores relying on massive distribution centers supplied by crossdocking
+- Largely centered in the South, where wages are lower, labor laws are laxer, and communities tend to be more rural
 
 **Commodity/commodification**
 
-- 
+- A commodity is any object that can be bought and sold
+- Commodification is the process of making an object into a commodity - typically done by a human, another kind of commodity
 
-**Trade-to-GDP ratio (Sparke)**
+**==🔴Trade-to-GDP ratio (Sparke)==**
 
 - 
 
@@ -281,7 +284,8 @@
 
 **Commodity chain (Sparke)**
 
-- 
+- The flow of commodities from production to distribution to consumption
+- **Five models of commodity chain organization:** in-house, captive-supplier, modular, relational, marketized
 
 **==🔴Outsourcing (Sparke)==**
 
@@ -289,12 +293,12 @@
 
 **Global Triad (Sparke)**
 
-- 
+- The three main global powers - North America, Western Europe, and Eastern Asia - that control most of the world
 
 **==🔴Vertical/horizontal integration (Sparke)==**
 
-- **Vertical integration:** control of production process at every subsequent step 
-- **Horizontal integration:** control of production process across every adjacement part of a single step
+- **Vertical integration:** controlling foreign production directly by keeping the foreign companies under ownership of the main company
+- **Horizontal integration:** outsourcing as much work as possible to foreign companies 
 
 **World’s factory floor & import reliance (Robles, Chang, Gamio)**
 

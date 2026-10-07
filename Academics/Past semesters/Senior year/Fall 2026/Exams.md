@@ -36,8 +36,7 @@
 
 - [x] Flashcards (Quizlet)
 - [x] Claude review
-- [ ] Study guide (fill out)
-- [ ] Notes (go through and explain each concept)
+- [x] Study guide (fill out)
 
 ### Final | December 4
 
