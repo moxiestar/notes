@@ -94,7 +94,7 @@
 
 **Territory**
 
-- Demarcated, controlled areas in space 
+- Demarcated, controlled areas in space
 
 **Colonization/colonialism**
 
@@ -110,7 +110,7 @@
 
 **Columbian Exchange (Lewis and Maslin)**
 
-- Exchange of plants, food, people, things, and diseases between Spanish colonizers and South American natives 
+- Exchange of plants, food, people, things, and diseases between Spanish colonizers and South American natives
 
 **Demographic collapse and climate change (Lewis and Maslin)**
 
@@ -135,27 +135,28 @@
 **Ages/periods of globalization**
 
 - Short-term globalization focuses on the effects of the tech boom in bringing digital globalization
-- Medium-term globalization focuses on the effects of imperialism, coloni
+- Medium-term globalization focuses on the effects of imperialism, colonization, and nationalism connecting the globe via war and sea travel
+- Long-term globalization focuses on the advent of the first city and its effects on connecting early humans socially and politically
 
 **Potosí**
 
-- 
+- Mountain in Bolivia that served as the ground for Spanish-driven slave labor to mine silver for currency
 
-**“China Ship” (Arranz et al.)**
+**==🔴“China Ship” (Arranz et al.)==**
 
-- 
+- ?
 
 **Silver/Spanish pieces of eight (Wojcik)**
 
-- 
+- First global currency, instituted by Spanish colonizers in South America, created using slave-mined silver
 
 **Bretton Woods Regime (Peet)**
 
-- 
+- The Bretton Woods Conference, held in 1945, was attended by financial officials from several different prominent world powers, mostly Western. It aimed to catalogue and control global finance, as well as to help rebuild countries suffering after the war. It led to the creation of the World Bank and International Monetary Fund, later enabling international debt
 
 **International Monetary Fund**
 
-- 
+- Bank holding international funds, 
 
 **World Bank**
 
@@ -177,7 +178,7 @@
 
 - 
 
-**Economic sanctions (Stein and Cocco)**
+**==🔴Economic sanctions (Stein and Cocco)==**
 
 - 
 
@@ -229,15 +230,15 @@
 
 - 
 
-**Falling coffee prices (Sieff)**
+**==🔴Falling coffee prices (Sieff)==**
 
-- 
+- Due to the advent of cheaper methods of making coffee, Guatemalan coffee farmers have lost their livelihoods, driving them to migrate to the US
 
 **Fair trade organizations (Sieff)**
 
 - 
 
-**Follow the thing methodology (Cook et al.)**
+**==🔴Follow the thing methodology (Cook et al.)==**
 
 - 
 
