@@ -102,27 +102,17 @@
 
 **Imperialism**
 
-- Era defined by 
+- Era defined by conquest, colonization, tradition, royalty, war, sea travel, and nationalism
 
 **Core/periphery**
 
-- 
+- Model of understanding a power imbalance between two interdependent countries: the core country, no longer needing to create its own raw materials, relies on the raw materials from the periphery country, which then, in turn, relies on the finished goods from the core country
 
 **Columbian Exchange (Lewis and Maslin)**
 
-- 
+- Exchange of plants, food, people, things, and diseases between Spanish colonizers and South American natives 
 
-**Demographic collapse and climate change (Lewis and**
-
-**Maslin)**
-
-- 
-
-**Transatlantic slave trade**
-
-- 
-
-**Plantation**
+**Demographic collapse and climate change (Lewis and Maslin)**
 
 - 
 
@@ -134,11 +124,19 @@
 
 - 
 
+**Transatlantic slave trade**
+
+- 
+
+**Plantation**
+
+- 
+
 **Ages/periods of globalization**
 
 - 
 
-**Potosi**
+**Potosí**
 
 - 
 
