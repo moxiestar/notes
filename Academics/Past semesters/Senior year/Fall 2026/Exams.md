@@ -6,7 +6,7 @@
 
 **Content:** Lectures 2-10
 
-### ==🔴Midterm 2 | October 7==
+### Midterm 2 | October 7
 
 **Format:** 40 multiple choice questions
 

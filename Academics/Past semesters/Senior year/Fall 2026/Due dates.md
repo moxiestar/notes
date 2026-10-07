@@ -216,8 +216,8 @@
 
 ### Wednesday, October 7
 
-- [ ] **ASTR 103: Midterm 2**
-- [ ] **GEOG 121: Midterm**
+- [x] **ASTR 103: Midterm 2**
+- [x] **GEOG 121: Midterm**
 - [x] MATH 210: Homework
 
 ### Thursday, October 8
