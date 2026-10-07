@@ -1,6 +1,6 @@
 **Globalization**
 
-- 
+- Process of 
 
 **Globality**
 
