@@ -112,13 +112,17 @@
 
 - Exchange of plants, food, people, things, and diseases between Spanish colonizers and South American natives 
 
-**Demographic collapse and climate change (Lewis and Maslin) | ecological imperialism**
+**Demographic collapse and climate change (Lewis and Maslin)**
 
-- 
+- Massive death of native South Americans after Spanish conquest; transformation of native farmlands back into jungle, causing a change in the carbon cycle that led to cooler temperatures
+
+**Ecological imperialism**
+
+- Negative impact of Spanish conquest (in the form of diseases and ecological violence) on the environment
 
 **Ecological windfall**
 
-- 
+- Affect of Spanish conquest on European production 
 
 **Transatlantic slave trade**
 
