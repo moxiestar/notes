@@ -148,6 +148,7 @@
 
 - Galleons built from a variety of global materials that sailed the “tornaviaje” between the Philippines and South America for over two hundred years, carrying Chinese goods 
 - They developed notable Philippino characteristics, such as hard protected hulls, varying materials, and hemp rigging
+- **Remember** the Dutch still-life from class, showing how international goods, especially those perceived as Oriental, became luxuries 
 
 **Silver/Spanish pieces of eight (Wojcik)**
 
