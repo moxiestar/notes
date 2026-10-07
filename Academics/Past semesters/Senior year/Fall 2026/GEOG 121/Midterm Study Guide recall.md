@@ -146,7 +146,8 @@
 
 **==🔴“China Ship” (Arranz et al.)==**
 
-- ?
+- Galleons built from a variety of global materials that sailed the “tornaviaje” between the Philippines and South America for over two hundred years, carrying Chinese goods 
+- They developed notable Philippi
 
 **Silver/Spanish pieces of eight (Wojcik)**
 
