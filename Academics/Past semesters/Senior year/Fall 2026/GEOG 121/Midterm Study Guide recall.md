@@ -78,7 +78,8 @@
 
 **==🔴Geographic unevenness (Coe et al.)==**
 
-- ?
+- Reading: global supply of bottled water
+- 
 
 **==🔴Network==**
 
@@ -156,27 +157,29 @@
 
 **International Monetary Fund**
 
-- Bank holding international funds, 
+- Bank holding international funds, defining global finance and maintaining the exchange rate
 
 **World Bank**
 
-- 
+- Institution that finances development projects
 
 **United Nations Security Council**
 
-- 
+- Security branch of the UN, where richer countries have more veto power
 
 **Structural Adjustment Programs**
 
-- 
+- Programs created after the Stock Market crash in the 1980s, aimed at increasing debt in poorer countries. Enforced privatization, deregulation, austerity, and removal of tariffs
+- Note the Volcker Shock implemented higher interest rates to combat rising inflation
 
 **US Dollar**
 
-- 
+- Standard global currency; the currency of the World Bank, IMF, and US debt
 
 **Third World Debt Crisis**
 
-- 
+- Increasingly high levels of debt held by Third World countries to the US/World Bank
+- Over twenty years, it rose to $13 trillion, enough to solve global hunger
 
 **==🔴Economic sanctions (Stein and Cocco)==**
 
@@ -184,43 +187,45 @@
 
 **Mobility**
 
-- 
+- Ability of humans to move across borders throughout the world
 
 **Migrant/migration**
 
-- 
+- A migrant is any person who travels across the world, be it for pleasure, school, work, family, or out of necessity
 
 **Labor migration**
 
-- 
+- Process of moving to a new country/place to seek out work
 
 **Immigration/emigration**
 
-- 
+- **Immigration:** act of permanently entering a new country
+- **Emigration:** act of leaving one’s country
+- Note that by international law, emigration is always allowed, but immigration is not guaranteed
 
-**Kafala system**
+**==🔴Kafala system==**
 
-- 
+- Process of immigration being sponsored by or tied to a specific employer
 
 **Remittances (Wojcik)**
 
-- 
+- Process of foreign workers sending money back to their home country
 
 **Coerced/forced migration**
 
-- 
+- What it sounds like? Dawg you have got to be fucking kidding me at some point here
 
 **Refugee**
 
-- 
+- A migrant who leaves a place against their will
 
 **Asylum-seeker**
 
-- 
+- A refugee who seeks asylum in a foreign country due to political violence in their own
 
 **Internally displaced person**
 
-- 
+- A refugee who is displaced from one part of their country and ends up in another 
 
 **Flexible citizenship (Ong)**
 
