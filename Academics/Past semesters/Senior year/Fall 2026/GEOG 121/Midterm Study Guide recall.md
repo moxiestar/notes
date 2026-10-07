@@ -122,19 +122,20 @@
 
 **Ecological windfall**
 
-- Affect of Spanish conquest on European production chain  
+- Affect of Spanish conquest on European production chain: reliance on raw materials from other countries allowed Europe to focus on producing finer goods
 
 **Transatlantic slave trade**
 
-- 
+- Forced trade of enslaved laborers, primarily from West Africa, by European and American colonizers. In the nineteenth century, slaves were largely concentrated in the southern United States, with over 30% of the population being slaves. Slave labor powered much of the European and American empires
 
 **Plantation**
 
-- 
+- Land-based estates focused on production of tradeable goods, primarily relying on slave labor
 
 **Ages/periods of globalization**
 
-- 
+- Short-term globalization focuses on the effects of the tech boom in bringing digital globalization
+- Medium-term globalization focuses on the effects of imperialism, coloni
 
 **Potosí**
 
