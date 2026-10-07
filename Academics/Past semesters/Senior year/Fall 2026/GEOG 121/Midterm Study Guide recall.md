@@ -112,11 +112,7 @@
 
 - Exchange of plants, food, people, things, and diseases between Spanish colonizers and South American natives 
 
-**Demographic collapse and climate change (Lewis and Maslin)**
-
-- 
-
-**Ecological imperialism**
+**Demographic collapse and climate change (Lewis and Maslin) | ecological imperialism**
 
 - 
 
