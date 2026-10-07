@@ -18,7 +18,7 @@
 - [x] Flashcards (Quizlet)
 - [x] Notes (go through and explain each concept)
 - [x] Practice exam
-- [ ] Claude review
+- [x] Claude review
 
 ### Midterm 3 | November 11
 
@@ -26,7 +26,7 @@
 
 # GEOG 121
 
-### ==🔴Midterm | October 5==
+### Midterm | October 5
 
 **Format:** multiple choice, short answer, and one essay
 
@@ -108,7 +108,7 @@
 - [ ] 2.4 - examples on pages 107, 108, and 110
 - [ ] 2.5 - theorem on page 116, example on page 118
 
-### Midterm 2 | October 29
+### ==🔴Midterm 2 | October 29==
 
 ### Midterm 3 | November 19
 
