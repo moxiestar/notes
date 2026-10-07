@@ -186,7 +186,7 @@
 
 **==🔴Economic sanctions (Stein and Cocco)==**
 
-- 
+- Sanctions, financial punishments brought on one country by another, aim to threaten or tame an adversary into submission without the need for violence
 
 **Mobility**
 
@@ -244,7 +244,7 @@
 
 **Fair trade organizations (Sieff)**
 
-- 
+- Organizations that 
 
 **==🔴Follow the thing methodology (Cook et al.)==**
 
@@ -252,19 +252,20 @@
 
 **Fordism**
 
-- 
+- New factory system created by Henry Ford in the early-twentieth century to increase working hours, speed, and output numbers
+- Opposed unionizing and during workers into commodities producing commodities
 
 **Scientific management**
 
-- 
+- Method used by Taylor to 1) objectively measure how fast factory line workers perform each key movement and 2) identify how to speed that process up
 
-**Universal Product Code**
+**Universal Product Code (1974)**
 
-- 
+- Ubiquitous barcode system used to identify and catalogue every commodity 
 
 **Walmart**
 
-- 
+- Logistical empire
 
 **Commodity/commodification**
 
@@ -274,7 +275,7 @@
 
 - 
 
-**Trade deficit (Sparke)**
+**==🔴Trade deficit (Sparke)==**
 
 - 
 
@@ -282,7 +283,7 @@
 
 - 
 
-**Outsourcing (Sparke)**
+**==🔴Outsourcing (Sparke)==**
 
 - 
 
@@ -290,14 +291,13 @@
 
 - 
 
-**Vertical/horizontal integration (Sparke)**
+**==🔴Vertical/horizontal integration (Sparke)==**
 
-- 
+- **Vertical integration:** control of production process at every subsequent step 
+- **Horizontal integration:** control of production process across every adjacement part of a single step
 
-**World’s factory floor (Robles, Chang, Gamio)**
+**World’s factory floor & import reliance (Robles, Chang, Gamio)**
 
-- 
-
-**Import reliance (Robles, Chang, Gamio)**
-
-- 
+- New York Times article discussing the increasing integration of and reliance on international goods in domestic homes
+- Focuses on the prevalence of Chinese products in American homes
+- **Note that** an import reliant country depends on fine goods from other nations
