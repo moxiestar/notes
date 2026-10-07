@@ -78,8 +78,9 @@
 
 **==🔴Geographic unevenness (Coe et al.)==**
 
-- Reading: global supply of bottled water
-- 
+- **Reading:** as the global supply of bottled water has increased, water access has become more unequal across the globe, leading to an increased and uneven dependence on bottled water
+- Note that the main suppliers of bottled water are Nestle (Perrier, Poland Spring), Coca-Cola (Dasani), Danone (Evian), and Pepsi (Aquafina)
+- **Geographic unevenness refers to the differing monopoly that these major companies hold across borders**
 
 **==🔴Network==**
 
@@ -229,11 +230,11 @@
 
 **Flexible citizenship (Ong)**
 
-- 
+- Concept of a wealthy, cosmopolitan person purposefully holding citizenship in multiple countries and choosing to use certain passports to increase their travel freedom
 
 **Graduated sovereignty (Ong)**
 
-- 
+- The differing internal application of sovereignty to various populations within a state
 
 **==🔴Falling coffee prices (Sieff)==**
 
