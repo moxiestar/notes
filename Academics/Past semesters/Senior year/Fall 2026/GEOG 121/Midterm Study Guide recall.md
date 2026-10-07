@@ -280,7 +280,7 @@
 
 **==🔴Trade deficit (Sparke)==**
 
-- Value of merchandise exports minus the value of merchandie imports
+- Value of merchandise exports minus the value of merchandise imports
 
 **Commodity chain (Sparke)**
 
@@ -294,7 +294,7 @@
 **==🔴Vertical/horizontal integration (Sparke)==**
 
 - **Vertical integration:** controlling foreign production directly by keeping the foreign companies under ownership of the main company
-- **Horizontal integration:** outsourcing as much work as possible to foreign companies 
+- **Horizontal integration:** outsourcing as much work as possible to foreign companies
 - **Note that** outsourcing is not the same as offshoring (moving company work to a foreign country)
 
 **World’s factory floor & import reliance (Robles, Chang, Gamio)**
