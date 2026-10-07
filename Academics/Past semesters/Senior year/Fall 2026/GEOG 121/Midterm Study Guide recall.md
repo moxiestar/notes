@@ -46,63 +46,63 @@
 
 **Global scapes (Appadurai)**
 
-- Appadurai names five global scapes: ethnoscapes, the flow of people across the earth; ideoscapes, the flow of media; technoscapes, the flow of information and technology; mediascapes, the flow of media; and financescapes 
+- Appadurai names five global scapes: ethnoscapes, the flow of people across the earth; ideoscapes, the flow of media; technoscapes, the flow of information and technology; mediascapes, the flow of media; and financescapes, the flow of money
 
 **Disjunctive flows (Appadurai)**
 
-- 
+- All five scapes function differently from each other, and they change in different places, creating a “disjunctive flow” across the Earth
 
 **Geography**
 
-- 
+- Geographers both document and create our understanding of the Earth, reflecting the term’s etymology
 
 **Space**
 
-- 
+- A distinct area, separate from human-assigned meaning
 
 **Absolute location**
 
-- 
+- A location defined based on absolute, unchanging, quantitative measurements
 
 **Latitude/parallels**
 
-- 
+- The horizontal lines forming a grid around the globe
 
 **Longitude/meridian**
 
-- 
+- The vertical lines forming a grid around the globe
 
 **Relative location**
 
-- 
+- A location defined based on its relation or proximity to another location
 
-**Geographic unevenness (Coe et al.)**
+**==🔴Geographic unevenness (Coe et al.)==**
 
-- 
+- ?
 
-**Network**
+**==🔴Network==**
 
-- 
+- A linking of locations, defined according to three principles (structure, ==🔴connectivity==, and topology), and existing in three types (centralized, decentralized, distributed)
 
-**Scale**
+**==🔴Scale==**
 
-- 
+- Human-defined measurements allowing the quantification of space
 
 **Place**
 
-- 
+- A location understood through the lens of human-defined significance
 
 **Territory**
 
-- 
+- Demarcated, controlled areas in space 
 
 **Colonization/colonialism**
 
-- 
+- Conquering, repurposing, and exploitation of locations and their native people, typically involving power imbalances between the colonizer and the colonized, where both parties rely on each other
 
 **Imperialism**
 
-- 
+- Era defined by 
 
 **Core/periphery**
 
