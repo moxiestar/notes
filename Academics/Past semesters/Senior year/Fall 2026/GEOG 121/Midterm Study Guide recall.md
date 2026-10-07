@@ -276,20 +276,16 @@
 
 **==🔴Trade-to-GDP ratio (Sparke)==**
 
-- 
+- In capitalist countries, the ratio fell during the Cold War as a result of widespread domestic production (as opposed to outsourced production)
 
 **==🔴Trade deficit (Sparke)==**
 
-- 
+- Value of merchandise exports minus the value of merchandie imports
 
 **Commodity chain (Sparke)**
 
 - The flow of commodities from production to distribution to consumption
 - **Five models of commodity chain organization:** in-house, captive-supplier, modular, relational, marketized
-
-**==🔴Outsourcing (Sparke)==**
-
-- 
 
 **Global Triad (Sparke)**
 
@@ -299,6 +295,7 @@
 
 - **Vertical integration:** controlling foreign production directly by keeping the foreign companies under ownership of the main company
 - **Horizontal integration:** outsourcing as much work as possible to foreign companies 
+- **Note that** outsourcing is not the same as offshoring (moving company work to a foreign country)
 
 **World’s factory floor & import reliance (Robles, Chang, Gamio)**
 
