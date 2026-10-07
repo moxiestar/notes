@@ -124,6 +124,10 @@
 
 - Affect of Spanish conquest on European production 
 
+  [[tumblr_5697c1116767bac81c4b5bd38e69f949_34339c24_250.jpg]]
+
+   
+
 **Transatlantic slave trade**
 
 - 
