@@ -145,14 +145,14 @@
     - The sun is a G2V star
   - A star cannot change its spectral type during its time on the main sequence
 - **A larger star has an exponentially shorter lifetime**
-  - **Low-mass stars:** main sequence stars smaller than 8 solar masses
   - **High-mass stars:** main sequence stars larger than 8 solar masses
+  - **Low-mass stars:** main sequence stars smaller than 8 solar masses
   - Cooler main sequence stars are smaller, dimmer, longer-living, and more numerous than hotter main sequence stars
 
 **Star growth trajectory**
 
-- **Low-mass star:** main-sequence star → red giant → supernova → neutron star or black hole
-- **High-mass star:** main-sequence star → red giant → planetary nebula → white dwarf
+- **High-mass star:** main-sequence star → red giant → supernova → neutron star or black hole
+- **Low-mass star:** main-sequence star → red giant → planetary nebula → white dwarf
 
 ## **Lecture Fifteen | Habitable Zone**
 
@@ -179,7 +179,7 @@
 
 - **Factors affecting a planet’s temperature**
 
-  - ==🔴Its distance from the sun (further distance = lower temperature)==
+  - ==🔴Its distance from the sun (further distance = lower temperature no matter what)==
   - The amount of light it reflects back into space
   - Its atmosphere
 
@@ -204,7 +204,7 @@
   - Some IR returns to space
   - Some IR is re-emitted by the atmosphere
 - **Light notes**
-  - ==🔴Majority of light absorbed by Earth’s surface is IR ==
+  - ==🔴Majority of light absorbed by Earth’s surface is IR==
   - Note that the energy that leaves Earth is equal to the energy that reaches Earth
   - The sun gives off light at all wavelengths, but most of it is visible and IR
   - Greenhouse gas molecules absorb and re-emit IR in random directions
