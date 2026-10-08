@@ -1,12 +1,16 @@
 ## **Writing**
 
-- [x] Go through Scrivener tutorial
-- [ ] Continue writing opening
+- [ ] **Continue writing opening**
 - [ ] **Work on characters**
   - [ ] Write character bios
-  - [ ] Find way to organize character sheet within Scrivener with all information
+  - [ ] Figure out each cause of death
 
 ## **Drawing**
 
 - [ ] Work on Terror sketches
 - [ ] Work on character sketches (with references)
+
+## Completed
+
+- [x] Go through Scrivener tutorial
+- [x] Find way to organize character sheet within Scrivener with all information
