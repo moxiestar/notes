@@ -1,13 +1,13 @@
 ## **Writing**
 
-- [ ] **Continue writing opening**
+- [ ] **==🔴Continue writing opening==**
 - [ ] **Work on characters**
   - [ ] Write character bios
-  - [ ] Figure out each cause of death
+  - [ ] ==🔴Figure out each cause of death==
 
 ## **Drawing**
 
-- [ ] Work on Terror/Endurance sketches (see folder in Procreate)
+- [ ] ==🔴Work on Terror/Endurance sketches (see folder in Procreate)==
 - [ ] Work on character sketches (see folder in Procreate)
 
 ## **Other**

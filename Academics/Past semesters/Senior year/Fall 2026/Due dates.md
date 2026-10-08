@@ -246,15 +246,8 @@
 ### Wednesday, October 14
 
 - [ ] ASTR 103: Homework 14
-- [ ] MATH 210: Homework
-
-### Thursday, October 15
-
-- [ ] MATH 210: Before-class assignment
-
-### Friday, October 16
-
 - [ ] GEOG 121: Transcribe weekly notes
+- [ ] MATH 210: Homework
 
 ### Sunday, October 18
 
