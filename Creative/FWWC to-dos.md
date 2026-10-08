@@ -7,8 +7,12 @@
 
 ## **Drawing**
 
-- [ ] Work on Terror sketches
-- [ ] Work on character sketches (with references)
+- [ ] Work on Terror/Endurance sketches (see folder in Procreate)
+- [ ] Work on character sketches (see folder in Procreate)
+
+## **Other**
+
+- [ ] Work on Terror edit
 
 ## Completed
 
