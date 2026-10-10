@@ -208,7 +208,3 @@
   - Note that the energy that leaves Earth is equal to the energy that reaches Earth
   - The sun gives off light at all wavelengths, but most of it is visible and IR
   - Greenhouse gas molecules absorb and re-emit IR in random directions
-
-## **Lecture Sixteen | Doppler Shift**
-
-**Doppler Shift**
