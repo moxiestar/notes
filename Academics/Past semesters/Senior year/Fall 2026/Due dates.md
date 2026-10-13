@@ -231,7 +231,7 @@
 
 ### Monday, October 12
 
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, October 13
 
