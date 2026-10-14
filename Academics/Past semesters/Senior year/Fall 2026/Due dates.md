@@ -251,6 +251,7 @@
 ### Monday, October 19
 
 - [ ] GEOG 121: Reading
+- [ ] GEOG 121: Commonplace essay 7
 - [ ] MATH 210: Homework
 
 ### Tuesday, October 20
