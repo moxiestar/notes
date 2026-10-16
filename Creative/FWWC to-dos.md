@@ -10,10 +10,6 @@
 - [ ] ==🔴Work on Terror/Endurance sketches (see folder in Procreate)==
 - [ ] Work on character sketches (see folder in Procreate)
 
-## **Other**
-
-- [ ] Work on Terror edit
-
 ## Completed
 
 - [x] Go through Scrivener tutorial
