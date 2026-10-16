@@ -1,7 +1,7 @@
 ## **Writing**
 
 - [ ] **==🔴Continue writing opening==**
-- [ ] ==🔴Update plot summary - see notes==
+- [x] Update plot summary - see notes
 - [ ] **Work on characters**
   - [x] Rework names
   - [ ] Write character bios
