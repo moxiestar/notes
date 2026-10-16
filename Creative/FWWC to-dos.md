@@ -1,9 +1,11 @@
 ## **Writing**
 
 - [ ] **==🔴Continue writing opening==**
+- [ ] ==🔴Update plot summary - see notes==
 - [ ] **Work on characters**
+  - [ ] ==🔴Rework names==
   - [ ] Write character bios
-  - [ ] ==🔴Figure out each cause of death==
+  - [ ] Figure out each cause of death
 
 ## **Drawing**
 
