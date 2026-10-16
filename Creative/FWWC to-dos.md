@@ -3,7 +3,7 @@
 - [ ] **==🔴Continue writing opening==**
 - [ ] ==🔴Update plot summary - see notes==
 - [ ] **Work on characters**
-  - [ ] ==🔴Rework names==
+  - [x] Rework names
   - [ ] Write character bios
   - [ ] Figure out each cause of death
 
