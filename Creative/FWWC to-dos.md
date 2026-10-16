@@ -1,9 +1,7 @@
 ## **Writing**
 
 - [ ] **==🔴Continue writing opening==**
-- [x] Update plot summary - see notes
 - [ ] **Work on characters**
-  - [x] Rework names
   - [ ] Write character bios
   - [ ] Figure out each cause of death
 
@@ -20,3 +18,5 @@
 
 - [x] Go through Scrivener tutorial
 - [x] Find way to organize character sheet within Scrivener with all information
+- [x] Rework crew names to be more accurate
+- [x] Update plot summary - see notes
