@@ -242,11 +242,11 @@
 
 - [x] ASTR 103: Homework 14
 - [ ] GEOG 121: Transcribe weekly notes
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Sunday, October 18
 
-- [ ] ASTR 103: LT Check 14
+- [x] ASTR 103: LT Check 14
 
 ### Monday, October 19
 
@@ -256,7 +256,7 @@
 
 ### Tuesday, October 20
 
-- [ ] ASTR 103: Warm-up 18
+- [x] ASTR 103: Warm-up 18
 - [ ] MATH 210: Before-class assignment
 
 ### Wednesday, October 21
