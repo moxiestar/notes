@@ -1,6 +1,9 @@
 ## **Writing**
 
 - [ ] **==🔴Continue writing opening==**
+  - [ ] Work on Diana’s early investigation
+  - [ ] Work on Lawrence’s logbook entries
+  - [ ] Work on ship dialogue scenes
 - [ ] **Work on characters**
   - [ ] Write character bios
   - [ ] Figure out each cause of death
