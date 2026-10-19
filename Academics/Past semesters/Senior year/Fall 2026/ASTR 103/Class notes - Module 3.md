@@ -31,12 +31,12 @@
 
   [[Screenshot 2026-10-10 at 4.39.56 PM.png]]
 
-## **Lecture Seventeen | Extrasolar planets**
+## **Lectures Seventeen & Eighteen | Extrasolar planets**
 
 **Exoplanets**
 
 - **Definition:** planets that orbit stars other than the Sun
-  - Over 5000 exoplanets have been found 
+  - Over 5000 exoplanets have been found
 - **Detection methods**
   - Radial velocity method
   - Transit method
@@ -47,7 +47,7 @@
 
 - **A planet and its star both orbit around a common point (the system’s center of mass)**
   - The star and planet are always located on opposite sides of the center of mass
-  - They always take the same amount of time to complete one orbit 
+  - They always take the same amount of time to complete one orbit
   - In orbit, their velocities around the center of mass are parallel but directionally opposite
 - **Shifting**
   - As the star moves **towards** and **away** from Earth, its light is **blueshifted**, unshifted, and **redshifted**
