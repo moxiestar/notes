@@ -251,17 +251,16 @@
 ### Monday, October 19
 
 - [ ] GEOG 121: Reading
-- [ ] GEOG 121: Commonplace essay 7
-- [ ] MATH 210: Homework
+- [x] GEOG 121: Commonplace essay 7
+- [x] MATH 210: Homework
 
 ### Tuesday, October 20
 
 - [x] ASTR 103: Warm-up 18
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, October 21
 
-- [ ] ASTR 103: LT Check 15
 - [ ] ASTR 103: Homework 15
 - [ ] MATH 210: Homework
 
