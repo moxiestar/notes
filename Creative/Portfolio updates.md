@@ -1,9 +1,8 @@
 # **New portfolio structure**
 
-## **“Passport” book**
+## **Key elements**
 
-- **Personal information (name, picture, age, etc)**
-- **CV information (degree, job, etc)**
+- **Personal information (name, picture, age, degree, job, etc)**
 - **Links/embeds to…**
   - Art (traditional, digital, sketches)
   - Design (personal, professional)
@@ -14,11 +13,3 @@
   - LinkedIn
   - Email
   - Resume
-
-# **Things to draw**
-
-- [x] Passport front cover
-- [ ] Passport first page
-- [ ] Passport second page
-- [x] Passport back cover
-- [ ] Labels for each section
