@@ -17,8 +17,8 @@
 
 # **Things to draw**
 
-- [ ] Passport front cover
+- [x] Passport front cover
 - [ ] Passport first page
 - [ ] Passport second page
-- [ ] Passport back cover
+- [x] Passport back cover
 - [ ] Labels for each section
