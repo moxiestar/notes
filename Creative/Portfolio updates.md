@@ -4,7 +4,7 @@
 
 - **Personal information (name, picture, age, etc)**
 - **CV information (degree, job, etc)**
-- **Links/embeds to… ==🔴(how are these viewed? Within the book?)==**
+- **Links/embeds to…**
   - Art (traditional, digital, sketches)
   - Design (personal, professional)
   - Animations (high school animation)
