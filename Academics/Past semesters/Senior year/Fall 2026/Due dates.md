@@ -261,8 +261,8 @@
 
 ### Wednesday, October 21
 
-- [ ] ASTR 103: Homework 15
-- [ ] MATH 210: Homework
+- [x] ASTR 103: Homework 15
+- [x] MATH 210: Homework
 
 ### Thursday, October 22
 
