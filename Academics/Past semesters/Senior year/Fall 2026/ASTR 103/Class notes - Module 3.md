@@ -65,3 +65,7 @@
       - The mass of the star
       - The mass of the planet
       - The distance between the star and the planet
+
+**Light curves**
+
+- Graphs that show a star’s brightness over time
