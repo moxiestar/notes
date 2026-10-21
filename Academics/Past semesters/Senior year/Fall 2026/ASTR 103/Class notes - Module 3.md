@@ -88,6 +88,10 @@
       - **Note that the orbital period is proportional to the distance between the planet and star**
         - So the smaller the orbital period, the smaller the distance between the planet and star
 
+    - **Light curves for multiple planets**
+
+      - When both planets simultaneously block the star, a deeper dip occurs on the curve
+
     - **Features**
 
       - **Width of the curve:** duration of the transit
@@ -97,5 +101,3 @@
       - Equation is proportional between the planet’s radius and the star’s radius
 
         [[Screenshot 2026-10-21 at 1.32.20 PM.png]]
-
-  - 
