@@ -65,7 +65,16 @@
       - The mass of the star
       - The mass of the planet
       - The distance between the star and the planet
+- **Transits**
+  - When an exoplanet passes between us and its star, it blocks some of its star’s light
+    - Transiting planet: a planet passing in front of a star
+  - **Light curves**
+    - Graphs that show a star’s brightness over time
+    - The light emitted by the star is eclipsed by the planet, indicating its size
+    - **Features**
+      - **Width of the curve:** duration of the transit
+      - **Depth of the curve:** amount of starlight blocked by the planet
+      - Equation is proportional between the planet’s radius and the star’s radius
 
-**Light curves**
-
-- Graphs that show a star’s brightness over time
+        [[Screenshot 2026-10-21 at 1.32.20 PM.png]]
+  - 
