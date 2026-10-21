@@ -46,15 +46,20 @@
 **Star and Planet Orbits**
 
 - **A planet and its star both orbit around a common point (the system’s center of mass)**
+
   - The star and planet are always located on opposite sides of the center of mass
   - They always take the same amount of time to complete one orbit
   - In orbit, their velocities around the center of mass are parallel but directionally opposite
+
 - **Shifting**
+
   - As the star moves **towards** and **away** from Earth, its light is **blueshifted**, unshifted, and **redshifted**
   - **Note that on spectral graphs…**
     - **Radial velocity:** the part of the star’s spectral graph that points towards or away from us
     - **Transverse velocity:** the part of the star’s spectral graph that does not point towards or away from us
+
 - **Radial velocity curves**
+
   - A star’s radial velocity is its speed moving towards or away from Earth
   - A radial velocity curve is a graph of the star’s radial velocity over time
     - Negative velocities represent blueshifted light
@@ -65,16 +70,32 @@
       - The mass of the star
       - The mass of the planet
       - The distance between the star and the planet
+
 - **Transits**
+
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
+
     - Transiting planet: a planet passing in front of a star
+
   - **Light curves**
+
     - Graphs that show a star’s brightness over time
+
     - The light emitted by the star is eclipsed by the planet, indicating its size
+
+    - The time between the start of one transit and the next represents the orbital period of the planet
+
+      - **Note that the orbital period is proportional to the distance between the planet and star**
+        - So the smaller the orbital period, the smaller the distance between the planet and star
+
     - **Features**
+
       - **Width of the curve:** duration of the transit
+
       - **Depth of the curve:** amount of starlight blocked by the planet
+
       - Equation is proportional between the planet’s radius and the star’s radius
 
         [[Screenshot 2026-10-21 at 1.32.20 PM.png]]
+
   - 
