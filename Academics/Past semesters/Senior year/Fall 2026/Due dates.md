@@ -271,7 +271,7 @@
 
 ### Friday, October 23
 
-- [ ] ASTR 103: LT Check 16
+- [x] ASTR 103: LT Check 16
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, October 25
