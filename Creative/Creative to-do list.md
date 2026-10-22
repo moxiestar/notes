@@ -8,6 +8,7 @@
 
 - [ ] Work on Terror sketches
 - [ ] Work on FWWC sketches
+- [ ] Work on Dad’s birthday present
 - [ ] Work on graduation comic (before December)
 
 ## Other
