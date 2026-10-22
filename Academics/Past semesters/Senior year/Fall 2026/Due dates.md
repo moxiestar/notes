@@ -266,8 +266,8 @@
 
 ### Thursday, October 22
 
-- [ ] ASTR 103: Warm-up 19
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 19
+- [x] MATH 210: Before-class assignment
 
 ### Friday, October 23
 
