@@ -678,6 +678,7 @@
   - Immense but highly concentrated
     - Top 100 firms account for 14% of foreign sales
     - Largely from the same powerful countries
+  - Nonetheless pretty diverse across the world
 - **TNCs expand via three main forms of foreign direct investment**
   - **Greenfield investment:** establishing new facilities
     - **Example:** Taiwan Semiconductor building a new factory in AZ
@@ -687,6 +688,10 @@
     - **Example:** Toyota partnering with GM to work on new electric cars
 - **Webs of enterprise exist between TNCs**
   - US is a major beneficiary
+- **TNCs & power**
+  - TNCs are powerful, but not absolutely
+    - Many are still dependent on states, especially for political protection
+      - **Example:** US keeping Chinese electric vehicles away from US markets to support native auto development
 
 **TNC development**
 
@@ -700,4 +705,18 @@
     - **Example:** Cary, NC
       - Artificial neighborhood for Northeast transplants coming to NC
 - **TNC development sequence**
-  - Domestic strength → exports → overseas 
+  - **Domestic strength → exports → overseas sales → foreign production**
+    - Some firms start off with global reach (mainly tech firms, like Amazon, Google, Skype)
+  - **TNCs are not placeless**
+    - Most are produced by their domestic locale and carry a localized imprint, especially when it comes to production patterns
+
+**Global cities**
+
+- **Globality of cities:** a city’s agency in forming and influencing global corporations 
+  - Geography is more relevant than ever, with brick and mortar establishments becoming more and more important
+  - Certain cities dominate in connectivity 
+    - London is the most common headquarter location (huge colonial influence)
+    - Tokyo is the most connected
+- **Development of modern cities**
+  - City states developed as trade centers
+  - Divided 
