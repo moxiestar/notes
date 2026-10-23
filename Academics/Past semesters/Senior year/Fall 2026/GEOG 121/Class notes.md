@@ -712,6 +712,7 @@
 
 **Global cities**
 
+- **Global cities:** major nodes in the organization of the global economy
 - **Globality of cities:** a city’s agency in forming and influencing global corporations 
   - Geography is more relevant than ever, with brick and mortar establishments becoming more and more important
   - Certain cities dominate in connectivity 
@@ -719,4 +720,22 @@
     - Tokyo is the most connected
 - **Development of modern cities**
   - City states developed as trade centers
-  - Divided 
+  - Divided agriculture from urbanization
+    - Cities are still dependent on rural areas for raw materials
+  - **Associated with the beginning of the class divide**
+    - Cities created systems of accounting, bureaucracy, and writing
+    - Mirrored Greek urban influence
+    - Also mirrored the trade centrality of cities in Medieval Europe
+  - **Hinterlands:** “country behind”
+    - Rural areas serving cities
+    - Example: Lagos, Nigeria 
+      - Central metropolitan area with surrounding uncontrolled settlements
+      - Projected to be the largest mega-city region in the world
+  - **Forelands:** urban areas
+    - Destination for exports
+  - **Megalopolis (Patrick Geddes)**
+    - Terminal state in the urbanization process, characterized by dysfunction and uncontrolled growth
+    - Spreading of placeless capitalized organizations (McDonald’s, gas stations, etc)
+    - Rural areas have become more urban, connecting more the world
+      - Disintegration of the Hinterland and end of the wilderness
+    - 
