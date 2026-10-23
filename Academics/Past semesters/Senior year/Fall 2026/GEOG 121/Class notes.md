@@ -628,7 +628,7 @@
 - **Prime movers of transport globalization**
   - Two-stroke diesel engines (powering container ships)
   - Gas turbines (powering jet engines)
-- **US Military fuel consumption** 
+- **US Military fuel consumption**
   - Greatest consumer of fossil fuels, more than many major countries
   - Uses 8.5 billion gallons of fuel annually (23 million gallons daily)
     - Air Force uses the majority, mostly to deliver fuel (actual fuel usage is just 6%)
@@ -637,7 +637,7 @@
 - **Peak oil**
   - Point where humanity reaches the limit of oil reserves
   - Peak oil is likely a myth - we probably can’t reach it, meaning we’ll continue to use more and more oil
-  - A habitable world will depend on decarbonization 
+  - A habitable world will depend on decarbonization
 - **Dakota Pipeline**
   - Oil pipeline running through Dakota reservations and land
     - 1,168 miles, running from North Dakota to Illinois
@@ -673,9 +673,21 @@
 
 **Transnational corporations**
 
-- **Transnational corporations expand via three main forms of foreign direct investment**
+- **Transnational corporations are the primary shapers of our global economy**
+  - Replaced imperial states as major economic powers
+  - Immense but highly concentrated
+    - Top 100 firms account for 14% of foreign sales
+    - Largely from the same powerful countries
+- **TNCs expand via three main forms of foreign direct investment**
   - **Greenfield investment:** establishing new facilities
     - **Example:** Taiwan Semiconductor building a new factory in AZ
-  - Mergers and acquisitions: buying pre-existing facilities or firms
-    - Example: Paramount acquiring Warner Bros
-  - Strategic alliances: collaborating separately between firms
+  - **Mergers and acquisitions:** buying pre-existing facilities or firms
+    - **Example:** Paramount acquiring Warner Bros
+  - **Strategic alliances:** collaborating separately between firms
+    - **Example:** Toyota partnering with GM to work on new electric cars
+- **Webs of enterprise exist between TNCs**
+  - US is a major beneficiary
+- **Types of TNC development**
+  - Market-orientated investment
+    - Investment focused on localized markets
+      - Reasons: avoiding tariffs, escaping local saturation, 
