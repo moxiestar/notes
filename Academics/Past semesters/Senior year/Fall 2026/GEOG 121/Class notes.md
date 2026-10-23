@@ -628,8 +628,13 @@
 - **Prime movers of transport globalization**
   - Two-stroke diesel engines (powering container ships)
   - Gas turbines (powering jet engines)
-- US Military fuel consumption 
+- **US Military fuel consumption** 
   - Greatest consumer of fossil fuels, more than many major countries
   - Uses 8.5 billion gallons of fuel annually (23 million gallons daily)
     - Air Force uses the majority, mostly to deliver fuel (actual fuel usage is just 6%)
-    - 
+  - 1.2 billion tons of greenhouse gases have been used by the US Military since 2001
+    - Not just in active war zones, but also - often primarily - in overseas bases
+- **Peak oil**
+  - Point where humanity reaches the limit of oil reserves
+  - Peak oil is likely a myth - we probably can’t reach it, meaning we’ll continue to use more and more oil
+  - A habitable world will depend on decarbonization 
