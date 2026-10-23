@@ -649,12 +649,28 @@
 
 ## Lectures Twenty | Global Corporations
 
-**Definitions**
+**Corporations**
 
 - **Corporation:** a legal entity that acts as a fictional person
   - Can sue, pay taxes, etc
   - Removes responsibility from shareholders
-- Global corporations vs. GDP
+- **Global corporations vs. GDP**
   - Saudi Aramco is roughly the size of Italy
   - Apple is roughly the size of Australia
-- 
+
+**History of corporations**
+
+- **Dutch East India Company**
+  - Established in 1602 with roughly 200 shareholders
+  - Company was vertically integrated and largely controlled by directors
+  - Managed shipping, buying, and selling goods
+  - Held a complete monopoly within their network
+  - Maintained a military presence in their territories (Arabia, India, China, etc)
+  - Typical prototype for imperial corporations
+- **British East India Company**
+  - Dominated India in the 1700s and 1800s
+  - Brought about several famines
+
+**Transnational corporations**
+
+- Transnational corporations expand via 
