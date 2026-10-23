@@ -565,7 +565,7 @@
   - **Technology and capcaity have increased over time**
     - **Maritime shipping capacity has increased exponentially over time**
       - Some ships are as long as a quarter-mile, and too wide to fit through the Panama Canal
-      - They produce millions of tons of CO2CO2 every day, relying on bunker fuel
+      - They produce millions of tons of CO2CO2 every day, relying on bunker fuel (the dirtiest, most toxic fuel)
       - **Flags of convenience:** loophole that allows major shipping companies to register their ships to any location
         - Allows shipping companies to avoid labor laws and environmental regulations
     - **Mechanization of ports has increased exponentially over time**
@@ -580,7 +580,7 @@
 
 ## Lectures Eighteen & Nineteen | Oil & Petroculture
 
-**Oil** 
+**Oil**
 
 - **Oil is not only the most common fuel source but also a foundation of modern life**
   - The vast majority of goods and logistics rely on oil
