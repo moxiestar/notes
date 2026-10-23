@@ -673,4 +673,9 @@
 
 **Transnational corporations**
 
-- Transnational corporations expand via 
+- **Transnational corporations expand via three main forms of foreign direct investment**
+  - **Greenfield investment:** establishing new facilities
+    - **Example:** Taiwan Semiconductor building a new factory in AZ
+  - Mergers and acquisitions: buying pre-existing facilities or firms
+    - Example: Paramount acquiring Warner Bros
+  - Strategic alliances: collaborating separately between firms
