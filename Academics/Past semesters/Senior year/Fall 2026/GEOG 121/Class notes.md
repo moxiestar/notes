@@ -642,6 +642,11 @@
   - Oil pipeline running through Dakota reservations and land
     - 1,168 miles, running from North Dakota to Illinois
     - Ran through sacred Sioux sites, as well as the Mississippi watershed
+    - Indigenous sovereignty and environmental protection go hand in hand
   - Proposed in 2016
     - Dakota staged an encampment to block the pipeline
-    - Unfortunately, the encampment was shut down by private 
+    - Unfortunately, the encampment was shut down by private security and the pipeline was approved
+
+## Lectures Twenty | Global Corporations
+
+**Oil**
