@@ -647,7 +647,7 @@
     - Dakota staged an encampment to block the pipeline
     - Unfortunately, the encampment was shut down by private security and the pipeline was approved
 
-## Lectures Twenty | Global Corporations
+## Lectures Twenty & Twenty-One | Global Corporations
 
 **Corporations**
 
@@ -687,7 +687,17 @@
     - **Example:** Toyota partnering with GM to work on new electric cars
 - **Webs of enterprise exist between TNCs**
   - US is a major beneficiary
+
+**TNC development**
+
 - **Types of TNC development**
-  - Market-orientated investment
+  - **Market-orientated investment**
     - Investment focused on localized markets
-      - Reasons: avoiding tariffs, escaping local saturation, 
+      - Reasons: avoiding tariffs, escaping local saturation, finding culture
+  - **Asset-orientated investment**
+    - Investment focused on localized assets (things or people)
+    - Major driver of TNC development across the world, often related to oil
+    - **Example:** Cary, NC
+      - Artificial neighborhood for Northeast transplants coming to NC
+- **TNC development sequence**
+  - Domestic strength → exports → overseas 
