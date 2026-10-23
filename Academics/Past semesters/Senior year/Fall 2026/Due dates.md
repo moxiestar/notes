@@ -276,7 +276,7 @@
 
 ### Sunday, October 25
 
-- [ ] ASTR 103: Warm-up 20
+- [x] ASTR 103: Warm-up 20
 - [ ] ASTR 103: LT Check 17
 
 ### Monday, October 26

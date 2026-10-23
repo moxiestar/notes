@@ -538,3 +538,20 @@
 - **Commodity chain**
   - Production → distribution → consumption
     - He’s consumptive, sir
+
+## Lecture Seventeen | Logistics
+
+**Definitions**
+
+- **Logistics:** efficient movement of people, things, and information, typically in a commercial setting 
+  - Began in the military, then shifted to business, now pervades everything
+- **Logistical power:** power utilized to control territories and commodities
+- **Logistics spaces:** places where commodities are manufactured
+
+**Containers**
+
+- Shipping containers are the shell/face of logistics 
+  - 90% of commercial goods involve maritime travel
+    - Maritine shipping capacity has increased exponentially over time
+  - **Strait of Hormuz:** main bottleneck for maritine shipping
+  - 
