@@ -648,5 +648,3 @@
     - Unfortunately, the encampment was shut down by private security and the pipeline was approved
 
 ## Lectures Twenty | Global Corporations
-
-**Oil**
