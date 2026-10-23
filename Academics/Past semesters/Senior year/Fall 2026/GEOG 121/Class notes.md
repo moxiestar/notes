@@ -551,16 +551,35 @@
 **Containers**
 
 - **Shipping containers are the shell/face of logistics**
+
   - Containerization is one of the main symbols of globalization
   - 90% of commercial goods involve maritime travel
     - Intermodal freight transport also uses containers
-  - **Maritine shipping capacity has increased exponentially over time, as has mechanization of ports**
+  - **History of containerization**
     - **1950s:** longshoremen unloaded individual goods at port
     - **1956:** first containership debuted
     - **1959:** PACECO designed new cranes for loading containers onto ships
     - **1960s:** ISO established twenty-foot-equivalent-unit (TEU) for containers
       - A forty-foot-equivalent-unit has now been introduced as well
       - **This system is Imperial, not metric** - a symbol of American dominance in globalization
-  - 
+  - **Technology and capcaity have increased over time**
+    - **Maritime shipping capacity has increased exponentially over time**
+      - Some ships are as long as a quarter-mile, and too wide to fit through the Panama Canal
+      - They produce millions of tons of CO2CO2 every day, relying on bunker fuel
+      - **Flags of convenience:** loophole that allows major shipping companies to register their ships to any location
+        - Allows shipping companies to avoid labor laws and environmental regulations
+    - **Mechanization of ports has increased exponentially over time**
+    - **This expansion and mechanization has reduced the need for workers**
+    - **Chinese production and trade are becoming dominant**
+      - Busiest shipping ports are located in Shanghai
+    - **Crisis of empty containers**
+      - Because of severe trade imbalances, more containers leave China than enter it
+      - It’s often cheaper to abandon old containers and buy new ones than to maintain the old ones
+    - **Factory system has become mobile and dispersed**
   - **Strait of Hormuz:** main bottleneck for maritine shipping
-  - 
+
+## Lecture Eighteen | Oil
+
+**Oil culture**
+
+- 

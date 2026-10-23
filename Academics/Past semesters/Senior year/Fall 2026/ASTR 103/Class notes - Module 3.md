@@ -104,9 +104,25 @@
 
 - **==🔵Direct imaging==**
 
-  - Process of detecting an exoplanet by photographing it
+  - **Process of detecting an exoplanet by photographing it**
+
+    - Provides information about the planet’s temperature
+
   - **Limitations**
+
     - Stars will always be brighter than their planets
+
       - **Solution 1:** block the star’s light (using coronograph or star shade)
       - **Solution 2:** observe the planet at its brightest wavelength (though the star will still be brighter than the planet)
+
+    - **Resolution can be low, depending on…**
+
+      - The diameter of the biggest lens in the telescope
+
+      - The wavelength of light that the telescope collects
+
+        [[Screenshot 2026-10-23 at 1.57.26 PM.png]]
+
+      - **Angular separation:** the separation between the star and planet
+
     - 
