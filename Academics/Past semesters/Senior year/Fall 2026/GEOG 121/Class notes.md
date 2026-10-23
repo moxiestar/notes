@@ -582,4 +582,32 @@
 
 **Oil culture**
 
-- 
+- **Oil is not only the most common fuel source but also a foundation of modern life**
+  - The vast majority of goods and logistics rely on oil
+  - Oil has both low mass and low weight, while still producing high energy
+  - Oil is essential for fertilizer, cosmetics, plastics, medicine, and so on
+- **Energy:** capacity of a physical system for doing work
+  - All life depends on solar energy
+  - Many systems rely on non-renewable energy
+  - **Overlap of energy use in modern life**
+    - Different energy sources are often supplemented additively 
+    - Historically, we transitioned from coal to crude oil as our primary energy source
+    - **Three primary current energy sources:** coal, natural gas, and crude oil
+      - 80% of the world’s energy comes from fossil fuels
+      - Coal consumption is still climbing, led by China and other Asian countries
+      - Western countries are becoming greener, but Asia is not
+    - **Energy use across borders**
+      - Per capita energy consumption varies widely across the world but American and EU are leaders
+        - America has surpassed the UK and most other major countries in terms of energy usage
+      - The higher the GDP, the higher the energy consumption 
+- **History**
+  - Modern discovery of oil began in PA in 1859 
+  - But usage of oil goes back milennia
+- **Oil reserves**
+  - Largely located in Venezuela, obviously causing geopolitical issues
+    - Bidding from private American companies is ongoing
+  - America is the greatest producer of oil, but has lower reserves
+    - Oil refinement is a point of power and contention
+- **Oil pipelines**
+  - **Crude oil pipelines**: pipelines that carry raw oil
+  - **Product pipelines**: pipelines that carry refined oil
