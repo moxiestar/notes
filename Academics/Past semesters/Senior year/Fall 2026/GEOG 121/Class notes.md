@@ -629,3 +629,7 @@
   - Two-stroke diesel engines (powering container ships)
   - Gas turbines (powering jet engines)
 - US Military fuel consumption 
+  - Greatest consumer of fossil fuels, more than many major countries
+  - Uses 8.5 billion gallons of fuel annually (23 million gallons daily)
+    - Air Force uses the majority, mostly to deliver fuel (actual fuel usage is just 6%)
+    - 
