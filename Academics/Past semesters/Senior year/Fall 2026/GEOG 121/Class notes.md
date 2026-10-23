@@ -543,15 +543,24 @@
 
 **Definitions**
 
-- **Logistics:** efficient movement of people, things, and information, typically in a commercial setting 
+- **Logistics:** efficient movement of people, things, and information, typically in a commercial setting
   - Began in the military, then shifted to business, now pervades everything
 - **Logistical power:** power utilized to control territories and commodities
 - **Logistics spaces:** places where commodities are manufactured
 
 **Containers**
 
-- Shipping containers are the shell/face of logistics 
+- **Shipping containers are the shell/face of logistics**
+  - Containerization is one of the main symbols of globalization
   - 90% of commercial goods involve maritime travel
-    - Maritine shipping capacity has increased exponentially over time
+    - Intermodal freight transport also uses containers
+  - **Maritine shipping capacity has increased exponentially over time, as has mechanization of ports**
+    - **1950s:** longshoremen unloaded individual goods at port
+    - **1956:** first containership debuted
+    - **1959:** PACECO designed new cranes for loading containers onto ships
+    - **1960s:** ISO established twenty-foot-equivalent-unit (TEU) for containers
+      - A forty-foot-equivalent-unit has now been introduced as well
+      - **This system is Imperial, not metric** - a symbol of American dominance in globalization
+  - 
   - **Strait of Hormuz:** main bottleneck for maritine shipping
   - 

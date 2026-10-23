@@ -31,7 +31,7 @@
 
   [[Screenshot 2026-10-10 at 4.39.56 PM.png]]
 
-## **Lectures Seventeen & Eighteen | Extrasolar planets**
+## **Lectures Seventeen, Eighteen, & Nineteen | Extrasolar planets**
 
 **Exoplanets**
 
@@ -58,7 +58,7 @@
     - **Radial velocity:** the part of the star’s spectral graph that points towards or away from us
     - **Transverse velocity:** the part of the star’s spectral graph that does not point towards or away from us
 
-- **Radial velocity curves**
+- **==🔵Radial velocity method==**
 
   - A star’s radial velocity is its speed moving towards or away from Earth
   - A radial velocity curve is a graph of the star’s radial velocity over time
@@ -71,7 +71,7 @@
       - The mass of the planet
       - The distance between the star and the planet
 
-- **Transits**
+- **==🔵Transit method==**
 
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
 
@@ -101,3 +101,12 @@
       - Equation is proportional between the planet’s radius and the star’s radius
 
         [[Screenshot 2026-10-21 at 1.32.20 PM.png]]
+
+- **==🔵Direct imaging==**
+
+  - Process of detecting an exoplanet by photographing it
+  - **Limitations**
+    - Stars will always be brighter than their planets
+      - **Solution 1:** block the star’s light (using coronograph or star shade)
+      - **Solution 2:** observe the planet at its brightest wavelength (though the star will still be brighter than the planet)
+    - 
