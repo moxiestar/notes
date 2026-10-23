@@ -638,3 +638,10 @@
   - Point where humanity reaches the limit of oil reserves
   - Peak oil is likely a myth - we probably can’t reach it, meaning we’ll continue to use more and more oil
   - A habitable world will depend on decarbonization 
+- **Dakota Pipeline**
+  - Oil pipeline running through Dakota reservations and land
+    - 1,168 miles, running from North Dakota to Illinois
+    - Ran through sacred Sioux sites, as well as the Mississippi watershed
+  - Proposed in 2016
+    - Dakota staged an encampment to block the pipeline
+    - Unfortunately, the encampment was shut down by private 
