@@ -578,9 +578,9 @@
     - **Factory system has become mobile and dispersed**
   - **Strait of Hormuz:** main bottleneck for maritine shipping
 
-## Lecture Eighteen | Oil
+## Lectures Eighteen & Nineteen | Oil & Petroculture
 
-**Oil culture**
+**Oil** 
 
 - **Oil is not only the most common fuel source but also a foundation of modern life**
   - The vast majority of goods and logistics rely on oil
@@ -590,7 +590,7 @@
   - All life depends on solar energy
   - Many systems rely on non-renewable energy
   - **Overlap of energy use in modern life**
-    - Different energy sources are often supplemented additively 
+    - Different energy sources are often supplemented additively
     - Historically, we transitioned from coal to crude oil as our primary energy source
     - **Three primary current energy sources:** coal, natural gas, and crude oil
       - 80% of the world’s energy comes from fossil fuels
@@ -599,9 +599,9 @@
     - **Energy use across borders**
       - Per capita energy consumption varies widely across the world but American and EU are leaders
         - America has surpassed the UK and most other major countries in terms of energy usage
-      - The higher the GDP, the higher the energy consumption 
+      - The higher the GDP, the higher the energy consumption
 - **History**
-  - Modern discovery of oil began in PA in 1859 
+  - Modern discovery of oil began in PA in 1859
   - But usage of oil goes back milennia
 - **Oil reserves**
   - Largely located in Venezuela, obviously causing geopolitical issues
@@ -609,5 +609,23 @@
   - America is the greatest producer of oil, but has lower reserves
     - Oil refinement is a point of power and contention
 - **Oil pipelines**
-  - **Crude oil pipelines**: pipelines that carry raw oil
-  - **Product pipelines**: pipelines that carry refined oil
+  - **Crude oil pipelines:** pipelines that carry raw oil
+  - **Product pipelines:** pipelines that carry refined oil
+
+**Petroculture**
+
+- **Infrastructure and cultural understanding that relies on oil**
+  - **Microplastics**
+    - Crisis around the ubiquity of plastics
+    - Resulting partially from widespread plastic toys
+      - Barbie, Cars, etc
+    - Plaastic is a part of our imaginary
+  - **Mass automobility**
+    - Our societies, especially in America, have become car-dependent, with suburban, unwalkable neighborhoods
+    - Huge effects on politics, culture, energy usage, and mobility
+      - Racing has become a pastime for spectators
+    - Engine efficiency has increased exponentially since the Industrial Revolution
+- **Prime movers of transport globalization**
+  - Two-stroke diesel engines (powering container ships)
+  - Gas turbines (powering jet engines)
+- 
