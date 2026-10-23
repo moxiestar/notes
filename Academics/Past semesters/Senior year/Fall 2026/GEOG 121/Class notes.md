@@ -713,6 +713,16 @@
 **Global cities**
 
 - **Global cities:** major nodes in the organization of the global economy
+  - Hubs for trade, business, culture, and finance
+  - Command and control global function, and maintain an association with politics 
+- 7 Hypotheses of Global Cities (Sassen)
+  1. Globalization expands central functions
+  2. Headquarters buy complex functions from specialized firms
+  3. Specialized firms cluster in cities
+  4. Because headquarters outsource, they can be located anywhere
+  5. Because trade ties major destinations together, there are global cities, but an individual city cannot be a global city
+  6. Global cities rely on low-wage workers
+  7. Smaller firms cannot compete
 - **Globality of cities:** a city’s agency in forming and influencing global corporations 
   - Geography is more relevant than ever, with brick and mortar establishments becoming more and more important
   - Certain cities dominate in connectivity 
@@ -738,4 +748,3 @@
     - Spreading of placeless capitalized organizations (McDonald’s, gas stations, etc)
     - Rural areas have become more urban, connecting more the world
       - Disintegration of the Hinterland and end of the wilderness
-    - 

@@ -272,12 +272,12 @@
 ### Friday, October 23
 
 - [x] ASTR 103: LT Check 16
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, October 25
 
 - [x] ASTR 103: Warm-up 20
-- [ ] ASTR 103: LT Check 17
+- [x] ASTR 103: LT Check 17
 
 ### Monday, October 26
 

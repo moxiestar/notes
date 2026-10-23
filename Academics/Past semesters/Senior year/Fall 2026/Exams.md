@@ -110,6 +110,32 @@
 
 ### ==🔴Midterm 2 | October 29==
 
+**Format:** Short answer questions & multiple choice
+
+**Content:** Lectures 3.1 - 8.1 (plus 2.3)
+
+**Cheat sheet:** one-sided page allowed
+
+**First phase of review**
+
+- [ ] Videos
+- [ ] Lecture notes
+- [ ] Practice problems
+
+**Second phase of review**
+
+- [ ] **Practice exam**
+  - [ ] Ask Claude to generate another practice exam based on weak points from exam/review
+
+**Third phase of review**
+
+- [ ] **CREATE CHEAT SHEET**
+  - [ ] Summaries, definitions, and important examples for each topic
+
+**Pain points**
+
+- [ ] ?
+
 ### Midterm 3 | November 19
 
 ### Final | December 8
