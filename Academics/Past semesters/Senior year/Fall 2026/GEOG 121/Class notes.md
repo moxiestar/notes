@@ -648,3 +648,13 @@
     - Unfortunately, the encampment was shut down by private security and the pipeline was approved
 
 ## Lectures Twenty | Global Corporations
+
+**Definitions**
+
+- **Corporation:** a legal entity that acts as a fictional person
+  - Can sue, pay taxes, etc
+  - Removes responsibility from shareholders
+- Global corporations vs. GDP
+  - Saudi Aramco is roughly the size of Italy
+  - Apple is roughly the size of Australia
+- 
