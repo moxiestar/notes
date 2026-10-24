@@ -1,5 +1,7 @@
 ## **Chapter 1.1**
 
-**Review of atoms & electric charge**
+**Linear Equations**
 
-- **Atom anatomy**
+- **A linear equation** is an equation that can be written as the sum of the coefficients times variables equaling another number
+  - **Example:** 4x - 5y + 7.3z = 27
+- 
