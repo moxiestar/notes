@@ -1,4 +1,4 @@
-# Class notes | Module 1
+# ASTR 103 | Module 1
 
 ## **Lecture One | History of Earth**
 

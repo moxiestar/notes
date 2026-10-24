@@ -1,4 +1,4 @@
-# Class notes
+# GEOG 121 | Class notes
 
 ## **Lecture One | Fordism**
 
@@ -714,7 +714,7 @@
 
 - **Global cities:** major nodes in the organization of the global economy
   - Hubs for trade, business, culture, and finance
-  - Command and control global function, and maintain an association with politics 
+  - Command and control global function, and maintain an association with politics
 - 7 Hypotheses of Global Cities (Sassen)
   1. Globalization expands central functions
   2. Headquarters buy complex functions from specialized firms
@@ -723,9 +723,9 @@
   5. Because trade ties major destinations together, there are global cities, but an individual city cannot be a global city
   6. Global cities rely on low-wage workers
   7. Smaller firms cannot compete
-- **Globality of cities:** a city’s agency in forming and influencing global corporations 
+- **Globality of cities:** a city’s agency in forming and influencing global corporations
   - Geography is more relevant than ever, with brick and mortar establishments becoming more and more important
-  - Certain cities dominate in connectivity 
+  - Certain cities dominate in connectivity
     - London is the most common headquarter location (huge colonial influence)
     - Tokyo is the most connected
 - **Development of modern cities**
@@ -738,7 +738,7 @@
     - Also mirrored the trade centrality of cities in Medieval Europe
   - **Hinterlands:** “country behind”
     - Rural areas serving cities
-    - Example: Lagos, Nigeria 
+    - Example: Lagos, Nigeria
       - Central metropolitan area with surrounding uncontrolled settlements
       - Projected to be the largest mega-city region in the world
   - **Forelands:** urban areas

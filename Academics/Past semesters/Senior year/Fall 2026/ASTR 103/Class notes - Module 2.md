@@ -1,3 +1,5 @@
+# ASTR 103 | Module 2
+
 ## **Lecture Ten | Spectra & Wavelengths**
 
 **Review of atoms & electric charge**
