@@ -102,4 +102,14 @@
 
 **Vectors**
 
+- **A vector** can be defined as the line that connects **an initial point** and **a terminal point**
+  - Vectors are drawn as the line that connects these two points on the Cartesian plane
+  - The components of a vector are the coordinates of the terminal piont
+- **Finding the length of a vector**
+
+  [[Screenshot 2026-10-24 at 2.32.49 PM.png]]
+- **Example problems**
+  - Adding and graphing multiple vectors
+
+    [[Screenshot 2026-10-24 at 2.31.24 PM.png]]
 - 
