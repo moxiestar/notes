@@ -47,8 +47,40 @@
 
 **Matrix Solutions**
 
-- **A system of linear equations can have…**
+- **A matrix or system of linear equations can have…**
   - **No** solutions (inconsistent)
   - **One** unique solution (consistent)
   - **Infinite** solutions (consistent)
-- 
+- **Determining matrix solutions**
+  - If there’s an inconsistent row (0 0 0 1), the matrix has no solutions
+  - If there are no inconsistencies, and at least one row with all 0s and free variables (variables with no noted solution), the matrix has infinite solutions 
+  - If there are no inconsistencies and leading 1s in every row, the matrix has one unique solution
+- **Example problems**
+  - **Finding k for various solutions**
+
+    [[Screenshot 2026-10-24 at 2.08.43 PM.png]]
+
+## **Chapter 2.1**
+
+**Matrix Addition and Basic Multiplication**
+
+- **Matrix review**
+  - **A matrix** is an array of numbers
+  - **The dimensions of a matrix** are the number of rows and columns
+    - Rows always come first 
+  - **The elements of a matrix** are the individual numbers
+- **Example problems**
+  - **Finding the matrix X for a simple matrix equation**
+
+    [[Screenshot 2026-10-24 at 2.14.35 PM.png]]
+  - **Finding scalars *a* and *b* for a simple vector equation**
+
+    [[Screenshot 2026-10-24 at 2.15.26 PM.png]]
+
+## **Chapter 2.2**
+
+**Matrix Multiplication**
+
+- **Matrices and column vectors**
+  - Column vector: a matrix that has only one column (n x 1)
+  - Row vector: a matrix that has only one row (1 x n)
