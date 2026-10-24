@@ -156,7 +156,7 @@
 
 ## **Chapter 2.6**
 
-**Matrix Inverses**
+**Matrix Inverses (1)**
 
 - **The identity matrix (I) is a square matrix**, comprised of 0s with a descending diagonal row of 1s
   - **An identity matrix I3**
@@ -171,8 +171,29 @@
   - If AB equals I, BA must also equal I
   - Any given matrix only has one unique inverse
   - Not every square matrix has an inverse
+- **Formula for finding the inverse of a 2×2 matrix**
+
+  [[IMG_0818.jpg]]
+
+
 - **Example problems**
   - **Finding an inverse for a given square matrix**
 
     [[Screenshot 2026-10-24 at 2.55.19 PM.png]]
-  -  
+
+## **Chapter 2.7**
+
+**Matrix Inverses (2)**
+
+- **More inverse rules**
+  - **If A is invertible…**
+    - There exists a matrix B such that BA = I
+    - ==🔴There exists a matrix C such that AC = I==
+    - The RREF of A is I 
+    - The equation Ax = b has one unique solution for every n x 1 vector b
+    - The equation Ax = 0 has one unique solution (x = 0)
+    - The inverse of the inverse of A is just A
+    - The inverse of AB does not equal the inverse of A times the inverse of B
+    - The inverse of A + B does not equal the inverse of A plus the inverse of B
+    - The matrix A raised to any power is invertible
+- **Diagonal matrices (similar to the identity matrix, but the central diagonal row can be any numbers) are easier to invert**
