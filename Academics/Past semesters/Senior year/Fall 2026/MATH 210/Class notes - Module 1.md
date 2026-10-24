@@ -11,4 +11,10 @@
 **Matrices**
 
 - **A matrix** is an array of numbers
-- Linear equations can be rewritten as “augmented” matrices, where both the coefficients and the 
+- Linear equations can be rewritten as “augmented” matrices, where both the coefficients and the sum (number on the other side of the equals sign) are written as entries in the matrix
+
+## **Chapter 1.2**
+
+**Systems of Linear Equations**
+
+- **A linear equation** is an equation that can be written as the sum of the coefficients times variables equaling another number
