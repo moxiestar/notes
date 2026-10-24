@@ -129,11 +129,50 @@
   - **Solving for Ax = b**
 
     [[Screenshot 2026-10-24 at 2.40.04 PM.png]]
-  - **Solving Ax = 0** 
+  - **Solving for Ax = 0** 
 
     [[Screenshot 2026-10-24 at 2.45.59 PM.png]]
-  - Finding solutions to Ax = b based on solutions ot Ax = 0 
+  - **Finding solutions to Ax = b based on solutions to Ax = 0** 
 
     [[Screenshot 2026-10-24 at 2.46.24 PM.png]]
 
+## **Chapter 2.5**
+
+**Matrix Equations**
+
+- **Rewriting vector equations**
+
+  [[Screenshot 2026-10-24 at 2.50.35 PM.png]]
+- **Example problems**
+  - **Solving for AX = B via one method**
+
+    [[Screenshot 2026-10-24 at 2.47.47 PM.png]]
+  - **Solving for AX = B via another method**
+
+    [[Screenshot 2026-10-24 at 2.48.34 PM.png]]
+  - **Deducing X based on row reduction of A**
+
+    [[Screenshot 2026-10-24 at 2.51.12 PM.png]]
+
+## **Chapter 2.6**
+
+**Matrix Inverses**
+
+- **The identity matrix (I) is a square matrix**, comprised of 0s with a descending diagonal row of 1s
+  - **An identity matrix I3**
+
+    [[Screenshot 2026-10-24 at 2.56.06 PM.png]]
+
      
+- **Suppose, for the square matrix A and the square matrix B**, **AB = I** and **BA = I**
+  - **A** is **invertible (A^-1)**
+  - **B** is the **inverse of A**
+- **Inverse rules**
+  - If AB equals I, BA must also equal I
+  - Any given matrix only has one unique inverse
+  - Not every square matrix has an inverse
+- **Example problems**
+  - **Finding an inverse for a given square matrix**
+
+    [[Screenshot 2026-10-24 at 2.55.19 PM.png]]
+  -  
