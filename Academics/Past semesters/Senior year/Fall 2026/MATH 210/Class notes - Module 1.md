@@ -112,4 +112,28 @@
   - Adding and graphing multiple vectors
 
     [[Screenshot 2026-10-24 at 2.31.24 PM.png]]
-- 
+
+## **Chapter 2.4**
+
+**Vector Equations**
+
+- **Finding solutions to vector equations of the form Ax = b**
+  - **If the equation Ax = b has infinitely many solutions**, then the equation Ax = 0 will also have **infinitely many solutions**
+  - **If the equation Ax = b has one unique solution**, then the equation Ax = 0 will also have **one unique solution**
+  - **If the equation Ax = b has no solutions**, then the equation Ax = 0 could have either **infinitely many solutions** or **one unique solution**
+
+    [[Screenshot 2026-10-24 at 2.43.18 PM.png]]
+
+    [[Screenshot 2026-10-24 at 2.43.44 PM.png]]
+- **Example problems**
+  - **Solving for Ax = b**
+
+    [[Screenshot 2026-10-24 at 2.40.04 PM.png]]
+  - **Solving Ax = 0** 
+
+    [[Screenshot 2026-10-24 at 2.45.59 PM.png]]
+  - Finding solutions to Ax = b based on solutions ot Ax = 0 
+
+    [[Screenshot 2026-10-24 at 2.46.24 PM.png]]
+
+     
