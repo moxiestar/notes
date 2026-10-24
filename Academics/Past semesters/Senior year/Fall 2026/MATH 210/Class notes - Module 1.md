@@ -82,5 +82,24 @@
 **Matrix Multiplication**
 
 - **Matrices and column vectors**
-  - Column vector: a matrix that has only one column (n x 1)
-  - Row vector: a matrix that has only one row (1 x n)
+  - **Column vector:** a matrix that has only one column (n x 1)
+  - **Row vector:** a matrix that has only one row (1 x n)
+- **Multiplying larger matrices**
+  - For A, an m x r matrix, and B, an r x n matrix, their product AB is the m x n matrix
+  - **Steps**
+    1. **Multiply the first row of A by the first column of B** and add the resulting product to find the first entry of the first row of AB
+    2. **Multiply the first row of A by the second column of B** and add the resulting product to find the second entry of the first row of AB
+    3. **Multiply the first row of A by the nth column of B** and add the resulting product to find the nth entry of the first row of AB
+    4. **Multiply the second row of A by the first column of B** and add the resulting product to find the first entry of the second row of AB
+    5. **Multiply the second row of A by the second column of B** and add the resulting product to find the second entry of the second row of AB
+    6. **Multiply the second row of A by the nth column of B** and add the resulting product to find the nth entry of the second row of AB
+- **Example problems**
+  - **Multiplying matrices Y and Z**
+
+    [[Screenshot 2026-10-24 at 2.21.19 PM.png]]
+
+## **Chapter 2.3**
+
+**Vectors**
+
+- 
