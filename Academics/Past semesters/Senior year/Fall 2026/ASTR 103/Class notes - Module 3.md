@@ -126,5 +126,3 @@
         [[Screenshot 2026-10-23 at 1.57.26 PM.png]]
 
       - **Angular separation:** the separation between the star and planet
-
-    - 
