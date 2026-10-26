@@ -647,7 +647,7 @@
     - Dakota staged an encampment to block the pipeline
     - Unfortunately, the encampment was shut down by private security and the pipeline was approved
 
-## Lectures Twenty & Twenty-One | Global Corporations
+## Lectures Twenty, Twenty-One, & Twenty-Two | Global Corporations
 
 **Corporations**
 
@@ -748,3 +748,12 @@
     - Spreading of placeless capitalized organizations (McDonald’s, gas stations, etc)
     - Rural areas have become more urban, connecting more the world
       - Disintegration of the Hinterland and end of the wilderness
+
+## Lecture Twenty-Three | Circuits of Capital
+
+**Capital Circulation and Crises**
+
+- **Lehman Brothers**
+  - Failed on September 13, 2008, kicking off the 2008 economic crisis
+  - A week later, heads of state addressed the UN General Assembly
+  - 
