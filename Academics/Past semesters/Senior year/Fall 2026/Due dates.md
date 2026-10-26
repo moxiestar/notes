@@ -439,5 +439,5 @@
 
 ### Tuesday, December 8
 
-- [ ] **ASTR 103: Final Exam (8:00)**
 - [ ] **MATH 210: Final Exam (12:00)**
+- [ ] **ASTR 103: Final Exam (4:00)**
