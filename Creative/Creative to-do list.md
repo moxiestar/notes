@@ -9,7 +9,3 @@
 - [ ] Work on FWWC sketches
 - [ ] Work on Dad’s birthday present (Tom with pups, watercolor)
 - [ ] Work on graduation comic (before December)
-
-## Other
-
-- [ ] Work on Terror edit
