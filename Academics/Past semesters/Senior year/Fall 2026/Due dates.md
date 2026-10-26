@@ -297,7 +297,7 @@
 
 ### Thursday, October 29
 
-- [ ] ASTR 103: Warm-up 22
+- [x] ASTR 103: Warm-up 22
 - [ ] **MATH 210: Midterm 2**
 
 ### Friday, October 30
