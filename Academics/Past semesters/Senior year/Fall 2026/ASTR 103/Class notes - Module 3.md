@@ -62,7 +62,7 @@
 
 - **==🔵Radial velocity method==**
 
-  - ==🔴Depends primarily on the mass of the planet==
+  - ==🔴Depends primarily on the mass of the planet, but involves detecting light from the background star==
   - A star’s radial velocity is its speed moving towards or away from Earth
   - A radial velocity curve is a graph of the star’s radial velocity over time
     - Negative velocities represent blueshifted light
@@ -76,7 +76,7 @@
 
 - **==🟢Transit method==**
 
-  - ==🔴Depends primarily on the radius of the planet==
+  - ==🔴Depends primarily on the radius of the planet, but involves detecting light from the background star==
 
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
 
@@ -134,6 +134,7 @@
 
 - **==🔴Gravitational microlensing==**
 
+  - ==🔴Involves detecting light from the background star==
   - **Definition**
     - **Phenomenon where a massive “lensing” object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the background star look larger**
       - When the object is directly between Earth and the background star, the star’s light curve will peak and the star will look the largest
