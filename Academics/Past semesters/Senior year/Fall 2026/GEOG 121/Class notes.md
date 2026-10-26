@@ -754,6 +754,13 @@
 **Capital Circulation and Crises**
 
 - **Lehman Brothers**
-  - Failed on September 13, 2008, kicking off the 2008 economic crisis
+  - **Failed on September 13, 2008, kicking off the 2008 economic crisis**
+    - The crisis began in 2006-2007, when costs on the housing market shot up 
+    - 
   - A week later, heads of state addressed the UN General Assembly
-  - 
+  - International response
+    - Lula, in Brazil, blamed speculation and selfishness
+    - Bush, in the US, called it an American problem 
+    - Fernandez de Kichner, in Argentina, said the crisis came from the core, rather than the periphery
+- The Global South, especially Latin America, has experienced more financial crises than other areas in the world
+- 
