@@ -2,6 +2,7 @@
 
 - [ ] **==🔴Continue writing opening==**
   - [ ] Add prologue where Lord Lawrence is reading a story about the Arctic to his children
+  - [ ] Figure out Blake’s name
   - [ ] Work on Lawrence’s logbook entries
   - [ ] Work on ship dialogue scenes
 - [ ] **Work on characters**
