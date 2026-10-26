@@ -40,10 +40,10 @@
 - **Definition:** planets that orbit stars other than the Sun
   - Over 5000 exoplanets have been found
 - **Detection methods**
-  - Radial velocity method
-  - Transit method
-  - Direct imaging
-  - Gravitational microlensing
+  - ==🔵Radial velocity method==
+  - ==🟢Transit method==
+  - ==🟡Direct imaging==
+  - ==🔴Gravitational microlensing==
 
 **Star and Planet Orbits**
 
@@ -73,7 +73,7 @@
       - The mass of the planet
       - The distance between the star and the planet
 
-- **==🔵Transit method==**
+- **==🟢Transit method==**
 
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
 
@@ -104,7 +104,7 @@
 
         [[Screenshot 2026-10-21 at 1.32.20 PM.png]]
 
-- **==🔵Direct imaging==**
+- **==🟡Direct imaging==**
 
   - **Process of detecting an exoplanet by photographing it**
 
@@ -128,8 +128,17 @@
       - **Angular separation:** the separation between the star and planet
 
 
-- **Gravitational microlensing**
-  - Phenomenon where a massive object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the object look larger
-  - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant object
-  - Curved space
-    - l
+- **==🔴Gravitational microlensing==**
+  - **Definition**
+    - **Phenomenon where a massive “lensing” object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the object look larger**
+      - When the object is directly between Earth and the background star, the star’s light curve will peak and the object will look the largest
+      - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant object
+  - **Curved space**
+    - Light from a distant star is warped because the object travelling between it and Earth curves space
+    - The closer the object is to the background star, the more the object will bend the star’s light 
+  - **Light curve of the background star**
+    - **Peak height:** represents the amount of light bent towards Earth that we wouldn’t normally receive 
+      - The larger the object, the taller the peak
+    - **Peak width:** represents the amount of time when the spacetime region between Earth and the background star is warped 
+  - **For stars with planets**
+    - Stars bac
