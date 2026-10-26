@@ -141,4 +141,5 @@
       - The larger the object, the taller the peak
     - **Peak width:** represents the amount of time when the spacetime region between Earth and the background star is warped 
   - **For stars with planets**
-    - Stars bac
+    - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement 
+    - The peak for the star comes first, then the peak for the planet
