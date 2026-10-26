@@ -281,14 +281,14 @@
 
 ### Monday, October 26
 
-- [ ] ASTR 103: Homework 16
+- [x] ASTR 103: Homework 16
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, October 27
 
-- [ ] ASTR 103: Warm-up 21
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 21
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, October 28
 
