@@ -1,7 +1,7 @@
 ## **Writing**
 
 - [ ] **==🔴Continue writing opening==**
-  - [ ] Work on Diana’s early investigation
+  - [ ] Add prologue where Lord Lawrence is reading a story about the Arctic to his children
   - [ ] Work on Lawrence’s logbook entries
   - [ ] Work on ship dialogue scenes
 - [ ] **Work on characters**
