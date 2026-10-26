@@ -1,9 +1,7 @@
-
 ## Writing
 
 - [ ] Work on video game
   - [ ] [[Creative/FWWC to-dos]]
-- [ ] Work on Half Agony, Half Hope
 
 ## Art
 
@@ -14,4 +12,4 @@
 
 ## Other
 
-- [ ] Update portfolio with notebook/passport idea
+- [ ] Work on Terror edit
