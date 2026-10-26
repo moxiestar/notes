@@ -292,14 +292,12 @@
 
 ### Wednesday, October 28
 
-- [ ] ASTR 103: LT Check 18
-- [ ] ASTR 103: Homework 17
-- [ ] MATH 210: Homework
+- [x] ASTR 103: LT Check 18
+- [x] ASTR 103: Homework 17
 
 ### Thursday, October 29
 
 - [ ] ASTR 103: Warm-up 22
-- [ ] MATH 210: Before-class assignment
 - [ ] **MATH 210: Midterm 2**
 
 ### Friday, October 30
@@ -441,5 +439,5 @@
 
 ### Tuesday, December 8
 
+- [ ] **ASTR 103: Final Exam (8:00)**
 - [ ] **MATH 210: Final Exam (12:00)**
-- [ ] **ASTR 103: Final Exam (4:00)**

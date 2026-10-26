@@ -62,6 +62,7 @@
 
 - **==🔵Radial velocity method==**
 
+  - ==🔴Depends primarily on the mass of the planet==
   - A star’s radial velocity is its speed moving towards or away from Earth
   - A radial velocity curve is a graph of the star’s radial velocity over time
     - Negative velocities represent blueshifted light
@@ -74,6 +75,8 @@
       - The distance between the star and the planet
 
 - **==🟢Transit method==**
+
+  - ==🔴Depends primarily on the radius of the planet==
 
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
 
@@ -106,6 +109,8 @@
 
 - **==🟡Direct imaging==**
 
+  - ==🔴Depends primarily on the temperature of the planet==
+
   - **Process of detecting an exoplanet by photographing it**
 
     - Provides information about the planet’s temperature
@@ -130,9 +135,9 @@
 - **==🔴Gravitational microlensing==**
 
   - **Definition**
-    - **Phenomenon where a massive “lensing” object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the object look larger**
-      - When the object is directly between Earth and the background star, the star’s light curve will peak and the object will look the largest
-      - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant object
+    - **Phenomenon where a massive “lensing” object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the background star look larger**
+      - When the object is directly between Earth and the background star, the star’s light curve will peak and the star will look the largest
+      - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant star
   - **Curved space**
     - Light from a distant star is warped because the object travelling between it and Earth curves space
     - The closer the object is to the background star, the more the object will bend the star’s light
@@ -142,5 +147,5 @@
     - **Peak width:** represents the amount of time when the spacetime region between Earth and the background star is warped
   - **For stars with planets**
     - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement
-    - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star** 
+    - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star**
       - If the planet is to the right of the star, it will appear first on the light curve, to the left of the star
