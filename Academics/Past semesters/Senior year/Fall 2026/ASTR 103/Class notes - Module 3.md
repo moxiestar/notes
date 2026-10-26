@@ -127,19 +127,20 @@
 
       - **Angular separation:** the separation between the star and planet
 
-
 - **==🔴Gravitational microlensing==**
+
   - **Definition**
     - **Phenomenon where a massive “lensing” object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the object look larger**
       - When the object is directly between Earth and the background star, the star’s light curve will peak and the object will look the largest
       - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant object
   - **Curved space**
     - Light from a distant star is warped because the object travelling between it and Earth curves space
-    - The closer the object is to the background star, the more the object will bend the star’s light 
+    - The closer the object is to the background star, the more the object will bend the star’s light
   - **Light curve of the background star**
-    - **Peak height:** represents the amount of light bent towards Earth that we wouldn’t normally receive 
+    - **Peak height:** represents the amount of light bent towards Earth that we wouldn’t normally receive
       - The larger the object, the taller the peak
-    - **Peak width:** represents the amount of time when the spacetime region between Earth and the background star is warped 
+    - **Peak width:** represents the amount of time when the spacetime region between Earth and the background star is warped
   - **For stars with planets**
-    - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement 
-    - The peak for the star comes first, then the peak for the planet
+    - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement
+    - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star** 
+      - If the planet is to the right of the star, it will appear first on the light curve, to the left of the star
