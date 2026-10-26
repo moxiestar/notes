@@ -126,3 +126,10 @@
         [[Screenshot 2026-10-23 at 1.57.26 PM.png]]
 
       - **Angular separation:** the separation between the star and planet
+
+
+- **Gravitational microlensing**
+  - Phenomenon where a massive object located between Earth and a distant light source will warp spacetime, bending light rays towards Earth and making the object look larger
+  - When a single star passes between Earth and a distant star, it can cause gravitational lensing, but the effect is not large enough to produce a larger version of the distant object
+  - Curved space
+    - l
