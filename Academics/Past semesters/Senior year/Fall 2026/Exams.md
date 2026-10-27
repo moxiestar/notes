@@ -119,7 +119,7 @@
 **First phase of review**
 
 - [x] Videos
-- [ ] Lecture notes
+- [x] Lecture notes
 - [ ] Practice problems
 - [ ] Practice exam
 
@@ -142,7 +142,7 @@
 - [ ] Finding the determinant based on RREF
 - [ ] Using the eigenvalue/determinant equation
 - [ ] Understanding eigenvalue/eigenvector rules
-- [ ] 
+- [ ] Using PDP diagonalization equation
 
 ### Midterm 3 | November 19
 
