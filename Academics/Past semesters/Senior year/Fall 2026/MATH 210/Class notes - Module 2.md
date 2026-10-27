@@ -105,6 +105,8 @@
   - $det(A^T) = det(A)$
   - $det(AB) = det(A)det(B)$
   - If A is invertible, then $det(A^{-1}) = \frac{1}{det(A)}$
+- **Example problems**
+  - Determinant 
 
 **Triangular matrices**
 
