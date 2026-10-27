@@ -1,6 +1,7 @@
 ## **Writing**
 
 - [ ] **Figure out general plot questions**
+  - [ ] Update ideas - Diana and Kat are grad students
 - [ ] **==🔴Continue writing opening==**
   - [ ] Add prologue where Lord Lawrence is reading a story about the Arctic to his children
   - [ ] Work on Lawrence’s logbook entries
