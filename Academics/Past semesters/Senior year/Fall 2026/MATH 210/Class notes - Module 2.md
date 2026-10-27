@@ -105,8 +105,18 @@
   - $det(A^T) = det(A)$
   - $det(AB) = det(A)det(B)$
   - If A is invertible, then $det(A^{-1}) = \frac{1}{det(A)}$
+- **Interactions between determinants and row reductions**
+  - If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0
+  - If a square matrix A reduces to the identity matrix, its determinant cannot equal 0
+  - If a square matrix A is invertible, its determinant cannot equal 0
+  - If a square matrix A is not invertible, its determinant equals 0 
 - **Example problems**
-  - Determinant 
+  - **Finding the determinant based on elementary row operations**
+
+    [[Screenshot 2026-10-26 at 10.40.32 PM.png]]
+  - **Determining which matrices are invertible**
+
+    [[Screenshot 2026-10-26 at 10.43.34 PM.png]]
 
 **Triangular matrices**
 
@@ -114,4 +124,12 @@
 - **A lower triangular matrix** is a matrix with all entries equaling 0 above the diagonal
 - **A triangular matrix** can refer to either one
 - **The determinant of a triangular matrix** is the product of its entries along the diagonal
+
+## **Chapter 4.1**
+
+**Eigenvalues & Eigenvectors**
+
+- **For a square matrix A, if there is a scalar λ and a non-zero vector x such that Ax = λx…**
+  - Then λ is an eigenvalue of A
+  - Then x is an eigenvector of A
 - 
