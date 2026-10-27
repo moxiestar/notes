@@ -72,20 +72,29 @@
 **Determinants**
 
 - **The determinant of a 1×1 matrix** $[a]$ is $a$
+
 - **The determinant of a 2×2 matrix** $[[a,b],[c,d]]$ is $ad-bc$
+
 - **The determinant of a 3×3 matrix** is a little more complicated
 
   [[Screenshot 2026-10-26 at 10.00.49 PM.png]]
+
 - **Determinant rules**
+
   - **For a square matrix A, the determinant indicates if the matrix is invertible**
-    - **If the determinant ≠ 0,** the matrix is invertible 
+
+    - **If the determinant ≠ 0,** the matrix is invertible
     - **If the determinant = 0,** the matrix is not invertible
+
   - When finding the determinant of a matrix, use the row with the most 0s if possible
+
   - Remember negative and positive rules of different entries in the matrix
 
     [[Screenshot 2026-10-26 at 10.10.45 PM.png]]
+
 - **Example problems**
-  - **Finding the determinant of a 3×3 matrix** 
+
+  - **Finding the determinant of a 3×3 matrix**
 
     [[Screenshot 2026-10-26 at 10.09.25 PM.png]]
 
@@ -93,27 +102,38 @@
 
 **Properties of Determinants**
 
-- For any square matrix A, if two rows or columns are identical, then the determinant is 0 
+- For any square matrix A, if two rows or columns are identical, then the determinant is 0
+
 - **Row operation rules**
+
   - Switching any two rows of a matrix will make the determinant negative
+
   - Multiplying a row by a scalar will multiply the determinant by that scalar
+
   - Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant
 
     [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
+
 - **Interactions between determinants and other matrix operations**
+
   - $det(kA) = k^ndet(A)$
   - $det(A^T) = det(A)$
   - $det(AB) = det(A)det(B)$
   - If A is invertible, then $det(A^{-1}) = \frac{1}{det(A)}$
+
 - **Interactions between determinants and row reductions**
+
   - If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0
   - If a square matrix A reduces to the identity matrix, its determinant cannot equal 0
   - If a square matrix A is invertible, its determinant cannot equal 0
-  - If a square matrix A is not invertible, its determinant equals 0 
+  - If a square matrix A is not invertible, its determinant equals 0
+
 - **Example problems**
+
   - **Finding the determinant based on elementary row operations**
 
     [[Screenshot 2026-10-26 at 10.40.32 PM.png]]
+
   - **Determining which matrices are invertible**
 
     [[Screenshot 2026-10-26 at 10.43.34 PM.png]]
@@ -132,4 +152,8 @@
 - **For a square matrix A, if there is a scalar λ and a non-zero vector x such that Ax = λx…**
   - Then λ is an eigenvalue of A
   - Then x is an eigenvector of A
-- 
+- **Example problems**
+  - **Computing basic eigenvalues and eigenvectors**
+
+    [[Screenshot 2026-10-26 at 10.52.33 PM.png]]
+  - 
