@@ -6,12 +6,12 @@
 
 **Vectors**
 
-- Remember to think of vectors like a map from initial to terminal point
+- **Remember to think of vectors like a map from initial to terminal point**
 - **If you want to add two vectors ($a$ and $b$) on a plane**
   1. Move $b$ so its initial point is the terminal point of $a$
   2. Then draw a new vector from the initial point of $a$ to the terminal point of $b$
   3. This forms a triangle, whose hypotenuse is the sum of $a$ and $b$
-  4. 
+- **Remember that multiplication by a number “scales” vectors, hence the term scalar**
 
 ## **Chapter 2.3**
 
