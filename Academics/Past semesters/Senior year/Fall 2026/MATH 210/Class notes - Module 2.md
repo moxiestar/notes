@@ -152,8 +152,15 @@
 - **For a square matrix A, if there is a scalar λ and a non-zero vector x such that Ax = λx…**
   - Then λ is an eigenvalue of A
   - Then x is an eigenvector of A
+  - **Note that** not every matrix has eigenvalues and eigenvectors
+- **Process of finding eigenvalues and eigenvectors from the Ax = λx equation**
+
+  [[Screenshot 2026-10-26 at 11.02.24 PM.png]]
 - **Example problems**
-  - **Computing basic eigenvalues and eigenvectors**
+  - **Defining basic eigenvalues and eigenvectors**
 
     [[Screenshot 2026-10-26 at 10.52.33 PM.png]]
-  - 
+  - **Finding eigenvalues and eigenvectors for basic matrices**
+
+    [[Screenshot 2026-10-26 at 11.03.29 PM.png]]
+  - **Finding eigenvalues and eigenvectors for basic matrices**
