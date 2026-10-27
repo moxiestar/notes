@@ -73,7 +73,7 @@
 
 - **The determinant of a 1×1 matrix** $[a]$ is $a$
 
-- **The determinant of a 2×2 matrix** $[[a,b],[c,d]]$ is $ad-bc$
+- **The determinant of a 2×2 matrix** $ [[a,b],[c,d]] $ is $ad-bc$
 
 - **The determinant of a 3×3 matrix** is a little more complicated
 
@@ -150,42 +150,78 @@
 **Eigenvalues & Eigenvectors**
 
 - **For a square matrix A, if there is a scalar λ and a non-zero vector x such that Ax = λx…**
+
   - Then λ is an eigenvalue of A
   - Then x is an eigenvector of A
   - **Note that** not every matrix has eigenvalues and eigenvectors
+
 - **Process of finding eigenvalues and eigenvectors from the Ax = λx equation**
 
   [[Screenshot 2026-10-26 at 11.02.24 PM.png]]
 
   [[Screenshot 2026-10-26 at 11.10.04 PM.png]]
+
 - **Example problems**
+
   - **Defining basic eigenvalues and eigenvectors**
 
     [[Screenshot 2026-10-26 at 10.52.33 PM.png]]
+
   - **Finding eigenvalues and eigenvectors for 2×2 matrices**
 
     [[Screenshot 2026-10-26 at 11.03.29 PM.png]]
+
   - **Finding eigenvalues and eigenvectors for a 2×2 matrix**
 
     [[Screenshot 2026-10-26 at 11.11.31 PM.png]]
 
 ## **Chapter 4.2**
 
-**Properties of Eigenvalues** 
+**Properties of Eigenvalues**
 
 - **Eigenvalues rules**
-  - **The eigenvalues for triangular matrices are the diagonal entries of the matrix** 
+
+  - **The eigenvalues for triangular matrices are the diagonal entries of the matrix**
+
   - **The trace of of a matrix** is the sum of the eigenvalues
+
   - **The determinant of a matrix** is the product of the eigenvalues of a matrix
+
+  - **If a is an eigenvalue for A,** then a² is an eigenvalue for A²
+
+  - **If a is an eigenvalue for A,** then 4a is an eigenvalue for 4A
+
+  - **If A is invertible, and a is an eigenvalue for A,** then $\frac{1}{a}$ is an eigenvalue for $A^{-1}$
+
   - **The eigenvalues of $A$** are the **same** as the eigenvalues of $A^T$
+
   - **The eigenvalues of $A^{-1}$** are reciprocals of the eigenvalues of $A$
 
     [[Screenshot 2026-10-26 at 11.43.48 PM.png]]
+
   - **It is only possible to have an eigenvalue of 0** if the original matrix includes 0s and is not invertible (and therefore its determinant is 0)
 
     [[Screenshot 2026-10-26 at 11.47.11 PM.png]]
+
 - **Example problems**
+
   - **Finding the eigenvalues for an upper triangular matrix**
 
     [[Screenshot 2026-10-26 at 11.39.30 PM.png]]
-  - 
+
+## **Chapter 6.2**
+
+**Diagonal Matrices**
+
+- **A diagonal matrix is a square matrix** with its only non-zero entries on the diagonal
+- **A square matrix A is diagonalizable** if $A = PDP^{-1}$ for a diagonal matrix D and an invertible matrix P
+- **Example problems**
+  - **Diagonalizing a matrix**
+
+    [[Screenshot 2026-10-27 at 12.20.13 AM.png]]
+  - **Finding matrices P and D to diagonalize matrix A**
+
+    [[Screenshot 2026-10-27 at 12.20.40 AM.png]]
+
+    [[Screenshot 2026-10-27 at 12.21.01 AM.png]]
+  -  
