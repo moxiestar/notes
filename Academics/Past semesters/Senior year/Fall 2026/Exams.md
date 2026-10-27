@@ -118,9 +118,10 @@
 
 **First phase of review**
 
-- [ ] Videos
+- [x] Videos
 - [ ] Lecture notes
 - [ ] Practice problems
+- [ ] Practice exam
 
 **Second phase of review**
 
