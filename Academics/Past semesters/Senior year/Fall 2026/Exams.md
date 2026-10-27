@@ -135,7 +135,8 @@
 
 **Pain points**
 
-- [ ] Factoring quadratic equations (particularly finding roots)
+- [ ] Factoring quadratic equations
+- [ ] 
 
 ### Midterm 3 | November 19
 
