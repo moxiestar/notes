@@ -71,7 +71,7 @@
 
 ## **Chapter 3.3**
 
-**Determinant**
+**Determinants**
 
 - **The determinant of a 1×1 matrix** $[a]$ is $a$
 - **The determinant of a 2×2 matrix** $[[a,b],[c,d]]$ is $ad-bc$
@@ -81,8 +81,29 @@
 - **Determinant rules**
   - For a square matrix A, the determinant indicates if the matrix is invertible
     - If the determinant exists, the matrix is not invertible 
+  - When finding the determinant of a matrix, use the row with the most 0s if possible
+  - Remember negative and positive rules of different entries in the matrix
+
+    [[Screenshot 2026-10-26 at 10.10.45 PM.png]]
 - **Example problems**
   - **Finding the determinant of a 3×3 matrix** 
 
     [[Screenshot 2026-10-26 at 10.09.25 PM.png]]
+
+## **Chapter 3.4**
+
+**Properties of Determinants**
+
+- For any square matrix A, if two rows or columns are identical, then the determinant is 0 
+- **Row operation rules**
+  - Switching any two rows of a matrix will make the determinant negative
+  - Multiplying a row by a scalar will multiply the determinant by that scalar
+  - Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant
+
+    [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
+- **Triangular matrices**
+  - **An upper triangular matrix** is a matrix with all entries equaling 0 below the diagonal
+  - **A lower triangular matrix** is a matrix with all entries equaling 0 above the diagonal
+  - **A triangular matrix** can refer to either one
+  - **The determinant of a triangular matrix** is the product of its entries along the diagonal
   - 
