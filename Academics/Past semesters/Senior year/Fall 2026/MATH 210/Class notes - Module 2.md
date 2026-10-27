@@ -249,12 +249,41 @@
 
     [[Screenshot 2026-10-27 at 12.28.23 AM.png]]
 
-  -  **Finding the determinant of a square matrix via diagonalization**
+  - **Finding the determinant of a square matrix via diagonalization**
 
-    [[Screenshot 2026-10-27 at 12.29.50 AM.png]]
+  [[Screenshot 2026-10-27 at 12.29.50 AM.png]]
 
 ## **Chapter 8.1**
 
 **Dot Products and Orthogonal Vectors**
 
-- 
+- **A dot product is found by multiplying two column vectors straight across**
+
+  [[Screenshot 2026-10-27 at 12.42.18 AM.png]]
+- **Dot products** are commutative, distributive, movable, and have positive sums (greater than or equal to 0)
+
+**Unit vectors**
+
+- **A unit vector** is a vector of length 1
+  - **To rescale a vector to a unit vector, we divide it by its current length**
+
+    [[Screenshot 2026-10-27 at 12.44.23 AM.png]]
+
+ **Orthogonal vectors**
+
+- **Two vectors, v and w, are said to be orthogonal** if their dot product equals 0
+- **Two vectors, v and w, are said to be normal** if their dot product equals 0 and they 
+- **A set of vectors is said to be orthonormal** if their inner vectors are both orthogonal unit vectors
+
+  [[Screenshot 2026-10-27 at 12.47.14 AM.png]]
+
+**Parallel and perpendicular vectors**
+
+- **Two vectors, v and w, are said to be perpendicular** if their dot product equals 0
+- **Two vectors, v and w, are said to be parallel** if $v = kw$ for some constant $k$
+- **Example problems**
+  - **Graphing vectors to find the angle between them**
+
+    [[Screenshot 2026-10-27 at 12.48.14 AM.png]]
+
+     
