@@ -272,8 +272,9 @@
  **Orthogonal vectors**
 
 - **Two vectors, v and w, are said to be orthogonal** if their dot product equals 0
-- **Two vectors, v and w, are said to be normal** if their dot product equals 0 and they 
-- **A set of vectors is said to be orthonormal** if their inner vectors are both orthogonal unit vectors
+- **Two vectors, v and w, are said to be normal** if their dot product equals 0 and they are both unit vectors
+- **A set of vectors is said to be orthonormal** if their inner vectors all have dot products of 0
+- **A set of vectors is said to be orthonormal** if their inner vectors are all orthogonal unit vectors
 
   [[Screenshot 2026-10-27 at 12.47.14 AM.png]]
 
