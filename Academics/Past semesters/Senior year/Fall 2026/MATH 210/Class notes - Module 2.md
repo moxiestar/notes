@@ -214,14 +214,47 @@
 **Diagonal Matrices**
 
 - **A diagonal matrix is a square matrix** with its only non-zero entries on the diagonal
+
 - **A square matrix A is diagonalizable** if $A = PDP^{-1}$ for a diagonal matrix D and an invertible matrix P
+
+  - We can take advantage of this equation to cancel things out
+
+    [[Screenshot 2026-10-27 at 12.29.21 AM.png]]
+
+- **A square matrix A can be diagonalized by…**
+
+  1. **Finding the eigenvalues** ($λ_1$ through $λ_n$) and populate D with them
+  2. Find the eigenvector for each eigenvalue ($v_1$ through $v_n$) and populate P with them (in the same order as D)
+
+- **Diagonal matrix rules**
+
+  - Multiplying a square matrix A by a diagonal matrix D (to find DA) involves multiplying each row of A by a corresponding entry of D
+  - Multiplying a diagonal matrix D by a square matrix A (to find AD) involves multiplying each column of A by a corresponding entry of D
+
 - **Example problems**
+
   - **Diagonalizing a matrix**
 
     [[Screenshot 2026-10-27 at 12.20.13 AM.png]]
+
   - **Finding matrices P and D to diagonalize matrix A**
 
     [[Screenshot 2026-10-27 at 12.20.40 AM.png]]
 
     [[Screenshot 2026-10-27 at 12.21.01 AM.png]]
-  -  
+
+  - **Diagonalizing a 3×3 matrix**
+
+    [[Screenshot 2026-10-27 at 12.28.15 AM.png]]
+
+    [[Screenshot 2026-10-27 at 12.28.23 AM.png]]
+
+  -  **Finding the determinant of a square matrix via diagonalization**
+
+    [[Screenshot 2026-10-27 at 12.29.50 AM.png]]
+
+## **Chapter 8.1**
+
+**Dot Products and Orthogonal Vectors**
+
+- 
