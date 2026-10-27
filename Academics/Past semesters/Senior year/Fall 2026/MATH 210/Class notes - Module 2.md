@@ -73,5 +73,16 @@
 
 **Determinant**
 
-- The determinant of a 1×1 matrix $[a]$ is a
-- The determinant of a 2×2 matrix 
+- **The determinant of a 1×1 matrix** $[a]$ is $a$
+- **The determinant of a 2×2 matrix** $[[a,b],[c,d]]$ is $ad-bc$
+- **The determinant of a 3×3 matrix** is a little more complicated
+
+  [[Screenshot 2026-10-26 at 10.00.49 PM.png]]
+- **Determinant rules**
+  - For a square matrix A, the determinant indicates if the matrix is invertible
+    - If the determinant exists, the matrix is not invertible 
+- **Example problems**
+  - **Finding the determinant of a 3×3 matrix** 
+
+    [[Screenshot 2026-10-26 at 10.09.25 PM.png]]
+  - 
