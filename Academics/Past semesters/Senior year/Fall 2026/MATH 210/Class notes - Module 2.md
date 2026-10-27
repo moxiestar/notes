@@ -173,7 +173,18 @@
 
 **Properties of Eigenvalues** 
 
-- **The eigenvalues for triangular matrices are the diagonal entries of the matrix** 
+- **Eigenvalues rules**
+  - **The eigenvalues for triangular matrices are the diagonal entries of the matrix** 
+  - **The trace of of a matrix** is the sum of the eigenvalues
+  - **The determinant of a matrix** is the product of the eigenvalues of a matrix
+  - 
+  - **The eigenvalues of $A$** are the **same** as the eigenvalues of $A^T$
+  - **The eigenvalues of $A^{-1}$** are reciprocals of the eigenvalues of $A$
+
+    [[Screenshot 2026-10-26 at 11.43.48 PM.png]]
+  - **It is only possible to have an eigenvalue of 0** if the original matrix includes 0s and is not invertible
+
+    [[Screenshot 2026-10-26 at 11.47.11 PM.png]]
 - **Example problems**
   - **Finding the eigenvalues for an upper triangular matrix**
 
