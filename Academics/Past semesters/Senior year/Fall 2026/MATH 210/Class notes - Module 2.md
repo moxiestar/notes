@@ -173,6 +173,9 @@
 
 **Properties of Eigenvalues** 
 
-- The eigenvalues for triangular matrices are the diagonal entries of the matrix 
+- **The eigenvalues for triangular matrices are the diagonal entries of the matrix** 
 - **Example problems**
+  - **Finding the eigenvalues for an upper triangular matrix**
+
+    [[Screenshot 2026-10-26 at 11.39.30 PM.png]]
   - 
