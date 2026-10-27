@@ -11,8 +11,6 @@
 
 - **Eigenvalue:** the quantity of the scalar that transforms the eigenvector
 
-- 
-
 - **Example problems**
 
   - **Graphing a matrix with no eigenvectors**
@@ -79,8 +77,9 @@
 
   [[Screenshot 2026-10-26 at 10.00.49 PM.png]]
 - **Determinant rules**
-  - For a square matrix A, the determinant indicates if the matrix is invertible
-    - If the determinant exists, the matrix is not invertible 
+  - **For a square matrix A, the determinant indicates if the matrix is invertible**
+    - **If the determinant ≠ 0,** the matrix is invertible 
+    - **If the determinant = 0,** the matrix is not invertible
   - When finding the determinant of a matrix, use the row with the most 0s if possible
   - Remember negative and positive rules of different entries in the matrix
 
@@ -101,9 +100,16 @@
   - Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant
 
     [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
-- **Triangular matrices**
-  - **An upper triangular matrix** is a matrix with all entries equaling 0 below the diagonal
-  - **A lower triangular matrix** is a matrix with all entries equaling 0 above the diagonal
-  - **A triangular matrix** can refer to either one
-  - **The determinant of a triangular matrix** is the product of its entries along the diagonal
-  - 
+- **Interactions between determinants and other matrix operations**
+  - $det(kA) = k^ndet(A)$
+  - $det(A^T) = det(A)$
+  - $det(AB) = det(A)det(B)$
+  - If A is invertible, then $det(A^{-1}) = \frac{1}{det(A)}$
+
+**Triangular matrices**
+
+- **An upper triangular matrix** is a matrix with all entries equaling 0 below the diagonal
+- **A lower triangular matrix** is a matrix with all entries equaling 0 above the diagonal
+- **A triangular matrix** can refer to either one
+- **The determinant of a triangular matrix** is the product of its entries along the diagonal
+- 
