@@ -17,6 +17,11 @@
 
 **Linear Transformation**
 
+- **During linear transformaton, one vector “transforms” into another vector**
+
+  - All lines must remain lines during this process, and the origin must remain fixed
+  - Linear transformation scales the relationship between the original vector points
+
 - **Eigenvector:** a non-zero vector that, when multiplied by a matrix, is scaled linearly (as if being multiplied by a scalar)
 
   - If *Av* = *kv* (for a scalar *k*) then *v* is the eigenvector of *A*
