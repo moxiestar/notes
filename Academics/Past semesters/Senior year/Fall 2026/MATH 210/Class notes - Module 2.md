@@ -1,5 +1,18 @@
 # MATH 210 | Module 2
 
+## [**Helpful videos**](https://www.3blue1brown.com/?topic=linear-algebra)
+
+## **Review**
+
+**Vectors**
+
+- Remember to think of vectors like a map from initial to terminal point
+- **If you want to add two vectors ($a$ and $b$) on a plane**
+  1. Move $b$ so its initial point is the terminal point of $a$
+  2. Then draw a new vector from the initial point of $a$ to the terminal point of $b$
+  3. This forms a triangle, whose hypotenuse is the sum of $a$ and $b$
+  4. 
+
 ## **Chapter 2.3**
 
 **Linear Transformation**
@@ -260,20 +273,25 @@
 - **A dot product is found by multiplying two column vectors straight across**
 
   [[Screenshot 2026-10-27 at 12.42.18 AM.png]]
+
 - **Dot products** are commutative, distributive, movable, and have positive sums (greater than or equal to 0)
 
 **Unit vectors**
 
 - **A unit vector** is a vector of length 1
+
   - **To rescale a vector to a unit vector, we divide it by its current length**
 
     [[Screenshot 2026-10-27 at 12.44.23 AM.png]]
 
- **Orthogonal vectors**
+**Orthogonal vectors**
 
 - **Two vectors, v and w, are said to be orthogonal** if their dot product equals 0
+
 - **Two vectors, v and w, are said to be normal** if their dot product equals 0 and they are both unit vectors
+
 - **A set of vectors is said to be orthonormal** if their inner vectors all have dot products of 0
+
 - **A set of vectors is said to be orthonormal** if their inner vectors are all orthogonal unit vectors
 
   [[Screenshot 2026-10-27 at 12.47.14 AM.png]]
@@ -281,10 +299,11 @@
 **Parallel and perpendicular vectors**
 
 - **Two vectors, v and w, are said to be perpendicular** if their dot product equals 0
+
 - **Two vectors, v and w, are said to be parallel** if $v = kw$ for some constant $k$
+
 - **Example problems**
+
   - **Graphing vectors to find the angle between them**
 
     [[Screenshot 2026-10-27 at 12.48.14 AM.png]]
-
-     
