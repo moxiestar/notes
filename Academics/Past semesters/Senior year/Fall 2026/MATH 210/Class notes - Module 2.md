@@ -156,11 +156,23 @@
 - **Process of finding eigenvalues and eigenvectors from the Ax = λx equation**
 
   [[Screenshot 2026-10-26 at 11.02.24 PM.png]]
+
+  [[Screenshot 2026-10-26 at 11.10.04 PM.png]]
 - **Example problems**
   - **Defining basic eigenvalues and eigenvectors**
 
     [[Screenshot 2026-10-26 at 10.52.33 PM.png]]
-  - **Finding eigenvalues and eigenvectors for basic matrices**
+  - **Finding eigenvalues and eigenvectors for 2×2 matrices**
 
     [[Screenshot 2026-10-26 at 11.03.29 PM.png]]
-  - **Finding eigenvalues and eigenvectors for basic matrices**
+  - **Finding eigenvalues and eigenvectors for a 2×2 matrix**
+
+    [[Screenshot 2026-10-26 at 11.11.31 PM.png]]
+
+## **Chapter 4.2**
+
+**Properties of Eigenvalues** 
+
+- The eigenvalues for triangular matrices are the diagonal entries of the matrix 
+- **Example problems**
+  - 
