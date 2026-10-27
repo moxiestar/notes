@@ -135,7 +135,13 @@
 
 **Pain points**
 
-- [ ] Factoring quadratic equations
+- [ ] Linear transformation
+- [ ] Transpose symmetry/skew-symmetry sum law
+- [ ] Calculating determinants of larger matrices (mostly because of arithmetic errors)
+- [ ] Factoring quadratic equations (in determinant problems)
+- [ ] Finding the determinant based on RREF
+- [ ] Using the eigenvalue/determinant equation
+- [ ] Understanding eigenvalue/eigenvector rules
 - [ ] 
 
 ### Midterm 3 | November 19
