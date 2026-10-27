@@ -25,11 +25,13 @@
 
     - If we imagine any vector as a series of scalars multiplying the x and y unit vectors ([1,0] and [0,1] respectively), we can imagine its transformation as the sum of those scaled unit vectors
 
-    - The columns of the resulting matrix contain information on how the x and y unit vectors were scaled respectively 
+    - The columns of the resulting matrix contain information on how the x and y unit vectors were scaled respectively
 
       [[Screenshot 2026-10-27 at 4.28.38 PM.png]]
 
       [[Screenshot 2026-10-27 at 6.57.51 PM.png]]
+
+  - Remember that in a 2×2 matrix, the top left entry stretches the x vector, and the bottom right entry stretches the y vector
 
 - **Eigenvector:** a non-zero vector that, when multiplied by a matrix, is scaled linearly (as if being multiplied by a scalar)
 
@@ -98,9 +100,11 @@
 
 **Determinants**
 
+- **Definition:** the scaling factor by which a linear transformation changes any vector
+
 - **The determinant of a 1×1 matrix** $[a]$ is $a$
 
-- **The determinant of a 2×2 matrix** $ [[a,b],[c,d]] $ is $ad-bc$
+- **The determinant of a 2×2 matrix** $[a,b],[c,d]$ is $ad-bc$
 
 - **The determinant of a 3×3 matrix** is a little more complicated
 
