@@ -120,6 +120,7 @@
 
 - [x] Videos
 - [x] Lecture notes
+- [ ] Review notes again
 - [ ] Practice problems
 - [ ] Practice exam
 
