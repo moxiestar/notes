@@ -114,7 +114,7 @@
 
   - **For a square matrix A, the determinant indicates if the matrix is invertible**
 
-    - **==🔴If the determinant ≠ 0,==**==🔴 the matrix is invertible==
+    - **==🔴If the determinant ≠ 0,==** ==🔴the matrix is invertible==
     - **==🔴If the determinant = 0,==**==🔴 the matrix is not invertible==
 
   - When finding the determinant of a matrix, use the row with the most 0s if possible
