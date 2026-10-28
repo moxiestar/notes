@@ -256,8 +256,8 @@
 
 - **A square matrix A can be diagonalized by…**
 
-  1. **Finding the eigenvalues** ($λ_1$ through $λ_n$) and populate D with them
-  2. Find the eigenvector for each eigenvalue ($v_1$ through $v_n$) and populate P with them (in the same order as D)
+  1. **Finding the eigenvalues** ($λ_1$ through $λ_n$) and populating D with them
+  2. Finding the eigenvector for each eigenvalue ($v_1$ through $v_n$) and populating P with them (in the same order as D)
 
 - **Diagonal matrix rules**
 
