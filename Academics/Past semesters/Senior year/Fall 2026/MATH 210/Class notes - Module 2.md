@@ -186,6 +186,8 @@
   - Then x is an eigenvector of A
   - **Note that** not every matrix has eigenvalues and eigenvectors
 
+- **Basically, an eigenvector is a vector for which a matrix acts like a scalar**
+
 - **Process of finding eigenvalues and eigenvectors from the Ax = λx equation**
 
   [[Screenshot 2026-10-26 at 11.02.24 PM.png]]
