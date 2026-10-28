@@ -238,7 +238,7 @@
 
 - **Example problems**
 
-  - **Finding the eigenvalues for an upper triangular matrix**
+  - **==🔴Finding the eigenvalues for an upper triangular matrix==**
 
     [[Screenshot 2026-10-26 at 11.39.30 PM.png]]
 
@@ -254,7 +254,7 @@
 
     [[Screenshot 2026-10-27 at 12.29.21 AM.png]]
 
-- **A square matrix A can be diagonalized by…**
+- **==🔴A square matrix A can be diagonalized by…==**
 
   1. **Finding the eigenvalues** ($λ_1$ through $λ_n$) and populating D with them
   2. Finding the eigenvector for each eigenvalue ($v_1$ through $v_n$) and populating P with them (in the same order as D)
@@ -266,17 +266,17 @@
 
 - **Example problems**
 
-  - **Diagonalizing a matrix**
+  - **==🔴Diagonalizing a matrix==**
 
     [[Screenshot 2026-10-27 at 12.20.13 AM.png]]
 
-  - **Finding matrices P and D to diagonalize matrix A**
+  - **==🔴Finding matrices P and D to diagonalize matrix A==**
 
     [[Screenshot 2026-10-27 at 12.20.40 AM.png]]
 
     [[Screenshot 2026-10-27 at 12.21.01 AM.png]]
 
-  - **Diagonalizing a 3×3 matrix**
+  - **==🔴Diagonalizing a 3×3 matrix==**
 
     [[Screenshot 2026-10-27 at 12.28.15 AM.png]]
 
@@ -306,21 +306,21 @@
 
 **Orthogonal vectors**
 
-- **Two vectors, v and w, are said to be orthogonal** if their dot product equals 0
+- **==🔴Two vectors, v and w, are said to be orthogonal==**==🔴 if their dot product equals 0==
 
-- **Two vectors, v and w, are said to be normal** if their dot product equals 0 and they are both unit vectors
+- **==🔴Two vectors, v and w, are said to be normal==**==🔴 if their dot product equals 0 and they are both unit vectors==
 
-- **A set of vectors is said to be orthonormal** if their inner vectors all have dot products of 0
+- **==🔴A set of vectors is said to be orthonormal==**==🔴 if their inner vectors all have dot products of 0==
 
-- **A set of vectors is said to be orthonormal** if their inner vectors are all orthogonal unit vectors
+- **==🔴A set of vectors is said to be orthonormal==**==🔴 if their inner vectors are all orthogonal unit vectors==
 
   [[Screenshot 2026-10-27 at 12.47.14 AM.png]]
 
 **Parallel and perpendicular vectors**
 
-- **Two vectors, v and w, are said to be perpendicular** if their dot product equals 0
+- **==🔴Two vectors, v and w, are said to be perpendicular==**==🔴 if their dot product equals 0==
 
-- **Two vectors, v and w, are said to be parallel** if $v = kw$ for some constant $k$
+- **==🔴Two vectors, v and w, are said to be parallel==**==🔴 if $v = kw$ for some constant $k$==
 
 - **Example problems**
 
