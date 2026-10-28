@@ -74,7 +74,7 @@
     - Note that $AA^T$ is **always symmetric**
   - A square matrix B is **skew-symmetric** if $-B = B^T$
     - Note that $B - B^T$ is **always skew-symmetric**
-  - **For any square matrix A, it can be written as the sum of a symmetric matrix and a skew symmetric matrix**
+  - **==🔴For any square matrix A, it can be written as the sum of a symmetric matrix and a skew symmetric matrix==**
     - **Equation:** $A = \frac{1}{2}(A + A^T) + \frac{1}{2}(A - A^T)$
 
 - **Example problems**
@@ -114,8 +114,8 @@
 
   - **For a square matrix A, the determinant indicates if the matrix is invertible**
 
-    - **If the determinant ≠ 0,** the matrix is invertible
-    - **If the determinant = 0,** the matrix is not invertible
+    - **==🔴If the determinant ≠ 0,==**==🔴 the matrix is invertible==
+    - **==🔴If the determinant = 0,==**==🔴 the matrix is not invertible==
 
   - When finding the determinant of a matrix, use the row with the most 0s if possible
 
@@ -133,15 +133,15 @@
 
 **Properties of Determinants**
 
-- For any square matrix A, if two rows or columns are identical, then the determinant is 0
+- ==🔴For any square matrix A, if two rows or columns are identical, then the determinant is 0==
 
 - **Row operation rules**
 
-  - Switching any two rows of a matrix will make the determinant negative
+  - ==🔴Switching any two rows of a matrix will make the determinant negative==
 
-  - Multiplying a row by a scalar will multiply the determinant by that scalar
+  - ==🔴Multiplying a row by a scalar will multiply the determinant by that scalar==
 
-  - Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant
+  - ==🔴Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant==
 
     [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
 
@@ -154,10 +154,10 @@
 
 - **Interactions between determinants and row reductions**
 
-  - If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0
-  - If a square matrix A reduces to the identity matrix, its determinant cannot equal 0
-  - If a square matrix A is invertible, its determinant cannot equal 0
-  - If a square matrix A is not invertible, its determinant equals 0
+  - ==🔴If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0==
+  - ==🔴If a square matrix A reduces to the identity matrix, its determinant cannot equal 0==
+  - ==🔴If a square matrix A is invertible, its determinant cannot equal 0==
+  - ==🔴If a square matrix A is not invertible, its determinant equals 0==
 
 - **Example problems**
 
@@ -188,7 +188,7 @@
 
 - **Basically, an eigenvector is a vector for which a matrix acts like a scalar**
 
-- **Process of finding eigenvalues and eigenvectors from the Ax = λx equation**
+- **==🔴Process of finding eigenvalues and eigenvectors from the Ax = λx equation==**
 
   [[Screenshot 2026-10-26 at 11.02.24 PM.png]]
 
