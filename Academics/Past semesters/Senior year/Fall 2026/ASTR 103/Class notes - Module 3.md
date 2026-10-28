@@ -62,7 +62,8 @@
 
 - **==🔵Radial velocity method==**
 
-  - ==🔴Depends primarily on the mass of the planet, but involves detecting light from the background star==
+  - **==🔴Depends primarily on the mass of the planet, but involves detecting light from the background star==**
+    - **The larger and closer to the star the planet is, the easier it is to detect it with radial velocity**
   - A star’s radial velocity is its speed moving towards or away from Earth
   - A radial velocity curve is a graph of the star’s radial velocity over time
     - Negative velocities represent blueshifted light
@@ -76,7 +77,9 @@
 
 - **==🟢Transit method==**
 
-  - ==🔴Depends primarily on the radius of the planet, but involves detecting light from the background star==
+  - **==🔴Depends primarily on the radius of the planet, but involves detecting light from the background star==**
+
+    - **The larger and closer to the star the planet is, the easier it is to detect it with the transit method**
 
   - When an exoplanet passes between us and its star, it blocks some of its star’s light
 
@@ -109,7 +112,9 @@
 
 - **==🟡Direct imaging==**
 
-  - ==🔴Depends primarily on the temperature of the planet==
+  - **==🔴Depends primarily on the temperature of the planet==**
+
+    - **The larger and further from the star the planet is, the easier it is to detect it with direct imaging**
 
   - **Process of detecting an exoplanet by photographing it**
 
