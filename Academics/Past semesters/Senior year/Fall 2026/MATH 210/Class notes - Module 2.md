@@ -38,7 +38,7 @@
   - If *Av* = *kv* (for a scalar *k*) then *v* is the eigenvector of *A*
   - Eigenvectors do not change direction after transformation
 
-- **Eigenvalue:** the quantity of the scalar that transforms the eigenvector
+- **Eigenvalue:** the quantity of the scalar that transforms the eigenvector (*k* in this example)
 
 - **Example problems**
 
