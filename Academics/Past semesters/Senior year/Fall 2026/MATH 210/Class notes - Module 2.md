@@ -145,8 +145,9 @@
 
     [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
 
-- **Interactions between determinants and other matrix operations**
+- **==🔴Interactions between determinants and other matrix operations==**
 
+  - $det(A²) = det(A)²$
   - $det(kA) = k^ndet(A)$
   - $det(A^T) = det(A)$
   - $det(AB) = det(A)det(B)$
