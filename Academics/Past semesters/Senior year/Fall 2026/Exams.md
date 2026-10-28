@@ -120,9 +120,10 @@
 
 - [x] Videos
 - [x] Lecture notes
-- [ ] Review notes again
+- [x] Review notes again
 - [ ] Practice problems
 - [ ] Practice exam
+- [ ] AI practice exam
 
 **Second phase of review**
 
