@@ -131,8 +131,7 @@
 
 **Third phase of review**
 
-- [ ] **CREATE CHEAT SHEET**
-  - [ ] Summaries, definitions, and important examples for each topic
+- [x] **CREATE CHEAT SHEET**
 
 **Pain points**
 
