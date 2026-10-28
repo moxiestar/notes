@@ -33,7 +33,7 @@
 
   [[Screenshot 2026-10-10 at 4.39.56 PM.png]]
 
-## **Lectures Seventeen, Eighteen, & Nineteen | Extrasolar planets**
+## **Lectures Seventeen through Twenty-Two | Extrasolar planets**
 
 **Exoplanets**
 
@@ -155,3 +155,18 @@
     - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement
     - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star**
       - If the planet is to the right of the star, it will appear first on the light curve, to the left of the star
+
+## **Lecture Twenty-Three | Solar System**
+
+**Planets in our solar system**
+
+- **Terrerstrial planets:** small, made of rocks and metals
+  - **Examples:** Mercury, Venus, Earth, Mars
+- **Gas giants:** big, made predominantly of gas
+  - **Examples:** Jupiter, Saturn, Uranus, Neptune
+- **Ice giants:** big, made predominantly of gas, mostly elements heavier than H and He
+  - **Examples:** Uranus, Neptune
+
+**Discovery of planets**
+
+- The first planets discovered were not representative of the actual spread of planets in the solar system
