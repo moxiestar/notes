@@ -221,6 +221,8 @@
 
   - **The determinant of a matrix** is the product of the eigenvalues of a matrix
 
+  - **If x is an eigenvector for A,** then 4x is an eigenvector for A
+
   - **If a is an eigenvalue for A,** then a² is an eigenvalue for A²
 
   - **If a is an eigenvalue for A,** then 4a is an eigenvalue for 4A
