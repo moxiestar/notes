@@ -298,11 +298,11 @@
 ### Thursday, October 29
 
 - [x] ASTR 103: Warm-up 22
-- [ ] **MATH 210: Midterm 2**
+- [x] **MATH 210: Midterm 2**
 
 ### Friday, October 30
 
-- [ ] ASTR 103: LT Check 19
+- [x] ASTR 103: LT Check 19
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 1

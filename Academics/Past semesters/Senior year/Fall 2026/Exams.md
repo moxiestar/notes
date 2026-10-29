@@ -121,13 +121,13 @@
 - [x] Videos
 - [x] Lecture notes
 - [x] Review notes again
-- [ ] Practice problems
-- [ ] Practice exam
+- [x] Practice problems
+- [x] Practice exam
 - [ ] AI practice exam
 
 **Second phase of review**
 
-- [ ] **Practice exam**
+- [x] **Practice exam**
   - [ ] Ask Claude to generate another practice exam based on weak points from exam/review
 
 **Third phase of review**
