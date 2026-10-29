@@ -133,19 +133,19 @@
 
 **Properties of Determinants**
 
-- ==🔴For any square matrix A, if two rows or columns are identical, then the determinant is 0==
+- For any square matrix A, if two rows or columns are identical, then the determinant is 0
 
 - **Row operation rules**
 
-  - ==🔴Switching any two rows of a matrix will make the determinant negative==
+  - Switching any two rows of a matrix will make the determinant negative
 
-  - ==🔴Multiplying a row by a scalar will multiply the determinant by that scalar==
+  - Multiplying a row by a scalar will multiply the determinant by that scalar
 
-  - ==🔴Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant==
+  - Multiplying a row of A by a scalar, then adding the resulting row to another row, does not change the determinant
 
     [[Screenshot 2026-10-26 at 10.13.02 PM.png]]
 
-- **==🔴Interactions between determinants and other matrix operations==**
+- **Interactions between determinants and other matrix operations**
 
   - $det(A²) = det(A)²$
   - $det(kA) = k^ndet(A)$
@@ -155,10 +155,10 @@
 
 - **Interactions between determinants and row reductions**
 
-  - ==🔴If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0==
-  - ==🔴If a square matrix A reduces to the identity matrix, its determinant cannot equal 0==
-  - ==🔴If a square matrix A is invertible, its determinant cannot equal 0==
-  - ==🔴If a square matrix A is not invertible, its determinant equals 0==
+  - If a square matrix A reduces to a matrix with a row of 0s, its determinant equals 0
+  - If a square matrix A reduces to the identity matrix, its determinant cannot equal 0
+  - If a square matrix A is invertible, its determinant cannot equal 0
+  - If a square matrix A is not invertible, its determinant equals 0
 
 - **Example problems**
 
