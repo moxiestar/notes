@@ -217,9 +217,9 @@
 
   - **The eigenvalues for triangular matrices are the diagonal entries of the matrix**
 
-  - **The trace of of a matrix** is the sum of the eigenvalues
+  - **==🔴The trace of of a matrix==**==🔴 is the sum of the eigenvalues==
 
-  - **The determinant of a matrix** is the product of the eigenvalues of a matrix
+  - **==🔴The determinant of a matrix==**==🔴 is the product of the eigenvalues of a matrix==
 
   - **If x is an eigenvector for A,** then 4x is an eigenvector for A
 
