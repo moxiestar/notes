@@ -818,8 +818,10 @@
     - Who gains and who loses during market swings?
     - Is the global market truly placeless?
 - **Flash Crash documentary**
-  - Covers the 2010 Flash Crash through the eyes of analysts, professors, and traders
+  - **Covers the 2010 Flash Crash through the eyes of analysts, professors, and traders**
     - E-Mini trading price drops, determining the prices for the rest of the market
-    - The glitch also affected the market after the crash: even when prices had gone back up, the glich 
+    - The glitch also affected the market after the crash: even when prices had gone back up, the glitch still showed the prices as being lower
+      - This allowed people to buy low stocks and sell them when the market went back up
+    - The glitch was attributed to Waddell & Reed, a firm in Kansas that ordered 75,000 stocks, tanking the E-mini prices
+    - But it also might have been the sale of 30,000 “contracts” on the market directly before the crash
   - Discusses the history of the term “stock” - a stick carved with unique notches, one half given to the lender and one half given to the borrower
-  - 
