@@ -749,27 +749,27 @@
     - Rural areas have become more urban, connecting more the world
       - Disintegration of the Hinterland and end of the wilderness
 
-## Lecture Twenty-Three | Circuits of Capital
+## Lectures Twenty-Three, Twenty-Four, & Twenty-Five  | Circuits of Capital
 
 **Capital Circulation and Crises**
 
 - **Lehman Brothers**
   - **Failed on September 13, 2008, kicking off the 2008 economic crisis**
-    - The crisis began in 2006-2007, when costs on the housing market shot up 
+    - The crisis began in 2006-2007, when costs on the housing market shot up
       - Mortgages were pooled and sold worldwide
     - The 2008 crisis was unique in its global synchronization
-      - Every country tracked by the WTO was affected 
+      - Every country tracked by the WTO was affected
     - **As a result, global finances changed**
       - Banks and financial institutions gained power through emergency loans, swap lines, bailouts, and suspension of rules, etc
-      - Homeowners felt the brunt of this crises, with predatory loans being given to poorer, minority populations 
+      - Homeowners felt the brunt of this crises, with predatory loans being given to poorer, minority populations
   - **A week later, heads of state addressed the UN General Assembly**
     - **International response**
       - Lula, in Brazil, blamed speculation and selfishness
-      - Bush, in the US, called it an American problem 
+      - Bush, in the US, called it an American problem
       - Fernandez de Kichner, in Argentina, said the crisis came from the core, rather than the periphery
 - **The Global South, especially Latin America, has experienced more financial crises than other areas in the world**
 - **Securitization:** financial process that repackages loans for resale
-  - Diversification spreads out individual default risks, making debt more appealing to investors 
+  - Diversification spreads out individual default risks, making debt more appealing to investors
   - **How it works**
     1. Loan to borrowers
     2. Combine many loans
