@@ -776,4 +776,7 @@
     3. Repackage pooled loans in “tranches”
     4. Sell portions of pool debt to investors
 
-…
+**Global Flows of Capital** 
+
+- **Reconfiguring our geographies of production based on oil** 
+  - Exposed 
