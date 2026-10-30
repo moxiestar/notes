@@ -189,10 +189,21 @@
 - **Stellar flares**
   - A star rotates faster at its equator than at its poles, causing its magnetic field lines to become stretched
   - When magnetic fields snap and reconnect, a flash of high-energy radiation is released
-  - Components
+  - **Components**
     - Flash of UV light
     - Coronal mass ejection 
-  - Pros and cons of stellar flares
-    - Pros: abiogenesis may require some UV light 
-    - Cons
+  - **Pros and cons of stellar flares**
+    - **Pros**
+      - Abiogenesis may require some UV light, emitted during a stellar flare
+    - **Cons**
       - Stellar flares can destroy a planet’s ozone layer
+      - Stellar flares can strip away a planet’s entire atmosphere
+      - Stellar flares can destroy biological molecules
+  - **Flare frequency diagram**
+    - The diagonal red line shows how many flares are emitted in a day
+    - If the line passes through the ozone depletion zone, the flare is powerful enough to destroy the planet’s ozone layer
+    - If the line passes through the abiogenesis zone, the flare is the perfect strength for abiogenesis to occur on the planet
+
+      [[Screenshot 2026-10-30 at 1.46.09 PM.png]]
+
+x 
