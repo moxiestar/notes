@@ -776,4 +776,4 @@
     3. Repackage pooled loans in “tranches”
     4. Sell portions of pool debt to investors
 
-x
+…
