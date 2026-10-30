@@ -799,5 +799,15 @@
         - Customized and traded in over-the-counter markets
       - **Options:** give the buyer the right (but not the obligation) to take some kind of action with the money
     - **Global dimension of derivative exchanges**
-      - Derivatives are sophiscated tools to manage risk
-        - 
+      - **Derivatives are sophiscated tools to manage risk**
+        - That being said, they often generate increased risk due to their complexity
+        - They overlook social politics
+        - They expose tensions between states and financial capital
+      - **Derivatives now account for 800 trillion of global** 
+
+**The Flash Crash**
+
+- **Hour-long crash of the Dow Jones on May 6, 2010**
+  - DJ plunged roughly 600 points, then rose back up in minutes
+  - Occurred due to high-frequency algorithmic trading 
+  - 
