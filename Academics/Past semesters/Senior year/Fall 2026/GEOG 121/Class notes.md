@@ -776,10 +776,28 @@
     3. Repackage pooled loans in “tranches”
     4. Sell portions of pool debt to investors
 
-**Global Flows of Capital** 
+**Global Flows of Capital**
 
-- **Reconfiguration of our geographies of production based on oil** 
+- **Reconfiguration of our geographies of production based on oil**
   - Exposed TNCs to increased risks (political, transportational, financial)
 - **Currency flow**
   - The daily currency rate in 2019 was 6.6 trillion dollars, 6 times the level in 1995 and 27 times the daily world GDP
-  - The dominance of the dollar 
+  - **The dominance of the dollar links back to Bretton Woods, which made the US dollar the ubiquitous global currency**
+    - The dollar is the first global currency not linked to a precious metal
+    - Served as a “fiat” currency, backed by government decree
+    - Two thirds of global currencies were weakened by the US dollar and interest rates
+  - **Nixon Shock**
+    - Tariff enforcement by Richard Nixon that made the dollar “float”
+    - New international monetary system that prioritized and stabilized the dollar
+    - 10% tax on imported goods due to “unfair treatment” by foreign countries
+- **Financial derivatives**
+  - **Derivatives allow investors to hedge and speculate** 
+    - They take their value from global market expectations
+      - **Futures:** one party agrees to deliver a commodity at a later date
+        - These deals often involve shipping companies and financial institutions
+      - **Swaps:** used to manage the risks associated with financial exchange rates
+        - Customized and traded in over-the-counter markets
+      - **Options:** give the buyer the right (but not the obligation) to take some kind of action with the money
+    - **Global dimension of derivative exchanges**
+      - Derivatives are sophiscated tools to manage risk
+        - 
