@@ -182,4 +182,17 @@
     - Here, the period of tidal locking depends on the planet’s distance from the star
 
       [[Screenshot 2026-10-30 at 1.33.42 PM.png]]
-  - 
+- **Implications of tidal locking**
+  - One side of the planet is always dark, and the other side is always bright
+    - The “day” side is extremely hot, while the “night” side is extremely cold
+    - Twilight zone: area between “day” and “night” side
+- **Stellar flares**
+  - A star rotates faster at its equator than at its poles, causing its magnetic field lines to become stretched
+  - When magnetic fields snap and reconnect, a flash of high-energy radiation is released
+  - Components
+    - Flash of UV light
+    - Coronal mass ejection 
+  - Pros and cons of stellar flares
+    - Pros: abiogenesis may require some UV light 
+    - Cons
+      - Stellar flares can destroy a planet’s ozone layer
