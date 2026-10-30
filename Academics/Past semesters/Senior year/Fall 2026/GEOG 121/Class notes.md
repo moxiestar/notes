@@ -778,5 +778,8 @@
 
 **Global Flows of Capital** 
 
-- **Reconfiguring our geographies of production based on oil** 
-  - Exposed 
+- **Reconfiguration of our geographies of production based on oil** 
+  - Exposed TNCs to increased risks (political, transportational, financial)
+- **Currency flow**
+  - The daily currency rate in 2019 was 6.6 trillion dollars, 6 times the level in 1995 and 27 times the daily world GDP
+  - The dominance of the dollar 
