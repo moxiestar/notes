@@ -156,7 +156,7 @@
     - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star**
       - If the planet is to the right of the star, it will appear first on the light curve, to the left of the star
 
-## **Lecture Twenty-Three | Solar System**
+## **Lectures Twenty-Three & Twenty-Four | Solar System**
 
 **Planets in our solar system**
 
@@ -170,3 +170,16 @@
 **Discovery of planets**
 
 - The first planets discovered were not representative of the actual spread of planets in the solar system
+
+**Tidal Locking**
+
+- **If two objects are close enough, they become tidally locked**
+  - If Object 1 is orbiting Object 2, Object 1’s rotation period is an integer multiple of Object 2’s orbital period
+  - If Object 1’s rotation period equals Object 2’s orbital period, Object 1 always shows the same face to Object 2
+- **Tidal locking occurs when a planet gets stretched**
+  - The side closer to its star experiences a stronger gravitational force than the star farther from the star
+  - **Tidal locking equation**
+    - Here, the period of tidal locking depends on the planet’s distance from the star
+
+      [[Screenshot 2026-10-30 at 1.33.42 PM.png]]
+  - 
