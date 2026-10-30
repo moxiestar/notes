@@ -809,5 +809,17 @@
 
 - **Hour-long crash of the Dow Jones on May 6, 2010**
   - DJ plunged roughly 600 points, then rose back up in minutes
-  - Occurred due to high-frequency algorithmic trading 
+  - **Occurred due to high-frequency algorithmic trading and changing technology**
+    - Even investors could not explain the exact course of events
+    - In 2010, network cables were fiber, linking trading across the world
+      - Now, microwave signals run along the “straight-line” path between towers
+  - **Inspired concerns around algorithmic trading**
+    - Who governs a market too fast to watch, beyond human control?
+    - Who gains and who loses during market swings?
+    - Is the global market truly placeless?
+- **Flash Crash documentary**
+  - Covers the 2010 Flash Crash through the eyes of analysts, professors, and traders
+    - E-Mini trading price drops, determining the prices for the rest of the market
+    - The glitch also affected the market after the crash: even when prices had gone back up, the glich 
+  - Discusses the history of the term “stock” - a stick carved with unique notches, one half given to the lender and one half given to the borrower
   - 
