@@ -749,9 +749,9 @@
     - Rural areas have become more urban, connecting more the world
       - Disintegration of the Hinterland and end of the wilderness
 
-## Lectures Twenty-Three, Twenty-Four, & Twenty-Five  | Circuits of Capital
+## Lectures Twenty-Three, Twenty-Four, & Twenty-Five | Circuits of Capital
 
-**Capital Circulation and Crises**
+**Capital Crises**
 
 - **Lehman Brothers**
   - **Failed on September 13, 2008, kicking off the 2008 economic crisis**
@@ -775,3 +775,5 @@
     2. Combine many loans
     3. Repackage pooled loans in “tranches”
     4. Sell portions of pool debt to investors
+
+x
