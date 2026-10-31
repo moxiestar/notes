@@ -303,13 +303,13 @@
 ### Friday, October 30
 
 - [x] ASTR 103: LT Check 19
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 1
 
-- [ ] ASTR 103: Warm-up 23
-- [ ] ASTR 103: LT Check 20
-- [ ] ASTR 103: Homework 18
+- [x] ASTR 103: Warm-up 23
+- [x] ASTR 103: LT Check 20
+- [x] ASTR 103: Homework 18
 
 ### Monday, November 2
 
