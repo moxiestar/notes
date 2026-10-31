@@ -313,7 +313,7 @@
 
 ### Monday, November 2
 
-- [ ] ASTR 103: Homework 19
+- [x] ASTR 103: Homework 19
 - [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 

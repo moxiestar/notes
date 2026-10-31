@@ -174,36 +174,54 @@
 **Tidal Locking**
 
 - **If two objects are close enough, they become tidally locked**
+
   - If Object 1 is orbiting Object 2, Object 1’s rotation period is an integer multiple of Object 2’s orbital period
   - If Object 1’s rotation period equals Object 2’s orbital period, Object 1 always shows the same face to Object 2
+
 - **Tidal locking occurs when a planet gets stretched**
+
   - The side closer to its star experiences a stronger gravitational force than the star farther from the star
+
   - **Tidal locking equation**
+
     - Here, the period of tidal locking depends on the planet’s distance from the star
 
       [[Screenshot 2026-10-30 at 1.33.42 PM.png]]
+
 - **Implications of tidal locking**
+
   - One side of the planet is always dark, and the other side is always bright
     - The “day” side is extremely hot, while the “night” side is extremely cold
     - Twilight zone: area between “day” and “night” side
+
 - **Stellar flares**
+
   - A star rotates faster at its equator than at its poles, causing its magnetic field lines to become stretched
+
   - When magnetic fields snap and reconnect, a flash of high-energy radiation is released
+
   - **Components**
+
     - Flash of UV light
-    - Coronal mass ejection 
+    - Coronal mass ejection
+
   - **Pros and cons of stellar flares**
+
     - **Pros**
       - Abiogenesis may require some UV light, emitted during a stellar flare
     - **Cons**
       - Stellar flares can destroy a planet’s ozone layer
       - Stellar flares can strip away a planet’s entire atmosphere
       - Stellar flares can destroy biological molecules
+
   - **Flare frequency diagram**
+
     - The diagonal red line shows how many flares are emitted in a day
+
     - If the line passes through the ozone depletion zone, the flare is powerful enough to destroy the planet’s ozone layer
+
     - If the line passes through the abiogenesis zone, the flare is the perfect strength for abiogenesis to occur on the planet
 
       [[Screenshot 2026-10-30 at 1.46.09 PM.png]]
 
-x 
+… 
