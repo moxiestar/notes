@@ -320,7 +320,7 @@
 ### Tuesday, November 3
 
 - [ ] ASTR 103: Warm-up 24
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, November 4
 
