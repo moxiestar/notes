@@ -315,11 +315,10 @@
 
 - [x] ASTR 103: Homework 19
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
 
 ### Tuesday, November 3
 
-- [ ] ASTR 103: Warm-up 24
+- [x] ASTR 103: Warm-up 24
 - [x] MATH 210: Before-class assignment
 
 ### Wednesday, November 4
