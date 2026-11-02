@@ -1,19 +1,19 @@
 ## **Writing**
 
 - [ ] **Figure out general plot questions**
-  - [ ] Update ideas - Diana and Kat are grad students
-- [ ] **==🔴Continue writing opening==**
-  - [ ] Add prologue where Lord Lawrence is reading a story about the Arctic to his children
-  - [ ] Work on Lawrence’s logbook entries
-  - [ ] Work on ship dialogue scenes
+  - [ ] What happens to Ada in the end?
+- [ ] **Scene ideas**
+  - [ ] Lord Lawrence reading stores about his exploration
+  - [ ] Sequence from HAHH
+  - 
 - [ ] **Work on characters**
   - [ ] Write character bios
   - [ ] Figure out each cause of death
 
 ## **Drawing**
 
-- [ ] ==🔴Work on Terror/Endurance sketches (see folder in Procreate)==
-- [ ] Work on character sketches (see folder in Procreate)
+- [ ] Work on Terror/Endurance sketches (see folder in Procreate)
+- [ ] ==🔴Work on character sketches (see folder in Procreate)==
 
 ## Completed
 

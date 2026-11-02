@@ -224,4 +224,21 @@
 
       [[Screenshot 2026-10-30 at 1.46.09 PM.png]]
 
-… 
+## **Lectures Twenty-Five | Galactic Habitable Zones**
+
+**Milky Way Galaxy**
+
+- **Our solar system is part of a much larger galaxy, the Milky Way, which is comprised of…**
+  - 100 billion stars
+  - Gas and dust
+  - Black holes
+  - Mysterious dark matter (yay)
+
+**Three key questions for identifying communicative life**
+
+- **Where in the galaxy should we look?**
+  - **Galatic Habitable Zone**
+    - Sweet spot between the galaxy’s center and periphery 
+- Is the star the right age?
+- How long will it takes to send a message to that star and its planets?
+- 

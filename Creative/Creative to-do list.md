@@ -1,7 +1,6 @@
 ## Writing
 
-- [ ] **Work on video game**
-  - [ ] [[Creative/FWWC to-dos]]
+- [ ] **Work on** [[Creative/FWWC to-dos]]
 
 ## Art
 
