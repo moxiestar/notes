@@ -2,6 +2,7 @@
 
 - [ ] **Figure out general plot questions**
   - [ ] What happens to Ada in the end?
+  - [ ] Figure out which coastal town they’re in
 - [ ] **Scene ideas**
   - [ ] Lord Lawrence reading stores about his exploration
   - [ ] Sequence from HAHH

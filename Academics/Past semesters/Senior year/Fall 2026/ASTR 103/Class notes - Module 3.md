@@ -224,7 +224,7 @@
 
       [[Screenshot 2026-10-30 at 1.46.09 PM.png]]
 
-## **Lectures Twenty-Five | Galactic Habitable Zones**
+## **Lecture Twenty-Five | Galactic Habitable Zones**
 
 **Milky Way Galaxy**
 
@@ -246,4 +246,3 @@
   - The fastest any signal can travel is the speed of light
   - **Light-year:** distance unit representing how far light can travel in a year
     - ==🔴It takes light 1 year to travel 1 light-year==
-    - 
