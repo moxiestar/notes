@@ -15,6 +15,7 @@
 
 - [ ] Work on Terror/Endurance sketches (see folder in Procreate)
 - [ ] ==🔴Work on character sketches (see folder in Procreate)==
+  - [ ] Ada (*remember her ring), Lawrence, Blake
 
 ## Completed
 

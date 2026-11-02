@@ -242,6 +242,8 @@
     - Planet development is most likely to occur near one of the spiral arms of the central star
 - **Is the star the right age?**
   - Remember that as the mass of a star increases, its lifetime decreases
-  - 
 - **How long will it takes to send a message to that star and its planets?**
-  - 
+  - The fastest any signal can travel is the speed of light
+  - **Light-year:** distance unit representing how far light can travel in a year
+    - ==🔴It takes light 1 year to travel 1 light-year==
+    - 
