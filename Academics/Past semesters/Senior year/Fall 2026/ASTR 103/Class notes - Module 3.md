@@ -238,7 +238,10 @@
 
 - **Where in the galaxy should we look?**
   - **Galatic Habitable Zone**
-    - Sweet spot between the galaxy’s center and periphery 
-- Is the star the right age?
-- How long will it takes to send a message to that star and its planets?
-- 
+    - Sweet spot between the galaxy’s center and periphery
+    - Planet development is most likely to occur near one of the spiral arms of the central star
+- **Is the star the right age?**
+  - Remember that as the mass of a star increases, its lifetime decreases
+  - 
+- **How long will it takes to send a message to that star and its planets?**
+  - 

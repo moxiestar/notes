@@ -5,9 +5,10 @@
 - [ ] **Scene ideas**
   - [ ] Lord Lawrence reading stores about his exploration
   - [ ] Sequence from HAHH
-  - 
 - [ ] **Work on characters**
+  - [ ] Figure out characters for 1878
   - [ ] Write character bios
+  - [ ] Figure out who survives
   - [ ] Figure out each cause of death
 
 ## **Drawing**

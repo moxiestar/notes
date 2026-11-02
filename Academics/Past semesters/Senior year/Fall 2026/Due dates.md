@@ -324,7 +324,7 @@
 ### Wednesday, November 4
 
 - [ ] ASTR 103: LT Check 21
-- [ ] ASTR 103: Homework 20
+- [x] ASTR 103: Homework 20
 - [ ] MATH 210: Homework
 
 ### Thursday, November 5
