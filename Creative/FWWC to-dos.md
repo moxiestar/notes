@@ -7,8 +7,7 @@
   - [ ] Lord Lawrence reading stores about his exploration
   - [ ] Sequence from HAHH
 - [ ] **Work on characters**
-  - [ ] Figure out characters for 1878
-  - [ ] Figure out who survives
+  - [ ] Figure out characters for 1878 (boarding house)
   - [ ] Figure out each cause of death aboard Aurora
   - [ ] Write character bios
 
@@ -16,7 +15,6 @@
 
 - [ ] Work on Terror/Endurance sketches (see folder in Procreate)
 - [ ] ==🔴Work on character sketches (see folder in Procreate)==
-  - [ ] Ada (*remember her ring), Lawrence, Blake
 
 ## Completed
 
