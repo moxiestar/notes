@@ -6,6 +6,8 @@
 
 **Content:** Lectures 2-10
 
+**Result:** 100
+
 ### Midterm 2 | October 7
 
 **Format:** 40 multiple choice questions
@@ -20,7 +22,24 @@
 - [x] Practice exam
 - [x] Claude review
 
+**Result:** 74
+
 ### ==🔴Midterm 3 | November 11==
+
+**Format:** 40 multiple choice questions
+
+**Content:** Lectures 18-29
+
+**Things to review**
+
+- [ ] Class slides
+- [ ] Flashcards (Quizlet)
+- [ ] Notes (go through and explain each concept)
+- [ ] Practice exam
+- [ ] Claude review
+- [ ] Homework problems (in practice mode)
+
+**Result:** ?
 
 ### Final | December 8
 
@@ -37,6 +56,8 @@
 - [x] Flashcards (Quizlet)
 - [x] Claude review
 - [x] Study guide (fill out)
+
+**Result:** 92.5
 
 ### Final | December 4
 
@@ -108,7 +129,7 @@
 - [ ] 2.4 - examples on pages 107, 108, and 110
 - [ ] 2.5 - theorem on page 116, example on page 118
 
-**Result: 85**
+**Result:** 85
 
 ### Midterm 2 | October 29
 
@@ -147,7 +168,7 @@
 - [ ] Understanding eigenvalue/eigenvector rules
 - [ ] Using PDP diagonalization equation
 
-**Result: 90.5**
+**Result:** 90.5
 
 ### ==🔴Midterm 3 | November 19==
 
