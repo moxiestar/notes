@@ -1,16 +1,16 @@
 ## **Writing**
 
-- [ ] **Figure out general plot questions**
-  - [ ] What happens to Ada in the end?
-  - [ ] Figure out which coastal town they’re in
-- [ ] **Scene ideas**
+- [x] **Figure out general plot questions**
+  - [x] What happens to Ada in the end?
+  - [x] Figure out which coastal town they’re in
+- [ ] **Figure out scene ideas**
   - [ ] Lord Lawrence reading stores about his exploration
   - [ ] Sequence from HAHH
 - [ ] **Work on characters**
   - [ ] Figure out characters for 1878
-  - [ ] Write character bios
   - [ ] Figure out who survives
-  - [ ] Figure out each cause of death
+  - [ ] Figure out each cause of death aboard Aurora
+  - [ ] Write character bios
 
 ## **Drawing**
 
