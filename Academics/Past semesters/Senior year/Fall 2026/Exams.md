@@ -20,7 +20,7 @@
 - [x] Practice exam
 - [x] Claude review
 
-### Midterm 3 | November 11
+### ==🔴Midterm 3 | November 11==
 
 ### Final | December 8
 
@@ -108,7 +108,9 @@
 - [ ] 2.4 - examples on pages 107, 108, and 110
 - [ ] 2.5 - theorem on page 116, example on page 118
 
-### ==🔴Midterm 2 | October 29==
+**Result: 85**
+
+### Midterm 2 | October 29
 
 **Format:** Short answer questions & multiple choice
 
@@ -145,6 +147,8 @@
 - [ ] Understanding eigenvalue/eigenvector rules
 - [ ] Using PDP diagonalization equation
 
-### Midterm 3 | November 19
+**Result: 90.5**
+
+### ==🔴Midterm 3 | November 19==
 
 ### Final | December 8
