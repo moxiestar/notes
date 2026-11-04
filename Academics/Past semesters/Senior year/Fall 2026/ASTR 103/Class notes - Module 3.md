@@ -246,3 +246,13 @@
   - The fastest any signal can travel is the speed of light
   - **Light-year:** distance unit representing how far light can travel in a year
     - ==🔴It takes light 1 year to travel 1 light-year==
+
+## **Lecture Twenty-Six | Biosignature**
+
+**Biosignature**
+
+- **Definition:** evidence of life, past of present, on a planet
+- **Life affects**
+  - …
+- **Oxygen catastrophe**
+  - 
