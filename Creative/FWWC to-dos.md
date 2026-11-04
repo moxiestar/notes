@@ -4,7 +4,6 @@
   - [x] What happens to Ada in the end?
   - [x] Figure out which coastal town they’re in
 - [ ] **Figure out scene ideas**
-  - [ ] Lord Lawrence reading stores about his exploration
   - [ ] Sequence from HAHH
 - [ ] **Work on characters**
   - [ ] Figure out characters for 1878 (boarding house)
