@@ -266,4 +266,12 @@
 - **Snowball Earth**
   - Geological evidence shows that roughly 750-600 million years ago, Earth was covered by glaciers
   - Early photosynthetic organisms removed so much CO2 from the atmosphere that the planet’s temperature plummeted 
-  - 
+  - Phase ended when volcanoes produced enough CO2 to restart the greenhouse effect
+  - There was likely a dramatic increase in the diversity of life just as the snowball phase ended (Cambrian explosion)
+
+**Transmission spectroscopy**
+
+- **Most compelling method of finding biosignatures**
+- During transit, some of a star’s light passes through a planet’s atmopshere, and some of that starlight will be absorbed by the gases in that planet’s atmosphere 
+- ==🔴Because of this, we can detect the composition of an orbiting exoplanet’s atmosphere based on the wavelengths of light it blocks==
+  - Based on that data, we can look for gases that correspond with the presence of life 
