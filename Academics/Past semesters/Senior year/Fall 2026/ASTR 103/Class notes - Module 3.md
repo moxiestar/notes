@@ -279,6 +279,18 @@
   - **Vegetation red edge:** red area of the graph where Earth’s reflected light increases
     - This occurs because plants reflect a lot of red and IR light
     - Note that most visible light is absorbed by plants for photosynthesis
-    - On other planets, this pattern might change
-  - Labeled Release experiment
-    - Viking Rover collected Martian 
+    - **On other planets, this pattern might change**
+      - On **hotter** stars, we might see a vegetation **orange** edge
+      - On **cooler** stars, we might see a vegetation **IR** edge
+- **Life on Mars?**
+  - **Labeled Release experiment**
+    - **Viking Rover collected four Martian soil samples and tested to see if they would consume food**
+      - **Sample 1:** soil placed in container with food for potential organisms to consume
+      - **Sample 2:** soil placed in container with food, but heated up hot enough to kill (320 F)
+      - **Sample 3:** soil placed in container with food
+      - **Sample 4:** soil placed in container with food, but left in the dark long enough to kill
+  - **Martian rocks were found with evidence that they originated in water**
+  - **Martian bacteria, similar to bacteria on Earth, were found**
+    - Magnetite crystals were found within the bacteria, a characteristic of living organisms on Earth
+
+…
