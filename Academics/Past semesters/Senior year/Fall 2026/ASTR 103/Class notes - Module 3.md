@@ -252,7 +252,18 @@
 **Biosignature**
 
 - **Definition:** evidence of life, past of present, on a planet
-- **Life affects**
-  - …
+- **Life affects…**
+  - Atmospheric composition
+  - Climate
+  - The planet’s overall color
+  - Absorption and reflection wavelengths
 - **Oxygen catastrophe**
+  - The chemical makeup of old rocks shows that Earth’s original atmosphere had much more CO2 (as a result of volcanism) and much less oxygen than today
+  - **The amount of oxygen increased and the amount of CO2 decreased once photosynthesis evolved (roughly 2 billion years ago)**
+    - Cyanobacteria were the first organisms to develop photosynthesis
+    - ==🔴There were no multicellular organisms before the oxygen catastrophe, and probably no organisms on land, due to the lack of an ozone layer==
+  - **As a result, many single-celled anaerobes went extinct**
+- **Snowball Earth**
+  - Geological evidence shows that roughly 750-600 million years ago, Earth was covered by glaciers
+  - Early photosynthetic organisms removed so much CO2 from the atmosphere that the planet’s temperature plummeted 
   - 
