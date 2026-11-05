@@ -325,7 +325,7 @@
 
 - [x] ASTR 103: LT Check 21
 - [x] ASTR 103: Homework 20
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Thursday, November 5
 
@@ -333,7 +333,7 @@
 
 ### Friday, November 6
 
-- [ ] ASTR 103: LT Check 22
+- [x] ASTR 103: LT Check 22
 - [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 8
