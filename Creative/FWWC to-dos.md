@@ -4,8 +4,7 @@
   - [x] What happens to Ada in the end?
   - [x] Figure out which coastal town they’re in
 - [ ] **Work on opening**
-  - [ ] **See sequence under Chapter One**
-    - [ ] Choose names of Admiralty captains
+  - [ ] **Finish sequence under Chapter One**
     - [ ] Figure out the course/map of the expedition
 - [ ] **Work on characters**
   - [ ] Figure out each cause of death aboard Aurora

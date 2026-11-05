@@ -338,9 +338,9 @@
 
 ### Sunday, November 8
 
-- [ ] ASTR 103: Warm-up 26
+- [x] ASTR 103: Warm-up 26
 - [ ] ASTR 103: LT Check 23
-- [ ] ASTR 103: Homework 21
+- [x] ASTR 103: Homework 21
 
 ### Monday, November 9
 
