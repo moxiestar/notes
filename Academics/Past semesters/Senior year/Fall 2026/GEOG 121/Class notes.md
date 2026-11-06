@@ -791,7 +791,7 @@
     - New international monetary system that prioritized and stabilized the dollar
     - 10% tax on imported goods due to “unfair treatment” by foreign countries
 - **Financial derivatives**
-  - **Derivatives allow investors to hedge and speculate** 
+  - **Derivatives allow investors to hedge and speculate**
     - They take their value from global market expectations
       - **Futures:** one party agrees to deliver a commodity at a later date
         - These deals often involve shipping companies and financial institutions
@@ -803,7 +803,7 @@
         - That being said, they often generate increased risk due to their complexity
         - They overlook social politics
         - They expose tensions between states and financial capital
-      - **Derivatives now account for 800 trillion of global** 
+      - **Derivatives now account for 800 trillion of global**
 
 **The Flash Crash**
 
@@ -825,3 +825,49 @@
     - The glitch was attributed to Waddell & Reed, a firm in Kansas that ordered 75,000 stocks, tanking the E-mini prices
     - But it also might have been the sale of 30,000 “contracts” on the market directly before the crash
   - Discusses the history of the term “stock” - a stick carved with unique notches, one half given to the lender and one half given to the borrower
+
+## Lectures Twenty-Six, Twenty-Seven, & Twenty-Eight | Networks
+
+**Topography vs. topology**
+
+- **Network topology:** pattern of connections between nodes of networks
+- **Network topography:** physical points along a network
+  - Also encompasses owernship and dependencies
+- **Network society:** a society structured by networks powered by microelectronic information 
+  - These networks support finance, trade, social connections, education, etc
+- **Components of networks**
+  - **Structure:** nodes and edges that comprise the network path
+  - **Connectivity:** links between structure 
+  - **Topology:** layout of the network
+- **Types of networks**
+  - **Centralized**
+    - **Related power structure:** central monarch and state
+  - **Decentralized**
+    - **Related power structure:** network of bankers
+  - **Distributed**
+    - **Related power structure:** US highway network
+- **Digital internetwork communication**
+  - **Enabled by protocols**
+    - Binary logic of inclusion or exclusion 
+    - **Examples:** TCP, IP
+- **Network effects:** the larger and vaster a network is, the more important it is
+
+**Networks & power**
+
+- **Networks are often organized by power**
+  - Programmers define the goals and rules
+  - Switchers control internetwork connections (media, politics, etc)
+  - Social movements also have an effect 
+  - **Terms:** networked power, networking power, network power, network-making power
+- **Information and communication technologies**
+  - Developments like the telephone, telegraph, and eventually digital communication all increased the speed of connection
+- **Infrastructures**
+  - Physical, manmade environments of networks
+  - Infrastructures determine the speed and direction of networks
+  - Often invisible until breakdown
+  - **Media infrastructures:** designed to relay audio-visual traffic
+    - Serve as enablers for contemporary life
+    - These structures bring the unique material aspect of media distribution to light
+    - Examples: data centers, cell towers, etc 
+      - 
+      - 
