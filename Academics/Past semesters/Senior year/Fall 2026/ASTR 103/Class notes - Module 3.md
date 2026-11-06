@@ -247,9 +247,9 @@
   - **Light-year:** distance unit representing how far light can travel in a year
     - ==🔴It takes light 1 year to travel 1 light-year==
 
-## **Lecture Twenty-Six | Biosignature**
+## **Lecture Twenty-Six | Biosignatures**
 
-**Biosignature**
+**Biosignatures**
 
 - **Definition:** evidence of life, past of present, on a planet
 - **Life affects…**
@@ -275,7 +275,7 @@
 - During transit, some of a star’s light passes through a planet’s atmopshere, and some of that starlight will be absorbed by the gases in that planet’s atmosphere
 - ==🔴Because of this, we can detect the composition of an orbiting exoplanet’s atmosphere based on the wavelengths of light it blocks==
   - Based on that data, we can look for gases that correspond with the presence of life
-- **Reflectence spectrum graphs represent how much light Earth reflects** 
+- **Reflectence spectrum graphs represent how much light Earth reflects**
   - **Vegetation red edge:** red area of the graph where Earth’s reflected light increases
     - This occurs because plants reflect a lot of red and IR light
     - Note that most visible light is absorbed by plants for photosynthesis
@@ -293,4 +293,55 @@
   - **Martian bacteria, similar to bacteria on Earth, were found**
     - Magnetite crystals were found within the bacteria, a characteristic of living organisms on Earth
 
-…
+## **Lecture Twenty-Seven | Technosignatures**
+
+**Technosignatures**
+
+- **Definition:** technological evidence of an alien civilization
+- Best technosignatures are easy to detect and unavoidable
+
+**Options for sending messages to technological societies**
+
+- **Spacecraft**
+  - **Issue:** spacecraft take way too long to travel interstellar distances
+- **Neutrinos**
+  - **Issue:** hard to detect
+- **Gravitational waves**
+  - **Issue:** extremely hard to detect
+- **Charged particles**
+  - **Issue:** easily deflected by magnetic fields in the galaxy
+- **Electromagnetic radiation (light)**
+  - Easy to create and detect!
+
+**Advantages of radios**
+
+- Radio signals can make it through our atmosphere
+- Unlike telescopes that detect visible light, radio telescopes can be used during both the day and night
+- While the sun do emit radio, they don’t emit as much as humans do
+- Radio has the lowest energy of any type of light, making it easier to produce and less likely to be absorbed by the gas and dust permeating the space between stars
+
+**Search for Extraterrestrial Intelligence (SETI)**
+
+- Ongoing effort to find technosignatures in the radio part of the electromagnetic spectrum
+- These technosignatures could be intentionally or unintentionally created
+  - Humans have unintentionally created technosignatures, primarily in the form of radio signals
+
+**Intentional & unintentional signals from Earth**
+
+- Strength of signals from Earth varies based on its rotation
+- **A radio message can be sent at a specific frequency**
+  - By modulating that frequency, our message can encode a picture
+  - In 1974, astronomers used the Arecibo radio telescope to send a message at a frequency of 2380 MHz, modulating it by 10Hz
+
+**Searching for technosignatures**
+
+- **Best signals to target** 
+  - Signals that are impossible to create via natural processes
+  - Signals that are similar to common astrophysical sources and easier to notice
+- **Frequencies to Search**
+  - **The Water Hole:** stretch between 1420MHz (hydrogen emission frequency) and 1662MHz (OH emission frequency) that has low background noise
+  - **The Wow signal:** mysterious huge radio signal detected in the 1970s 
+  - **The Kardashev Scale:** ranking for technology levels of hypothetical civilizations
+    - A type II civilization on the Kardashev Scale might construct a **Dyson Sphere**, a structure that  surrounds and captures all energy from their star
+      - A **Dyson Swarm** would only partially surround the star
+      - They are possible **Dyson Spheres** in the universe
