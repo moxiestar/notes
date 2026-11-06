@@ -833,11 +833,11 @@
 - **Network topology:** pattern of connections between nodes of networks
 - **Network topography:** physical points along a network
   - Also encompasses owernship and dependencies
-- **Network society:** a society structured by networks powered by microelectronic information 
+- **Network society:** a society structured by networks powered by microelectronic information
   - These networks support finance, trade, social connections, education, etc
 - **Components of networks**
   - **Structure:** nodes and edges that comprise the network path
-  - **Connectivity:** links between structure 
+  - **Connectivity:** links between structure
   - **Topology:** layout of the network
 - **Types of networks**
   - **Centralized**
@@ -848,7 +848,7 @@
     - **Related power structure:** US highway network
 - **Digital internetwork communication**
   - **Enabled by protocols**
-    - Binary logic of inclusion or exclusion 
+    - Binary logic of inclusion or exclusion
     - **Examples:** TCP, IP
 - **Network effects:** the larger and vaster a network is, the more important it is
 
@@ -857,7 +857,7 @@
 - **Networks are often organized by power**
   - Programmers define the goals and rules
   - Switchers control internetwork connections (media, politics, etc)
-  - Social movements also have an effect 
+  - Social movements also have an effect
   - **Terms:** networked power, networking power, network power, network-making power
 - **Information and communication technologies**
   - Developments like the telephone, telegraph, and eventually digital communication all increased the speed of connection
@@ -868,6 +868,30 @@
   - **Media infrastructures:** designed to relay audio-visual traffic
     - Serve as enablers for contemporary life
     - These structures bring the unique material aspect of media distribution to light
-    - Examples: data centers, cell towers, etc 
-      - 
-      - 
+    - **Examples:** data centers, cell towers, etc
+  - **Submarine fiber-optic cables**
+    - Transport 99% of transoceanic data
+    - Enable international business and finance
+    - If the cables were compromised or brought down, our international communications would cease
+    - The US has roughly 88 undersea cables
+    - **Layout of cable follows colonial routes**
+      - Example of path dependence, where new technology is built atop older structures
+- **Inequality of international communication geographies**
+  - Huge contrast between internet access in Africa and the Western World
+    - At most 50% of people in Africa have internet access
+- **Activity on the global internet**
+  - Searching Google, watching videos & porn, streaming shows & movies, social networking, reading, using AI, shopping
+  - Together, YouTube, Netflix, Facebook, Tiktok, Prime, and Disney+ comprise 55% of global internet traffic
+- **Important questions**
+  - Where does the information come from?
+  - How does it circulate?
+  - Where does it get concentrated?
+  - Who controls it?
+
+**Connection documentary**
+
+- The internet is physical as well as a digital imaginary
+- **A huge amount of data passes through a data center in Manhattan, via fiber optic cables**
+  - The building once served as a telecommunications hub, and the headquarters of Western Union, making it easy to outfit for modern communications
+- The data center is part of a larger overlapping network
+- Communication systems arose during the age of Empire
