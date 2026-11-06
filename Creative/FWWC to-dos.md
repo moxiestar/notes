@@ -5,7 +5,7 @@
   - [x] Figure out which coastal town they’re in
 - [ ] **Work on opening**
   - [ ] **Finish sequence under Chapter One**
-    - [ ] Figure out the course/map of the expedition
+    - [ ] Do more research into the North Pole expeditions 
 - [ ] **Work on characters**
   - [ ] Figure out each cause of death aboard Aurora
   - [ ] Write character bios
