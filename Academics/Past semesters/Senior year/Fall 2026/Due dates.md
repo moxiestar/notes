@@ -334,12 +334,12 @@
 ### Friday, November 6
 
 - [x] ASTR 103: LT Check 22
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 8
 
 - [x] ASTR 103: Warm-up 26
-- [ ] ASTR 103: LT Check 23
+- [x] ASTR 103: LT Check 23
 - [x] ASTR 103: Homework 21
 
 ### Monday, November 9
