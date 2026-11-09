@@ -25,3 +25,10 @@
     - Either isotope can form CO2
     - **Living organisms preferentially incorporate carbon-12 over carbon-13, so the carbon in fossil fuels is 99% carbon-12**
       - Burning fossil fuels adds CO2 to the atmosphere, but the fraction of CO2 made with carbon-13 goes down
+    - **Climate change correlated with carbon**
+      - **Paleocene Eocene Thermal Maximum**
+        - Spike in temperature correlated to lower rates of carbon-13
+      - **Eocene Layer of Mysterious Origin**
+        - Spike in temperature correlated to lower rates of carbon-13
+      - **Neither of these are likely caused by another civilization, though**
+- **Any advanced civilization probably found ways to reduce its environmental impact, making it harder to detect in the future**
