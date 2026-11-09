@@ -344,7 +344,7 @@
 
 ### Monday, November 9
 
-- [ ] ASTR 103: Homework 22
+- [x] ASTR 103: Homework 22
 - [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 

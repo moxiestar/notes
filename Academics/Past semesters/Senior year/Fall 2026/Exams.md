@@ -32,12 +32,11 @@
 
 **Things to review**
 
-- [ ] Class slides
 - [ ] Flashcards (Quizlet)
-- [ ] Notes (go through and explain each concept)
-- [ ] Practice exam
-- [ ] Claude review
 - [ ] Homework problems (in practice mode)
+- [ ] Practice exam
+- [ ] Claude review (include class slides, notes, and practice exam)
+- [ ] Notes (go through and explain each concept)
 
 **Result:** ?
 
