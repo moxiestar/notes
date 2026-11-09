@@ -895,3 +895,33 @@
   - The building once served as a telecommunications hub, and the headquarters of Western Union, making it easy to outfit for modern communications
 - The data center is part of a larger overlapping network
 - Communication systems arose during the age of Empire
+
+## Lecture Twenty-Nine | AI
+
+**Mapping AI use**
+
+- **Most common uses of ChatGPT**
+  - Finding specific information, editing texts, teaching, understanding personal communication
+  - **Used most in India, Pakistan, Kenya, and China**
+- **Where is the value of AI located?**
+  - AI is an economic & geopolitical project
+    - A few large firms and two rival countries (US and China) are competing to develop and gauge the potential of AI
+  - Geographical lens focuses on where AI is created, where its value goes, and where the effects are felt
+- **AI beyond ChatGPT**
+  - **As an enterprise, AI provides tokens**
+    - Multimodality, not language; reasoning, not parroting, agents, not responses, systems, not models
+  - Chatbots are a low bar for the potential of AI - it can expand far beyond
+- **AI stacks**
+  - **When using AI, you are interacting with an entire technology stack, not one specific tool**
+    - **Hardware:** specialized chips to run models (mostly Nvidia)
+    - **Infrastructure:** data centers (Amazon, Microsoft)
+    - **Models:** the trained AI system (more diverse spread of companies)
+    - **Apps:** the actual products we interact with (the most diverse category, though Anthropic & OpenAI dominate)
+- **AI ownership**
+  - **Antitrust scrutiny makes it hard to buy AI startups, so they gain control in other ways**
+    - Investment stakes, credits, cloud deals, rights, early access
+    - Two-thirds of AI start-up funding comes from Big Tech
+- **Reading: Atlas of AI**
+  - Crawford argues that AI is a registry for power, made up of labor, minerals, and energy
+  - Rather than replacing old industrial methods, computing is used to increase productivity and intensify the depletion of environmental resources 
+  - *AI is neither artificial nor intelligent*
