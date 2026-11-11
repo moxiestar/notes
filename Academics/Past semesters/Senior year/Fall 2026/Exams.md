@@ -32,11 +32,24 @@
 
 **Things to review**
 
-- [ ] Flashcards (Quizlet)
-- [ ] Homework problems (in practice mode)
-- [ ] Practice exam
-- [ ] Claude review (include class slides, notes, and practice exam)
+- [x] Flashcards (Quizlet)
+- [x] Practice exam
+- [x] **Go through LT checks and add material to notes**
+- [x] **Create new flashcards (pain points, questions, diagrams)**
+- [ ] **Go through new flashcards**
+- [ ] **Claude review (include class slides, notes, practice exam)**
 - [ ] Notes (go through and explain each concept)
+  - [x] Go through lecture slides for four detection methods
+- [ ] Homework problems (in practice mode)
+
+**Pain points**
+
+- [ ] Identifying life based on gases (question 5)
+- [ ] Understanding doppler shift spectrums (questions 9-12)
+- [ ] Everything with math
+- [ ] Understanding radial velocity curves (question 26)
+- [ ] Understanding flare energy diagrams (question 34)
+- [ ] Remembering masses of planet classifications (question 36)
 
 **Result:** ?
 
@@ -170,5 +183,31 @@
 **Result:** 90.5
 
 ### ==🔴Midterm 3 | November 19==
+
+**Format:** Short answer questions & multiple choice
+
+**Content:** Lectures 3.1 - 8.1 (plus 2.3)
+
+**Cheat sheet:** one-sided page allowed
+
+**First phase of review**
+
+- [ ] Go through lecture notes (use videos)
+- [ ] Compile general module notes here
+
+**Second phase of review**
+
+- [ ] Review notes again
+- [ ] Practice problems
+
+**Third phase of review**
+
+- [ ] Cheat sheet
+- [ ] Practice exam
+- [ ] AI practice exam
+
+**Pain points**
+
+- [ ] ?
 
 ### Final | December 8

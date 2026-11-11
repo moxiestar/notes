@@ -1,4 +1,4 @@
-# ASTR 103 | Module 3
+# ASTR 103 | Module 4
 
 ## **Lecture Sixteen | Doppler Shift**
 
@@ -15,6 +15,8 @@
   - An object is **blueshifting** when it moves towards us
   - An object is **redshifting** when it moves away from us
 
+- **==🔴Note that red wavelengths are longer and blue wavelengths are shorter==**
+
 - **Stars**
 
   - Star color does not change based on movement/distance, since their speed is too slow
@@ -29,9 +31,9 @@
 
 - **Equation**
 
-- The Doppler Shift equation describes the speed of a moving object as a ratio of various wavelengths
+  - The Doppler Shift equation describes the speed of a moving object as a ratio of various wavelengths
 
-  [[Screenshot 2026-10-10 at 4.39.56 PM.png]]
+    [[Screenshot 2026-10-10 at 4.39.56 PM.png|768]]
 
 ## **Lectures Seventeen through Twenty-Two | Extrasolar planets**
 
@@ -59,21 +61,27 @@
   - **Note that on spectral graphs…**
     - **Radial velocity:** the part of the star’s spectral graph that points towards or away from us
     - **Transverse velocity:** the part of the star’s spectral graph that does not point towards or away from us
+  - **==🔵Radial velocity method==**
+    - **==🔴Depends primarily on the mass of the planet, but involves detecting light from the background star==**
+      - **The larger and closer to the star the planet is, the easier it is to detect it with radial velocity**
+    - A star’s radial velocity is its speed moving towards or away from Earth
+    - A radial velocity curve is a graph of the star’s radial velocity over time
+      - Negative velocities represent blueshifted light
+      - Positive velocities represent redshifted light
+    - **The time it takes to complete one full radial velocity curve is equal to the orbital period of both the star and the planet**
+    - **The height of a radial velocity curve corresponds to the amount of Doppler Shift**
+      - **Factors influencing the amount of Doppler Shift**
+        - The mass of the star
+        - The mass of the planet
+        - The distance between the star and the planet
+      - **Finding the amount of Doppler Shift**
 
-- **==🔵Radial velocity method==**
+        [[Screenshot 2026-11-10 at 5.47.32 PM.png]]
+    - **==🔵Features==**
 
-  - **==🔴Depends primarily on the mass of the planet, but involves detecting light from the background star==**
-    - **The larger and closer to the star the planet is, the easier it is to detect it with radial velocity**
-  - A star’s radial velocity is its speed moving towards or away from Earth
-  - A radial velocity curve is a graph of the star’s radial velocity over time
-    - Negative velocities represent blueshifted light
-    - Positive velocities represent redshifted light
-  - The time it takes to complete one full radial velocity curve is equal to the orbital period of both the star and the planet
-  - **The height of a radial velocity curve corresponds to the amount of Doppler Shift**
-    - **Factors influencing the amount of Doppler Shift**
-      - The mass of the star
-      - The mass of the planet
-      - The distance between the star and the planet
+      [[Screenshot 2026-11-09 at 11.52.40 PM.png]]
+
+      [[Screenshot 2026-11-09 at 11.51.22 PM.png]]
 
 - **==🟢Transit method==**
 
@@ -100,7 +108,7 @@
 
       - When both planets simultaneously block the star, a deeper dip occurs on the curve
 
-    - **Features**
+    - **==🟢Features==**
 
       - **Width of the curve:** duration of the transit
 
@@ -155,17 +163,28 @@
     - The light curves of background stars with orbiting planets will have an extra peak for the planet’s light displacement
     - **The placement of the planet on the light curve will be the opposite of the planet’s orientation to the star**
       - If the planet is to the right of the star, it will appear first on the light curve, to the left of the star
+  - **==🔴Features==**
+
+    [[Screenshot 2026-11-10 at 12.00.06 AM.png]]
+
+    [[Screenshot 2026-11-10 at 12.01.49 AM.png]]
+
+    [[Screenshot 2026-11-10 at 12.02.20 AM.png]]
 
 ## **Lectures Twenty-Three & Twenty-Four | Solar System**
 
 **Planets in our solar system**
 
-- **Terrerstrial planets:** small, made of rocks and metals
+- **Terrestrial planets:** small, made of rocks and metals
   - **Examples:** Mercury, Venus, Earth, Mars
+- **Super-Earths:** planets slightly larger than Earth
+- **Mini-Neptunes:** planets slightly smaller than Neptune
 - **Gas giants:** big, made predominantly of gas
   - **Examples:** Jupiter, Saturn, Uranus, Neptune
+- **Hot-Jupiters:** Jupiter-sized hot planets orbiting close to a sunlike star
 - **Ice giants:** big, made predominantly of gas, mostly elements heavier than H and He
   - **Examples:** Uranus, Neptune
+- **Earth-sized planets are more prevalent than Jupiter-sized planets**
 
 **Discovery of planets**
 
@@ -233,12 +252,15 @@
   - Gas and dust
   - Black holes
   - Mysterious dark matter (yay)
+- Note that the Milky Way is 100,000 light years across
 
 **Three key questions for identifying communicative life**
 
 - **Where in the galaxy should we look?**
-  - **Galatic Habitable Zone**
+  - **Galactic Habitable Zone**
     - Sweet spot between the galaxy’s center and periphery
+      - In the center, there are too many supernovae for life to develop
+      - In the periphery, there are too few raw materials to form a planet
     - Planet development is most likely to occur near one of the spiral arms of the central star
 - **Is the star the right age?**
   - Remember that as the mass of a star increases, its lifetime decreases
@@ -317,7 +339,7 @@
 
 - Radio signals can make it through our atmosphere
 - Unlike telescopes that detect visible light, radio telescopes can be used during both the day and night
-- While the sun do emit radio, they don’t emit as much as humans do
+- While the sun does emit radio, it doesn’t emit as much as humans do
 - Radio has the lowest energy of any type of light, making it easier to produce and less likely to be absorbed by the gas and dust permeating the space between stars
 
 **Search for Extraterrestrial Intelligence (SETI)**
@@ -335,13 +357,33 @@
 
 **Searching for technosignatures**
 
-- **Best signals to target** 
+- **Best signals to target**
   - Signals that are impossible to create via natural processes
   - Signals that are similar to common astrophysical sources and easier to notice
 - **Frequencies to Search**
   - **The Water Hole:** stretch between 1420MHz (hydrogen emission frequency) and 1662MHz (OH emission frequency) that has low background noise
-  - **The Wow signal:** mysterious huge radio signal detected in the 1970s 
+  - **The Wow signal:** mysterious huge radio signal detected in the 1970s
   - **The Kardashev Scale:** ranking for technology levels of hypothetical civilizations
-    - A type II civilization on the Kardashev Scale might construct a **Dyson Sphere**, a structure that  surrounds and captures all energy from their star
+    - A type II civilization on the Kardashev Scale might construct a **Dyson Sphere**, a structure that surrounds and captures all energy from their star
       - A **Dyson Swarm** would only partially surround the star
       - They are possible **Dyson Spheres** in the universe
+
+## Key problems from Lecture Tutorials
+
+### Doppler Shift 1
+
+[[Doppler1-4.png]]
+
+[[Doppler1-5.png]]
+
+[[Doppler1-6.png]]
+
+###  Doppler Shift 2
+
+[[Screenshot 2026-11-10 at 8.32.38 PM.png]]
+
+###  Microlensing
+
+[[Microlensing6.png]]
+
+ 

@@ -346,11 +346,10 @@
 
 - [x] ASTR 103: Homework 22
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
 
 ### Tuesday, November 10
 
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, November 11
 
