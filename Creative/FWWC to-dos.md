@@ -4,7 +4,6 @@
   - [x] What happens to Ada in the end?
   - [x] Figure out which coastal town they’re in
 - [ ] **Work on opening**
-- [ ] **Finish sequence under Chapter One**
 - [ ] **Work on characters**
   - [ ] Figure out each cause of death aboard Aurora
   - [ ] Write character bios

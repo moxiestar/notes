@@ -353,13 +353,13 @@
 
 ### Wednesday, November 11
 
-- [ ] **ASTR 103: Midterm 3**
-- [ ] MATH 210: Homework
+- [x] **ASTR 103: Midterm 3**
+- [x] MATH 210: Homework
 
 ### Thursday, November 12
 
-- [ ] ASTR 103: Warm-up 27
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 27
+- [x] MATH 210: Before-class assignment
 
 ### Friday, November 13
 

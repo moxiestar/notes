@@ -24,7 +24,7 @@
 
 **Result:** 74
 
-### ==🔴Midterm 3 | November 11==
+### Midterm 3 | November 11
 
 **Format:** 40 multiple choice questions
 
@@ -36,11 +36,8 @@
 - [x] Practice exam
 - [x] **Go through LT checks and add material to notes**
 - [x] **Create new flashcards (pain points, questions, diagrams)**
-- [ ] **Go through new flashcards**
-- [ ] **Claude review (include class slides, notes, practice exam)**
-- [ ] Notes (go through and explain each concept)
-  - [x] Go through lecture slides for four detection methods
-- [ ] Homework problems (in practice mode)
+- [x] **Go through new flashcards**
+- [x] **Claude review (include class slides, notes, practice exam)**
 
 **Pain points**
 
