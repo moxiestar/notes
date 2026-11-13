@@ -896,7 +896,7 @@
 - The data center is part of a larger overlapping network
 - Communication systems arose during the age of Empire
 
-## Lecture Twenty-Nine | AI
+## Lectures Twenty-Nine & Thirty | AI
 
 **Mapping AI use**
 
@@ -923,5 +923,50 @@
     - Two-thirds of AI start-up funding comes from Big Tech
 - **Reading: Atlas of AI**
   - Crawford argues that AI is a registry for power, made up of labor, minerals, and energy
-  - Rather than replacing old industrial methods, computing is used to increase productivity and intensify the depletion of environmental resources 
+  - Rather than replacing old industrial methods, computing is used to increase productivity and intensify the depletion of environmental resources
+    - Image generation uses more energy than it takes to charge your phone
   - *AI is neither artificial nor intelligent*
+
+**Mapping the materiality of AI**
+
+- **New geography of power emerging from AI**
+  - AI use is concentrated in high-income countries, while low-income countries suffer the negative impact
+    - Israel has the highest use (duh), Africa has the lowest
+  - **Harms of AI training**
+    - Training is done by underpaid, sometimes imprisoned workers, paid pennies for clicks
+    - Miners struggle with the worst conditions
+      - China depends on robots
+  - **Hidden labor powers AI, even though corporations claim it is autonomous**
+    - Tech companies relie on outsourcing to conceal this (no direct link to African laborers)
+    - High tech is funded on low tech
+    - Artisanal system puts mining out of sight
+  - **Labor is strongly connected to place**
+    - No matter their location, remote AI workers will have to shift to the AI users’ timezone
+  - **Companies claim that “there is no alternative”** 
+    - Workers are already unemployed, so global corporations leverage local economic desperation to poach workers
+- **Data centers**
+  - **Physical facilities that store local data and computing machines**
+    - Large buildings, sometimes even complexes
+    - Often located in small rural areas
+    - Employ vey few local employees
+  - **Data centers consume as much electricity as small cities**
+    - They’re proliferating at an exponential rate
+  - **Are data centers factories?**
+    - Referring to them as factories restores a sense of place
+    - But it also elevates their importance
+    - It also recognizes interconnectedness and the digital supply chain
+    - Highlights environmental costs
+  - **40% of data centers are in the US**
+    - “Everyone else has to pay”
+    - Greatest concentration is in Northern Virginia (data center alley)
+      - Most have extra generators on site
+    - Lenoir, NC is now home to 50,000 servers
+  - **AI has driven the biggest change in tech since the internet boom**
+    - PE firms are investing in AI
+    - **AI and energy**
+      - AI is powered by fiber-optic cables and transmission lines
+      - Data centers depend on dense GPUs
+      - They also depend on water to cool the processing systems
+        - In one Oregon town, data centers use a quarter of the city’s water
+        - Data centers often rely on water in water-deficient, hot areas, while control is concentrated in central, high-income areas
+      - **Energy use is projected to increase**
