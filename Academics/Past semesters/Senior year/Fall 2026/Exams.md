@@ -50,7 +50,7 @@
 
 **Result:** ?
 
-### Final | December 8
+### ==🔵Final | December 8==
 
 # GEOG 121
 
@@ -68,7 +68,7 @@
 
 **Result:** 92.5
 
-### Final | December 4
+### ==🔵Final | December 4==
 
 # MATH 210
 
@@ -207,4 +207,4 @@
 
 - [ ] ?
 
-### Final | December 8
+### ==🔵Final | December 8==

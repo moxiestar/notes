@@ -32,3 +32,19 @@
         - Spike in temperature correlated to lower rates of carbon-13
       - **Neither of these are likely caused by another civilization, though**
 - **Any advanced civilization probably found ways to reduce its environmental impact, making it harder to detect in the future**
+
+## Lecture Twenty-Nine | Scale in the Galaxy
+
+**Interstellar Spaceflight**
+
+- It can take years, decades, or even centuries to send signals between civilizations
+- But what if we could send spaceships between other stars?
+- **Our interstellar spacecraft**
+  - Pioneer 10 & 11, Voyager 1 & 2, New Horizons
+  - Craft fast enough to leave the solar system
+- **Issue: spacecraft take way too long to travel interstellar distances**
+  - But Pioneer and Voyager both carried plaques with information about humans
+
+**Scale Model**
+
+- All sizes and distances are scaled down by the same factor
