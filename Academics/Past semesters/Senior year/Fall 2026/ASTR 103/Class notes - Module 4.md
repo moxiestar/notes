@@ -48,3 +48,30 @@
 **Scale Model**
 
 - All sizes and distances are scaled down by the same factor
+
+## Lecture Thirty | Time Dilation
+
+**Time Dilation**
+
+- **Definition:** the faster you move, the slower time passes for you compared to someone at rest
+
+  - Time moves faster for someone on earth than for someone on a moving spaceship
+    - Note that the people on the spaceship think time is passing normally for them
+
+- **Equation**
+
+  [[Screenshot 2026-11-16 at 1.32.39 PM.png]]
+
+**Spaceflight with AI**
+
+- If we send AI probes out into space, the total number of spaceprobes follows the pattern $2^n -1$ as they reach new galaxies and multiply
+- What the fuck is he talking about
+
+**Fermi paradox**
+
+- The oldest potentially habitable worlds in the Milky Way Galaxy are 12 billion years old, and could have communicated throughout the galaxy
+- *Why haven’t we heard from any of them?*
+- **Possible reasons**
+  - **Great Filter:** technological civilizations inevitably wipe themselves out before they can contact each other
+  - **Dark Forest:** aliens don’t want to draw attention to themselves for fear of being wiped out by another civilization
+  - Or maybe they’re already among us…
