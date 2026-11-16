@@ -363,13 +363,13 @@
 
 ### Friday, November 13
 
-- [ ] ASTR 103: LT Check 24
-- [ ] GEOG 121: Transcribe weekly notes
+- [x] ASTR 103: LT Check 24
+- [x] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 15
 
-- [ ] ASTR 103: Warm-up 28
-- [ ] ASTR 103: LT Check 25
+- [x] ASTR 103: Warm-up 28
+- [x] ASTR 103: LT Check 25
 
 ### Monday, November 16
 

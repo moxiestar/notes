@@ -183,7 +183,7 @@
 
 **Format:** Short answer questions & multiple choice
 
-**Content:** Lectures 3.1 - 8.1 (plus 2.3)
+**Content:** Lectures 8.1.5 - 9.2 (but no PCA)
 
 **Cheat sheet:** one-sided page allowed
 
