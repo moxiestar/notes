@@ -1,3 +1,7 @@
+---
+pinned: true
+---
+
 # Survey writing training
 
 ### **New Hire Team | September 17, 2026**

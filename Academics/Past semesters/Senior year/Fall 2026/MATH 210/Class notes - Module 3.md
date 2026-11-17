@@ -15,5 +15,8 @@
   - If the coefficients include a **free variable**, the vectors are **linearly dependent**
 - **Determining linear (in)dependence with determinants**
   - For square matrices, if the **determinant is 0**, the vectors are **linearly dependent**
-  - If the **determinant is nonzero**, the vectors are **linearly independent** 
+  - If the **determinant is nonzero**, the vectors are **linearly independent**
+- **Linear (in)dependence and orthogonality** 
+  - If the vectors in a set are orthogonal, they are not necessarily linearly independent
+  - If the vectors in a set are orthogonal and nonzero, they are necessarily linearly independent
 - The same rules apply to matrices

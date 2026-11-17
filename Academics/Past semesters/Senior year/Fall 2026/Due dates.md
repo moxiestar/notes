@@ -1,3 +1,7 @@
+---
+pinned: true
+---
+
 ### Wednesday, August 19
 
 - [x] GEOG 121: Reading
@@ -375,7 +379,7 @@
 
 - [x] ASTR 103: Homework 23
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, November 17
 
@@ -388,7 +392,6 @@
 ### Thursday, November 19
 
 - [ ] ASTR 103: Warm-up 30
-- [ ] MATH 210: Before-class assignment
 - [ ] **MATH 210: Midterm 3**
 
 ### Friday, November 20

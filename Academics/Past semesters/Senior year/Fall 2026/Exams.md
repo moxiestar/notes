@@ -1,3 +1,7 @@
+---
+pinned: true
+---
+
 # ASTR 103
 
 ### **Midterm 1 | September 14**
