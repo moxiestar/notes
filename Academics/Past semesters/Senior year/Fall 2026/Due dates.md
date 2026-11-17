@@ -391,7 +391,7 @@ pinned: true
 
 ### Thursday, November 19
 
-- [ ] ASTR 103: Warm-up 30
+- [x] ASTR 103: Warm-up 30
 - [ ] **MATH 210: Midterm 3**
 
 ### Friday, November 20
@@ -400,7 +400,7 @@ pinned: true
 
 ### Sunday, November 22
 
-- [ ] ASTR 103: Warm-up 31
+- [x] ASTR 103: Warm-up 31
 
 ### Monday, November 23
 
@@ -414,7 +414,7 @@ pinned: true
 
 ### Sunday, November 29
 
-- [ ] ASTR 103: Warm-up 32
+- [x] ASTR 103: Warm-up 32
 
 ### Monsday, November 30
 
@@ -423,7 +423,7 @@ pinned: true
 
 ### Tuesday, December 1
 
-- [ ] ASTR 103: Warm-up 33
+- [x] ASTR 103: Warm-up 33
 - [ ] MATH 210: Before-class assignment
 
 ### Wednesday, December 2
