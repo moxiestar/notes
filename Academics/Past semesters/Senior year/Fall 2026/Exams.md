@@ -39,16 +39,7 @@
 - [x] **Go through new flashcards**
 - [x] **Claude review (include class slides, notes, practice exam)**
 
-**Pain points**
-
-- [ ] Identifying life based on gases (question 5)
-- [ ] Understanding doppler shift spectrums (questions 9-12)
-- [ ] Everything with math
-- [ ] Understanding radial velocity curves (question 26)
-- [ ] Understanding flare energy diagrams (question 34)
-- [ ] Remembering masses of planet classifications (question 36)
-
-**Result:** ?
+**Result:** 77.5
 
 ### ==🔵Final | December 8==
 

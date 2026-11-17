@@ -373,19 +373,17 @@
 
 ### Monday, November 16
 
-- [ ] ASTR 103: Homework 23
+- [x] ASTR 103: Homework 23
 - [ ] GEOG 121: Reading
 - [ ] MATH 210: Homework
 
 ### Tuesday, November 17
 
-- [ ] ASTR 103: Warm-up 29
-- [ ] MATH 210: Before-class assignment
+- [x] ASTR 103: Warm-up 29
 
 ### Wednesday, November 18
 
-- [ ] ASTR 103: LT Check 26
-- [ ] MATH 210: Homework
+- [x] ASTR 103: LT Check 26
 
 ### Thursday, November 19
 
