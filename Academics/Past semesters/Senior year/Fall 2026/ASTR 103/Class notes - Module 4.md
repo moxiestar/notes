@@ -75,3 +75,49 @@
   - **Great Filter:** technological civilizations inevitably wipe themselves out before they can contact each other
   - **Dark Forest:** aliens don’t want to draw attention to themselves for fear of being wiped out by another civilization
   - Or maybe they’re already among us…
+
+## Lecture Thirty-One | ‘Oumuamua
+
+**Pan-STARRs Telescope**
+
+- **Telescope searches for objects in the sky**
+  - In 2017, they found an unusual object
+  - While stars left trails in the sky, this object didn’t
+  - This abnormality occurred because it wasn’t orbiting the sun
+- **Eccentricity**
+  - **How much an ellipse deviates from a perfect circle**
+    - e = 0 for a perfect circle
+    - e = 1 for a squashed ellipse
+- **‘Oumuamua**
+  - Hawaiian name for “messenger from afar arriving first”
+  - **The first interstellar object ever discovered by humanity**
+    - It was about 100m in size and reddish-brown in color
+    - Consistent with organic-rich surfaces and iron-rich minerals
+  - **Its trajectory brought it into the solar system (within 0.25AU of the sun)**
+    - ‘Oumuamua was travelling towards the same point that the solar system is travelling towards
+    - It was travelling at the same speed as the solar system (26km/s)
+    - It passed through the solar system in a month
+    - **We don’t know where it came from**
+  - **‘Oumuamua’s light curve indicated thats its brightness changed by a factor of 10 every few hours**
+    - **Light curves of rotating objects**
+      - An oblong object will change size and shape as it rotates
+      - If the longer side was facing Earth, the object’s surface area would seem much larger
+    - **‘Oumuamua is likely oblong, with one side being 10x longer than the other**
+      - But this is highly atypical… Scully, you’re not gonna believe this
+  - **There is also some evidence that ‘Oumuamua might have been propelled through the sky**
+    - The difference been the expected trajectory and the observed trajectory was small but legitimate
+      - Its trajectory indicates that it may have been propelled by a light sail, a contraption that uses light for propulsion
+    - **It could have been acting like a comet, with ices subliminating from its surface**
+      - There was no observable tail, but it might have been difficult to detect
+    - Statistically, there should be $10^{15}$ objects like ‘Oumuamua per solar system
+  - **Because of all this, some astronomers argue that ‘Oumuamua was an alien artifact or UFO**
+    - Its shape is strange
+    - It passed suspiciously close to Earth
+    - We saw signs of non-gravitational acceleration
+    - It had a suspiciously mysterious point of entry to solar system
+  - **But it’s probably not an alien artifact**
+    - Its shape was odd, but it could’ve formed naturally
+    - Its proximity to Earth had no significance - anything could come close to Earth
+    - Its acceleration is odd, but can be explained (see above)
+    - Its behavior was pretty consistent with rock behavior
+  - **Since 2017, two interstellar comets, similar to ‘Oumuamua, have passed through the solar system**
