@@ -19,4 +19,45 @@
 - **Linear (in)dependence and orthogonality**
   - If the vectors in a set are orthogonal, they are not necessarily linearly independent
   - If the vectors in a set are orthogonal and nonzero, they are necessarily linearly independent
-- The same rules apply to matrices
+- The same rules apply to matrices (see 8.3)
+
+## Chapter 8.2
+
+**Gram-Schmidt Orthonormalization**
+
+- **The Gram-Schmidt algorithm can be used to turn a set of linearly independent vectors into a set of orthogonal vectors** 
+  - Note that the new vectors are still linearly independent
+  - Once we have the new set of orthogonal vectors, we can create a set of orthonormal vectors by dividing each vector by its length
+- **Process**
+
+  [[Screenshot 2026-11-17 at 9.14.14 PM.png]]
+
+## Chapter 8.3
+
+**Orthogonal and Symmetric Matrices**
+
+x
+
+## Chapter 8.4.1 - 8.4.2
+
+**Singular Value Decomposition**
+
+x
+
+## Chapter 8.5
+
+**Image Compression**
+
+x
+
+## Chapter 9.1
+
+**Introduction to Derivatives**
+
+x
+
+## Chapter 9.2
+
+**Calculating Derivatives**
+
+x

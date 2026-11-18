@@ -388,15 +388,12 @@ pinned: true
 ### Wednesday, November 18
 
 - [x] ASTR 103: LT Check 26
+- [x] **GEOG 121: Final Presentation**
 
 ### Thursday, November 19
 
 - [x] ASTR 103: Warm-up 30
 - [ ] **MATH 210: Midterm 3**
-
-### Friday, November 20
-
-- [ ] GEOG 121: Transcribe weekly notes
 
 ### Sunday, November 22
 
@@ -406,11 +403,11 @@ pinned: true
 
 - [ ] ASTR 103: Homework 24
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, November 24
 
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Sunday, November 29
 
@@ -419,17 +416,17 @@ pinned: true
 ### Monsday, November 30
 
 - [ ] GEOG 121: Reading
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Tuesday, December 1
 
 - [x] ASTR 103: Warm-up 33
-- [ ] MATH 210: Before-class assignment
+- [x] MATH 210: Before-class assignment
 
 ### Wednesday, December 2
 
 - [ ] ASTR 103: Homework 25
-- [ ] MATH 210: Homework
+- [x] MATH 210: Homework
 
 ### Friday, December 4
 
