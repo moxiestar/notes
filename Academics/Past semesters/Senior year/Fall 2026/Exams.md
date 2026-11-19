@@ -184,19 +184,13 @@ pinned: true
 
 **First phase of review**
 
-- [ ] Go through lecture notes (use videos)
-- [ ] Compile general module notes here
+- [x] Go through lecture notes (use videos)
+- [x] Compile general module notes here
 
 **Second phase of review**
 
-- [ ] Review notes again
-- [ ] Practice problems
-
-**Third phase of review**
-
 - [ ] Cheat sheet
 - [ ] Practice exam
-- [ ] AI practice exam
 
 **Pain points**
 
