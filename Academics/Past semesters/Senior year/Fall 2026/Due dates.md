@@ -393,7 +393,7 @@ pinned: true
 ### Thursday, November 19
 
 - [x] ASTR 103: Warm-up 30
-- [ ] **MATH 210: Midterm 3**
+- [x] **MATH 210: Midterm 3**
 
 ### Sunday, November 22
 

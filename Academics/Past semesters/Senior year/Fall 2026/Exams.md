@@ -174,7 +174,7 @@ pinned: true
 
 **Result:** 90.5
 
-### ==🔴Midterm 3 | November 19==
+### Midterm 3 | November 19
 
 **Format:** Short answer questions & multiple choice
 
