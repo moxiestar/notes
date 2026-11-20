@@ -121,3 +121,31 @@
     - Its acceleration is odd, but can be explained (see above)
     - Its behavior was pretty consistent with rock behavior
   - **Since 2017, two interstellar comets, similar to ‘Oumuamua, have passed through the solar system**
+
+## Lecture Thirty-Two | Pareidolia & Ventifacts
+
+**Life on Mars?**
+
+- **Natural oddities**
+  - Cracks that appear on Mars’ surface are just cracks in the dry mud
+- **Mars Curiosity Rover**
+  - SUV-sized rover that scientists have used to map most of Mars’ surface
+  - Photographs have captured some unusual phenomena, but most can be explained
+    - A strange flare was actually a cosmic ray hit (charged particles hitting detectors)
+    - A possible Martian base was actually patterns caused by wind in the sand
+    - Spirals on Mars petroglyphs were actually patterns left by hardened lava
+- **Surface of Mars = rocks on sand**
+
+**Pareidolia**
+
+- Tendency for us to perceive patterns in neutral/meaningless stimuli
+- Often, we identify human faces in non-human objects
+
+**Ventifacts**
+
+- Rocks carved by wind, typically found in areas where little erosion occurs
+
+**Lunar rilles**
+
+- Features on the Moon caused by lava tubes 
+- Straight rilles come from faults
