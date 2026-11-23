@@ -147,5 +147,29 @@
 
 **Lunar rilles**
 
-- Features on the Moon caused by lava tubes 
+- Features on the Moon caused by lava tubes
 - Straight rilles come from faults
+
+## Lecture Thirty-Three | Alien Artifacts
+
+**UFOs**
+
+- **Unidentified Flying Object**, a term usually used to refer to possible alien spacecraft
+  - UAP (Unidentified Aerial Phenomena) is an alternate term for UFOs
+- **UFOs are often identifiable as planets, stars, airplanes, balloons, clouds, etc**
+  - **Bokeh:** phenomenon where out-of-focus objects take on the shape of the camera aperture
+  - **Diffraction rings:** phenomenon where out-of-focus objects seem to have concentric circles)
+  - **Ball lightning:** phenomenon where balls of light appear and travel through space
+    - Extremely rare (5% of the population has observed it) but legitimate scienfitic phenomenon
+  - **Image compression:** compression of image files to shrink the file size, which sometimes causes pixelated “auras”
+    - **Lossless compression:** repeating pixels to make files smaller
+    - **Lossy compression:** removing pixels to make files smaller
+- **Autokinetic effect:** phenomenon where stationary objects appear to move
+  - Caused by random eye movements and a lack of reference objcets
+- **Camera resolution**
+  - We want to calculate the smallest details we can observe when capturing a distant object
+  - **Resolution of the object** = **the resolution of the camera** times **the distance to the object**
+- **Secret UK government report**
+  - Reveals a secret UFO unit in the British government
+  - Declassified in the 2000s
+  - UAP sightings are correlated with population - the more people in an area, the more likely someone will see something
